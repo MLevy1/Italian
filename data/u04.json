@@ -1,0 +1,411 @@
+{
+  "unitNumber": 4,
+  "text": {
+    "title": "Unit Four: The Present Tense of Essere and Avere",
+    "sections": [
+      {
+        "title": "Present Tense of Essere and Avere",
+        "paragraphs": [
+          {
+            "id": "4.01",
+            "content": "Like their counterparts in many other languages, the Italian verbs **essere** (to be) and **avere** (to have) are irregular. Here are the forms of the **present tense**:",
+            "table": {
+              "headers": ["", "Essere", "", "Avere", ""],
+              "rows": [
+                ["(**io**)", "**sono**", "I am", "**ho**", "I have/have got"],
+                ["(**tu**)", "**sei**", "you [sing.] are", "**hai**", "you [sing.] have/have got"],
+                ["(**lui/lei**)", "**è**", "he/she/it is", "**ha**", "he/she/it has/has got"],
+                ["(**noi**)", "**siamo**", "we are", "**abbiamo**", "we have/have got"],
+                ["(**voi**)", "**siete**", "you [pl.] are", "**avete**", "you [pl.] have/have got"],
+                ["(**loro**)", "**sono**", "they are", "**hanno**", "they have/have got"]
+              ]
+            }
+          },
+          {
+            "content": "As shown in the examples, it is not usually necessary to use the **subject pronouns** before the verb since the forms for the different persons are different – **sei** can only be **second person singular** (**tu**), **siete** can only be **second person plural** (**voi**), etc. Even with **sono**, the context always shows whether it means ‘**I am**’ or ‘**they are**’."
+          },
+          {
+            "content": "The pronoun is only required for emphasis, or to mark a contrast:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Sono** medico.", "I’m a doctor."],
+                ["**Siamo** cugini.", "We are cousins."],
+                ["**Siete** stranieri.", "You are foreigners."],
+                ["**Paola** e **Anna** **sono** alte.", "Paola and Anna are tall."],
+                ["**Claudio** è **mio fratello**.", "Claudio is my brother."],
+                ["**Ho** un cellulare.", "I’ve got a mobile phone."],
+                ["**Hai** il mio indirizzo.", "You have my address."],
+                ["**Hanno** un esame.", "They have an exam."],
+                ["**Anna** **ha** una chitarra nuova.", "Anna’s got a new guitar."],
+                ["**Io** **sono** medico e **lui** è insegnante.", "I’m a doctor and he’s a teacher."],
+                ["**Tu** **hai** una bella bici, ma **io** **ho** una macchina.", "You’ve got a nice bike, but I’ve got a car."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Subject Pronouns",
+        "paragraphs": [
+          {
+            "id": "4.02",
+            "content": "The Italian **subject pronouns** are:",
+            "table": {
+              "headers": ["Person", "Singular", "", "Plural", ""],
+              "rows": [
+                ["1st", "**io**", "I", "**noi**", "we"],
+                ["2nd", "**tu**", "you", "**voi**", "you"],
+                ["3rd", "**lui**", "he", "**loro**", "they"],
+                ["3rd", "**lei**", "she", "", ""]
+              ]
+            }
+          },
+          {
+            "content": "For the **third person**, the following pronouns can still be found in some texts, but are not normally used in contemporary Italian:",
+            "table": {
+              "headers": ["Singular", "Plural", "Notes"],
+              "rows": [
+                ["**egli** [m], **esso** [m]", "", "instead of the singular **lui**"],
+                ["**ella** [f], **essa** [f]", "", "instead of the singular **lei**"],
+                ["", "**essi** [m], **esse** [f]", "instead of the plural **loro**"]
+              ]
+            }
+          },
+          {
+            "content": "**Lui** (**third person singular** pronoun) replaces a **masculine** noun (like the English ‘**he**’); **lei** replaces a **feminine** noun (like the English ‘**she**’)."
+          },
+          {
+            "content": "**Lui**, **lei** and **loro** are only used to refer to persons. In referring to objects, Italian normally avoids using the obsolete forms **esso**, **essa**, **essi**, **esse**, and omits the pronoun altogether:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Lui** è **Paolo**, **lei** è **Anna**.", "He is Paolo, she is Anna."],
+                ["‘Cos’è?’ ‘È una chiave.’", "‘What is it?’ ‘It’s a key.’"],
+                ["È **la chitarra** di **Anna**.", "It’s Anna’s guitar."],
+                ["**Sono** **i libri** di **Paolo**.", "They are Paolo’s books."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Interrogative Form",
+        "paragraphs": [
+          {
+            "id": "4.03",
+            "content": "The **interrogative** is formed by adding a question mark at the end of the sentence:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Sei** pronto?", "Are you ready?"],
+                ["**Siete** stranieri?", "Are you foreigners?"],
+                ["**Hai** il mio indirizzo?", "Have you got my address?"],
+                ["**Avete** amici italiani?", "Have you any Italian friends?"],
+                ["**Hanno** un esame?", "Have they got an exam?"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Negative Form",
+        "paragraphs": [
+          {
+            "id": "4.04",
+            "content": "The **negative** is formed by putting **non** (i.e. ‘not’) before the verb:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Claudio** **non** è **mio fratello**.", "Claudio is not my brother."],
+                ["**Non** **siamo** italiani.", "We’re not Italian."],
+                ["**Non** **siete** stranieri?", "Aren’t you foreigners?"],
+                ["**Non** **hai** il mio indirizzo?", "Haven’t you got my address?"],
+                ["**Non** **hanno** un esame.", "They don’t have an exam."],
+                ["**Non** **abbiamo** amici italiani.", "We haven’t got any Italian friends."],
+                ["**Non** **ho** la minima idea di cosa regalare a **Paola**.", "I haven’t the slightest idea what to give Paola."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Formal Form",
+        "paragraphs": [
+          {
+            "id": "4.05",
+            "content": "In Italian there is a **formal** way of addressing people which is used with people we do not know, or when some degree of formality is required. When the **formal** form is required, the pronoun used for the **singular**, for both men and women, is **Lei** (**third person singular**); the pronoun used for the **plural** is normally **Voi**, but in situations when a high degree of formality is required **Loro** can be used:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Lei** è molto gentile, **Signore**.", "You’re very kind(, Sir)."],
+                ["**Lei** **non** è troppo alta, **Signora**!", "You’re not too tall(, Madam)!"],
+                ["**Signora Belli**, (**Lei**) **ha** la patente?", "Mrs Belli, have you got a driving licence?"],
+                ["**Professore**, (**Lei**) **ha** tempo?", "Have you got time(, Professor/Sir)?"],
+                ["**Signor Neri**, (**Lei**) è pronto?", "Mr Neri, are you ready?"],
+                ["**Signori Conti**, (**Voi**) **siete** italiani?", "Mr and Mrs Conti, are you Italian?"],
+                ["(**Signori Conti**, **Loro** **sono** italiani?)", "Mr and Mrs Conti, are you Italian?"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Spelling",
+        "paragraphs": [
+          {
+            "id": "4.06",
+            "content": "There are some spelling mistakes involving **essere** and **avere** which are commonly made by learners; be careful to remember the following differences:",
+            "table": {
+              "headers": ["Correct", "Incorrect", "English"],
+              "rows": [
+                ["**è**", "e", "he/she/it is"],
+                ["**ho**", "o", "I have"],
+                ["**hai**", "ai", "you have"],
+                ["**ha**", "a", "he/she/it has"],
+                ["**hanno**", "anno", "they have"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Use of Essere and Avere",
+        "paragraphs": [
+          {
+            "id": "4.07",
+            "content": "The verbs **essere** and **avere** are normally used as the verbs ‘**to be**’ and ‘**to have**’ are used in English. **Essere** is usually followed by an **adjective** or a **noun**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Siete** studenti?", "Are you students?"],
+                ["**Daniela** è medico.", "Daniela is a doctor."],
+                ["**Tu** e **Anna** **siete** cugini?", "Are you and Anna cousins?"],
+                ["**Siete** gentili!", "You are kind!"],
+                ["**Gli amici** di **Paul** **sono** italiani.", "Paul’s friends are Italian."]
+              ]
+            }
+          },
+          {
+            "content": "**Avere** is normally followed by a **noun** (or a **noun** accompanied by an **adjective**):",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Hai** il libro?", "Have you got the book?"],
+                ["**Non** **ho** tempo.", "I haven’t time."],
+                ["**Abbiamo** molti amici.", "We have a lot of friends."],
+                ["**Hanno** una casa grande.", "They have a big house."],
+                ["**Paolo** e **io** **abbiamo** una macchina.", "Paolo and I have got a car."]
+              ]
+            }
+          },
+          {
+            "id": "4.08",
+            "content": "The verb **avere**, followed by a **noun**, is also used in a number of **idiomatic expressions** which correspond to English expressions using ‘**to be**’ followed by an **adjective** or an **adverbial phrase**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**avere caldo**", "to be hot"],
+                ["**avere fame**", "to be hungry"],
+                ["**avere freddo**", "to be cold"],
+                ["**avere paura**", "to be afraid"],
+                ["**avere ragione**", "to be right"],
+                ["**avere sete**", "to be thirsty"],
+                ["**avere sonno**", "to be sleepy"],
+                ["**avere torto**", "to be wrong"],
+                ["**avere fretta**", "to be in a hurry"]
+              ]
+            }
+          },
+          {
+            "content": "",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Abbiamo** fame.", "We are hungry."],
+                ["**Avete** ragione!", "You’re right!"],
+                ["**Marina** **ha** fretta.", "Marina is in a hurry."],
+                ["(**Lei**) **ha** sete, **Signora**?", "Are you thirsty(, Madam)?"],
+                ["**Non** **hai** freddo, **Claudia**?", "Aren’t you cold, Claudia?"]
+              ]
+            }
+          },
+          {
+            "id": "4.09",
+            "content": "**Avere** is also used in Italian to express age:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Francesca** **ha** 17 anni.", "Francesca is 17 (years old)."],
+                ["**Il figlio** di **Gianni** **ha** un anno.", "Gianni’s son is one."],
+                ["Quanti anni **hai**?", "How old are you?"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "C’è and Ci Sono",
+        "paragraphs": [
+          {
+            "id": "4.10",
+            "content": "The verb **essere** is used in the expressions **c’è** (**there is**) followed by a **singular noun**, and **ci sono** (**there are**) followed by a **plural noun**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**C’è** una lettera per te.", "There’s a letter for you."],
+                ["**C’è** poco tempo.", "There’s little/not much time."],
+                ["**C’è** molto tempo!", "There’s plenty of time!"],
+                ["**C’è** un problema.", "There’s a problem."],
+                ["**Ci sono** due ingressi.", "There are two entrances."],
+                ["Nel negozio **ci sono** molti clienti.", "There are a lot of customers in the shop."]
+              ]
+            }
+          },
+          {
+            "id": "4.11",
+            "content": "Note that **c’è** and **ci sono** are not usually emphatic. So, in the English sentences in paragraph 4.10, the voice stress does not fall on ‘**there**’, but on the **noun** that follows it (i.e. on ‘**letter**’, ‘**little/plenty of time**’, ‘**problem**’, etc.). Thus **c’è** and **ci sono** sometimes do not correspond to ‘**there is**’ or ‘**there are**’, as in the following examples:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**C’è** **Luisa** al telefono. [i.e. she has just rung]", "Luisa’s on the phone. [not: There’s Luisa on the phone.]"],
+                ["**Ci sono** **i tuoi amici** che ti aspettano. [i.e. they have just arrived]", "Your friends are waiting for you. [not: There are your friends waiting for you.]"]
+              ]
+            }
+          },
+          {
+            "id": "4.12",
+            "content": "The **interrogative** is formed by simply adding a question mark at the end of the sentence, or with a ‘**question word**’ (see Unit 9):",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**C’è** **il Professor Gatti**?", "Is Professor Gatti there/anywhere/around? [i.e. I’d like to see/talk to Professor Gatti.]"],
+                ["**C’è** molto traffico?", "Is there a lot of traffic?"],
+                ["Quanti ingressi **ci sono**?", "How many entrances are there?"]
+              ]
+            }
+          },
+          {
+            "id": "4.13",
+            "content": "The **negative** is formed by placing **non** before **c’è** or **ci sono**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Non** **c’è** tempo.", "There is no time."],
+                ["Domani **non** **c’è** lezione.", "There is no class tomorrow."],
+                ["**Non** **ci sono** clienti.", "There aren’t any customers."]
+              ]
+            }
+          },
+          {
+            "content": "* In Italian the **double negative** is used: **non** + **nessuno**."
+          },
+          {
+            "id": "4.14",
+            "content": "Note that in **negative** sentences giving general information, it is more usual to use the **plural** **non ci sono** than the **singular** **non c’è**."
+          }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1: Verb Essere",
+      "instruction": "Complete the following sentences using the correct form of **essere**.",
+      "examples": [],
+      "items": [
+        {"question": "(**noi**) ___ italiani.", "answer": "siamo"},
+        {"question": "(**tu**) ___ scozzese?", "answer": "sei"},
+        {"question": "(**io**) **non** ___ felice.", "answer": "sono"},
+        {"question": "**Gli studenti** ___ in biblioteca.", "answer": "sono"},
+        {"question": "(**voi**) ___ molto gentili.", "answer": "siete"},
+        {"question": "**Lei** ___ medico?", "answer": "è"},
+        {"question": "**La cena** ___ pronta.", "answer": "è"},
+        {"question": "**I libri** ___ sulla scrivania.", "answer": "sono"},
+        {"question": "**Tu** e **Jim** ___ amici.", "answer": "siete"},
+        {"question": "**Paolo** e **io** ___ giovani.", "answer": "siamo"},
+        {"question": "**Gli impiegati** ___ gentili.", "answer": "sono"},
+        {"question": "(**voi**) ___ simpatici.", "answer": "siete"},
+        {"question": "**Enrico** **non** ___ biondo.", "answer": "è"},
+        {"question": "**Gli italiani** ___ allegri.", "answer": "sono"},
+        {"question": "(**tu**) ___ amica di **Giulia**?", "answer": "sei"},
+        {"question": "**Laura** ___ magra.", "answer": "è"},
+        {"question": "**L’esercizio** ___ difficile.", "answer": "è"},
+        {"question": "(**io**) ___ straniero.", "answer": "sono"},
+        {"question": "**Tu** e **Billy** ___ stranieri.", "answer": "siete"},
+        {"question": "(**Lei**) ___ stanca, **Signora**?", "answer": "è"}
+      ]
+    },
+    {
+      "title": "Exercise 2: Verb Avere",
+      "instruction": "Complete the following sentences using the correct form of **avere**.",
+      "examples": [],
+      "items": [
+        {"question": "(**noi**) **non** ___ tempo.", "answer": "abbiamo"},
+        {"question": "(**Lei**) ___ la macchina?", "answer": "ha"},
+        {"question": "(**io**) ___ molti amici.", "answer": "ho"},
+        {"question": "**I Signori Illy** ___ due figli.", "answer": "hanno"},
+        {"question": "(**voi**) ___ i libri?", "answer": "avete"},
+        {"question": "**Sandro** ___ sempre fretta.", "answer": "ha"},
+        {"question": "**Il professore** ___ molti studenti.", "answer": "ha"},
+        {"question": "(**tu**) ___ il libro?", "answer": "hai"},
+        {"question": "**Le ragazze** ___ fame.", "answer": "hanno"},
+        {"question": "(**io**) **non** ___ freddo.", "answer": "ho"}
+      ]
+    },
+    {
+      "title": "Exercise 3: Essere or Avere",
+      "instruction": "Complete the sentences with the correct form of **essere** or **avere**.",
+      "examples": [],
+      "items": [
+        {"question": "(**voi**) ___ stanchi?", "answer": "siete"},
+        {"question": "(**io**) **non** ___ soldi.", "answer": "ho"},
+        {"question": "**La casa** ___ grande.", "answer": "è"},
+        {"question": "(**tu**) ___ caldo?", "answer": "hai"},
+        {"question": "**Gli amici** ___ in vacanza.", "answer": "sono"},
+        {"question": "(**noi**) ___ due gatti.", "answer": "abbiamo"},
+        {"question": "**Il film** ___ interessante.", "answer": "è"},
+        {"question": "(**tu**) ___ un cane?", "answer": "hai"},
+        {"question": "(**io**) ___ in ritardo.", "answer": "sono"},
+        {"question": "(**voi**) **non** ___ sete.", "answer": "avete"}
+      ]
+    },
+    {
+      "title": "Exercise 4: C’è and Ci sono",
+      "instruction": "Complete the phrases with **c’è** or **ci sono**, according to whether the noun is **singular** or **plural**, and whether the sentence is **affirmative** or **negative**.",
+      "examples": [],
+      "items": [
+        {"question": "**bar**, **bar** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**bar**, **bar** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**bar**, **bar** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**discoteca**, **discoteche** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**discoteca**, **discoteche** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**discoteca**, **discoteche** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**panetteria**, **panetterie** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**panetteria**, **panetterie** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**panetteria**, **panetterie** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**cinema**, **cinema** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**cinema**, **cinema** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**cinema**, **cinema** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**biblioteca**, **biblioteche** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**biblioteca**, **biblioteche** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**biblioteca**, **biblioteche** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**scuola**, **scuole** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**scuola**, **scuole** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**scuola**, **scuole** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**ufficio postale**, **uffici postali** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**ufficio postale**, **uffici postali** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**ufficio postale**, **uffici postali** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**libreria**, **librerie** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**libreria**, **librerie** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**libreria**, **librerie** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**giardino pubblico**, **giardini pubblici** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**giardino pubblico**, **giardini pubblici** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**giardino pubblico**, **giardini pubblici** (**Negative**, **plural**)", "answer": "Non ci sono"},
+        {"question": "**ristorante**, **ristoranti** (**Affirmative**, **singular**)", "answer": "C’è"},
+        {"question": "**ristorante**, **ristoranti** (**Affirmative**, **plural**)", "answer": "Ci sono"},
+        {"question": "**ristorante**, **ristoranti** (**Negative**, **plural**)", "answer": "Non ci sono"}
+      ]
+    }
+  ]
+}
