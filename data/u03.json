@@ -1,0 +1,515 @@
+{
+  "unitNumber": 3,
+  "text": {
+    "title": "Unit Three: Adjectives; Possessive and Demonstrative Pronouns",
+    "sections": [
+      {
+        "title": "Adjectives",
+        "paragraphs": [
+          {
+            "id": "3.01",
+            "content": "Adjectives in Italian must agree in **gender** and **number** with the noun they refer to: if the noun is **masculine singular** the adjective must be **masculine singular**, if the noun is **feminine singular** the adjective must be **feminine singular**, etc. Adjectives therefore change their forms accordingly. But remember that when an adjective is listed in a dictionary or a grammar, it is given in its **masculine singular** form. In the **masculine singular**, most Italian adjectives end in **-o** or in **-e**:"
+          },
+          {
+            "id": "3.02",
+            "content": "Adjectives ending in **-o** have four different forms:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**-o** for the masculine singular", "italiano"],
+                ["**-a** for feminine singular", "italiana"],
+                ["**-i** for the masculine plural", "italiani"],
+                ["**-e** for the feminine plural", "italiane"]
+              ]
+            }
+          },
+          {
+            "content": "",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**l’arbitro** [ms] **italiano**", "the Italian referee"],
+                ["**gli arbitri** [mp] **italiani**", "the Italian referees"],
+                ["**la cameriera** [fs] **italiana**", "the Italian waitress"],
+                ["**le cameriere** [fp] **italiane**", "the Italian waitresses"],
+                ["**lo stadio** [ms] **nuovo**", "the new stadium"],
+                ["**gli stadi** [mp] **nuovi**", "the new stadia/stadiums"],
+                ["**la casa** [fs] **nuova**", "the new house"],
+                ["**le case** [fp] **nuove**", "the new houses"]
+              ]
+            }
+          },
+          {
+            "id": "3.03",
+            "content": "Adjectives ending in **-e** have only two forms:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**-e** masculine singular", "francese"],
+                ["**-i** masculine plural", "francesi"],
+                ["**-e** feminine singular", "francese"],
+                ["**-i** feminine plural", "francesi"]
+              ]
+            }
+          },
+          {
+            "content": "With adjectives ending in **-e** there is thus no difference between the **masculine** and **feminine** form:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**l’arbitro** [ms] **francese**", "the French referee"],
+                ["**gli arbitri** [mp] **francesi**", "the French referees"],
+                ["**la cameriera** [fs] **francese**", "the French waitress"],
+                ["**le cameriere** [fp] **francesi**", "the French waitresses"],
+                ["**lo stadio** [ms] **grande**", "the big stadium"],
+                ["**gli stadi** [mp] **grandi**", "the big stadia/stadiums"],
+                ["**la casa** [fs] **grande**", "the big house"],
+                ["**le case** [fp] **grandi**", "the big houses"]
+              ]
+            }
+          },
+          {
+            "id": "3.04",
+            "content": "Some adjectives end in **-a**, like the following:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**ottimista**", "optimistic"],
+                ["**pacifista**", "pacifist"],
+                ["**belga**", "Belgian"],
+                ["**entusiasta**", "enthusiastic"],
+                ["**idiota**", "idiotic"]
+              ]
+            }
+          },
+          {
+            "content": "These adjectives have three forms: **-a** for the **masculine** and **feminine singular** (**ottimista**), **-i** for the **masculine plural** (**ottimisti**) and **-e** for the **feminine plural** (**ottimiste**). There is thus only one form for the **masculine** and **feminine singular**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**il corteo** [ms] **pacifista**", "the pacifist rally"],
+                ["**l’idea** [fs] **pacifista**", "the pacifist idea"],
+                ["**i cortei** [mp] **pacifisti**", "the pacifist rallies"],
+                ["**le idee** [fp] **pacifiste**", "the pacifist ideas"],
+                ["**il ragazzo** [ms] **belga**", "the Belgian boy"],
+                ["**la ragazza** [fs] **belga**", "the Belgian girl"],
+                ["**i ragazzi** [mp] **belgi**", "the Belgian boys"],
+                ["**le ragazze** [fp] **belghe***", "the Belgian girls"]
+              ]
+            }
+          },
+          {
+            "content": "* For an explanation of the **-h-** in **belghe**, see paragraph 3.06."
+          },
+          {
+            "id": "3.05",
+            "content": "There are also some invariable adjectives, e.g. **blu** (dark blue), **rosa** (pink), **dispari** (odd), **pari** (even), which do not change:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**il vestito rosa**", "the pink garment/dress/suit"],
+                ["**la penna blu**", "the blue pen"],
+                ["**i numeri dispari**", "the odd numbers"],
+                ["**le pagine pari**", "the even pages"]
+              ]
+            }
+          },
+          {
+            "id": "3.06",
+            "content": "Care is needed in spelling the plural of adjectives ending in **-co** and **-go**. There is no fixed rule for the **masculine** forms, which may keep the hard sound of **c** and **g** and add **h** (**-chi**, **-ghi**), or change the sound of **c** and **g** in the plural (**-ci**, **-gi**). The **feminine plural** forms always add **h** (**-che**, **-ghe**) in order to keep the hard sound of **c** and **g**. If in doubt, check in a dictionary; the best way to remember these sorts of plural is through practice:",
+            "table": {
+              "headers": ["Masculine singular", "Masculine plural", "Feminine singular", "Feminine plural", "English"],
+              "rows": [
+                ["**greco**", "**greci**", "**greca**", "**greche**", "Greek"],
+                ["**pratico**", "**pratici**", "**pratica**", "**pratiche**", "practical"],
+                ["**pubblico**", "**pubblici**", "**pubblica**", "**pubbliche**", "public"],
+                ["**ricco**", "**ricchi**", "**ricca**", "**ricche**", "rich"],
+                ["**fresco**", "**freschi**", "**fresca**", "**fresche**", "fresh"],
+                ["**largo**", "**larghi**", "**larga**", "**larghe**", "wide"]
+              ]
+            }
+          },
+          {
+            "content": "The adjective **belga**, as we have seen, keeps the hard sound of **g** in the **feminine plural** by adding **h** (**belghe**); but it changes the sound in the **masculine plural** (**belgi**)."
+          },
+          {
+            "id": "3.07",
+            "content": "As can be seen in the examples, the adjective normally comes after the noun it refers to and (unless it is **invariable**) it must agree in **gender** and **number** with the noun. It must also agree in **gender** and **number** with the noun even where it is separated from it by another word, such as a verb:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Lorenzo** è **italiano**.", "Lorenzo is Italian."],
+                ["**Lorenzo** e **Vittorio** sono **italiani**.", "Lorenzo and Vittorio are Italian."],
+                ["**Anna** è **italiana**.", "Anna is Italian."],
+                ["**Anna** e **Claudia** sono **italiane**.", "Anna and Claudia are Italian."],
+                ["**Lorenzo**, **Anna** e **Claudia** sono **italiani**.", "Lorenzo, Anna and Claudia are Italian."],
+                ["**Sabine** e **Kurt** sono **tedeschi**.", "Sabine and Kurt are German."],
+                ["**Il computer** e **la stampante** sono **nuovi**.", "The computer and the printer are new."],
+                ["**Il bagno** e **la cucina** sono **piccoli**.", "The bathroom and the kitchen are small."],
+                ["**I pantaloni** e **la camicia** sono **nuovi**.", "The trousers and the shirt are new."]
+              ]
+            }
+          },
+          {
+            "content": "When the adjective refers to two or more nouns which are different in **gender**, it is **masculine plural**:"
+          },
+          {
+            "id": "3.08",
+            "content": "In some cases the adjective can also precede the noun it refers to. When the adjective comes before the noun, the meaning of the noun becomes different, as in these examples:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**un vecchio amico**", "an old [i.e. long-standing] friend"],
+                ["**un amico vecchio**", "an old/elderly friend [i.e. a friend who is old]"],
+                ["**la povera donna**", "the poor [i.e. unfortunate] woman"],
+                ["**la donna povera**", "the poor woman [i.e. she has no money]"]
+              ]
+            }
+          },
+          {
+            "id": "3.09",
+            "content": "The demonstrative adjectives **questo** (this) and **quello** (that), like their English counterparts, always precede the noun they refer to:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**questo ragazzo**", "this boy"],
+                ["**questa ragazza**", "this girl"],
+                ["**questi ragazzi**", "these boys"],
+                ["**queste ragazze**", "these girls"],
+                ["**quel*** **ragazzo**", "that boy"],
+                ["**quella*** **ragazza**", "that girl"],
+                ["**quei*** **ragazzi**", "those boys"],
+                ["**quelle*** **ragazze**", "those girls"]
+              ]
+            }
+          },
+          {
+            "content": "* For an explanation of the forms of **quello**, see paragraph 3.10."
+          },
+          {
+            "id": "3.10",
+            "content": "The forms of the adjectives **quello** and **bello** (beautiful/handsome/nice/fine) change in the same way as the **definite article**. Here are the forms, followed in brackets by the corresponding forms of the **definite article**:",
+            "table": {
+              "headers": ["Singular", "", "", "", "", "Plural", "", "", "", ""],
+              "rows": [
+                ["**quel**", "**bel**", "(**il**)", "that example", "fine example", "**quei**", "**bei**", "(**i**)", "those examples", "fine examples"],
+                ["**quello**", "**bello**", "(**lo**)", "that example", "fine example", "**quegli**", "**begli**", "(**gli**)", "those examples", "fine examples"],
+                ["**quell’**", "**bell’**", "(**l’**)", "that example", "fine example", "**quegli**", "**begli**", "(**gli**)", "those examples", "fine examples"],
+                ["**quella**", "**bella**", "(**la**)", "that song", "beautiful song", "**quelle**", "**belle**", "(**le**)", "those songs", "beautiful songs"],
+                ["**quell’**", "**bell’**", "(**l’**)", "that experience", "beautiful experience", "**quelle**", "**belle**", "(**le**)", "those experiences", "beautiful experiences"]
+              ]
+            }
+          },
+          {
+            "content": "Note that when **bello** comes after the noun, the full form is used: **lo spettacolo** è **bello**, **un’esperienza** **bella** e **interessante**, etc."
+          },
+          {
+            "id": "3.11",
+            "content": "The forms of the adjective **buono** (good), when used before a **singular** noun, change in the same way as the **indefinite article**:",
+            "table": {
+              "headers": ["Masculine", "Feminine"],
+              "rows": [
+                ["**buon** (**un**)", "**buona** (**una**)"],
+                ["**buono** (**uno**)", "**buon’/buona*** (**un’**)" ]
+              ]
+            }
+          },
+          {
+            "content": "* Nowadays the form **buona** is preferred to **buon’**.",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**buon libro**", "good book"],
+                ["**buon amico**", "good friend"],
+                ["**buon caffè**", "good coffee"],
+                ["**buono studente**", "good student"],
+                ["**buona idea**", "good idea"],
+                ["**buona esperienza**", "good experience"],
+                ["**buona memoria**", "good memory"]
+              ]
+            }
+          },
+          {
+            "content": "Note that when **buono** comes after the noun, the full form is used: **questo libro** è **buono**, **il caffè** è **buono**, etc."
+          },
+          {
+            "id": "3.12",
+            "content": "The adjective **grande** (big/great), when used before the noun, may change to the **invariable** form **gran** or, in some expressions, to **grand’**; nowadays, the full form, **grande**, is preferred in most cases:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**grande musicista**", "great musician"],
+                ["**grande film**", "great film"],
+                ["**grande casa**", "big house"],
+                ["**grande amico**", "great friend"],
+                ["**grande idea**", "great idea"],
+                ["**[sometimes] grande uomo**", "great man"],
+                ["**gran musicista**", "great musician"],
+                ["**gran film**", "great film"],
+                ["**gran casa**", "big house"],
+                ["**Gran Bretagna**", "Great Britain"],
+                ["**[sometimes] grand’amico/gran amico**", "great friend"],
+                ["**[sometimes] grand’idea/gran idea**", "great idea"],
+                ["**grand’uomo**", "great man"]
+              ]
+            }
+          },
+          {
+            "content": "Note that before **plural** nouns, **grande** is regular: **grandi musicisti**, **grandi case**, etc."
+          },
+          {
+            "content": "Note also that when **grande** comes after the noun, the full form is always used: **quel film** è **grande**, **la casa** è **grande**, etc."
+          },
+          {
+            "id": "3.13",
+            "content": "The adjective **santo** (saint) is another that has different forms when used before a noun:",
+            "list": [
+              "**santo** is only used before **masculine** names starting with **s + consonant**;",
+              "**san** is used before **masculine** names starting with a **consonant** (other than **s + consonant**);",
+              "**sant’** is used before **masculine** or **feminine** names starting with a **vowel**;",
+              "**santa** is used before **feminine** names starting with a **consonant**:"
+            ],
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Santo Stefano**", "Saint Stephen"],
+                ["**San Francesco**", "Saint Francis"],
+                ["**San Pietro**", "Saint Peter"],
+                ["**Sant’Antonio**", "Saint Anthony"],
+                ["**Sant’Anna**", "Saint Anne"],
+                ["**Santa Caterina**", "Saint Catherine"]
+              ]
+            }
+          },
+          {
+            "content": "Note that when **santo** means ‘**holy**’ or ‘**blessed**’, it is regular: **il santo padre** (the Holy Father), **una santa donna** (a holy woman)."
+          }
+        ]
+      },
+      {
+        "title": "Possessive Adjectives and Pronouns",
+        "paragraphs": [
+          {
+            "id": "3.14",
+            "content": "The forms of the **possessive adjectives** (‘**my**’, ‘**your**’, etc.) are as follows:",
+            "table": {
+              "headers": ["Masculine singular", "Feminine singular", "Masculine plural", "Feminine plural", "English"],
+              "rows": [
+                ["**mio**", "**mia**", "**miei***", "**mie**", "my"],
+                ["**tuo**", "**tua**", "**tuoi***", "**tue**", "your"],
+                ["**suo**", "**sua**", "**suoi***", "**sue**", "his/her/its"],
+                ["**nostro**", "**nostra**", "**nostri**", "**nostre**", "our"],
+                ["**vostro**", "**vostra**", "**vostri**", "**vostre**", "your"],
+                ["**loro****", "**loro****", "**loro****", "**loro****", "their"]
+              ]
+            }
+          },
+          {
+            "content": "* Note that the **masculine plural** forms **miei**, **tuoi** and **suoi** are irregular."
+          },
+          {
+            "content": "** Note that **loro** is **invariable** and does not change."
+          },
+          {
+            "content": "**Possessive adjectives** are always used before the noun they refer to. Unlike in English, they are always preceded by the **article**, and they must agree with the owned object, not with the owner:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**Luisa** e **i suoi fratelli** [mp]", "Luisa and her brothers"],
+                ["**Carlo** e **le sue sorelle** [fp]", "Carlo and his sisters"],
+                ["**Livia** e **il suo amico** [ms]", "Livia and her (male) friend"],
+                ["**Ettore** e **la sua amica** [fs]", "Ettore and his (female) friend"],
+                ["**la mia lettera** [fs]", "my letter"],
+                ["**i tuoi libri** [mp]", "your books"],
+                ["**la nostra scuola** [fs]", "our school"],
+                ["**le vostre idee** [fp]", "your ideas"],
+                ["**la loro stanza** [fs]", "their room"],
+                ["**i loro genitori** [mp]", "their parents"]
+              ]
+            }
+          },
+          {
+            "id": "3.15",
+            "content": "When **mio**, **tuo**, **suo**, **nostro** and **vostro** (not **loro**) are used with a noun denoting **family relationship** (e.g. **fratello** (brother), **sorella** (sister), **padre** (father), **madre** (mother)) in the **singular** they are not preceded by the **definite article**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**mio padre**", "my father"],
+                ["**tua madre**", "your mother"],
+                ["**tuo fratello**", "your brother"],
+                ["**sua zia**", "his/her aunt"],
+                ["**i tuoi fratelli** [pl.]", "your brothers"],
+                ["**le sue zie** [pl.]", "his/her aunts"],
+                ["**il loro padre**", "their father"]
+              ]
+            }
+          },
+          {
+            "id": "3.16",
+            "content": "The forms of the **possessive pronouns** (‘**mine**’, ‘**yours**’, etc.) are the same as those of the **possessive adjectives**, and are always preceded by the **definite article**:",
+            "table": {
+              "headers": ["Masculine singular", "Feminine singular", "Masculine plural", "Feminine plural", "English"],
+              "rows": [
+                ["**il mio**", "**la mia**", "**i miei**", "**le mie**", "mine"],
+                ["**il tuo**", "**la tua**", "**i tuoi**", "**le tue**", "yours"],
+                ["**il suo**", "**la sua**", "**i suoi**", "**le sue**", "his/hers/its"],
+                ["**il nostro**", "**la nostra**", "**i nostri**", "**le nostre**", "ours"],
+                ["**il vostro**", "**la vostra**", "**i vostri**", "**le vostre**", "yours"],
+                ["**il loro**", "**la loro**", "**i loro**", "**le loro**", "theirs"]
+              ]
+            }
+          },
+          {
+            "content": "",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**La tua casa** è grande, ma **la loro** è piccola.", "Your house is big, but theirs is small."],
+                ["**I tuoi CD** sono qui, **i nostri** sono lì.", "Your CDs are here, ours are there."]
+              ]
+            }
+          },
+          {
+            "id": "3.17",
+            "content": "As we shall see (Unit 4, paragraph 5), in Italian there is a form used to address people formally. In the formal way of addressing people, the **possessive adjectives** and **pronouns** used are **Suo** for the **singular**, and **Vostro** (or **Loro** if a higher degree of formality is required) for the **plural**:",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**La Sua auto** è pronta, **Signora Ferrero**.", "Your car’s ready, Mrs Ferrero."],
+                ["Ecco **i Suoi libri**, **Signore**.", "Here are your books(, Sir)."],
+                ["**Signori Bianco**, **la Vostra stanza** è pronta.", "(Mr and Mrs Bianco,) your room is ready."],
+                ["(**Signori Bianco**, **la Loro stanza** è pronta.)", "(Mr and Mrs Bianco,) your room is ready."]
+              ]
+            }
+          },
+          {
+            "content": "Pronouns",
+            "table": {
+              "headers": ["Italian", "English"],
+              "rows": [
+                ["**La loro auto** è in strada, ma **la Sua** è in garage, **Signora**.", "Their car’s in the street, but yours is in the garage(, Madam)."],
+                ["**Professore**, questi libri sono **i Suoi**.", "These books are yours(, Professor/Sir)."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Demonstrative Pronouns",
+        "paragraphs": [
+          {
+            "id": "3.18",
+            "content": "**Questo** and **quello** are also used as **demonstrative pronouns** (**this** (one), **that** (one), **these** (ones), **those** (ones)). But note that when **quello** is used as a **demonstrative pronoun**, its endings are not modelled on the **definite article** (cf. paragraph 3.10), but are the same as those of **questo** (i.e. **quello** [ms], **quella** [fs], **quelli** [mp], **quelle** [fp]):"
+          }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1",
+      "instruction": "Complete the phrases by choosing the form of the adjective that agrees with the noun.",
+      "examples": ["**le ragazze** (**italiano**) **italiane**", "(**quello**) **acqua** (**caldo**) **quell’calda**"],
+      "items": [
+        {"question": "**un libro** (**interessante**)", "answer": "interessante"},
+        {"question": "**la gonna** (**bianco**)", "answer": "bianca"},
+        {"question": "**i vestiti** (**bianco**)", "answer": "bianchi"},
+        {"question": "**le camicie** (**rosso**)", "answer": "rosse"},
+        {"question": "**gli insegnanti** (**egoista**)", "answer": "egoisti"},
+        {"question": "**un** (**bello**) **albero**", "answer": "bel"},
+        {"question": "**un collega** (**razzista**)", "answer": "razzista"},
+        {"question": "**le situazioni** (**comico**)", "answer": "comiche"},
+        {"question": "**le donne** (**simpatico**)", "answer": "simpatiche"},
+        {"question": "**i capelli** (**lungo**)", "answer": "lunghi"},
+        {"question": "(**quello**) **ragazzo** (**simpatico**)", "answer": "quel simpatico"},
+        {"question": "(**questo**) **esercizi** (**facile**)", "answer": "questi facili"},
+        {"question": "(**quello**) (**bello**) **specchi**", "answer": "quei bei"},
+        {"question": "(**questo**) (**bello**) **donne**", "answer": "queste belle"},
+        {"question": "(**quello**) **alberi** (**morto**)", "answer": "quegli morti"},
+        {"question": "(**questo**) **amici** (**inglese**)", "answer": "questi inglesi"},
+        {"question": "(**quello**) **attiviste** (**spagnolo**)", "answer": "quelle spagnole"},
+        {"question": "(**quello**) (**bello**) **attore**", "answer": "quell bel"},
+        {"question": "(**quello**) **uova** (**fresco**)", "answer": "quelle fresche"},
+        {"question": "(**quello**) **turisti** (**greco**)", "answer": "quei greci"}
+      ]
+    },
+    {
+      "title": "Exercise 2",
+      "instruction": "Choose the right adjective for each noun or pair of nouns.",
+      "examples": ["**Queste scarpe** sono (**rossa/nuove/belli**) **nuove**", "**Anna** e **Franco** sono (**francese/italiane/italiani**) **italiani**"],
+      "items": [
+        {"question": "**La casa** è (**vecchio/nuovi/grande**).", "answer": "grande"},
+        {"question": "**Ho un vestito** (**rosa/nuova/lunghe**).", "answer": "rosa"},
+        {"question": "**Le professoresse** sono (**intelligente/francesi/noiosa**).", "answer": "francesi"},
+        {"question": "**La crisi** è (**seriose/violenti/grave**).", "answer": "grave"},
+        {"question": "**I colleghi** (**italiane/ottimista/pacifisti**) arrivano domani.", "answer": "pacifisti"},
+        {"question": "**Queste macchine** sono (**veloce/nuovi/tedesche**).", "answer": "tedesche"},
+        {"question": "**Questo bambino** è (**capricciose/pigro/beneducata**).", "answer": "pigro"},
+        {"question": "**Quei film** sono (**inglese/divertente/lunghi**).", "answer": "lunghi"},
+        {"question": "**Le cameriere** sono (**giovane/greca/belghe**).", "answer": "belghe"},
+        {"question": "**Il pianista** non è (**stanca/belga/vecchi**).", "answer": "belga"},
+        {"question": "**Ho le dita** (**puliti/sporche/lunghi**).", "answer": "sporche"},
+        {"question": "**Quel signore** ha un carattere (**simpatiche/cortesi/energico**)", "answer": "energico"},
+        {"question": "**Questi blue-jeans** sono (**resistenti/pratiche/americana**)", "answer": "resistenti"},
+        {"question": "**Le maglie** sono (**vecchio/blu/bianchi**)", "answer": "blu"},
+        {"question": "**Le cantanti** sono (**spagnoli/tedeschi/scozzesi**)", "answer": "scozzesi"},
+        {"question": "**Il treno** e **l’auto** sono (**veloci/inquinante/comodo**)", "answer": "veloci"},
+        {"question": "**Paola**, **Claudia** e **Anna** sono (**italiani/belli/simpatiche**)", "answer": "simpatiche"},
+        {"question": "**Claudio** e **Patrizia** sono (**gentile/italiani/contenta**)", "answer": "italiani"},
+        {"question": "**Gianfranco**, **Piero** e **Giorgio** sono (**felice/ottimisti/italiane**)", "answer": "ottimisti"},
+        {"question": "**I signori** e **le signore** sono (**soddisfatti/greco/affollate**)", "answer": "soddisfatti"}
+      ]
+    },
+    {
+      "title": "Exercise 3",
+      "instruction": "Complete the sentences by adding the correct form of the **possessive adjective** and, where necessary, the **article**.",
+      "examples": ["Conosco **Luisa** e (**suo**) **fratelli**: **i suoi**", "(**Mio**) **madre** è bella: **Mia**"],
+      "items": [
+        {"question": "(**Loro**) **bambini** sono cortesi.", "answer": "I loro"},
+        {"question": "(**Suo**) **occhi** sono blu.", "answer": "I suoi"},
+        {"question": "Questa è (**mio**) **bici**.", "answer": "la mia"},
+        {"question": "Quanti anni hanno (**tuo**) **sorelle**?", "answer": "le tue"},
+        {"question": "(**Vostro**) **macchina** è nuova?", "answer": "La vostra"},
+        {"question": "(**Nostro**) **lavoro** è interessante.", "answer": "Il nostro"},
+        {"question": "(**Mio**) **amici** sono in vacanza.", "answer": "I miei"},
+        {"question": "(**Loro**) **casa** è grande.", "answer": "La loro"},
+        {"question": "(**Tuo**) **madre** è simpatica.", "answer": "tua"},
+        {"question": "Grazie per (**Suo**) **lettera**, Signore.", "answer": "la Sua"}
+      ]
+    },
+    {
+      "title": "Exercise 4",
+      "instruction": "Answer the questions using the **possessive pronoun**, according to whether the answer is affirmative or negative.",
+      "examples": ["‘È **la Sua macchina**, Signor Rossi?’ ‘Sì, è **la mia**.’"],
+      "items": [
+        {"question": "È **il cellulare** di Anna? (No)", "answer": "No, non è il suo."},
+        {"question": "È **la Vostra casa**, Signori Zola? (Sì)", "answer": "Sì, è la vostra."},
+        {"question": "Sono **i miei CD**? (No)", "answer": "No, non sono i tuoi."},
+        {"question": "È **il Suo ufficio**? (No)", "answer": "No, non è il suo."},
+        {"question": "Sono **i suoi libri**? (Sì)", "answer": "Sì, sono i suoi."},
+        {"question": "Sono **le mie lettere**? (Sì)", "answer": "Sì, sono le mie."},
+        {"question": "È **la casa** dei tuoi amici? (Sì)", "answer": "Sì, è la loro."},
+        {"question": "Sono **i nostri vestiti**? (No)", "answer": "No, non sono i vostri."},
+        {"question": "Sono **le camicie** di Paolo? (Sì)", "answer": "Sì, sono le sue."},
+        {"question": "Sono **i vostri bagagli**? (Sì)", "answer": "Sì, sono i vostri."}
+      ]
+    },
+    {
+      "title": "Exercise 5",
+      "instruction": "Complete the sentences by choosing the right form of the adjectives and pronouns.",
+      "examples": ["(**Questo**) non è (**tuo**) **stanza**, è (**mio**): **Questa** non è **la tua stanza**, è **la mia**."],
+      "items": [
+        {"question": "(**Questo**) **signori** sono (**nostro**) **ospiti** (**tedesco**).", "answer": "Questi signori sono i nostri ospiti tedeschi."},
+        {"question": "(**Suo**) **colleghi** sono (**ottimista**), Signora!", "answer": "I Suoi colleghi sono ottimisti, Signora!"},
+        {"question": "(**Questo**) sono (**vostro**) **stanze**.", "answer": "Queste sono le vostre stanze."},
+        {"question": "Io ho (**mio**) **documenti**, Lei ha (**Suo**), Signore?", "answer": "Io ho i miei documenti, Lei ha i Suoi, Signore?"},
+        {"question": "(**Questo**) sono (**mio**) **CD**, (**quello**) sono (**tuo**).", "answer": "Questi sono i miei CD, quelli sono i tuoi."},
+        {"question": "(**Nostro**) **professore** è (**entusiasta**), com’è (**vostro**)?", "answer": "Il nostro professore è entusiasta, com’è il vostro?"},
+        {"question": "(**Quello**) sono (**mio**) **magliette**, (**questo**) sono (**tuo**).", "answer": "Quelle sono le mie magliette, queste sono le tue."},
+        {"question": "(**Quello**) **esercizi** sono (**divertente**), ma (**questo**) è (**difficile**).", "answer": "Quelli esercizi sono divertenti, ma questo è difficile."},
+        {"question": "(**Mio**) **bagagli** sono (**pesante**), ma (**vostro**) sono (**leggero**).", "answer": "I miei bagagli sono pesanti, ma i vostri sono leggeri."},
+        {"question": "(**Quello**) **acqua** (**minerale**) è (**gassato**), ma (**questo**) è (**liscio**).", "answer": "Quell’acqua minerale è gassata, ma questa è liscia."}
+      ]
+    }
+  ]
+}
