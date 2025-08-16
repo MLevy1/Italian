@@ -1,0 +1,306 @@
+{
+  "unitNumber": 2,
+  "text": {
+    "title": "Unit Two: Definite and Indefinite Articles",
+    "sections": [
+      {
+        "title": "The Definite Article",
+        "paragraphs": [
+          {
+            "id": 1,
+            "content": "The **definite article** in Italian corresponds to the English **the**. Unlike English, the Italian definite article changes according to the **gender**, **number**, and **initial letter(s)** of the noun it accompanies. The forms of the definite article are: **il**, **lo**, **l’**, **la** (for **singular** nouns); **i**, **gli**, **le** (for **plural** nouns)."
+          },
+          {
+            "id": 2,
+            "content": "**Il** is used before **masculine singular** nouns beginning with a **consonant**, except those beginning with **s + consonant**, **z**, **gn**, **ps**, **pn**, **x**, or **y**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il libro**", "book"],
+                ["**il tavolo**", "table"],
+                ["**il cane**", "dog"],
+                ["**il ragazzo**", "boy"]
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "content": "**Lo** is used before **masculine singular** nouns beginning with **s + consonant**, **z**, **gn**, **ps**, **pn**, **x**, or **y**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**lo studente**", "student"],
+                ["**lo zucchero**", "sugar"],
+                ["**lo gnomo**", "gnome"],
+                ["**lo psicologo**", "psychologist"]
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "content": "**L’** is used before **masculine** or **feminine singular** nouns beginning with a **vowel**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**l’amico** [m]", "friend"],
+                ["**l’amica** [f]", "friend"],
+                ["**l’uomo** [m]", "man"],
+                ["**l’ora** [f]", "hour"]
+              ]
+            }
+          },
+          {
+            "id": 5,
+            "content": "**La** is used before **feminine singular** nouns beginning with a **consonant**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la casa**", "house"],
+                ["**la ragazza**", "girl"],
+                ["**la scuola**", "school"],
+                ["**la porta**", "door"]
+              ]
+            }
+          },
+          {
+            "id": 6,
+            "content": "**I** is used before **masculine plural** nouns beginning with a **consonant**, except those beginning with **s + consonant**, **z**, **gn**, **ps**, **pn**, **x**, or **y**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**i libri**", "books"],
+                ["**i tavoli**", "tables"],
+                ["**i cani**", "dogs"],
+                ["**i ragazzi**", "boys"]
+              ]
+            }
+          },
+          {
+            "id": 7,
+            "content": "**Gli** is used before **masculine plural** nouns beginning with **s + consonant**, **z**, **gn**, **ps**, **pn**, **x**, **y**, or a **vowel**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**gli studenti**", "students"],
+                ["**gli zuccheri**", "sugars"],
+                ["**gli gnomi**", "gnomes"],
+                ["**gli amici**", "friends"]
+              ]
+            }
+          },
+          {
+            "id": 8,
+            "content": "**Le** is used before all **feminine plural** nouns, regardless of their initial letter:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**le case**", "houses"],
+                ["**le ragazze**", "girls"],
+                ["**le scuole**", "schools"],
+                ["**le amiche**", "friends"]
+              ]
+            }
+          },
+          {
+            "id": 9,
+            "content": "Here is a summary of the definite articles:",
+            "table": {
+              "headers": ["", "Singular", "Plural"],
+              "rows": [
+                ["Before consonant (except s + cons., z, gn, ps, pn, x, y)", "**il** (m), **la** (f)", "**i** (m), **le** (f)"],
+                ["Before s + cons., z, gn, ps, pn, x, y", "**lo** (m)", "**gli** (m)"],
+                ["Before vowel", "**l’** (m/f)", "**gli** (m), **le** (f)"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "The Indefinite Article",
+        "paragraphs": [
+          {
+            "id": 10,
+            "content": "The **indefinite article** in Italian corresponds to the English **a** or **an**. It is used only with **singular** nouns and changes according to the **gender** and **initial letter(s)** of the noun. The forms are: **un**, **uno**, **una**, **un’**."
+          },
+          {
+            "id": 11,
+            "content": "**Un** is used before **masculine** nouns beginning with a **consonant** (except **s + consonant**, **z**, **gn**, **ps**, **pn**, **x**, **y**) or a **vowel**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**un libro**", "a book"],
+                ["**un tavolo**", "a table"],
+                ["**un cane**", "a dog"],
+                ["**un amico**", "a friend"]
+              ]
+            }
+          },
+          {
+            "id": 12,
+           0 "content": "**Uno** is used before **masculine** nouns beginning with **s + consonant**, **z**, **gn**, **ps**, **pn**, **x**, or **y**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**uno studente**", "a student"],
+                ["**uno zucchero**", "a sugar"],
+                ["**uno gnomo**", "a gnome"],
+                ["**uno psicologo**", "a psychologist"]
+              ]
+            }
+          },
+          {
+            "id": 13,
+            "content": "**Una** is used before **feminine** nouns beginning with a **consonant**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**una casa**", "a house"],
+                ["**una ragazza**", "a girl"],
+                ["**una scuola**", "a school"],
+                ["**una porta**", "a door"]
+              ]
+            }
+          },
+          {
+            "id": 14,
+            "content": "**Un’** is used before **feminine** nouns beginning with a **vowel**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**un’amica**", "a friend"],
+                ["**un’ora**", "an hour"],
+                ["**un’arancia**", "an orange"],
+                ["**un’idea**", "an idea"]
+              ]
+            }
+          },
+          {
+            "id": 15,
+            "content": "Here is a summary of the indefinite articles:",
+            "table": {
+              "headers": ["", "Masculine", "Feminine"],
+              "rows": [
+                ["Before consonant (except s + cons., z, gn, ps, pn, x, y)", "**un**", "**una**"],
+                ["Before s + cons., z, gn, ps, pn, x, y", "**uno**", "-"],
+                ["Before vowel", "**un**", "**un’**"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Notes on Usage",
+        "paragraphs": [
+          {
+            "id": 16,
+            "content": "Unlike English, the **indefinite article** is often omitted in Italian when the noun refers to a **profession**, **nationality**, or **religion**, unless it is qualified by an adjective:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**È medico**", "He/she is a doctor"],
+                ["**È italiano**", "He is Italian"],
+                ["**È cattolico**", "He/she is Catholic"],
+                ["**È un medico famoso**", "He/she is a famous doctor"],
+                ["**È un italiano gentile**", "He is a kind Italian"]
+              ]
+            }
+          },
+          {
+            "id": 17,
+            "content": "The **definite article** is used in Italian in some cases where it is omitted in English:",
+            "list": [
+              "Before **abstract nouns**: **La felicità è importante** (Happiness is important).",
+              "Before **plural nouns** used in a general sense: **I libri sono utili** (Books are useful).",
+              "Before **days of the week** to mean ‘every’: **Il lunedì lavoro** (I work every Monday).",
+              "Before **languages** (except after ‘parlare’): **Il francese è bello** (French is beautiful).",
+              "Before **parts of the body** or **possessions** instead of possessive adjectives: **Mi fa male la testa** (My head hurts)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1",
+      "instruction": "Fill in the correct **definite article** (**il**, **lo**, **l’**, **la**, **i**, **gli**, **le**) for each noun.",
+      "examples": ["**il libro**", "**l’amica**", "**gli studenti**"],
+      "items": [
+        {"question": "____ ragazzo", "answer": "il"},
+        {"question": "____ scuola", "answer": "la"},
+        {"question": "____ zucchero", "answer": "lo"},
+        {"question": "____ ora", "answer": "l’"},
+        {"question": "____ tavoli", "answer": "i"},
+        {"question": "____ amiche", "answer": "le"},
+        {"question": "____ studente", "answer": "lo"},
+        {"question": "____ case", "answer": "le"},
+        {"question": "____ amico", "answer": "l’"},
+        {"question": "____ libri", "answer": "i"},
+        {"question": "____ gnomo", "answer": "lo"},
+        {"question": "____ ragazze", "answer": "le"},
+        {"question": "____ porta", "answer": "la"},
+        {"question": "____ zii", "answer": "gli"},
+        {"question": "____ idea", "answer": "l’"},
+        {"question": "____ psicologi", "answer": "gli"},
+        {"question": "____ cane", "answer": "il"},
+        {"question": "____ ore", "answer": "le"},
+        {"question": "____ uomo", "answer": "l’"},
+        {"question": "____ strade", "answer": "le"}
+      ]
+    },
+    {
+      "title": "Exercise 2",
+      "instruction": "Fill in the correct **indefinite article** (**un**, **uno**, **una**, **un’**) for each noun.",
+      "examples": ["**un libro**", "**un’amica**", "**uno studente**"],
+      "items": [
+        {"question": "____ ragazzo", "answer": "un"},
+        {"question": "____ scuola", "answer": "una"},
+        {"question": "____ zucchero", "answer": "uno"},
+        {"question": "____ ora", "answer": "un’"},
+        {"question": "____ tavolo", "answer": "un"},
+        {"question": "____ amica", "answer": "un’"},
+        {"question": "____ studente", "answer": "uno"},
+        {"question": "____ casa", "answer": "una"},
+        {"question": "____ amico", "answer": "un"},
+        {"question": "____ libro", "answer": "un"},
+        {"question": "____ gnomo", "answer": "uno"},
+        {"question": "____ ragazza", "answer": "una"},
+        {"question": "____ porta", "answer": "una"},
+        {"question": "____ zio", "answer": "uno"},
+        {"question": "____ idea", "answer": "un’"},
+        {"question": "____ psicologo", "answer": "uno"},
+        {"question": "____ cane", "answer": "un"},
+        {"question": "____ ora", "answer": "un’"},
+        {"question": "____ uomo", "answer": "un"},
+        {"question": "____ strada", "answer": "una"}
+      ]
+    },
+    {
+      "title": "Exercise 3",
+      "instruction": "Decide whether a **definite article** or **indefinite article** is needed, or if no article is required, and fill in the correct one (if any).",
+      "examples": ["**È medico** (no article)", "**È un medico famoso**", "**La felicità è importante**"],
+      "items": [
+        {"question": "____ felicità è rara", "answer": "La"},
+        {"question": "È ____ italiano", "answer": ""}, // No article
+        {"question": "____ libri sono utili", "answer": "I"},
+        {"question": "____ lunedì studio", "answer": "Il"},
+        {"question": "È ____ studente bravo", "answer": "uno"},
+        {"question": "Mi piace ____ francese", "answer": "il"},
+        {"question": "Ho ____ amica", "answer": "un’"},
+        {"question": "____ case sono belle", "answer": "Le"},
+        {"question": "È ____ professore", "answer": ""}, // No article
+        {"question": "Mi fa male ____ testa", "answer": "la"},
+        {"question": "____ scuola è chiusa", "answer": "La"},
+        {"question": "È ____ cattolico", "answer": ""}, // No article
+        {"question": "____ ora è tarda", "answer": "L’"},
+        {"question": "Parlo ____ italiano", "answer": ""}, // No article after parlare
+        {"question": "____ tavoli sono nuovi", "answer": "I"},
+        {"question": "È ____ psicologo famoso", "answer": "uno"},
+        {"question": "____ amiche sono qui", "answer": "Le"},
+        {"question": "Ho ____ cane", "answer": "un"},
+        {"question": "____ città è grande", "answer": "La"},
+        {"question": "È ____ ragazza gentile", "answer": "una"}
+      ]
+    }
+  ]
+}
