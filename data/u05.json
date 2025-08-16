@@ -1,4 +1,3 @@
-The provided JSON had an issue with an extra closing bracket in the exercises section, causing invalid syntax. Below is the corrected u05.json file, validated to ensure proper JSON formatting. The structure remains consistent with the original content, with the extra bracket removed and all other elements preserved.
 {
   "unitNumber": 5,
   "text": {
