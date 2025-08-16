@@ -24,16 +24,16 @@ async function loadUnitsList() {
 // Fetch unit data dynamically
 async function loadUnitData(unitNum) {
     if (unitCache[unitNum]) {
-        return unitCache[unitNum]; // Return cached data
+        return unitCache[unitNum];
     }
     try {
         const response = await fetch(`data/u${unitNum.toString().padStart(2, '0')}.json`);
-        if (!response.ok) throw new Error(`Failed to load unit ${unitNum}`);
+        if (!response.ok) throw new Error(`Failed to load unit ${unitNum}: ${response.status} ${response.statusText}`);
         const data = await response.json();
-        unitCache[unitNum] = data; // Cache the data
+        unitCache[unitNum] = data;
         return data;
     } catch (error) {
-        console.error(`Error loading unit ${unitNum}:`, error);
+        console.error(`Error loading unit ${unitNum}:`, error.message, error);
         return null;
     }
 }
@@ -188,3 +188,4 @@ function setUnitAndView(unitNum, view) {
 }
 
 window.onload = loadData;
+
