@@ -1,0 +1,445 @@
+{
+  "unitNumber": 1,
+  "text": {
+    "title": "Unit One: Nouns: Gender and Number",
+    "sections": [
+      {
+        "title": "Gender: Masculine and Feminine",
+        "paragraphs": [
+          {
+            "id": 1,
+            "content": "All Italian nouns are either **masculine** or **feminine**. The best way to remember the gender of a noun is to learn it along with its **definite article** (i.e., the word meaning ‘**the**’). In this unit, nouns will therefore be given along with their definite articles, but there will be no discussion of the articles as such. Definite and indefinite articles are the subject of Unit 2. Most nouns in the singular end in **-o**, **-a**, or **-e**."
+          },
+          {
+            "id": 2,
+            "content": "Italian nouns ending in **-o** are usually **masculine**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**l’uomo** [m]", "man"],
+                ["**il fratello** [m]", "brother"],
+                ["**il pomeriggio** [m]", "afternoon"],
+                ["**il treno** [m]", "train"]
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "content": "Italian nouns ending in **-a** are usually **feminine**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la donna** [f]", "woman"],
+                ["**la sorella** [f]", "sister"],
+                ["**la sera** [f]", "evening"],
+                ["**la bicicletta** [f]", "bicycle"]
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "content": "Italian nouns ending in **-e** can be either **masculine** or **feminine**. Unless a noun ending in **-e** denotes a person whose gender is defined (e.g., ‘**husband**’, ‘**wife**’), there are virtually no rules to determine its gender, which must therefore be learned by heart or checked in a dictionary:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il padre**", "father", "**la madre**", "mother"],
+                ["**il ristorante**", "restaurant", "**la notte**", "night"],
+                ["**il sale**", "salt", "**la luce**", "light"],
+                ["**il cognome**", "surname", "**la chiave**", "key"]
+              ]
+            }
+          },
+          {
+            "content": "To help you to determine the gender of some nouns ending in **-e**, here is a rule: nouns ending in **-sione** or **-zione** are **feminine**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la televisione** [f]", "television"],
+                ["**la pensione** [f]", "pension"],
+                ["**la produzione** [f]", "production"],
+                ["**la stazione** [f]", "station"]
+              ]
+            }
+          },
+          {
+            "content": "Sometimes, the gender of a noun ending in **-e** can be determined by the gender of the person it refers to: **masculine** when it refers to a male, **feminine** when it refers to a female:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il/la cantante** [m/f]", "(male/female) singer"],
+                ["**il/la cliente** [m/f]", "(male/female) customer"],
+                ["**il/la parente** [m/f]", "(male/female) relative"],
+                ["**l’inglese** [m/f]", "Englishman/Englishwoman"]
+              ]
+            }
+          },
+          {
+            "id": 5,
+            "content": "Some nouns ending in **-a** and referring to persons are **masculine** when they refer to a male and **feminine** when they refer to a female:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il/la collega** [m/f]", "(male/female) colleague"],
+                ["**l’atleta** [m/f]", "(male/female) athlete"],
+                ["**il/la batterista** [m/f]", "(male/female) drummer"],
+                ["**il/la pianista** [m/f]", "(male/female) pianist"]
+              ]
+            }
+          },
+          {
+            "content": "* There are some exceptions: e.g., **la persona** (person) and **la guida** (tourist guide) are always **feminine**, even when they refer to a male, while the feminine of **il poeta** (poet) is **la poetessa**."
+          },
+          {
+            "id": 6,
+            "content": "There are some nouns ending in **-a** which are **masculine** and some nouns ending in **-o** which are **feminine**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il cinema**", "cinema", "**l’auto**", "car"],
+                ["**il papà**", "dad", "**la foto**", "photo"],
+                ["**il problema**", "problem", "**la mano**", "hand"]
+              ]
+            }
+          },
+          {
+            "content": "Some nouns of this type are abbreviations, and have kept the gender of the full word: **cinema** stands for **cinematografo** [m], **auto** for **automobile** [f], **foto** for **fotografia** [f], etc. Such cases apart, there is no rule for determining gender, which has to be learned by heart or checked in a dictionary."
+          },
+          {
+            "id": 7,
+            "content": "Some nouns end in **-i**. The vast majority are **feminine**, but there are some exceptions:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**l’analisi** [f]", "analysis"],
+                ["**l’ipotesi** [f]", "hypothesis"],
+                ["**la crisi** [f]", "crisis"]
+              ]
+            }
+          },
+          {
+            "content": "Two exceptions are **l’alibi** (alibi) and **lo sci** (ski), which are **masculine**."
+          },
+          {
+            "id": 8,
+            "content": "Foreign nouns, unless they refer to a female, are generally **masculine**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il bar** [m]", "bar"],
+                ["**il camion** [m]", "lorry"],
+                ["**il rock** [m]", "rock (music)"],
+                ["**l’hostess** [f]", "stewardess"]
+              ]
+            }
+          },
+          {
+            "id": 9,
+            "content": "Occasionally, the gender of a foreign noun is the same as it is for the corresponding Italian word:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la new wave**", "is **feminine**, because **onda** (wave) is **feminine**."],
+                ["**la mail**", "(e-mail message) is **feminine**, because **posta** (mail) is **feminine**."]
+              ]
+            }
+          },
+          {
+            "id": 10,
+            "content": "The following rules can help in determining the gender of nouns:",
+            "list": [
+              "All months of the year and days of the week are **masculine**, apart from **domenica** (Sunday), which is **feminine**.",
+              "All names of towns and cities are **feminine**, apart from **Il Cairo** [m].",
+              "All names of languages are **masculine**.",
+              "Names of countries are normally **feminine** when they end in **-a** and **masculine** when they end in any other letter:"
+            ],
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la Francia** [f]", "France"],
+                ["**la Spagna** [f]", "Spain"],
+                ["**il Belgio** [m]", "Belgium"],
+                ["**il Paraguay** [m]", "Paraguay"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Number: Singular and Plural",
+        "paragraphs": [
+          {
+            "id": 11,
+            "content": "**Masculine** nouns ending in **-o**, and all nouns ending in **-e**, end in **-i** in the **plural**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il treno** [m]", "train", "**i treni**", "trains"],
+                ["**il nome** [m]", "name/noun", "**i nomi**", "names/nouns"],
+                ["**la notte** [f]", "night", "**le notti**", "nights"],
+                ["**la stazione** [f]", "station", "**le stazioni**", "stations"],
+                ["**la pensione** [f]", "pension", "**le pensioni**", "pensions"],
+                ["**il/la parente** [m/f]", "relative", "**i/le parenti**", "relatives"],
+                ["**la moglie** [f]", "wife", "**le mogli***", "wives"]
+              ]
+            }
+          },
+          {
+            "content": "* Nouns ending in **-ie** have only one **-i** in the **plural**."
+          },
+          {
+            "id": 12,
+            "content": "Nouns ending in **-io** have only one **i** in the **plural**. But if the **-i** is stressed (**-ío**), the **plural** has two (**-ii**):",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il bacio** [m]", "kiss", "**i baci**", "kisses"],
+                ["**il desiderio** [m]", "wish", "**i desideri**", "wishes"],
+                ["**l’inizio** [m]", "beginning", "**gli inizi**", "beginnings"],
+                ["**lo zio** [m]", "uncle", "**gli zii**", "uncles"],
+                ["**il mormorio** [m]", "murmur", "**i mormorii**", "murmurs"]
+              ]
+            }
+          },
+          {
+            "id": 13,
+            "content": "**Feminine** nouns ending in **-a** take **-e** in the **plural**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la sorella** [f]", "sister", "**le sorelle**", "sisters"],
+                ["**la lettera** [f]", "letter", "**le lettere**", "letters"],
+                ["**la sera** [f]", "evening", "**le sere**", "evenings"]
+              ]
+            }
+          },
+          {
+            "id": 14,
+            "content": "**Masculine** nouns ending in **-a** take **-i** in the **plural**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il problema** [m]", "problem", "**i problemi**", "problems"],
+                ["**il sistema** [m]", "system", "**i sistemi**", "systems"]
+              ]
+            }
+          },
+          {
+            "id": 15,
+            "content": "When a noun ending in **-a** denotes a person, its **plural** ending depends on whether it is **masculine** or **feminine**. If it refers to a male, the **plural** ends in **-i**; if it refers to a female, the **plural** ends in **-e**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il pianista** [m]", "(male) pianist", "**i pianisti** [m]", "(male) pianists"],
+                ["**la pianista** [f]", "(female) pianist", "**le pianiste** [f]", "(female) pianists"],
+                ["**il collega** [m]", "(male) colleague", "**i colleghi** [m]", "(male) colleagues"],
+                ["**la collega** [f]", "(female) colleague", "**le colleghe** [f]", "(female) colleagues"]
+              ]
+            }
+          },
+          {
+            "content": "* For an explanation of the **-h-** in these endings, see paragraph 20 below."
+          },
+          {
+            "id": 16,
+            "content": "Nouns ending in **-i** do not change in the **plural**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**l’analisi** [f]", "analysis", "**le analisi**", "analyses"],
+                ["**la crisi** [f]", "crisis", "**le crisi**", "crises"]
+              ]
+            }
+          },
+          {
+            "id": 17,
+            "content": "Foreign nouns, and nouns stressed on the last vowel, do not change in the **plural**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il bar** [m]", "bar", "**i bar**", "bars"],
+                ["**lo sport** [m]", "sport", "**gli sport**", "sports"],
+                ["**la città** [f]", "city", "**le città**", "cities"],
+                ["**la virtù** [f]", "virtue", "**le virtù**", "virtues"]
+              ]
+            }
+          },
+          {
+            "id": 18,
+            "content": "A number of nouns are irregular in the **plural**. E.g., **la mano** [f] (hand) becomes **le mani** in the **plural**, **l’uomo** [m] (man) becomes **gli uomini** in the **plural**. Here are some nouns which do not change in the **plural**, because they are abbreviations (cf. above, paragraph 6):",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**l’auto** [f]", "car", "**le auto**", "cars"],
+                ["**la radio** [f]", "radio", "**le radio**", "radios"],
+                ["**la moto** [f]", "motorbike", "**le moto**", "motorbikes"],
+                ["**la foto** [f]", "photo", "**le foto**", "photos"],
+                ["**il cinema** [m]", "cinema", "**i cinema**", "cinemas"]
+              ]
+            }
+          },
+          {
+            "content": "Some nouns are **masculine** in the **singular** but **feminine** in the **plural**. Here are a few:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il dito** [m]", "finger", "**le dita** [f]", "fingers"],
+                ["**il centinaio** [m]", "(about) a hundred", "**le centinaia** [f]", "hundreds"],
+                ["**il migliaio** [m]", "(about) a thousand", "**le migliaia** [f]", "thousands"],
+                ["**il miglio** [m]", "mile", "**le miglia** [f]", "miles"],
+                ["**il paio** [m]", "pair", "**le paia** [f]", "pairs"],
+                ["**l’uovo** [m]", "egg", "**le uova** [f]", "eggs"]
+              ]
+            }
+          },
+          {
+            "id": 19,
+            "content": "Note that, in Italian, the **masculine** form of a noun is also used when the gender is not important. A noun in the **plural** may therefore designate any one of three different sets of people:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**gli amici**", "either a specific set of male friends [as in ‘Your friends (**Luigi** and **Giovanni**) have arrived.’] or a specific mixed set of male and female friends [as in ‘Your friends (**Luigi** and **Anna**) have arrived.’] or friends in general [whether male and female does not matter, as in ‘Everybody needs friends.’]"],
+                ["**gli insegnanti**", "either a specific set of male teachers or a specific mixed set of male and female teachers or teachers in general [regardless of gender]"],
+                ["**i colleghi**", "either a specific set of male colleagues or a specific mixed set of male and female colleagues or colleagues in general [regardless of gender]"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Spelling",
+        "paragraphs": [
+          {
+            "content": "Care is needed in spelling some **plurals**."
+          },
+          {
+            "id": 20,
+            "content": "Nouns ending in **-ca** or **-ga** always add **-h-** (**-che** or **-ghe**) in the **plural**, in order to keep the hard sound of **c** and **g**. We saw the example of **il/la collega** in paragraph 15. Here are some more:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**l’amica** [f]", "(female) friend", "**le amiche**", "(female) friends"],
+                ["**la tasca** [f]", "pocket", "**le tasche**", "pockets"],
+                ["**la riga** [f]", "line, ruler", "**le righe**", "lines, rulers"]
+              ]
+            }
+          },
+          {
+            "id": 21,
+            "content": "Nouns ending in **-co** and **-go** normally add **-h-** (**-chi** or **-ghi**) and keep the hard sound, but some nouns change the sound of **c** and **g** in the **plural** (**-ci** or **-gi**). It is always best to check in a dictionary:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**il bosco** [m]", "wood", "**i boschi**", "woods"],
+                ["**il gioco** [m]", "game", "**i giochi**", "games"],
+                ["**il parco** [m]", "park", "**i parchi**", "parks"],
+                ["**il lago** [m]", "lake", "**i laghi**", "lakes"],
+                ["**l’amico** [m]", "(male) friend", "**gli amici**", "(male) friends"],
+                ["**il medico** [m]", "doctor", "**i medici**", "doctors"],
+                ["**il biologo** [m]", "biologist", "**i biologi**", "biologists"]
+              ]
+            }
+          },
+          {
+            "id": 22,
+            "content": "Nouns ending in **-cia** or **-gia** keep the **i** in the **plural** (**-cie** or **-gie**) when the **i** is stressed, or when **c** or **g** is preceded by a vowel. But if **-cia** or **-gia** is preceded by a consonant, the **i** is lost in the **plural**:",
+            "table": {
+              "headers": null,
+              "rows": [
+                ["**la farmacia** [f]", "pharmacy", "**le farmacie**", "pharmacies"],
+                ["**la bugia** [f]", "lie", "**le bugie**", "lies"],
+                ["**la camicia** [f]", "shirt/blouse", "**le camicie**", "shirts/blouses"],
+                ["**la ciliegia** [f]", "cherry", "**le ciliegie**", "cherries"],
+                ["**l’arancia** [f]", "orange", "**le arance**", "oranges"],
+                ["**la doccia** [f]", "shower", "**le docce**", "showers"],
+                ["**la spiaggia** [f]", "beach", "**le spiagge**", "beaches"]
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1",
+      "instruction": "With the help of a dictionary where necessary, decide what gender the nouns are, and write **m**, **f**, or **m/f** after each one.",
+      "examples": ["**la notte** **f**", "**il/la pianista** **m/f**", "**il fratello** **m**"],
+      "items": [
+        {"question": "**il giorno**", "answer": "m"},
+        {"question": "**la sera**", "answer": "f"},
+        {"question": "**l’uomo**", "answer": "m"},
+        {"question": "**l’infermiera**", "answer": "f"},
+        {"question": "**la stanza**", "answer": "f"},
+        {"question": "**l’orecchio**", "answer": "m"},
+        {"question": "**il caffè**", "answer": "m"},
+        {"question": "**lo zucchero**", "answer": "m"},
+        {"question": "**il fiume**", "answer": "m"},
+        {"question": "**l’olandese**", "answer": "m/f"},
+        {"question": "**l’uovo**", "answer": "m"},
+        {"question": "**la camicia**", "answer": "f"},
+        {"question": "**l’atleta**", "answer": "m/f"},
+        {"question": "**l’animale**", "answer": "m"},
+        {"question": "**la strada**", "answer": "f"},
+        {"question": "**l’acqua**", "answer": "f"},
+        {"question": "**l’abitante**", "answer": "m/f"},
+        {"question": "**l’occhio**", "answer": "m"},
+        {"question": "**il sole**", "answer": "m"},
+        {"question": "**la canzone**", "answer": "f"}
+      ]
+    },
+    {
+      "title": "Exercise 2",
+      "instruction": "With the help of a dictionary where necessary, fill in the **plurals** of the nouns.",
+      "examples": ["**la notte**: **le notti**", "**il nome**: **i nomi**", "**il treno**: **i treni**", "**la sera**: **le sere**"],
+      "items": [
+        {"question": "**il ragazzo** **i**", "answer": "ragazzi"},
+        {"question": "**la marca** **le**", "answer": "marche"},
+        {"question": "**la chiave** **le**", "answer": "chiavi"},
+        {"question": "**l’abitante** **gli**", "answer": "abitanti"},
+        {"question": "**lo zio** **gli**", "answer": "zii"},
+        {"question": "**il fiume** **i**", "answer": "fiumi"},
+        {"question": "**la stazione** **le**", "answer": "stazioni"},
+        {"question": "**la ragazza** **le**", "answer": "ragazze"},
+        {"question": "**l’energia** **le**", "answer": "energie"},
+        {"question": "**il pomeriggio** **i**", "answer": "pomeriggi"},
+        {"question": "**la banca** **le**", "answer": "banche"},
+        {"question": "**il pianista** **i**", "answer": "pianisti"},
+        {"question": "**la cliente** **le**", "answer": "clienti"},
+        {"question": "**l’indirizzo** **gli**", "answer": "indirizzi"},
+        {"question": "**l’occhio** **gli**", "answer": "occhi"},
+        {"question": "**il ristorante** **i**", "answer": "ristoranti"},
+        {"question": "**la televisione** **le**", "answer": "televisioni"},
+        {"question": "**il calendario** **i**", "answer": "calendari"},
+        {"question": "**il francese** **i**", "answer": "francesi"},
+        {"question": "**il lago** **i**", "answer": "laghi"}
+      ]
+    },
+    {
+      "title": "Exercise 3",
+      "instruction": "With the help of a dictionary where necessary, fill in the **singulars** of the nouns.",
+      "examples": ["**la casa**: **le case**", "**il libro**: **i libri**", "**il mese**: **i mesi**", "**la moglie**: **le mogli**"],
+      "items": [
+        {"question": "**i nomi** **il**", "answer": "nome"},
+        {"question": "**le vie** **la**", "answer": "via"},
+        {"question": "**i figli** **il**", "answer": "figlio"},
+        {"question": "**le mani** **la**", "answer": "mano"},
+        {"question": "**le opinioni** **l'**", "answer": "opinione"},
+        {"question": "**i clienti** **il**", "answer": "cliente"},
+        {"question": "**gli occhi** **l'**", "answer": "occhio"},
+        {"question": "**le persone** **la**", "answer": "persona"},
+        {"question": "**le marche** **la**", "answer": "marca"},
+        {"question": "**i problemi** **il**", "answer": "problema"},
+        {"question": "**le ciliegie** **la**", "answer": "ciliegia"},
+        {"question": "**i caffè** **il**", "answer": "caffè"},
+        {"question": "**i medici** **il**", "answer": "medico"},
+        {"question": "**gli attivisti** **l'**", "answer": "attivista"},
+        {"question": "**le ginocchia** **il**", "answer": "ginocchio"},
+        {"question": "**le bugie** **la**", "answer": "bugia"},
+        {"question": "**i tedeschi** **il**", "answer": "tedesco"},
+        {"question": "**i test** **il**", "answer": "test"},
+        {"question": "**gli uomini** **l'**", "answer": "uomo"},
+        {"question": "**le amiche** **l'**", "answer": "amica"}
+      ]
+    }
+  ]
+}
