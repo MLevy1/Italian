@@ -27,7 +27,7 @@ async function loadUnitData(unitNum) {
         return unitCache[unitNum];
     }
     try {
-        const response = await fetch(`data/u${unitNum.toString().padStart(2, '0')}.json`);
+        const response = await fetch(`https://mlevy1.github.io/Italian/data/u${unitNum.toString().padStart(2, '0')}.json`);
         if (!response.ok) throw new Error(`Failed to load unit ${unitNum}: ${response.status} ${response.statusText}`);
         const data = await response.json();
         unitCache[unitNum] = data;
@@ -188,4 +188,5 @@ function setUnitAndView(unitNum, view) {
 }
 
 window.onload = loadData;
+
 
