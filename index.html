@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Italian Course</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Basic Italian Course</h1>
+        <nav>
+            <a href="#" onclick="showContents()">Contents</a>
+            <a href="#" id="exercisesLink" onclick="setUnitAndView(currentUnit, 'exercises')">Exercises</a>
+            <a href="#" id="backLink" onclick="navigate('back')">Back</a>
+            <a href="#" id="nextLink" onclick="navigate('next')">Next</a>
+        </nav>
+    </header>
+    <main id="content">
+        <p>Loading content...</p>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
