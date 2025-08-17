@@ -47,15 +47,24 @@ async function loadData() {
     try {
         console.log('Starting loadData...');
         const loadingDiv = document.getElementById('loading');
-        loadingDiv.style.display = 'block';
+        if (loadingDiv) {
+            loadingDiv.style.display = 'block';
+        } else {
+            console.warn('Loading div not found');
+        }
         await loadUnitsList();
         await renderContent();
-        loadingDiv.style.display = 'none';
+        if (loadingDiv) {
+            loadingDiv.style.display = 'none';
+        }
         console.log('loadData completed');
     } catch (error) {
         console.error('Error in loadData:', error);
         document.getElementById('content').innerHTML = '<p class="text-danger fw-bold">Error loading content. Please try again.</p>';
-        document.getElementById('loading').style.display = 'none';
+        const loadingDiv = document.getElementById('loading');
+        if (loadingDiv) {
+            loadingDiv.style.display = 'none';
+        }
     }
 }
 
@@ -63,10 +72,16 @@ async function renderContent() {
     console.log(`Rendering content for unit ${currentUnit}, view: ${currentView}`);
     const contentDiv = document.getElementById('content');
     const loadingDiv = document.getElementById('loading');
-    loadingDiv.style.display = 'block';
+    if (loadingDiv) {
+        loadingDiv.style.display = 'block';
+    } else {
+        console.warn('Loading div not found in renderContent');
+    }
     contentDiv.innerHTML = '';
     const unit = await loadUnitData(currentUnit);
-    loadingDiv.style.display = 'none';
+    if (loadingDiv) {
+        loadingDiv.style.display = 'none';
+    }
     if (!unit) {
         contentDiv.innerHTML = '<p class="text-danger fw-bold">Unit not found.</p>';
         console.log('Unit data not found');
@@ -106,8 +121,8 @@ async function renderContent() {
                     </div>
                 `).join('')}
                 <div class="d-flex gap-2">
-                    <button class="btn btn-primary" onclick="checkAnswers(${currentUnit}, ${exIndex}, ${exercise.items.length})">Check Answers</button>
-                    <button class="btn btn-secondary" onclick="resetAnswers(${currentUnit}, ${exIndex}, ${exercise.items.length})">Reset</button>
+                    <button class="btn btn-primary" type="button" onclick="checkAnswers(${currentUnit}, ${exIndex}, ${exercise.items.length})">Check Answers</button>
+                    <button class="btn btn-secondary" type="button" onclick="resetAnswers(${currentUnit}, ${exIndex}, ${exercise.items.length})">Reset</button>
                 </div>
             </section>
         `).join('');
@@ -119,9 +134,9 @@ async function renderContent() {
     const nextLink = document.getElementById('nextLink');
     const exercisesLink = document.getElementById('exercisesLink');
     console.log(`Updating nav: currentUnit=${currentUnit}, availableUnits=${availableUnits}, currentView=${currentView}`);
-    backLink.classList.toggle('d-none', currentUnit <= 1);
-    nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
-    exercisesLink.classList.toggle('d-none', currentView !== 'text');
+    if (backLink) backLink.classList.toggle('d-none', currentUnit <= 1);
+    if (nextLink) nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
+    if (exercisesLink) exercisesLink.classList.toggle('d-none', currentView !== 'text');
 }
 
 async function checkAnswers(unitNum, exIndex, itemCount) {
@@ -211,7 +226,8 @@ function showContents() {
             `).join('')}
         </ul>
     `;
-    document.getElementById('exercisesLink').classList.add('d-none');
+    const exercisesLink = document.getElementById('exercisesLink');
+    if (exercisesLink) exercisesLink.classList.add('d-none');
 }
 
 function setUnitAndView(unitNum, view) {
