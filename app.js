@@ -99,10 +99,22 @@ async function renderContent() {
                         ${p.content ? `<p>${p.id ? p.id + ' ' : ''}${parseBoldText(p.content)}</p>` : ''}
                         ${p.list ? `<ul class="list-group list-group-flush">${p.list.map(item => `<li class="list-group-item">${parseBoldText(item)}</li>`).join('')}</ul>` : ''}
                         ${p.table ? `
-                            <table class="table table-bordered table-hover">
-                                ${p.table.headers && p.table.headers.length > 0 ? `<thead><tr>${p.table.headers.map(h => `<th scope="col">${parseBoldText(h)}</th>`).join('')}</tr></thead>` : ''}
-                                <tbody>${p.table.rows.map(row => `<tr>${row.map(cell => `<td>${parseBoldText(cell)}</td>`).join('')}</tr>`).join('')}</tbody>
-                            </table>
+                            <div class="table-responsive">
+                                <table class="table table-bordered table-hover table-sm custom-table">
+                                    ${p.table.headers && p.table.headers.length > 0 ? `
+                                        <thead>
+                                            <tr>${p.table.headers.map(h => `<th scope="col" class="text-wrap">${parseBoldText(h)}</th>`).join('')}
+                                            </tr>
+                                        </thead>
+                                    ` : ''}
+                                    <tbody>
+                                        ${p.table.rows.map(row => `
+                                            <tr>${row.map(cell => `<td class="text-wrap">${parseBoldText(cell)}</td>`).join('')}
+                                            </tr>
+                                        `).join('')}
+                                    </tbody>
+                                </table>
+                            </div>
                         ` : ''}
                     `).join('')}
                 </section>
