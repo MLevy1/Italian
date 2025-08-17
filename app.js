@@ -112,22 +112,39 @@ async function checkAnswers(unitNum, exIndex, itemCount) {
     const unit = await loadUnitData(unitNum);
     const exercise = unit.exercises[exIndex];
     let correctCount = 0;
+
+    // Function to normalize quotes and make case-insensitive
+    const normalizeAnswer = (text) => {
+        // Replace different quote characters with standard single quote
+        return text
+            .replace(/[\u2018\u2019`]/g, "'") // Normalize quotes (left quote, right quote, backtick)
+            .toLowerCase() // Convert to lowercase for case-insensitive comparison
+            .trim(); // Remove leading/trailing whitespace
+    };
+
     for (let i = 0; i < itemCount; i++) {
         const input = document.getElementById(`answer-${unitNum}-${exIndex}-${i}`);
         const container = document.getElementById(`exercise-item-${unitNum}-${exIndex}-${i}`);
         const existingAnswer = container.querySelector('.correct-answer');
         if (existingAnswer) existingAnswer.remove(); // Remove previous correct answer display
-        if (input.value.trim() === exercise.items[i].answer) {
+
+        // Normalize both user input and correct answer
+        const userAnswer = normalizeAnswer(input.value);
+        const correctAnswer = normalizeAnswer(exercise.items[i].answer);
+
+        if (userAnswer === correctAnswer) {
             input.style.backgroundColor = '#d4edda';
             correctCount++;
         } else {
             input.style.backgroundColor = '#f8d7da';
-            const correctAnswer = document.createElement('p');
-            correctAnswer.className = 'correct-answer';
-            correctAnswer.textContent = `Correct answer: ${exercise.items[i].answer}`;
-            container.appendChild(correctAnswer);
+            const correctAnswerDisplay = document.createElement('p');
+            correctAnswerDisplay.className = 'correct-answer';
+            // Show the original correct answer (not normalized) for display
+            correctAnswerDisplay.textContent = `Correct answer: ${exercise.items[i].answer}`;
+            container.appendChild(correctAnswerDisplay);
         }
     }
+
     // Calculate and display percentage
     const percentage = (correctCount / itemCount * 100).toFixed(0);
     const section = document.getElementById(`exercise-section-${unitNum}-${exIndex}`);
@@ -188,5 +205,6 @@ function setUnitAndView(unitNum, view) {
 }
 
 window.onload = loadData;
+
 
 
