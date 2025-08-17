@@ -105,10 +105,14 @@ async function renderContent() {
     }
     contentDiv.innerHTML = html;
 
-    // Update navigation links visibility
-    document.getElementById('backLink').style.display = currentUnit > 1 ? 'inline' : 'none';
-    document.getElementById('nextLink').style.display = currentUnit < availableUnits.length ? 'inline' : 'none';
-    document.getElementById('exercisesLink').style.display = currentView === 'text' ? 'inline' : 'none';
+    // Update navigation links visibility using Bootstrap classes
+    const backLink = document.getElementById('backLink');
+    const nextLink = document.getElementById('nextLink');
+    const exercisesLink = document.getElementById('exercisesLink');
+
+    backLink.classList.toggle('d-none', currentUnit <= 1);
+    nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
+    exercisesLink.classList.toggle('d-none', currentView !== 'text');
 }
 
 async function checkAnswers(unitNum, exIndex, itemCount) {
@@ -116,12 +120,11 @@ async function checkAnswers(unitNum, exIndex, itemCount) {
     const exercise = unit.exercises[exIndex];
     let correctCount = 0;
 
-    // Function to normalize quotes and make case-insensitive
     const normalizeAnswer = (text) => {
         return text
-            .replace(/[\u2018\u2019`]/g, "'") // Normalize quotes
-            .toLowerCase() // Case-insensitive
-            .trim(); // Remove whitespace
+            .replace(/[\u2018\u2019`]/g, "'")
+            .toLowerCase()
+            .trim();
     };
 
     for (let i = 0; i < itemCount; i++) {
@@ -147,7 +150,6 @@ async function checkAnswers(unitNum, exIndex, itemCount) {
         }
     }
 
-    // Calculate and display percentage
     const percentage = (correctCount / itemCount * 100).toFixed(0);
     const section = document.getElementById(`exercise-section-${unitNum}-${exIndex}`);
     const existingPercentage = section.querySelector('.percentage-correct');
@@ -198,7 +200,7 @@ function showContents() {
             `).join('')}
         </ul>
     `;
-    document.getElementById('exercisesLink').style.display = 'none';
+    document.getElementById('exercisesLink').classList.add('d-none');
 }
 
 function setUnitAndView(unitNum, view) {
