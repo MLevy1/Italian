@@ -11,56 +11,65 @@ function parseBoldText(text) {
 // Fetch the list of available units
 async function loadUnitsList() {
     try {
+        console.log('Loading units list...');
         const response = await fetch('data/units.json');
-        if (!response.ok) throw new Error('Failed to load units list');
+        if (!response.ok) throw new Error(`Failed to load units list: ${response.status}`);
         const data = await response.json();
         availableUnits = data.units;
+        console.log('Units list loaded:', availableUnits);
     } catch (error) {
         console.error('Error loading units list:', error);
-        availableUnits = [1, 2]; // Fallback to known units
+        availableUnits = [1, 2]; // Fallback
     }
 }
 
 // Fetch unit data dynamically
 async function loadUnitData(unitNum) {
     if (unitCache[unitNum]) {
+        console.log(`Using cached data for unit ${unitNum}`);
         return unitCache[unitNum];
     }
     try {
+        console.log(`Fetching unit ${unitNum}...`);
         const response = await fetch(`https://mlevy1.github.io/Italian/data/u${unitNum.toString().padStart(2, '0')}.json`);
         if (!response.ok) throw new Error(`Failed to load unit ${unitNum}: ${response.status} ${response.statusText}`);
         const data = await response.json();
         unitCache[unitNum] = data;
+        console.log(`Unit ${unitNum} loaded successfully`);
         return data;
     } catch (error) {
-        console.error(`Error loading unit ${unitNum}:`, error.message, error);
+        console.error(`Error loading unit ${unitNum}:`, error);
         return null;
     }
 }
 
 async function loadData() {
     try {
+        console.log('Starting loadData...');
         const loadingDiv = document.getElementById('loading');
-        loadingDiv.style.display = 'block'; // Show loading
-        await loadUnitsList(); // Load unit list first
+        loadingDiv.style.display = 'block';
+        await loadUnitsList();
         await renderContent();
-        loadingDiv.style.display = 'none'; // Hide loading
+        loadingDiv.style.display = 'none';
+        console.log('loadData completed');
     } catch (error) {
-        console.error('Error loading data:', error);
+        console.error('Error in loadData:', error);
         document.getElementById('content').innerHTML = '<p class="text-danger fw-bold">Error loading content. Please try again.</p>';
         document.getElementById('loading').style.display = 'none';
     }
 }
 
 async function renderContent() {
+    console.log(`Rendering content for unit ${currentUnit}, view: ${currentView}`);
     const contentDiv = document.getElementById('content');
     const loadingDiv = document.getElementById('loading');
-    loadingDiv.style.display = 'block'; // Show loading
-    contentDiv.innerHTML = ''; // Clear content while loading
+    loadingDiv.style.display = 'block';
+    contentDiv.innerHTML = '';
     const unit = await loadUnitData(currentUnit);
-    loadingDiv.style.display = 'none'; // Hide loading
+    loadingDiv.style.display = 'none';
     if (!unit) {
         contentDiv.innerHTML = '<p class="text-danger fw-bold">Unit not found.</p>';
+        console.log('Unit data not found');
         return;
     }
 
@@ -105,26 +114,24 @@ async function renderContent() {
     }
     contentDiv.innerHTML = html;
 
-    // Update navigation links visibility using Bootstrap classes
+    // Update navigation links visibility
     const backLink = document.getElementById('backLink');
     const nextLink = document.getElementById('nextLink');
     const exercisesLink = document.getElementById('exercisesLink');
-
+    console.log(`Updating nav: currentUnit=${currentUnit}, availableUnits=${availableUnits}, currentView=${currentView}`);
     backLink.classList.toggle('d-none', currentUnit <= 1);
     nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
     exercisesLink.classList.toggle('d-none', currentView !== 'text');
 }
 
 async function checkAnswers(unitNum, exIndex, itemCount) {
+    console.log(`Checking answers for unit ${unitNum}, exercise ${exIndex}`);
     const unit = await loadUnitData(unitNum);
     const exercise = unit.exercises[exIndex];
     let correctCount = 0;
 
     const normalizeAnswer = (text) => {
-        return text
-            .replace(/[\u2018\u2019`]/g, "'")
-            .toLowerCase()
-            .trim();
+        return text.replace(/[\u2018\u2019`]/g, "'").toLowerCase().trim();
     };
 
     for (let i = 0; i < itemCount; i++) {
@@ -158,9 +165,11 @@ async function checkAnswers(unitNum, exIndex, itemCount) {
     percentageDisplay.className = 'percentage-correct fw-bold mt-3';
     percentageDisplay.textContent = `${percentage}% correct (${correctCount}/${itemCount})`;
     section.appendChild(percentageDisplay);
+    console.log(`Answers checked: ${percentage}% correct`);
 }
 
 function resetAnswers(unitNum, exIndex, itemCount) {
+    console.log(`Resetting answers for unit ${unitNum}, exercise ${exIndex}`);
     for (let i = 0; i < itemCount; i++) {
         const input = document.getElementById(`answer-${unitNum}-${exIndex}-${i}`);
         const container = document.getElementById(`exercise-item-${unitNum}-${exIndex}-${i}`);
@@ -175,6 +184,7 @@ function resetAnswers(unitNum, exIndex, itemCount) {
 }
 
 function navigate(direction) {
+    console.log(`Navigating ${direction}`);
     if (direction === 'back' && currentUnit > 1) {
         currentUnit--;
     } else if (direction === 'next' && currentUnit < availableUnits.length) {
@@ -185,6 +195,7 @@ function navigate(direction) {
 }
 
 function showContents() {
+    console.log('Showing contents');
     const contentDiv = document.getElementById('content');
     contentDiv.innerHTML = `
         <h2 class="mb-4">Table of Contents</h2>
@@ -193,8 +204,8 @@ function showContents() {
                 <li class="list-group-item d-flex justify-content-between align-items-center">
                     <span>Unit ${unitNum}</span>
                     <div>
-                        <a href="#" class="btn btn-link p-0 me-2" onclick="setUnitAndView(${unitNum}, 'text')">Text</a>
-                        <a href="#" class="btn btn-link p-0" onclick="setUnitAndView(${unitNum}, 'exercises')">Exercises</a>
+                        <button class="btn btn-link p-0 me-2" type="button" onclick="setUnitAndView(${unitNum}, 'text')">Text</button>
+                        <button class="btn btn-link p-0" type="button" onclick="setUnitAndView(${unitNum}, 'exercises')">Exercises</button>
                     </div>
                 </li>
             `).join('')}
@@ -204,9 +215,14 @@ function showContents() {
 }
 
 function setUnitAndView(unitNum, view) {
+    console.log(`Setting unit ${unitNum}, view ${view}`);
     currentUnit = unitNum;
     currentView = view;
     renderContent();
 }
 
-window.onload = loadData;
+// Ensure DOM is fully loaded before binding events
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('DOM loaded, initializing app');
+    loadData();
+});
