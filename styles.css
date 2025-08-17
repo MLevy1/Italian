@@ -1,11 +1,11 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f8f9fa; /* Light gray background for contrast */
+    background-color: #f8f9fa;
 }
 
 .exercise-item input.form-control {
-    max-width: 300px; /* Limit input width for better layout */
+    max-width: 300px;
 }
 
 .correct-answer {
@@ -15,4 +15,20 @@ body {
 
 .percentage-correct {
     font-size: 1.1em;
+}
+
+.custom-table th,
+.custom-table td {
+    white-space: normal; /* Allow text to wrap */
+    word-break: break-word; /* Break long words */
+    max-width: 150px; /* Limit column width */
+    padding: 8px; /* Consistent padding */
+}
+
+@media (max-width: 576px) {
+    .custom-table th,
+    .custom-table td {
+        font-size: 0.9rem; /* Smaller font on mobile */
+        max-width: 100px; /* Tighter columns on small screens */
+    }
 }
