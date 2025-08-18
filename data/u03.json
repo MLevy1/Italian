@@ -428,7 +428,7 @@
         {"question": "(**quello**) **alberi** (**morto**)", "answer": "quegli morti"},
         {"question": "(**questo**) **amici** (**inglese**)", "answer": "questi inglesi"},
         {"question": "(**quello**) **attiviste** (**spagnolo**)", "answer": "quelle spagnole"},
-        {"question": "(**quello**) (**bello**) **attore**", "answer": "quell bel"},
+        {"question": "(**quello**) (**bello**) **attore**", "answer": "quell bell'"},
         {"question": "(**quello**) **uova** (**fresco**)", "answer": "quelle fresche"},
         {"question": "(**quello**) **turisti** (**greco**)", "answer": "quei greci"}
       ]
