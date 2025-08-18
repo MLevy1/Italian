@@ -1,0 +1,324 @@
+{
+  "units": [
+    {
+      "unitNumber": 6,
+      "text": {
+        "title": "Unit Six: Adverbs",
+        "sections": [
+          {
+            "title": "Forming Adverbs with -mente",
+            "paragraphs": [
+              {
+                "id": 1,
+                "content": "English adverbs are usually formed by adding ‘-ly’ to an adjective (e.g. ‘thinly’, ‘cleverly’). Italian adverbs are usually just as easy to form: -mente is added to the feminine singular form of the adjective:",
+                "table": {
+                  "headers": ["Adjective", "Adverb", "English"],
+                  "rows": [
+                    ["lenta + -mente", "lentamente", "slowly"],
+                    ["rapida + -mente", "rapidamente", "quickly"],
+                    ["semplice + -mente", "semplicemente", "simply"],
+                    ["frequente + -mente", "frequentemente", "frequently"]
+                  ]
+                }
+              },
+              {
+                "content": "When the adjective ends in -le or -re preceded by a vowel, the final e is dropped before adding -mente:",
+                "table": {
+                  "headers": ["Adjective", "Adverb", "English"],
+                  "rows": [
+                    ["gentile + -mente", "gentilmente", "kindly, politely"],
+                    ["utile + -mente", "utilmente", "usefully"],
+                    ["maggiore + -mente", "maggiormente", "mainly"],
+                    ["regolare + -mente", "regolarmente", "regularly"]
+                  ]
+                }
+              },
+              {
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["Il tempo cambia rapidamente.", "The weather changes quickly."],
+                    ["La nonna cammina lentamente.", "Granny walks slowly."],
+                    ["Enrico risponde sempre gentilmente.", "Enrico always answers politely."],
+                    ["Faccio i compiti regolarmente.", "I do my homework regularly."]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "Other Adverbs",
+            "paragraphs": [
+              {
+                "id": 2,
+                "content": "In Italian there are also many adverbs which do not end in -mente. Here are some:",
+                "table": {
+                  "headers": ["Adverb", "English"],
+                  "rows": [
+                    ["abbastanza", "enough/fairly/rather/quite"],
+                    ["ancora", "still"],
+                    ["bene", "well"],
+                    ["davanti", "at the front/in front"],
+                    ["dentro", "in(side)"],
+                    ["dietro", "at the back/behind"],
+                    ["dopo", "later/afterwards"],
+                    ["forte", "loudly/hard"],
+                    ["fuori", "out/outside"],
+                    ["già", "already"],
+                    ["lontano", "far (away)"],
+                    ["male", "badly"],
+                    ["non ... ancora", "not yet"],
+                    ["non ... mai", "never"],
+                    ["piano", "slowly/quietly"],
+                    ["più", "more"],
+                    ["piuttosto", "rather"],
+                    ["presto", "soon/early"],
+                    ["prima", "earlier/beforehand/first"],
+                    ["quasi", "almost"],
+                    ["sempre", "always"],
+                    ["sopra", "above/upstairs"],
+                    ["sotto", "below/downstairs"],
+                    ["spesso", "often"],
+                    ["subito", "immediately/right away"],
+                    ["tardi", "late"],
+                    ["vicino", "near(by)"],
+                    ["volentieri", "willingly/gladly"]
+                  ]
+                }
+              },
+              {
+                "content": "* Note that with non ... ancora and non ... mai, non is always placed before the verb and ancora/mai after it."
+              },
+              {
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["Questo film è abbastanza bello.", "This film is rather good."],
+                    ["Partiamo tardi: dopo le 11.", "We’re leaving late: after 11."],
+                    ["Andiamo spesso in discoteca.", "We often go to the disco."],
+                    ["Vengo subito!", "I’m coming (immediately)!"],
+                    ["Parto presto.", "I’m leaving early/soon."],
+                    ["Parliamo piano perché Carla dorme.", "We’re talking quietly because Carla’s asleep."],
+                    ["Può parlare piano, per favore? Non sono italiano.", "Could you speak slowly, please? I’m not Italian."],
+                    ["Abita vicino, Signora?", "Do you live nearby (Madam)?"],
+                    ["Vai lontano?", "Are you going far?"],
+                    ["Piove forte.", "It’s raining hard."],
+                    ["Puoi parlare più forte?", "Can you speak louder/more loudly?"],
+                    ["Mangiamo fuori.", "We’re eating out [e.g. in a restaurant]/outside [i.e. in the open]."],
+                    ["È ancora estate.", "It’s still summer."],
+                    ["Non è ancora estate.", "It’s not summer yet."],
+                    ["Non esco mai.", "I never go out."],
+                    ["Lorenzo non telefona mai.", "Lorenzo never phones."]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "Adverbs Qualifying Verbs, Adjectives, or Other Adverbs",
+            "paragraphs": [
+              {
+                "id": 3,
+                "content": "Adverbs can qualify verbs, adjectives or even other adverbs:",
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["Dormo bene. [verb + adverb]", "I sleep well."],
+                    ["Dormo molto bene. [adverb + adverb]", "I sleep very well."],
+                    ["La casa è molto piccola. [adverb + adjective]", "The house is very small."]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "Adverbs and Adjectives of Quantity",
+            "paragraphs": [
+              {
+                "id": 4,
+                "content": "Some words denoting quantity can be used both as adverbs and as adjectives: molto/tanto (a lot (of)/very/many), troppo (too much/too many) and poco (few/little/not much/not very). When used as adverbs they are invariable, but when used as adjectives they agree in gender and number with the noun they refer to:",
+                "table": {
+                  "headers": ["Adverb", "Adjective"],
+                  "rows": [
+                    ["lavorare molto/tanto", "molto (tanto)/troppo/poco lavoro [ms]"],
+                    ["molto/tanto lontano", "molta (tanta)/troppa/poca acqua [fs]"],
+                    ["molto/tanto difficile", "molti (tanti)/troppi/pochi esercizi [mp]"],
+                    ["lavorare troppo", "molte (tante)/troppe/poche lettere [fp]"],
+                    ["troppo lontano", ""],
+                    ["troppo difficile", ""],
+                    ["lavorare poco", ""],
+                    ["poco lontano", ""],
+                    ["poco difficile", ""]
+                  ]
+                }
+              },
+              {
+                "table": {
+                  "headers": ["English"],
+                  "rows": [
+                    ["lavorare molto/tanto", "to work a lot"],
+                    ["molto/tanto lontano", "very far"],
+                    ["molto/tanto difficile", "very difficult"],
+                    ["lavorare troppo", "to work too much"],
+                    ["troppo lontano", "too far"],
+                    ["troppo difficile", "too difficult"],
+                    ["lavorare poco", "to work little/not to work much"],
+                    ["poco lontano", "not very far"],
+                    ["poco difficile", "not very difficult"],
+                    ["molto (tanto)/troppo/poco lavoro [ms]", "a lot of/too much/not much work"],
+                    ["molta (tanta)/troppa/poca acqua [fs]", "a lot of/too much/not much water"],
+                    ["molti (tanti)/troppi/pochi esercizi [mp]", "many/too many/not many exercises"],
+                    ["molte (tante)/troppe/poche lettere [fp]", "many/too many/not many letters"]
+                  ]
+                }
+              },
+              {
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["Mio padre lavora troppo. [adverb]", "My father works too much."],
+                    ["Questa musica è molto bella. [adverb]", "This music is very beautiful."],
+                    ["Luisa dorme poco. [adverb]", "Luisa sleeps little/doesn’t sleep much."],
+                    ["Dormi troppo poco. [adverbs]", "You sleep too little/don’t sleep enough."],
+                    ["Abbiamo molto tempo. [adjective]", "We have a lot of time."],
+                    ["Luisa mangia poca pasta. [adjective]", "Luisa eats little pasta/doesn’t eat a lot of pasta."],
+                    ["Ho molti amici. [adjective]", "I have a lot of friends."],
+                    ["‘Perché fai questo?’ ‘Ci sono molte ragioni.’ [adjective]", "‘Why are you doing this?’ ‘There are many reasons.’"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "Adverbial Expressions",
+            "paragraphs": [
+              {
+                "id": 5,
+                "content": "Having a lot of words ending in -mente can often sound heavy. To avoid this, Italian sometimes uses adverbial phrases instead of single words. These do the same job as one-word adverbs, and indeed they do usually correspond to one-word English adverbs in ‘-ly’. These adverbial expressions are most often constructed with con (with), sometimes with senza (without), followed by a noun:",
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["con difficoltà", "with difficulty"],
+                    ["con eleganza", "elegantly"],
+                    ["con lentezza", "slowly"],
+                    ["con rapidità", "rapidly/quickly"],
+                    ["con semplicità", "simply"]
+                  ]
+                }
+              },
+              {
+                "content": "There are also a number of adverbial expressions that use other prepositions than con. Here are some of the most common:",
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["di nascosto", "secretly"],
+                    ["di proposito", "on purpose"],
+                    ["di solito", "usually"],
+                    ["in fretta", "hurriedly/in a hurry"],
+                    ["per caso", "by chance"]
+                  ]
+                }
+              },
+              {
+                "content": "Another adverbial expression that is sometimes used is in modo/in maniera (i.e. ‘in a way’) followed by an adjective; the adjective is masculine when used with modo and feminine when used with maniera:",
+                "table": {
+                  "headers": ["Italian", "English"],
+                  "rows": [
+                    ["in modo rapido", "quickly"],
+                    ["in maniera elegante", "elegantly"],
+                    ["in modo semplice", "simply"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "title": "Exercise 1: Adjectives to Adverbs",
+          "instruction": "Change the adjectives into adverbs.",
+          "examples": ["lenta: lentamente", "rapida: rapidamente", "gentile: gentilmente"],
+          "items": [
+            { "question": "dolce", "answer": "dolcemente" },
+            { "question": "tranquillo", "answer": "tranquillamente" },
+            { "question": "semplice", "answer": "semplicemente" },
+            { "question": "allegro", "answer": "allegramente" },
+            { "question": "maggiore", "answer": "maggiormente" },
+            { "question": "irregolare", "answer": "irregolarmente" },
+            { "question": "probabile", "answer": "probabilmente" },
+            { "question": "chiaro", "answer": "chiaramente" },
+            { "question": "facile", "answer": "facilmente" },
+            { "question": "veloce", "answer": "velocemente" },
+            { "question": "lento", "answer": "lentamente" },
+            { "question": "utile", "answer": "utilmente" },
+            { "question": "attento", "answer": "attentamente" },
+            { "question": "rapido", "answer": "rapidamente" },
+            { "question": "leggero", "answer": "leggermente" }
+          ]
+        },
+        {
+          "title": "Exercise 2: Molto/Tanto, Troppo, Poco",
+          "instruction": "Supply the correct form of molto/tanto, troppo, or poco (adverbs or adjectives).",
+          "examples": ["Claudia mangia (molto) dolci: molto", "Monica ha (poco) amici: pochi"],
+          "items": [
+            { "question": "Claudia mangia (molto) dolci.", "answer": "molto" },
+            { "question": "Il tuo vestito è (molto) bello.", "answer": "molto" },
+            { "question": "Monica ha (poco) amici.", "answer": "pochi" },
+            { "question": "Tu spendi (troppo).", "answer": "troppo" },
+            { "question": "In mensa ci sono (troppo) studenti.", "answer": "troppi" },
+            { "question": "Davanti al cinema c’è (tanto) gente.", "answer": "tanta" },
+            { "question": "Mangi (troppo)!", "answer": "troppo" },
+            { "question": "Stefano abita (molto) lontano.", "answer": "molto" },
+            { "question": "Giulia mangia sempre (poco).", "answer": "poco" },
+            { "question": "Judy ha (molto) amiche italiane.", "answer": "molte" },
+            { "question": "Sto (poco) bene.", "answer": "poco" },
+            { "question": "Abitate in una casa (molto) bella.", "answer": "molto" },
+            { "question": "Signora, è (molto) stanca?", "answer": "molto" },
+            { "question": "Abbiamo (poco) tempo.", "answer": "poco" },
+            { "question": "Il film è (troppo) lungo.", "answer": "troppo" },
+            { "question": "Parli (molto) forte.", "answer": "molto" },
+            { "question": "C’è (tanto) rumore qui.", "answer": "tanto" },
+            { "question": "Studi (poco)?", "answer": "poco" },
+            { "question": "Il tuo amico è (troppo) pigro.", "answer": "troppo" },
+            { "question": "Abbiamo (poco) riviste.", "answer": "poche" }
+          ]
+        },
+        {
+          "title": "Exercise 3: Replace with Italian Expressions",
+          "instruction": "Replace the words in English with the appropriate expression from the list: a volte, di sicuro, con pazienza, senza esitazione, in modo nervoso, in tempo, con semplicità, di solito, con prudenza, a poco a poco, in maniera brusca, con coraggio.",
+          "examples": ["Dobbiamo agire (cautiously): con prudenza", "Andrea spiega tutto (patiently): con pazienza"],
+          "items": [
+            { "question": "Dobbiamo agire (cautiously).", "answer": "con prudenza" },
+            { "question": "Andrea spiega tutto (patiently).", "answer": "con pazienza" },
+            { "question": "Paolo guarda i professori (nervously).", "answer": "in modo nervoso" },
+            { "question": "(little by little) Gianni capisce il problema.", "answer": "a poco a poco" },
+            { "question": "Tullio risponde (unhesitatingly).", "answer": "senza esitazione" },
+            { "question": "(usually) rientra nel pomeriggio.", "answer": "di solito" },
+            { "question": "Lei non fa più (in time) a prendere il treno delle sette.", "answer": "in tempo" },
+            { "question": "Esprime (courageously) le sue opinioni.", "answer": "con coraggio" },
+            { "question": "Domenica vengo (for sure).", "answer": "di sicuro" },
+            { "question": "Il Signor Capello risponde (bluntly) a tutte le nostre domande.", "answer": "in maniera brusca" }
+          ]
+        },
+        {
+          "title": "Exercise 4: Translate into Italian",
+          "instruction": "Translate the following sentences into Italian.",
+          "examples": ["Sometimes I eat in the canteen: A volte mangio in mensa.", "The swimming pool is quite big: La piscina è abbastanza grande."],
+          "items": [
+            { "question": "Sometimes I eat in the canteen.", "answer": "A volte mangio in mensa." },
+            { "question": "The swimming pool is quite big.", "answer": "La piscina è abbastanza grande." },
+            { "question": "We often go out with our friends.", "answer": "Usciamo spesso con i nostri amici." },
+            { "question": "Have you [sing.] got enough money?", "answer": "Hai abbastanza soldi?" },
+            { "question": "You [sing.] have to speak slowly.", "answer": "Devi parlare piano." },
+            { "question": "Marina never eats cheese.", "answer": "Marina non mangia mai formaggio." },
+            { "question": "Francesca always arrives late.", "answer": "Francesca arriva sempre tardi." },
+            { "question": "I’ve been waiting for almost forty minutes!", "answer": "Aspetto da quasi quaranta minuti!" },
+            { "question": "Carla and Andrea are out.", "answer": "Carla e Andrea sono fuori." },
+            { "question": "Are your [sing.] parents well?", "answer": "I tuoi genitori stanno bene?" }
+          ]
+        }
+      ]
+    }
+  ]
+}
