@@ -423,9 +423,9 @@
   },
   "exercises": [
     {
-      "title": "Exercise 1: Present Tense of Verbs",
+      "title": "Exercise 1",
       "instruction": "Supply the present tense of the verb in brackets.",
-      "examples": [],
+      "examples": ["Non (io conoscere) tua mamma: conosco"],
       "items": [
         {"question": "Claudio (arrivare) con il prossimo treno.", "answer": "arriva"},
         {"question": "Anna (vivere) a Roma.", "answer": "vive"},
@@ -450,37 +450,47 @@
       ]
     },
     {
-      "title": "Exercise 2: Present Tense of Verbs",
+      "title": "Exercise 2",
       "instruction": "Supply the present tense of the verb in brackets.",
-      "examples": [],
+      "examples": ["(io bere) molta acqua: bevo"],
       "items": [
         {"question": "Stasera (loro) andare al cinema.", "answer": "vanno"},
         {"question": "La nostra fabbrica (produrre) pasta.", "answer": "produce"},
         {"question": "Domani (noi dare) una festa.", "answer": "diamo"},
         {"question": "(tu andare) spesso in spiaggia?", "answer": "vai"},
-        {"question": "(io dovere) studiare stasera.", "answer": "devo"},
-        {"question": "(voi volere) venire con noi?", "answer": "volete"},
-        {"question": "(tu potere) aprire la porta?", "answer": "puoi"},
-        {"question": "Non (io sapere) la risposta.", "answer": "so"},
-        {"question": "(loro bere) solo acqua.", "answer": "bevono"},
-        {"question": "(tu venire) alla festa?", "answer": "vieni"}
+        {"question": "(voi fare) gli esercizi?", "answer": "fate"},
+        {"question": "Non (noi riuscire) a capire.", "answer": "riusciamo"},
+        {"question": "(voi venire) a casa?", "answer": "venite"},
+        {"question": "Non (io potere) uscire oggi.", "answer": "posso"},
+        {"question": "(loro volere) dormire.", "answer": "vogliono"},
+        {"question": "(tu dire) la verità?", "answer": "dici"},
+        {"question": "Tu e Claudia (potere) partire.", "answer": "potete"},
+        {"question": "(io volere) studiare.", "answer": "voglio"},
+        {"question": "Dove (tu stare) adesso?", "answer": "stai"},
+        {"question": "Le mie sorelle non (sapere) nuotare.", "answer": "sanno"},
+        {"question": "Cosa (loro fare) stasera?", "answer": "fanno"},
+        {"question": "I vicini (dovere) rimanere a casa.", "answer": "devono"},
+        {"question": "(noi tradurre) in italiano.", "answer": "traduciamo"},
+        {"question": "Luigi (dovere) lavorare.", "answer": "deve"},
+        {"question": "(voi sapere) cantare?", "answer": "sapete"},
+        {"question": "I nostri amici (venire) a Roma.", "answer": "vengono"}
       ]
     },
     {
       "title": "Exercise 3: Translate into English",
-      "instruction": "Translate the following sentences into English.",
+      "instruction": "Translate the following sentences into Italian.",
       "examples": [],
       "items": [
-        {"question": "Non mangiate carne?", "answer": "Aren’t you eating meat?"},
-        {"question": "Dove abita, Giorgio?", "answer": "Where do you live, Giorgio?"},
-        {"question": "Non capisco l’italiano.", "answer": "I don’t understand Italian."},
-        {"question": "Anna e Paolo leggono molto.", "answer": "Anna and Paolo read a lot."},
-        {"question": "Non vogliamo uscire stasera.", "answer": "We don’t want to go out this evening."},
-        {"question": "Puoi venire domani?", "answer": "Can you come tomorrow?"},
-        {"question": "Bevo solo caffè.", "answer": "I drink only coffee."},
-        {"question": "Perché non andate a Firenze, Claudio?", "answer": "Why don’t you go to Florence, Claudio?"},
-        {"question": "Escono spesso la sera.", "answer": "They go out often in the evening."},
-        {"question": "I ragazzi giocano a calcio domani.", "answer": "The boys play football tomorrow."}
+        {"question": "You [pl.] have got to talk to Marcello.", "answer": "Dovete parlare con Marcello."},
+        {"question": "We’re leaving tonight.", "answer": "Partiamo stasera."},
+        {"question": "We’re getting the next bus.", "answer": "Prendiamo il prossimo autobus."},
+        {"question": "You [polite] can go to the cinema, Mr Buchan.", "answer": "(Lei) può andare al cinema, Signor Buchan."},
+        {"question": "We know how to use those mobile phones.", "answer": "Sappiamo usare quei cellulari."},
+        {"question": "She always prefers reading the paper.", "answer": "Preferisce sempre leggere il giornale."},
+        {"question": "The baby’s asleep.", "answer": "Il bambino dorme."},
+        {"question": "I’m coming to Turin this summer.", "answer": "Vengo a Torino quest’estate."},
+        {"question": "They often go out in the evening.", "answer": "Escono spesso la sera."},
+        {"question": "The boys are playing football tomorrow.", "answer": "I ragazzi giocano a pallone domani."}
       ]
     },
     {
