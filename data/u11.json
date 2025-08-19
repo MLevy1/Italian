@@ -1,0 +1,279 @@
+{
+    "unitNumber": 11,
+    "text": {
+        "title": "Unit Eleven: Piacere and Similar Verbs",
+        "sections": [
+            {
+                "title": "Introduction to Piacere",
+                "paragraphs": [
+                    {
+                        "id": 1,
+                        "content": "**Piacere** corresponds to ‘to like’, but it is used in a different way from its English counterpart. In Italian, the subject of the verb/sentence is the thing or person one likes; the person who likes something is denoted by an indirect object pronoun (see Unit 10):"
+                    }
+                ]
+            },
+            {
+                "title": "Forms of Piacere",
+                "paragraphs": [
+                    {
+                        "id": 2,
+                        "content": "**Piacere** is an irregular verb mostly used in the third person singular (**piace**) and plural (**piacciono**). As can be seen in the examples, **piace** is used if the thing that one likes is a singular noun or pronoun, or the infinitive of a verb; **piacciono** is used if the things that one likes are a plural noun or pronoun:"
+                    },
+                    {
+                        "content": "**Singular noun or pronoun**",
+                        "table": {
+                            "headers": ["Indirect Object Pronoun", "Verb", "Italian", "English"],
+                            "rows": [
+                                ["mi (to me)", "piace", "la mia città", "I like my home town."],
+                                ["ti (to you)", "piace", "questo/questa", "You like this (one)."],
+                                ["gli/le (to him/her)", "piace", "il calcio", "He/she likes football."],
+                                ["ci (to us)", "piace", "la musica rock", "We like rock music."],
+                                ["vi (to you)", "piace", "il tennis", "You like tennis."],
+                                ["gli (to them)", "piace", "quello/quella", "They like that one."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "**Verb**",
+                        "table": {
+                            "headers": ["Indirect Object Pronoun", "Verb", "Italian", "English"],
+                            "rows": [
+                                ["mi (to me)", "piace", "leggere", "I like to read/reading."],
+                                ["ti (to you)", "piace", "andare in bici", "You like to cycle/cycling."],
+                                ["gli/le (to him/her)", "piace", "sciare", "He/she likes to ski/skiing."],
+                                ["ci (to us)", "piace", "guardare la tv", "We like to watch/watching TV."],
+                                ["vi (to you)", "piace", "dormire", "You like to sleep/sleeping."],
+                                ["gli (to them)", "piace", "ballare", "They like to dance/dancing."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "**Plural noun or pronoun**",
+                        "table": {
+                            "headers": ["Indirect Object Pronoun", "Verb", "Italian", "English"],
+                            "rows": [
+                                ["mi (to me)", "piacciono", "questi/queste", "I like these."],
+                                ["ti (to you)", "piacciono", "le ciliegie", "You like cherries."],
+                                ["gli/le (to him/her)", "piacciono", "i romanzi", "He/she likes novels."],
+                                ["ci (to us)", "piacciono", "quelli/quelle", "We like those."],
+                                ["vi (to you)", "piacciono", "gli scherzi", "You like practical jokes."],
+                                ["gli (to them)", "piacciono", "le auto veloci", "They like fast cars."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "**Mi piacciono i gatti.** (I like cats. [lit. cats are pleasing to me])"
+                    }
+                ]
+            },
+            {
+                "title": "Negative Form",
+                "paragraphs": [
+                    {
+                        "id": 3,
+                        "content": "The negative is formed by putting **non** before the pronoun:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Non mi piace** la pizza.", "I don’t like pizza."],
+                                ["**Non ti piace** questo/questa?", "Don’t you like this (one)?"],
+                                ["**Non le piace** sciare.", "She doesn’t like skiing."],
+                                ["**Non ci piacciono** i videogiochi.", "We don’t like video games."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Polite Form",
+                "paragraphs": [
+                    {
+                        "id": 4,
+                        "content": "As usual, for the polite form in the singular the feminine pronoun (**Le**) is used for both men and women; for the plural **Vi** is normally used:"
+                    },
+                    {
+                        "content": "* **Loro** is a much more formal way of addressing people in the plural; it is always placed after the verb.",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Le piacciono** i funghi, Signora Vanni?", "Do you like mushrooms, Mrs Vanni?"],
+                                ["**Le piace** leggere, Signor Vanni?", "Do you like reading, Mr Vanni?"],
+                                ["**Non Le piace** quello/quella?", "Don’t you like that one?"],
+                                ["**Non Le piace** sciare?", "Don’t you like skiing?"],
+                                ["Signori Conti, **Vi piace** l’Italia?", "Do you like Italy, Mr and Mrs Conti?"],
+                                ["Signori Conti, **piace Loro** l’Italia?*", "Do you like Italy, Mr and Mrs Conti?"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Piacere with Nouns",
+                "paragraphs": [
+                    {
+                        "id": 5,
+                        "content": "When the person who likes something is denoted not by a pronoun but by a noun, the noun must be preceded by the preposition **a**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**A Claudia non piace** andare a scuola.", "Claudia doesn’t like going to school."],
+                                ["**Allo zio Davide piace** la musica classica.", "Uncle Davide likes classical music."],
+                                ["**A Piera non piacciono** questi/queste.", "Piera doesn’t like these."],
+                                ["**Ai miei nonni piace** dormire.", "My grandparents like sleeping."],
+                                ["**A Franco e Luisa piace** viaggiare.", "Franco and Luisa like travelling."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Contrast with Stressed Pronouns",
+                "paragraphs": [
+                    {
+                        "id": 6,
+                        "content": "To mark a contrast, the stressed forms of the pronouns (**a me**, **a te**, **a lui**/**a lei**, **a noi**, **a voi**, **a loro** – see Unit 14) are used instead of the unstressed forms:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**A me piace** il tè, **a te piace** il caffè.", "I like tea, you like coffee."],
+                                ["**A lui piace** sciare, ma **a lei piace** pattinare.", "He likes skiing, but she likes skating."],
+                                ["**A noi piacciono** i film, **a voi piacciono** i libri.", "We like films, you like books."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Other Verbs Like Piacere",
+                "paragraphs": [
+                    {
+                        "id": 7,
+                        "content": "There are other verbs which are used in the same way as **piacere**: **mancare** (to miss) [lit. ‘to be lacking/missing’]; **servire** (to need) [lit. ‘to be useful’]; **bastare** (to be enough/sufficient) and **sembrare** and **parere** (to seem):",
+                        "table": {
+                            "headers": ["Verb", "Italian", "English"],
+                            "rows": [
+                                ["mancare", "**Mi manca** la mia famiglia.", "I miss my family. [lit. My family is lacking to me]"],
+                                ["servire", "**Ti serve** una penna?", "Do you need a pen? [lit. Is a pen useful to you?]"],
+                                ["bastare", "**Gli basta** una settimana di vacanza.", "A week of vacation is enough for him. [lit. A week of vacation is sufficient to him]"],
+                                ["sembrare", "**Ci sembra** una buona idea.", "It seems like a good idea to us."],
+                                ["parere", "**Vi pare** giusto?", "Does it seem fair to you?"]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1: Replace with Pronouns",
+            "instruction": "Rewrite the sentences, replacing the words in italics with the correct pronoun.",
+            "examples": [
+                "**A Claudia non piace** andare a scuola.: **Non le piace** andare a scuola.",
+                "**A Franco e Luisa piace** viaggiare.: **Gli piace** viaggiare."
+            ],
+            "items": [
+                { "question": "**A Federica non piacciono** i carciofi.", "answer": "Non le piacciono i carciofi." },
+                { "question": "**A Giampiero non piace** guidare.", "answer": "Non gli piace guidare." },
+                { "question": "**A Massimo piace** viaggiare.", "answer": "Gli piace viaggiare." },
+                { "question": "**A Tullio e Anna piace** il mare.", "answer": "Gli piace il mare." },
+                { "question": "**Ai miei amici piace** ballare.", "answer": "Gli piace ballare." },
+                { "question": "**A me e a Marco non piace** il pesce.", "answer": "Non ci piace il pesce." },
+                { "question": "**A te e a Marina piace** nuotare?", "answer": "Vi piace nuotare?" },
+                { "question": "**A Mara piacciono** i film francesi.", "answer": "Le piacciono i film francesi." },
+                { "question": "**Alla mamma non piace** stirare.", "answer": "Non le piace stirare." },
+                { "question": "**Allo zio piace** andare in moto.", "answer": "Gli piace andare in moto." }
+            ]
+        },
+        {
+            "title": "Exercise 2: Negative Sentences",
+            "instruction": "Change the sentences into the negative.",
+            "examples": [
+                "**Le piace** andare in centro il sabato.: **Non le piace** andare in centro il sabato.",
+                "**Ti piace** la musica classica?: **Non ti piace** la musica classica?"
+            ],
+            "items": [
+                { "question": "**Le piace** andare in centro il sabato.", "answer": "Non le piace andare in centro il sabato." },
+                { "question": "**Ti piace** la musica classica?", "answer": "Non ti piace la musica classica?" },
+                { "question": "**Gli piacciono** i funghi.", "answer": "Non gli piacciono i funghi." },
+                { "question": "**Vi piace** guardare la televisione?", "answer": "Non vi piace guardare la televisione?" },
+                { "question": "**Mi piacciono** i film di fantascienza.", "answer": "Non mi piacciono i film di fantascienza." },
+                { "question": "**Gli piace** la scuola.", "answer": "Non gli piace la scuola." },
+                { "question": "**Ci piacciono** le canzoni italiane.", "answer": "Non ci piacciono le canzoni italiane." },
+                { "question": "**Le piacciono** gli spaghetti.", "answer": "Non le piacciono gli spaghetti." },
+                { "question": "**Mi piace** sciare.", "answer": "Non mi piace sciare." },
+                { "question": "**Vi piace** la cioccolata al latte?", "answer": "Non vi piace la cioccolata al latte?" }
+            ]
+        },
+        {
+            "title": "Exercise 3: Express Your Taste",
+            "instruction": "Write sentences expressing your taste using **piacere**. Use affirmative or negative as you prefer.",
+            "examples": [
+                "**Mi piace** la frutta.",
+                "**Non mi piace** il calcio."
+            ],
+            "items": [
+                { "question": "la frutta", "answer": "" },
+                { "question": "il calcio", "answer": "" },
+                { "question": "le fragole", "answer": "" },
+                { "question": "leggere", "answer": "" },
+                { "question": "i gatti", "answer": "" }
+            ]
+        },
+        {
+            "title": "Exercise 4: Make Sentences",
+            "instruction": "Make sentences using the verb **piacere** and the prompts given.",
+            "examples": [
+                "mio fratello / la pizza: **A mio fratello piace** la pizza.",
+                "i miei amici / sciare: **Ai miei amici piace** sciare."
+            ],
+            "items": [
+                { "question": "mio fratello / la pizza", "answer": "A mio fratello piace la pizza." },
+                { "question": "i miei amici / sciare", "answer": "Ai miei amici piace sciare." },
+                { "question": "mia sorella / andare al cinema", "answer": "A mia sorella piace andare al cinema." },
+                { "question": "i miei cugini / i film di Fellini", "answer": "Ai miei cugini piacciono i film di Fellini." },
+                { "question": "il primo ministro / la politica", "answer": "Al primo ministro piace la politica." }
+            ]
+        },
+        {
+            "title": "Exercise 5: Supply Verb Forms",
+            "instruction": "Supply the correct form of the verbs in brackets.",
+            "examples": [
+                "**Ci (bastare)** questo pane?: **Ci basta** questo pane?",
+                "**Vi (sembrare)** bello quel film?: **Vi sembra** bello quel film?"
+            ],
+            "items": [
+                { "question": "**Ci (bastare)** questo pane?", "answer": "Ci basta questo pane?" },
+                { "question": "**Vi (sembrare)** bello quel film?", "answer": "Vi sembra bello quel film?" },
+                { "question": "**Ci (piacere)** le auto sportive.", "answer": "Ci piacciono le auto sportive." },
+                { "question": "**A Sebastiano (mancare)** la mamma!", "answer": "A Sebastiano manca la mamma!" },
+                { "question": "‘Voglio comprare una moto.’ ‘**Ti (servire)** dei soldi?’", "answer": "Ti servono dei soldi?" },
+                { "question": "**A Livio (mancare)** i soldi per le vacanze.", "answer": "A Livio mancano i soldi per le vacanze." },
+                { "question": "**Quello che dici mi (sembrare)** interessante.", "answer": "Quello che dici mi sembra interessante." },
+                { "question": "**Mi (servire)** delle scarpe nuove.", "answer": "Mi servono delle scarpe nuove." },
+                { "question": "**Quale di quei due libri ti (parere)** migliore?", "answer": "Quale di quei due libri ti pare migliore?" },
+                { "question": "**Non ti (bastare)** 20 euro?", "answer": "Non ti bastano 20 euro?" }
+            ]
+        },
+        {
+            "title": "Exercise 6: Translate into Italian",
+            "instruction": "Translate into Italian, using the verbs **piacere**, **sembrare**, **servire**, **mancare**, or **bastare**.",
+            "examples": [
+                "An hour isn’t enough for me!: **Non mi basta** un’ora!",
+                "Giovanni needs a pen.: **A Giovanni serve** una penna."
+            ],
+            "items": [
+                { "question": "An hour isn’t enough for me!", "answer": "Non mi basta un’ora!" },
+                { "question": "Giovanni needs a pen.", "answer": "A Giovanni serve una penna." },
+                { "question": "Lynne’s missing her Italian friends.", "answer": "A Lynne mancano i suoi amici italiani." },
+                { "question": "Do you [sing.] like chocolate?", "answer": "Ti piace il cioccolato?" },
+                { "question": "She doesn’t like going to the cinema.", "answer": "Non le piace andare al cinema." },
+                { "question": "Do you [pl.] need a lift?", "answer": "Vi serve un passaggio??" },
+                { "question": "They need a pen and a notebook.", "answer": "Gli servono una penna e un quaderno." },
+                { "question": "Do you find the show boring, Madam?", "answer": "Le sembra noioso lo spettacolo, Signora?" },
+                { "question": "Do you [sing.] need help?", "answer": "Ti serve aiuto?" },
+                { "question": "I like reading.", "answer": "Mi piace leggere." }
+            ]
+        }
+    ]
+}
