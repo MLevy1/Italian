@@ -1,362 +1,231 @@
 {
-    "unitNumber": 8,
+    "unitNumber": 9,
     "text": {
-        "title": "Unit Eight: Prepositions",
+        "title": "Unit Nine: Questions",
         "sections": [
             {
-                "title": "Common Italian Prepositions",
+                "title": "1. Chi?",
                 "paragraphs": [
                     {
-                        "id": 1,
-                        "content": "The most common Italian prepositions are the following:",
+                        "content": "Chi means ‘who/whom’, or sometimes ‘which of’, and is only used to refer to people. Chi is invariable – that is, the same form is used for masculine and feminine, singular and plural:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["di", "of"],
-                                ["a", "to"],
-                                ["da", "from"],
-                                ["in", "in"],
-                                ["con", "with"],
-                                ["su", "on"],
-                                ["per", "for"],
-                                ["tra/fra*", "among, between"]
+                                ["Chi è quell’uomo?", "Who is that man?"],
+                                ["Chi è quella ragazza?", "Who is that girl?"],
+                                ["Chi sono i tuoi amici?", "Who are your friends?"],
+                                ["Chi sono quelle ragazze?", "Who are those girls?"],
+                                ["Chi vuole venire al cinema con me?", "Who wants to come to the cinema with me?"],
+                                ["Chi viene a cena?", "Who’s coming for dinner?"],
+                                ["Con chi esci?", "Who(m) are you going out with?"],
+                                ["A chi scrivete?", "Who(m) are you writing to?"],
+                                ["Chi ha una penna?", "Who’s got a pen? [i.e. has anyone got a pen?]"],
+                                ["Chi non va in gita domani?", "Who’s not going on the trip tomorrow?"],
+                                ["Chi non inviti?", "Who(m) aren’t you inviting?"],
+                                ["Chi di loro parla italiano?", "Which of them speaks Italian?"]
                             ]
                         }
                     },
                     {
-                        "content": "* The meaning of tra and fra is the same."
-                    },
-                    {
-                        "content": "These prepositions often correspond to the English counterparts we give here. However, as we shall see, each of them also has a number of other meanings, corresponding to other English prepositions."
-                    }
-                ]
-            },
-            {
-                "title": "Prepositions Combined with Articles",
-                "paragraphs": [
-                    {
-                        "id": 2,
-                        "content": "The prepositions di, a, da, in, and su, when used together with a noun preceded by the definite article, always combine with the article:",
-                        "table": {
-                            "headers": ["", "il", "lo", "l’", "la", "i", "gli", "le"],
-                            "rows": [
-                                ["di", "del", "dello", "dell’", "della", "dei", "degli", "delle"],
-                                ["a", "al", "allo", "all’", "alla", "ai", "agli", "alle"],
-                                ["da", "dal", "dallo", "dall’", "dalla", "dai", "dagli", "dalle"],
-                                ["in", "nel", "nello", "nell’", "nella", "nei", "negli", "nelle"],
-                                ["su", "sul", "sullo", "sull’", "sulla", "sui", "sugli", "sulle"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "The preposition con normally combines only with il and i, as col and coi; this form is common in spoken Italian, though con il and con i are often found in the written language:",
-                        "table": {
-                            "headers": ["", "il", "lo", "l’", "la", "i", "gli", "le"],
-                            "rows": [
-                                ["con", "col", "(collo)", "(coll’)", "(colla)", "coi", "(cogli)", "(colle)"]
-                            ]
-                        }
-                    },
-                    {
+                        "content": "When an adjective refers to chi, it must be in the masculine singular form unless it refers to an all-female group:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["di + il ragazzo", "del ragazzo (of the boy)"],
-                                ["a + lo studente", "allo studente (to the student)"],
-                                ["da + l’albergo", "dall’albergo (from the hotel)"],
-                                ["in + la scuola", "nella scuola (in the school)"],
-                                ["su + i divani", "sui divani (on the sofas)"],
-                                ["con + i libri", "coi libri (with the books)"],
-                                ["con + le chiavi", "con le chiavi (with the keys)"],
-                                ["per + gli insegnanti", "per gli insegnanti (for the teachers)"],
-                                ["fra + i calciatori", "fra i calciatori (among the footballers)"]
+                                ["Chi è pronto?", "Who is ready?"],
+                                ["Chi è soddisfatto?", "Who is satisfied?"],
+                                ["Chi non è stanco?", "Who isn’t tired?"],
+                                ["Chi di voi (ragazze) è pronta?", "Which of you (girls) is ready?"],
+                                ["Chi di voi (Signori) è italiano?", "Which of you (gentlemen) is Italian?"]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Using Prepositions",
+                "title": "2. Che cosa? Cosa? Che?",
                 "paragraphs": [
                     {
-                        "id": 3,
-                        "content": "As in many other languages, there is so much variation in how Italian prepositions are used that it is not feasible to give simple rules covering every possibility. To appreciate the problem, you only have to look at a few of the possible uses of the preposition di:"
-                    },
-                    {
+                        "content": "All three mean ‘what’ and are used when referring to objects. Che cosa?, Cosa? and Che? are invariable in gender and number:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["il presidente della repubblica", "the president of the republic"],
-                                ["Il libro è di Calvino.", "The book is by Calvino."],
-                                ["Sono di Roma.", "I’m from Rome."],
-                                ["Di pomeriggio fanno sempre la siesta.", "They always have a nap in the afternoon."]
+                                ["Cos’è quello?", "What’s that?"],
+                                ["Che cos’è quella luce?", "What’s that light?"],
+                                ["Cosa sono quei segni?", "What are those marks?"],
+                                ["Che sono quelle costruzioni?", "What are those buildings?"],
+                                ["Che succede?", "What’s happening?"],
+                                ["Che cosa volete?", "What do you want?"],
+                                ["Cosa studi?", "What are you studying/do you study?"],
+                                ["Cosa posso fare per Lei?", "What can I do for you?"],
+                                ["A che pensate?", "What are you thinking about?"]
                             ]
                         }
                     },
                     {
-                        "content": "Sometimes, Italian even has a preposition where English does not:",
+                        "content": "Che is also used as an adjective meaning ‘what (sort/type of)’:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["l’auto di Anna", "Anna’s car"],
-                                ["Vuoi della frutta?", "Do you want (some/any) fruit?"],
-                                ["Ci sono alcune migliaia di persone nella piazza.", "There are a few thousand people in the square."],
-                                ["Ho una bella camicia di seta.", "I’ve got a lovely silk shirt."]
+                                ["Che lavoro fai?", "What’s your job? [lit. what work do you do?]" ],
+                                ["Che musica ascolti di solito?", "What (sort of) music do you usually listen to?"],
+                                ["Che film vai a vedere?", "What film are you going to see?"],
+                                ["Che auto compra tuo padre?", "What (make of) car is your father going to buy?"]
                             ]
                         }
-                    },
-                    {
-                        "content": "Since there is not a simple set of rules governing prepositions in Italian, what we are going to do is show some typical uses of the common ones listed above. The more you hear and read Italian, the more you will encounter different uses of these and other prepositions; the best way of mastering them is to learn them and practise them as you go along."
                     }
                 ]
             },
             {
-                "title": "Uses of Di",
+                "title": "3. Come?",
                 "paragraphs": [
                     {
-                        "id": 4,
-                        "content": "Di is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["possession", "La moto di Luca è rossa.", "Luca’s motorbike is red."],
-                                ["material", "una giacca di pelle", "a leather jacket"],
-                                ["time", "Di sera non esco.", "I don’t go out in the evening(s)."],
-                                ["subject", "una lezione di storia", "a history lesson"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "The most common uses of di are the ones which correspond to the English possessive (‘s) and the noun + noun structure:",
+                        "content": "Come means ‘how’:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["il libro di Calvino", "Calvino’s book"],
-                                ["la casa di Anna", "Anna’s house"]
+                                ["Come sta, Signora?", "How are you, Madam?"],
+                                ["Come va?", "How’s it going?"],
+                                ["Come fate la pizza?", "How do you make (a) pizza?"]
                             ]
                         }
                     },
                     {
-                        "content": "Di is frequently used in partitive constructions, i.e. to express the English ‘some’ or ‘any’ in such sentences as ‘I’d like some bread’, ‘Have you any pasta?’:",
+                        "content": "Come can sometimes mean ‘what’, as in Come dici? (What did you say?), Com’è Edimburgo/il nuovo professore? (What’s Edinburgh/the new teacher like?)."
+                    }
+                ]
+            },
+            {
+                "title": "4. Dove?",
+                "paragraphs": [
+                    {
+                        "content": "Dove means ‘where’:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["Vuoi del pane?", "Do you want some bread?"],
-                                ["Abbiamo della pasta e delle olive.", "We’ve got (some) pasta and (some) olives."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "Di is also used, followed by a verb in the infinitive, after certain verbs like credere (to believe), pensare (to think), dire (to say), sperare (to hope), finire (to finish), smettere (to stop):"
-                    }
-                ]
-            },
-            {
-                "title": "Uses of A",
-                "paragraphs": [
-                    {
-                        "content": "A is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["direction/movement", "Andiamo a Roma.", "We’re going to Rome."],
-                                ["location", "Abito a Milano.", "I live in Milan."],
-                                ["time", "A che ora parti?", "What time are you leaving?"],
-                                ["indirect object", "Do il libro a Maria.", "I give the book to Maria."]
+                                ["Dove sei?", "Where are you?"],
+                                ["Dove andate?", "Where are you going?"],
+                                ["Dove abita?", "Where does he/she live?"],
+                                ["Da dove venite?", "Where do you come from?"],
+                                ["Dov’è il museo?", "Where’s the museum?"],
+                                ["Dove sono i miei libri?", "Where are my books?"]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Uses of Da",
+                "title": "5. Quando?",
                 "paragraphs": [
                     {
-                        "content": "Da is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["origin/source", "Vengo da Londra.", "I come from London."],
-                                ["agent", "È stato fatto da me.", "It was done by me."],
-                                ["time (since)", "Studio da due ore.", "I’ve been studying for two hours."],
-                                ["purpose", "occhiali da sole", "sunglasses"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of In",
-                "paragraphs": [
-                    {
-                        "content": "In is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["location", "Vivo in Italia.", "I live in Italy."],
-                                ["means of transport", "Vado in treno.", "I go by train."],
-                                ["time (period)", "Nel 2000.", "In 2000."],
-                                ["specific place", "Compro il pane in panetteria.", "I buy bread at the bakery/the baker’s."]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Su",
-                "paragraphs": [
-                    {
-                        "content": "Su is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["location", "Devi camminare sul marciapiede.", "You have to walk on the pavement."],
-                                ["position", "il ponte sul’Arno", "the bridge over the Arno"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Per",
-                "paragraphs": [
-                    {
-                        "content": "Per is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["destination", "Parti per Dublino?", "Are you leaving for Dublin?"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Tra/Fra",
-                "paragraphs": [
-                    {
-                        "content": "Tra/Fra is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["position", "Novara è tra Torino e Milano.", "Novara is between Turin and Milan."],
-                                ["relationship", "Siamo fra amici.", "We are among friends."]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Prepositions of Time",
-                "paragraphs": [
-                    {
-                        "id": 15,
-                        "content": "Some examples of the different prepositions used to denote time:"
-                    },
-                    {
-                        "id": 16,
-                        "content": "Di is used with the days of the week and parts of the day:",
+                        "content": "Quando means ‘when’:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["Di domenica non lavoro.", "I don’t work on Sundays."],
-                                ["Di sera guardo la tv.", "In the evenings I watch TV."],
-                                ["Di lunedì andiamo in piscina.", "On Mondays we go to the swimming pool."],
-                                ["Di mattina vado a scuola.", "In the morning I go to school."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "In these cases, di is always used without the definite article."
-                    },
-                    {
-                        "id": 17,
-                        "content": "A is used with names of festivities, months and hours of the day:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["A Natale rimaniamo a casa.", "At Christmas we stay at home."],
-                                ["A Pasqua Piera va in Italia.", "At Easter Piera is going to Italy."],
-                                ["Il museo riapre a marzo.", "The museum reopens/will reopen in March."],
-                                ["Il treno parte alle 12.", "The train is leaving at 12."],
-                                ["Di solito mangiano a mezzogiorno.", "They normally eat at midday."],
-                                ["Donatella arriva alle 7.", "Donatella will arrive at seven."]
-                            ]
-                        }
-                    },
-                    {
-                        "id": 18,
-                        "content": "In is used with years, centuries and seasons:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["Sono nato nel 1990.", "I was born in 1990."],
-                                ["Studio il turismo nel XIX secolo.", "I’m studying tourism in the nineteenth century."],
-                                ["Gli esami sono in primavera.", "The exams are/will be in the spring."],
-                                ["In autunno piove molto.", "In autumn it rains a lot."]
+                                ["Quando parti?", "When are you leaving?"],
+                                ["Quando torni?", "When are you coming back?"],
+                                ["Quando è il tuo compleanno?", "When’s your birthday?"],
+                                ["Quando ci vediamo?", "When shall we see each other?"],
+                                ["Da quando studi l’italiano?", "Since when/how long have you been studying Italian?"]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "A or In?",
+                "title": "6. Perché?",
                 "paragraphs": [
                     {
-                        "id": 19,
-                        "content": "Sometimes it can be difficult to know whether to use a or in, so we list below common expressions using these two prepositions:",
+                        "content": "Perché means ‘why’ or ‘because’. As a question word it is invariable:",
                         "table": {
-                            "headers": ["A", "In"],
+                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["a casa - (at) home", "in pizzeria - in/to/at a/the pizzeria/pizza parlour"],
-                                ["a scuola - at/to school", "in discoteca - in/to the disco"],
-                                ["a letto - in/to bed", "in città - in/to town"],
-                                ["a lezione - in class/to (one’s) class", "in centro - in/to the city centre"],
-                                ["a tavola - to the table [i.e. come and sit down]/at table", "in chiesa - in/to church"],
-                                ["a destra/a sinistra - (on/to the) right/left", "in mensa - in/to the canteen"],
-                                ["a nord/a sud/a est/a ovest - (in/to the) north/south/east/west", "in camera - in/to the bedroom"],
-                                ["a mezzogiorno/a mezzanotte - at midday/midnight", "in bagno - in/to the bathroom"],
-                                ["a metà - in the middle/mid", "in classe - in/to the classroom"],
-                                ["all’ombra/al sole - in the shade/in the sun", "in palestra - in/to the gym"],
-                                ["al bar - in the bar", "in caserma - in/to the barracks"],
-                                ["al ristorante - at/to the restaurant", "in prigione - in/to prison"],
-                                ["alla stazione - at/in/to the station", "in ufficio - in/to the office"],
-                                ["", "in piscina - at/to the swimming pool"]
+                                ["Perché non mangi?", "Why aren’t you eating?"],
+                                ["Perché sei in ritardo?", "Why are you late?"],
+                                ["Perché Giulia non va a scuola?", "Why isn’t Giulia going to school?"],
+                                ["Perché non studi?", "Why don’t you study?"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Come mai has a similar meaning, corresponding to the English ‘how come’:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Come mai non mangi?", "How come you’re not eating?"],
+                                ["Come mai siete in ritardo?", "How come you are late?"]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Compound Prepositions",
+                "title": "7. Quanto?",
                 "paragraphs": [
                     {
-                        "id": 20,
-                        "content": "Italian also has a number of ‘compound prepositions’, e.g. accanto a, ‘next to/beside’, invece di, ‘instead of’. Some of these are always in the compound form, others include di only when followed by a personal pronoun. We give here a list of the most common ones:",
+                        "content": "Quanto means ‘how much’ when referring to quantity, and ‘how long’, ‘how far’, ‘how tall’, etc. when it refers to time, distance, height, etc.:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["accanto a", "next to/beside"],
-                                ["davanti a", "in front of"],
-                                ["dietro a", "behind"],
-                                ["in mezzo a", "in the middle of"],
-                                ["invece di*", "instead of"],
-                                ["a causa di*", "because of"],
-                                ["per via di*", "because of/due to"]
+                                ["Quanto pesa?", "How much/What does it weigh?"],
+                                ["Quanto costa questa maglietta?", "How much/What does this T-shirt cost?"],
+                                ["Quanto dura il film?", "How long does the film last?"],
+                                ["Quanto è alta tua sorella?", "How tall is your sister?"],
+                                ["Quant’è?", "How much is it?"]
                             ]
                         }
                     },
                     {
-                        "content": "* When these prepositions are used with a personal pronoun, the pronoun is preceded by the preposition di (see Unit 14)."
-                    },
-                    {
+                        "content": "Quanto can also be used as an adjective or pronoun. In such cases it agrees in gender and number with the noun it refers to: quanto [ms], quanta [fs] (how much), quanti [mp], quante [fp] (how many):",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["La macchina è accanto alla casa.", "The car is next to the house."],
-                                ["Il gatto è davanti alla porta.", "The cat is in front of the door."],
-                                ["Sto in mezzo agli amici.", "I’m in the middle of friends."],
-                                ["Vado in pizzeria invece di andare al ristorante.", "I’m going to the pizzeria instead of going to the restaurant."]
+                                ["Quanto pane devo comprare?", "How much bread do I have to buy?"],
+                                ["Quanta pasta vuoi?", "How much pasta do you want?"],
+                                ["Quanti esercizi dobbiamo fare?", "How many exercises have we got to do?"],
+                                ["Quante ragazze ci sono in classe tua?", "How many girls are there in your class?"],
+                                ["Quanto tempo abbiamo?", "How much time is there?/How long have we got?"],
+                                ["‘Ci sono molte persone.’ ‘Quante?’", "‘There are a lot of people.’ ‘How many?’"],
+                                ["‘Dobbiamo comprare del pane.’ ‘Quanto?’", "‘We must get (some) bread.’ ‘How much?’"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "8. Quale?",
+                "paragraphs": [
+                    {
+                        "content": "Quale means ‘which’ (or sometimes ‘what’). It is used either as an adjective or as a pronoun, and therefore agrees with the noun it refers to: quale, ‘which (one)’, quali, ‘which (ones)’. The use of quale rather than che usually implies that there is a choice, as for example if there are some books lying on the table: Quale libro leggi? ‘Which book are you reading?’:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Quale canzone preferisci?", "Which song do you prefer?"],
+                                ["Quali esercizi facciamo?", "Which exercises are we doing?"],
+                                ["Quali sono i tuoi libri?", "Which are your books?"],
+                                ["‘Compro due giornali.’ ‘Quali?’", "‘I’m buying two papers.’ ‘Which ones?’"],
+                                ["Qual è la canzone più famosa?*", "Which/What is the best-known song?"],
+                                ["Qual è il Suo indirizzo/numero di telefono?*", "What’s your address/phone number?"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* Qual (without an apostrophe) is used before the forms of essere starting with a vowel; used in this way, it sometimes means ‘what’ rather than ‘which’."
+                    }
+                ]
+            },
+            {
+                "title": "9. Shortened Forms",
+                "paragraphs": [
+                    {
+                        "content": "As is seen in some of the examples in paragraphs 2, 3, 4 and 7, cosa, che cosa, come, dove and quanto can also be shortened before the forms of essere starting with a vowel, becoming cos’, che cos’, com’, dov’ and quant’ (all with an apostrophe):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Cos’era quel rumore?", "What was that noise?"],
+                                ["Che cos’è successo?", "What happened?"],
+                                ["Com’era lo spettacolo?", "How was the show?"],
+                                ["Dov’è la stazione?", "Where is the station?"],
+                                ["Quant’è costato?", "How much did it cost?"]
                             ]
                         }
                     }
@@ -366,121 +235,91 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Combine Prepositions and Articles",
-            "instruction": "Combine the prepositions and the definite articles.",
-            "examples": ["di + la mamma: della mamma", "a + lo stadio: allo stadio"],
+            "title": "Exercise 1: Complete with chi or che/cosa/che cosa",
+            "instruction": "Complete the sentences with chi or che/cosa/che cosa as appropriate.",
+            "examples": ["____ sono quei signori?: Chi", "____ di loro è tuo cugino?: Chi"],
             "items": [
-                { "question": "di + la mamma", "answer": "della mamma" },
-                { "question": "di + lo zio", "answer": "dello zio" },
-                { "question": "di + gli amici", "answer": "degli amici" },
-                { "question": "di + il parco", "answer": "del parco" },
-                { "question": "di + l’auto", "answer": "dell’auto" },
-                { "question": "di + i paesi", "answer": "dei paesi" },
-                { "question": "di + le stanze", "answer": "delle stanze" },
-                { "question": "a + il mare", "answer": "al mare" },
-                { "question": "a + lo stadio", "answer": "allo stadio" },
-                { "question": "a + la stazione", "answer": "alla stazione" },
-                { "question": "a + i ragazzi", "answer": "ai ragazzi" },
-                { "question": "a + gli uomini", "answer": "agli uomini" },
-                { "question": "a + le donne", "answer": "alle donne" },
-                { "question": "a + l’ospedale", "answer": "all’ospedale" },
-                { "question": "da + la zia", "answer": "dalla zia" },
-                { "question": "da + lo studente", "answer": "dallo studente" },
-                { "question": "da + il dentista", "answer": "dal dentista" },
-                { "question": "da + l’aeroporto", "answer": "dall’aeroporto" },
-                { "question": "da + gli uffici", "answer": "dagli uffici" },
-                { "question": "da + le colleghe", "answer": "dalle colleghe" },
-                { "question": "da + i ministri", "answer": "dai ministri" },
-                { "question": "in + l’albergo", "answer": "nell’albergo" },
-                { "question": "in + lo stipendio", "answer": "nello stipendio" },
-                { "question": "in + la casa", "answer": "nella casa" },
-                { "question": "in + gli anni", "answer": "negli anni" },
-                { "question": "in + i cassetti", "answer": "nei cassetti" },
-                { "question": "in + le camere", "answer": "nelle camere" },
-                { "question": "in + il frigo", "answer": "nel frigo" },
-                { "question": "su + il tavolo", "answer": "sul tavolo" },
-                { "question": "su + la sedia", "answer": "sulla sedia" },
-                { "question": "su + lo scaffale", "answer": "sullo scaffale" },
-                { "question": "su + le spalle", "answer": "sulle spalle" }
+                { "question": "____ sono quei signori?", "answer": "Chi" },
+                { "question": "____ di loro è tuo cugino?", "answer": "Chi" },
+                { "question": "Con ____ uscite stasera?", "answer": "chi" },
+                { "question": "____ posso fare per te?", "answer": "Che cosa" },
+                { "question": "____ studiate?", "answer": "Che cosa" },
+                { "question": "____ viene con me?", "answer": "Chi" },
+                { "question": "____ accompagna Luca?", "answer": "Chi" },
+                { "question": "____ vuoi bere?", "answer": "Che cosa" },
+                { "question": "Di ____ è questo libro?", "answer": "chi" },
+                { "question": "____ succede?", "answer": "Che cosa" },
+                { "question": "Per ____ lavori?", "answer": "chi" },
+                { "question": "____ preferisci? Caffè o tè?", "answer": "Che cosa" },
+                { "question": "____ apre la porta?", "answer": "Chi" },
+                { "question": "____ viene alla festa?", "answer": "Chi" },
+                { "question": "____ dici?", "answer": "Che cosa" },
+                { "question": "____ preferisci? Gianni o Piero?", "answer": "Chi" },
+                { "question": "____ leggi?", "answer": "Che cosa" },
+                { "question": "Da ____ vai a cena?", "answer": "chi" },
+                { "question": "____ vuoi fare stasera?", "answer": "Che cosa" },
+                { "question": "____ apre la porta?", "answer": "Chi" }
             ]
         },
         {
-            "title": "Exercise 2: Prepositions",
-            "instruction": "Complete the sentences with di, a, da, in, or su.",
-            "examples": ["Vado ____ Venezia: a", "Abito ____ Roma: a"],
+            "title": "Exercise 2: Complete with Question Words",
+            "instruction": "Complete the questions with an appropriate word (che, come, dove, quando, perché or quale/quali/qual).",
+            "examples": ["‘____ abitate?’ ‘A Milano.’: Dove", "‘____ parte l’autobus?’ ‘Alle 8.00.’: Quando"],
             "items": [
-                { "question": "Vado ____ Venezia.", "answer": "a" },
-                { "question": "Abito ____ Roma.", "answer": "a" },
-                { "question": "È ____ Firenze.", "answer": "a" },
-                { "question": "Vengo ____ Napoli.", "answer": "da" },
-                { "question": "Andiamo ____ scuola.", "answer": "a" },
-                { "question": "Torniamo ____ casa.", "answer": "a" },
-                { "question": "Lavoro ____ banca.", "answer": "in" },
-                { "question": "Studiano ____ biblioteca.", "answer": "in" },
-                { "question": "Metto i libri ____ tavolo.", "answer": "sul" },
-                { "question": "Scrivo ____ quaderno.", "answer": "sul" },
-                { "question": "È una borsa ____ pelle.", "answer": "di" },
-                { "question": "È un tavolo ____ legno.", "answer": "di" },
-                { "question": "È un’amica ____ Maria.", "answer": "di" },
-                { "question": "È il libro ____ professore.", "answer": "del" },
-                { "question": "Vado ____ medico.", "answer": "dal" },
-                { "question": "Compro il pane ____ forno.", "answer": "al" },
-                { "question": "Parto ____ Londra.", "answer": "per" },
-                { "question": "Vivo ____ campagna.", "answer": "in" }
+                { "question": "‘____ abitate?’ ‘A Milano.’", "answer": "Dove" },
+                { "question": "‘____ parte l’autobus?’ ‘Alle 8.00.’", "answer": "Quando" },
+                { "question": "‘____ non studi?’ ‘Non sto bene.’", "answer": "Perché" },
+                { "question": "‘____ sta, Professore?’ ‘Bene, grazie.’", "answer": "Come" },
+                { "question": "‘____ è il tuo compleanno?’ ‘Il 20 aprile.’", "answer": "Quando" },
+                { "question": "‘____ lavoro fa tuo padre?’ ‘Il medico.’", "answer": "Che" },
+                { "question": "‘____ sono questi libri?’ ‘Di storia.’", "answer": "Che" },
+                { "question": "‘____ città preferisci?’ ‘Firenze.’", "answer": "Quale" },
+                { "question": "‘____ esci stasera?’ ‘Alle nove.’", "answer": "Quando" },
+                { "question": "‘____ vai?’ ‘Al cinema.’", "answer": "Dove" }
             ]
         },
         {
-            "title": "Exercise 3: Prepositions and Articles",
-            "instruction": "Complete the sentences with the correct preposition and article.",
-            "examples": ["Vado ____ (la) spiaggia: alla spiaggia", "Abito ____ (il) centro: al centro"],
+            "title": "Exercise 3: Complete with quanto/quanta/quanti/quante",
+            "instruction": "Complete the sentences with quanto, quanta, quanti, or quante.",
+            "examples": ["____ è grande la tua casa?: Quanto", "____ studenti ci sono?: Quanti"],
             "items": [
-                { "question": "Vado ____ (la) spiaggia.", "answer": "alla" },
-                { "question": "Abito ____ (il) centro.", "answer": "al" },
-                { "question": "Sono ____ (la) cucina.", "answer": "in" },
-                { "question": "Vengo ____ (il) negozio.", "answer": "dal" },
-                { "question": "Studio ____ (la) biblioteca.", "answer": "in" },
-                { "question": "Lavoro ____ (la) banca.", "answer": "in" },
-                { "question": "Metto il libro ____ (il) tavolo.", "answer": "sul" },
-                { "question": "È una giacca ____ (la) pelle.", "answer": "di" },
-                { "question": "È una sedia ____ (il) legno.", "answer": "di" },
-                { "question": "È il cane ____ (la) mia amica.", "answer": "della" },
-                { "question": "Vado ____ (il) medico.", "answer": "dal" },
-                { "question": "Compro il latte ____ (il) negozio.", "answer": "al" },
-                { "question": "Parto ____ (la) Francia.", "answer": "per la" },
-                { "question": "Vivo ____ (la) città.", "answer": "in" },
-                { "question": "Mangiamo ____ (la) mensa.", "answer": "in" },
-                { "question": "Piero va ____ (il) supermercato.", "answer": "al" },
-                { "question": "Il padre ____ (la) mia amica è avvocato.", "answer": "della" },
-                { "question": "____ pizzeria c’è sempre molta gente.", "answer": "In" },
-                { "question": "Paola dorme ____ (la) stanza vicina alla mia.", "answer": "nella" },
-                { "question": "Leggo un libro ____ fantascienza.", "answer": "di" }
+                { "question": "____ è grande la tua casa?", "answer": "Quanto" },
+                { "question": "____ studenti ci sono?", "answer": "Quanti" },
+                { "question": "____ costa questa camicia?", "answer": "Quanto" },
+                { "question": "____ esercizi fate?", "answer": "Quanti" },
+                { "question": "____ stanze ha la tua casa?", "answer": "Quante" },
+                { "question": "____ gente inviti?", "answer": "Quanta" },
+                { "question": "____ sei alto?", "answer": "Quanto" },
+                { "question": "____ pagine dobbiamo studiare?", "answer": "Quante" },
+                { "question": "____ mesi rimanete in Italia?", "answer": "Quanti" },
+                { "question": "____ guadagni?", "answer": "Quanto" },
+                { "question": "____ frutta devo comprare?", "answer": "Quanta" },
+                { "question": "____ costano quei jeans?", "answer": "Quanto" },
+                { "question": "____ autobus devi prendere?", "answer": "Quale" },
+                { "question": "____ dura il concerto?", "answer": "Quanto" },
+                { "question": "Da ____ studiate italiano?", "answer": "quanto" },
+                { "question": "____ cartoline spedisci?", "answer": "Quante" },
+                { "question": "____ spendi al mese?", "answer": "Quanto" },
+                { "question": "____ amiche hai?", "answer": "Quante" },
+                { "question": "____ libri devi leggere?", "answer": "Quanti" },
+                { "question": "____ è lontana la discoteca?", "answer": "Quanto" }
             ]
         },
         {
             "title": "Exercise 4: Translate into Italian",
             "instruction": "Translate the following sentences into Italian.",
-            "examples": ["I finish working at six: Finisco di lavorare alle sei.", "Antonio’s leaving for Genoa: Antonio parte per Genova."],
+            "examples": ["How many rolls do you [pl.] want?: Quanti panini volete?", "Where are you [pl.] going for lunch?: Dove andate a pranzo?"],
             "items": [
-                { "question": "I finish working at six.", "answer": "Finisco di lavorare alle sei." },
-                { "question": "Antonio’s leaving for Genoa.", "answer": "Antonio parte per Genova." },
-                { "question": "Gemma was born in 2001.", "answer": "Gemma è nata nel 2001." },
-                { "question": "Fabia never goes out in the evening.", "answer": "Fabia non esce mai di sera." },
-                { "question": "Mr and Mrs Bancroft live in the country, in an old villa.", "answer": "I signori Bancroft vivono in campagna, in una vecchia villa." },
-                { "question": "The library’s behind the gym.", "answer": "La biblioteca è dietro la palestra." },
-                { "question": "You [sing.] can’t go out without me!", "answer": "Non puoi uscire senza di me!" },
-                { "question": "Do you [pl.] live far from the school?", "answer": "Abitate lontano dalla scuola?" },
-                { "question": "Isabella’s aunt lives in Greve, in Tuscany.", "answer": "La zia di Isabella abita a Greve, in Toscana." },
-                { "question": "She’s got a leather skirt.", "answer": "Ha una gonna di pelle." },
-                { "question": "Angus is from Edinburgh, in Scotland.", "answer": "Angus viene da Edimburgo, in Scozia." },
-                { "question": "You have to turn right after the church(, Madam).", "answer": "Deve girare a destra dopo la chiesa(, Signora)." },
-                { "question": "We’re eating at a pizzeria tonight.", "answer": "Stasera mangiamo in pizzeria." },
-                { "question": "These flowers are for your [sing.] mother.", "answer": "Questi fiori sono per tua madre." },
-                { "question": "At Christmas we’re going skiing in the mountains.", "answer": "A Natale andiamo a sciare in montagna." },
-                { "question": "I live near the prison.", "answer": "Abito vicino alla prigione." },
-                { "question": "Margaret’s been living in Turin for five years.", "answer": "Margaret abita a Torino da cinque anni." },
-                { "question": "The train for Aosta leaves from platform 7.", "answer": "Il treno per Aosta parte dal binario 7." },
-                { "question": "We’re giving Luisa a CD of Russian music.", "answer": "Regaliamo a Luisa un CD di musica russa." },
-                { "question": "I always buy the bread at Belli’s.", "answer": "Compro sempre il pane da Belli." }
+                { "question": "How many rolls do you [pl.] want?", "answer": "Quanti panini volete?" },
+                { "question": "Where are you [pl.] going for lunch?", "answer": "Dove andate a pranzo?" },
+                { "question": "Who are those people?", "answer": "Chi sono quelle persone?" },
+                { "question": "What are you [sing.] doing on Sunday?", "answer": "Che cosa fai domenica?" },
+                { "question": "When are you [pl.] going on holiday?", "answer": "Quando andate in vacanza?" },
+                { "question": "Why isn’t Luisa leaving?", "answer": "Perché Luisa non parte?" },
+                { "question": "Which is your [sing.] bike?", "answer": "Qual è la tua bici?" },
+                { "question": "What film are you [sing.] watching?", "answer": "Che film guardi?" },
+                { "question": "Which of them is Italian?", "answer": "Quale di loro è italiano?" },
+                { "question": "When does the train arrive?", "answer": "Quando arriva il treno?" }
             ]
         }
     ]
