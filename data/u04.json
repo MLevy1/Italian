@@ -312,7 +312,7 @@
     {
       "title": "Exercise 1: Verb Essere",
       "instruction": "Complete the following sentences using the correct form of **essere**.",
-      "examples": [],
+      "examples": ["Alberto ————— a Roma: è"],
       "items": [
         {"question": "(**noi**) ___ italiani.", "answer": "siamo"},
         {"question": "(**tu**) ___ scozzese?", "answer": "sei"},
@@ -349,25 +349,32 @@
         {"question": "**Sandro** ___ sempre fretta.", "answer": "ha"},
         {"question": "**Il professore** ___ molti studenti.", "answer": "ha"},
         {"question": "(**tu**) ___ il libro?", "answer": "hai"},
-        {"question": "**Le ragazze** ___ fame.", "answer": "hanno"},
-        {"question": "(**io**) **non** ___ freddo.", "answer": "ho"}
+        {"question": "Marco e io ————— sete.", "answer": "abbiamo"},
+        {"question": "Quanti anni (tu) —————?", "answer": "hai"},
+        {"question": "(voi) ————— il biglietto?", "answer": "avete"},
+        {"question": "Domenico ————— un fratello.", "answer": "ha"},
+        {"question": "(noi) ————— un esame.", "answer": "abbiamo"},
+        {"question": "(loro) non ————— figli.", "answer": "hanno"},
+        {"question": "(tu) ————— l’indirizzo di Luca?", "answer": "hai"},
+        {"question": "Carlo non ————— la televisione.", "answer": "ha"},
+        {"question": "I nostri amici ————— dei problemi.", "answer": "hanno"},
+        {"question": "(tu) ————— molto lavoro.", "answer": "hai"},
+        {"question": "(io) ————— 16 anni.", "answer": "ho"},
+        {"question": "Professore, ————— tempo?", "answer": "ha"}
       ]
     },
     {
       "title": "Exercise 3: Essere or Avere",
-      "instruction": "Complete the sentences with the correct form of **essere** or **avere**.",
-      "examples": [],
+      "instruction": "Taking the words in the two columns below, write negative and interrogative sentences using the verb avere.",
+      "examples": [tu|fretta: Non hai fretta; Hai fretta?],
       "items": [
-        {"question": "(**voi**) ___ stanchi?", "answer": "siete"},
-        {"question": "(**io**) **non** ___ soldi.", "answer": "ho"},
-        {"question": "**La casa** ___ grande.", "answer": "è"},
-        {"question": "(**tu**) ___ caldo?", "answer": "hai"},
-        {"question": "**Gli amici** ___ in vacanza.", "answer": "sono"},
-        {"question": "(**noi**) ___ due gatti.", "answer": "abbiamo"},
-        {"question": "**Il film** ___ interessante.", "answer": "è"},
-        {"question": "(**tu**) ___ un cane?", "answer": "hai"},
-        {"question": "(**io**) ___ in ritardo.", "answer": "sono"},
-        {"question": "(**voi**) **non** ___ sete.", "answer": "avete"}
+        {"question": "**io | ragione**", "answer": "Non ho ragione; Ho ragione?"},
+        {"question": "**il professore | caldo**", "answer": "Il professore non ha caldo; Il professore ha caldo?"},
+        {"question": "**la Signorina Berti | sete**", "answer": "La Signorina Berti non ha sete; La Signorina Berti ha sete?"},
+        {"question": "**Lei [formal] | sonno**", "answer": "Lei non ha sonno; Lei ha sonno?"},
+        {"question": "**voi | paura**", "answer": "Non avete paura; Avete paura?"},
+        {"question": "**loro | freddo**", "answer": "Non hanno freddo; Hanno freddo?"},
+        {"question": "**Carla e Andrea | fame**", "answer": "Carla e Andrea non hanno fame; Carla e Andrea hanno fame?"}
       ]
     },
     {
