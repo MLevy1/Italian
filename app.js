@@ -47,11 +47,10 @@ async function loadData() {
     try {
         console.log('Starting loadData...');
         const loadingDiv = document.getElementById('loading');
-        console.log('loadData: loading div', loadingDiv ? 'present' : 'missing');
         if (loadingDiv) {
             loadingDiv.style.display = 'block';
         } else {
-            console.warn('Loading div not found in loadData');
+            console.warn('Loading div not found');
         }
         await loadUnitsList();
         await renderContent();
@@ -61,10 +60,7 @@ async function loadData() {
         console.log('loadData completed');
     } catch (error) {
         console.error('Error in loadData:', error);
-        const contentDiv = document.getElementById('content');
-        if (contentDiv) {
-            contentDiv.innerHTML = '<p class="text-danger fw-bold">Error loading content. Please try again.</p>';
-        }
+        document.getElementById('content').innerHTML = '<p class="text-danger fw-bold">Error loading content. Please try again.</p>';
         const loadingDiv = document.getElementById('loading');
         if (loadingDiv) {
             loadingDiv.style.display = 'none';
@@ -76,11 +72,6 @@ async function renderContent() {
     console.log(`Rendering content for unit ${currentUnit}, view: ${currentView}`);
     const contentDiv = document.getElementById('content');
     const loadingDiv = document.getElementById('loading');
-    console.log('renderContent: loading div', loadingDiv ? 'present' : 'missing');
-    if (!contentDiv) {
-        console.error('Content div not found');
-        return;
-    }
     if (loadingDiv) {
         loadingDiv.style.display = 'block';
     } else {
@@ -93,21 +84,16 @@ async function renderContent() {
     }
     if (!unit) {
         contentDiv.innerHTML = '<p class="text-danger fw-bold">Unit not found.</p>';
-        console.error('Unit data not found');
+        console.log('Unit data not found');
         return;
     }
 
     let html = '';
     if (currentView === 'text') {
-        if (!unit.text || !unit.text.title || !unit.text.sections) {
-            console.error('Invalid or missing text data for unit', currentUnit);
-            contentDiv.innerHTML = '<p class="text-danger fw-bold">Error: Invalid text data for this unit.</p>';
-            return;
-        }
         html = `
             <h2 class="mb-4">${parseBoldText(unit.text.title)}</h2>
             ${unit.text.sections.map(section => `
-                <section class="mb-5 text-section">
+                <section class="mb-5">
                     <h3 class="mb-3">${parseBoldText(section.title)}</h3>
                     ${section.paragraphs.map(p => `
                         ${p.content ? `<p>${p.id ? p.id + ' ' : ''}${parseBoldText(p.content)}</p>` : ''}
@@ -135,13 +121,8 @@ async function renderContent() {
             `).join('')}
         `;
     } else {
-        if (!unit.exercises || !Array.isArray(unit.exercises) || unit.exercises.length === 0) {
-            console.error('Invalid or missing exercises data for unit', currentUnit);
-            contentDiv.innerHTML = '<p class="text-danger fw-bold">Error: No exercises available for this unit.</p>';
-            return;
-        }
         html = unit.exercises.map((exercise, exIndex) => `
-            <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5 exercise-section">
+            <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5">
                 <h3 class="mb-3">${parseBoldText(exercise.title)}</h3>
                 <p class="mb-3">${parseBoldText(exercise.instruction)}</p>
                 <p class="mb-3"><strong>Examples:</strong> ${exercise.examples.map(ex => parseBoldText(ex)).join('; ')}</p>
@@ -158,41 +139,21 @@ async function renderContent() {
             </section>
         `).join('');
     }
-    console.log('Generated HTML length:', html.length, 'First 100 chars:', html.substring(0, 100));
     contentDiv.innerHTML = html;
-    console.log('Content div updated, style.display:', contentDiv.style.display || 'inline');
-    // Verify DOM content
-    const exerciseSections = contentDiv.querySelectorAll('[id^=exercise-section-]');
-    const textSections = contentDiv.querySelectorAll('section.text-section');
-    console.log(`Post-render: ${exerciseSections.length} exercise sections, ${textSections.length} text sections`);
-    // Check for DOM overwrites
-    setTimeout(() => {
-        const currentContent = contentDiv.innerHTML.substring(0, 100);
-        console.log('Post-render check (100ms): Content still present?', currentContent === html.substring(0, 100));
-    }, 100);
 
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
     const nextLink = document.getElementById('nextLink');
-    const toggleViewLink = document.getElementById('toggleViewLink');
+    const exercisesLink = document.getElementById('exercisesLink');
     console.log(`Updating nav: currentUnit=${currentUnit}, availableUnits=${availableUnits}, currentView=${currentView}`);
     if (backLink) backLink.classList.toggle('d-none', currentUnit <= 1);
     if (nextLink) nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
-    if (toggleViewLink) {
-        toggleViewLink.classList.toggle('d-none', false);
-        toggleViewLink.textContent = currentView === 'text' ? 'Show Exercises' : 'Show Text';
-    } else {
-        console.warn('toggleViewLink not found in DOM');
-    }
+    if (exercisesLink) exercisesLink.classList.toggle('d-none', currentView !== 'text');
 }
 
 async function checkAnswers(unitNum, exIndex, itemCount) {
     console.log(`Checking answers for unit ${unitNum}, exercise ${exIndex}`);
     const unit = await loadUnitData(unitNum);
-    if (!unit || !unit.exercises || !unit.exercises[exIndex]) {
-        console.error('Invalid unit or exercise data');
-        return;
-    }
     const exercise = unit.exercises[exIndex];
     let correctCount = 0;
 
@@ -203,10 +164,6 @@ async function checkAnswers(unitNum, exIndex, itemCount) {
     for (let i = 0; i < itemCount; i++) {
         const input = document.getElementById(`answer-${unitNum}-${exIndex}-${i}`);
         const container = document.getElementById(`exercise-item-${unitNum}-${exIndex}-${i}`);
-        if (!input || !container) {
-            console.warn(`Input or container not found for exercise-item-${unitNum}-${exIndex}-${i}`);
-            continue;
-        }
         const existingAnswer = container.querySelector('.correct-answer');
         if (existingAnswer) existingAnswer.remove();
 
@@ -243,10 +200,6 @@ function resetAnswers(unitNum, exIndex, itemCount) {
     for (let i = 0; i < itemCount; i++) {
         const input = document.getElementById(`answer-${unitNum}-${exIndex}-${i}`);
         const container = document.getElementById(`exercise-item-${unitNum}-${exIndex}-${i}`);
-        if (!input || !container) {
-            console.warn(`Input or container not found for exercise-item-${unitNum}-${exIndex}-${i}`);
-            continue;
-        }
         const existingAnswer = container.querySelector('.correct-answer');
         if (existingAnswer) existingAnswer.remove();
         input.value = '';
@@ -268,19 +221,9 @@ function navigate(direction) {
     renderContent();
 }
 
-function toggleView() {
-    console.log(`Toggling view from ${currentView} to ${currentView === 'text' ? 'exercises' : 'text'}`);
-    currentView = currentView === 'text' ? 'exercises' : 'text';
-    renderContent();
-}
-
 function showContents() {
     console.log('Showing contents');
     const contentDiv = document.getElementById('content');
-    if (!contentDiv) {
-        console.error('Content div not found in showContents');
-        return;
-    }
     contentDiv.innerHTML = `
         <h2 class="mb-4">Table of Contents</h2>
         <ul class="list-group">
@@ -295,12 +238,8 @@ function showContents() {
             `).join('')}
         </ul>
     `;
-    const toggleViewLink = document.getElementById('toggleViewLink');
-    if (toggleViewLink) {
-        toggleViewLink.classList.add('d-none');
-    } else {
-        console.warn('toggleViewLink not found when showing contents');
-    }
+    const exercisesLink = document.getElementById('exercisesLink');
+    if (exercisesLink) exercisesLink.classList.add('d-none');
 }
 
 function setUnitAndView(unitNum, view) {
@@ -313,43 +252,5 @@ function setUnitAndView(unitNum, view) {
 // Ensure DOM is fully loaded before binding events
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing app');
-    console.log('Initial DOM state: loading div', document.getElementById('loading') ? 'present' : 'missing');
-    const toggleViewLink = document.getElementById('toggleViewLink');
-    if (toggleViewLink) {
-        toggleViewLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            console.log('Toggle view link clicked via event listener');
-            toggleView();
-        });
-    } else {
-        console.error('toggleViewLink not found during DOMContentLoaded');
-    }
-    const contentsLink = document.getElementById('contentsLink');
-    if (contentsLink) {
-        contentsLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            showContents();
-        });
-    } else {
-        console.error('contentsLink not found during DOMContentLoaded');
-    }
-    const backLink = document.getElementById('backLink');
-    if (backLink) {
-        backLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            navigate('back');
-        });
-    } else {
-        console.error('backLink not found during DOMContentLoaded');
-    }
-    const nextLink = document.getElementById('nextLink');
-    if (nextLink) {
-        nextLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            navigate('next');
-        });
-    } else {
-        console.error('nextLink not found during DOMContentLoaded');
-    }
     loadData();
 });

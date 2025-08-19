@@ -53,9 +53,3 @@ body {
         min-width: 100px; /* Prevent columns from becoming too narrow */
     }
 }
-
-/* Force visibility of content */
-#content, #content * {
-    display: block !important;
-    visibility: visible !important;
-}
