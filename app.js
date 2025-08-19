@@ -144,11 +144,14 @@ async function renderContent() {
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
     const nextLink = document.getElementById('nextLink');
-    const exercisesLink = document.getElementById('exercisesLink');
+    const toggleViewLink = document.getElementById('toggleViewLink');
     console.log(`Updating nav: currentUnit=${currentUnit}, availableUnits=${availableUnits}, currentView=${currentView}`);
     if (backLink) backLink.classList.toggle('d-none', currentUnit <= 1);
     if (nextLink) nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
-    if (exercisesLink) exercisesLink.classList.toggle('d-none', currentView !== 'text');
+    if (toggleViewLink) {
+        toggleViewLink.classList.toggle('d-none', false); // Always show toggle link when not on contents
+        toggleViewLink.textContent = currentView === 'text' ? 'Show Exercises' : 'Show Text';
+    }
 }
 
 async function checkAnswers(unitNum, exIndex, itemCount) {
@@ -221,6 +224,12 @@ function navigate(direction) {
     renderContent();
 }
 
+function toggleView() {
+    console.log(`Toggling view from ${currentView}`);
+    currentView = currentView === 'text' ? 'exercises' : 'text';
+    renderContent();
+}
+
 function showContents() {
     console.log('Showing contents');
     const contentDiv = document.getElementById('content');
@@ -238,8 +247,8 @@ function showContents() {
             `).join('')}
         </ul>
     `;
-    const exercisesLink = document.getElementById('exercisesLink');
-    if (exercisesLink) exercisesLink.classList.add('d-none');
+    const toggleViewLink = document.getElementById('toggleViewLink');
+    if (toggleViewLink) toggleViewLink.classList.add('d-none');
 }
 
 function setUnitAndView(unitNum, view) {
