@@ -50,7 +50,7 @@ async function loadData() {
         if (loadingDiv) {
             loadingDiv.style.display = 'block';
         } else {
-            console.warn('Loading div not found');
+            console.warn('Loading div not found in loadData');
         }
         await loadUnitsList();
         await renderContent();
@@ -72,6 +72,10 @@ async function renderContent() {
     console.log(`Rendering content for unit ${currentUnit}, view: ${currentView}`);
     const contentDiv = document.getElementById('content');
     const loadingDiv = document.getElementById('loading');
+    if (!contentDiv) {
+        console.error('Content div not found');
+        return;
+    }
     if (loadingDiv) {
         loadingDiv.style.display = 'block';
     } else {
@@ -84,12 +88,17 @@ async function renderContent() {
     }
     if (!unit) {
         contentDiv.innerHTML = '<p class="text-danger fw-bold">Unit not found.</p>';
-        console.log('Unit data not found');
+        console.error('Unit data not found');
         return;
     }
 
     let html = '';
     if (currentView === 'text') {
+        if (!unit.text || !unit.text.title || !unit.text.sections) {
+            console.error('Invalid or missing text data for unit', currentUnit);
+            contentDiv.innerHTML = '<p class="text-danger fw-bold">Error: Invalid text data for this unit.</p>';
+            return;
+        }
         html = `
             <h2 class="mb-4">${parseBoldText(unit.text.title)}</h2>
             ${unit.text.sections.map(section => `
@@ -121,6 +130,11 @@ async function renderContent() {
             `).join('')}
         `;
     } else {
+        if (!unit.exercises || !Array.isArray(unit.exercises) || unit.exercises.length === 0) {
+            console.error('Invalid or missing exercises data for unit', currentUnit);
+            contentDiv.innerHTML = '<p class="text-danger fw-bold">Error: No exercises available for this unit.</p>';
+            return;
+        }
         html = unit.exercises.map((exercise, exIndex) => `
             <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5">
                 <h3 class="mb-3">${parseBoldText(exercise.title)}</h3>
@@ -139,7 +153,9 @@ async function renderContent() {
             </section>
         `).join('');
     }
+    console.log('Generated HTML length:', html.length, 'First 100 chars:', html.substring(0, 100));
     contentDiv.innerHTML = html;
+    console.log('Content div updated');
 
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
@@ -151,11 +167,6 @@ async function renderContent() {
     if (toggleViewLink) {
         toggleViewLink.classList.toggle('d-none', false); // Always show toggle link when not on contents
         toggleViewLink.textContent = currentView === 'text' ? 'Show Exercises' : 'Show Text';
-        // Ensure the onclick event is properly attached
-        toggleViewLink.onclick = () => {
-            console.log('Toggle view link clicked');
-            toggleView();
-        };
     } else {
         console.warn('toggleViewLink not found in DOM');
     }
@@ -164,6 +175,10 @@ async function renderContent() {
 async function checkAnswers(unitNum, exIndex, itemCount) {
     console.log(`Checking answers for unit ${unitNum}, exercise ${exIndex}`);
     const unit = await loadUnitData(unitNum);
+    if (!unit || !unit.exercises || !unit.exercises[exIndex]) {
+        console.error('Invalid unit or exercise data');
+        return;
+    }
     const exercise = unit.exercises[exIndex];
     let correctCount = 0;
 
@@ -174,6 +189,10 @@ async function checkAnswers(unitNum, exIndex, itemCount) {
     for (let i = 0; i < itemCount; i++) {
         const input = document.getElementById(`answer-${unitNum}-${exIndex}-${i}`);
         const container = document.getElementById(`exercise-item-${unitNum}-${exIndex}-${i}`);
+        if (!input || !container) {
+            console.warn(`Input or container not found for exercise-item-${unitNum}-${exIndex}-${i}`);
+            continue;
+        }
         const existingAnswer = container.querySelector('.correct-answer');
         if (existingAnswer) existingAnswer.remove();
 
@@ -210,6 +229,10 @@ function resetAnswers(unitNum, exIndex, itemCount) {
     for (let i = 0; i < itemCount; i++) {
         const input = document.getElementById(`answer-${unitNum}-${exIndex}-${i}`);
         const container = document.getElementById(`exercise-item-${unitNum}-${exIndex}-${i}`);
+        if (!input || !container) {
+            console.warn(`Input or container not found for exercise-item-${unitNum}-${exIndex}-${i}`);
+            continue;
+        }
         const existingAnswer = container.querySelector('.correct-answer');
         if (existingAnswer) existingAnswer.remove();
         input.value = '';
@@ -240,6 +263,10 @@ function toggleView() {
 function showContents() {
     console.log('Showing contents');
     const contentDiv = document.getElementById('content');
+    if (!contentDiv) {
+        console.error('Content div not found in showContents');
+        return;
+    }
     contentDiv.innerHTML = `
         <h2 class="mb-4">Table of Contents</h2>
         <ul class="list-group">
@@ -272,11 +299,10 @@ function setUnitAndView(unitNum, view) {
 // Ensure DOM is fully loaded before binding events
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing app');
-    // Explicitly bind the toggleView event listener
     const toggleViewLink = document.getElementById('toggleViewLink');
     if (toggleViewLink) {
         toggleViewLink.addEventListener('click', (e) => {
-            e.preventDefault(); // Prevent default anchor behavior
+            e.preventDefault();
             console.log('Toggle view link clicked via event listener');
             toggleView();
         });
