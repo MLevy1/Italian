@@ -1,81 +1,61 @@
-/* Ensure the main container is responsive */
 body {
-    margin: 0;
-    padding: 20px;
-    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
 }
 
-/* Container for the entire exercise section */
-.exercise {
-    width: 100%;
-    max-width: 800px; /* Adjust based on design */
-    margin: 0 auto;
-    padding: 20px;
-    box-sizing: border-box;
+.exercise-item input.form-control {
+    max-width: 300px;
 }
 
-/* Individual exercise item (label + input) */
-.exercise-item {
-    display: flex;
-    flex-wrap: wrap; /* Allow wrapping for long content */
-    align-items: center;
-    margin-bottom: 10px;
-    width: 100%;
-}
-
-/* Label styling */
-.exercise-item label {
-    flex: 1 1 70%; /* Take up most space, but allow shrinking */
-    margin-right: 10px;
-    word-wrap: break-word; /* Break long words */
-    max-width: 70%; /* Prevent label from taking too much space */
-}
-
-/* Input styling */
-.exercise-item input {
-    flex: 1 1 25%; /* Take up remaining space, but allow shrinking */
-    min-width: 100px; /* Minimum width for usability */
-    max-width: 200px; /* Prevent inputs from growing too wide */
-    padding: 5px;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-/* Ensure feedback text (e.g., correct/incorrect answers) stays within bounds */
-.exercise-item .feedback {
-    flex: 1 1 100%; /* Take full width for feedback */
-    color: red; /* Or green for correct */
+.correct-answer {
+    font-style: italic;
     font-size: 0.9em;
-    margin-top: 5px;
 }
 
-/* Responsive adjustments for smaller screens */
-@media screen and (max-width: 600px) {
-    .exercise-item {
-        flex-direction: column; /* Stack label and input vertically */
-        align-items: flex-start;
-    }
+.percentage-correct {
+    font-size: 1.1em;
+}
 
-    .exercise-item label {
-        max-width: 100%; /* Allow label to take full width */
-        margin-bottom: 5px;
-    }
+.custom-table th,
+.custom-table td {
+    white-space: normal; /* Allow text to wrap */
+    word-break: break-word; /* Break long words */
+    max-width: 200px; /* Increased max-width for better readability */
+    min-width: 120px; /* Ensure columns don't get too narrow */
+    padding: 8px; /* Consistent padding */
+    vertical-align: middle; /* Center text vertically */
+}
 
-    .exercise-item input {
-        max-width: 100%; /* Full width on small screens */
-        min-width: 0; /* Allow shrinking */
+.table-responsive {
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    position: relative; /* For scroll indicator positioning */
+}
+
+/* Scroll indicator: subtle shadow on right to suggest scrollability */
+.table-responsive::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20px;
+    height: 100%;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.1), transparent);
+    pointer-events: none; /* Allow clicks through the shadow */
+}
+
+/* Adjust for mobile devices */
+@media (max-width: 576px) {
+    .custom-table th,
+    .custom-table td {
+        font-size: 0.95rem; /* Slightly larger font for readability */
+        max-width: 150px; /* Slightly reduced max-width for mobile */
+        min-width: 100px; /* Prevent columns from becoming too narrow */
     }
 }
 
-/* Button container for Check Answers and Reset */
-.button-container {
-    display: flex;
-    gap: 10px;
-    margin-top: 20px;
-}
-
-.button-container button {
-    padding: 10px 20px;
-    cursor: pointer;
+/* Force visibility of content */
+#content, #content * {
+    display: block !important;
+    visibility: visible !important;
 }

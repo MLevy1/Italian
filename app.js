@@ -47,6 +47,7 @@ async function loadData() {
     try {
         console.log('Starting loadData...');
         const loadingDiv = document.getElementById('loading');
+        console.log('loadData: loading div', loadingDiv ? 'present' : 'missing');
         if (loadingDiv) {
             loadingDiv.style.display = 'block';
         } else {
@@ -75,6 +76,7 @@ async function renderContent() {
     console.log(`Rendering content for unit ${currentUnit}, view: ${currentView}`);
     const contentDiv = document.getElementById('content');
     const loadingDiv = document.getElementById('loading');
+    console.log('renderContent: loading div', loadingDiv ? 'present' : 'missing');
     if (!contentDiv) {
         console.error('Content div not found');
         return;
@@ -105,7 +107,7 @@ async function renderContent() {
         html = `
             <h2 class="mb-4">${parseBoldText(unit.text.title)}</h2>
             ${unit.text.sections.map(section => `
-                <section class="mb-5">
+                <section class="mb-5 text-section">
                     <h3 class="mb-3">${parseBoldText(section.title)}</h3>
                     ${section.paragraphs.map(p => `
                         ${p.content ? `<p>${p.id ? p.id + ' ' : ''}${parseBoldText(p.content)}</p>` : ''}
@@ -139,7 +141,7 @@ async function renderContent() {
             return;
         }
         html = unit.exercises.map((exercise, exIndex) => `
-            <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5">
+            <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5 exercise-section">
                 <h3 class="mb-3">${parseBoldText(exercise.title)}</h3>
                 <p class="mb-3">${parseBoldText(exercise.instruction)}</p>
                 <p class="mb-3"><strong>Examples:</strong> ${exercise.examples.map(ex => parseBoldText(ex)).join('; ')}</p>
@@ -160,9 +162,14 @@ async function renderContent() {
     contentDiv.innerHTML = html;
     console.log('Content div updated, style.display:', contentDiv.style.display || 'inline');
     // Verify DOM content
-    const exerciseSections = contentDiv.querySelectorAll(`[id^=exercise-section-${currentUnit}]`);
-    const textSections = contentDiv.querySelectorAll('section.mb-5');
+    const exerciseSections = contentDiv.querySelectorAll('[id^=exercise-section-]');
+    const textSections = contentDiv.querySelectorAll('section.text-section');
     console.log(`Post-render: ${exerciseSections.length} exercise sections, ${textSections.length} text sections`);
+    // Check for DOM overwrites
+    setTimeout(() => {
+        const currentContent = contentDiv.innerHTML.substring(0, 100);
+        console.log('Post-render check (100ms): Content still present?', currentContent === html.substring(0, 100));
+    }, 100);
 
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
@@ -306,6 +313,7 @@ function setUnitAndView(unitNum, view) {
 // Ensure DOM is fully loaded before binding events
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing app');
+    console.log('Initial DOM state: loading div', document.getElementById('loading') ? 'present' : 'missing');
     const toggleViewLink = document.getElementById('toggleViewLink');
     if (toggleViewLink) {
         toggleViewLink.addEventListener('click', (e) => {
