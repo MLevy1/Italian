@@ -1,0 +1,228 @@
+{
+    "unitNumber": 14,
+    "text": {
+        "title": "Unit Fourteen: Direct and Indirect Object Pronouns (3: Stressed Forms)",
+        "sections": [
+            {
+                "title": "Introduction to Stressed Pronoun Forms",
+                "paragraphs": [
+                    {
+                        "id": 1,
+                        "content": "**Direct** and **indirect object pronouns** do not only have the **unstressed** (or weak) forms that we saw in Units 7, 10, and 13: they also have **stressed** (or strong) forms:",
+                        "table": {
+                            "headers": ["Direct Object Stressed Forms", "Indirect Object Stressed Forms"],
+                            "rows": [
+                                ["me", "a me"],
+                                ["te", "a te"],
+                                ["lui/lei/Lei*", "a lui/a lei/a Lei*"],
+                                ["noi", "a noi"],
+                                ["voi", "a voi"],
+                                ["loro/Loro*", "a loro/a Loro*"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* As usual, the pronoun **Lei** (third person singular feminine) and the pronoun **Loro** (third person plural) are used for the **formal form**."
+                    }
+                ]
+            },
+            {
+                "title": "Use of Stressed Pronouns for Emphasis or Contrast",
+                "paragraphs": [
+                    {
+                        "id": 2,
+                        "content": "The **stressed forms** of **direct** and **indirect object pronouns** are used to give **emphasis** to the pronoun or to stress a **contrast**; unlike **unstressed forms**, they normally come **after the verb**, except when used with the verbs **piacere**, **sembrare**, **servire**, **bastare**, **parere**, and **mancare** (see Unit 11). **Stressed forms** always refer to **people**, not **objects**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Chiamo **voi**, non **loro**.", "I’m calling/phoning you, not them."],
+                                ["Vedo **lei**, ma non vedo **lui**.", "I can see her, but I can’t see him."],
+                                ["Aspetto Francesco, non **te**.", "I’m waiting for Francesco, not you."],
+                                ["Invito solo **te**.", "I’m only inviting you."],
+                                ["Invito solo **Lei**, Signor Paoli.", "I’m only inviting you, Mr Paoli."],
+                                ["**A me** non piace il caffè.", "I don’t like coffee."],
+                                ["**A me** sembra giusto.", "I think it’s fair/It seems fair to me."],
+                                ["Telefono **a te**, ma non **a loro**.", "I’ll phone you, but not them."],
+                                ["Billy scrive **a noi** e non **ai suoi genitori**.", "Billy writes to us and not his parents."],
+                                ["Devi rendere i soldi **a me**, non **a mio fratello**.", "You’ve got to give me the money, not my brother."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Note the difference between the two sentences **Non mi piace il caffè** and **A me non piace il caffè**. The first simply states that I don’t like coffee, while the second puts the **emphasis** on the pronoun **me**, implying that there are people who do like coffee but I am not one of them. The same applies to the sentences **Mi sembra giusto** and **A me sembra giusto**: the second sentence stresses the fact that there are other people who don’t think it’s fair."
+                    }
+                ]
+            },
+            {
+                "title": "Stressed Pronouns Refer to People, Not Objects",
+                "paragraphs": [
+                    {
+                        "id": 3,
+                        "content": "As the above examples suggest, **stressed** direct and indirect object pronouns cannot be used to refer to **objects**. When referring to **objects**, the noun has to be repeated (as is also generally the case in English):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["‘Prendi **la frutta** e **il dolce**?’ ‘Prendo **la frutta**, ma non **il dolce**.’ [Not ‘Prendo **lei**, ma non **lui**.]", "‘Are you having the fruit and the sweet?’ ‘I’m having the fruit, but not the sweet.’"],
+                                ["‘Porti **la chitarra** e **i CD**?’ ‘Porto **i CD** ma non **la chitarra**.’ [Not ‘Porto **loro** ma non **lei**.]", "‘Are you bringing the guitar and the CDs?’ ‘I’ll bring the CDs, but not the guitar.’ [or, at a pinch, ‘I’ll bring them, but not it.]"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Stressed Pronouns with Prepositions",
+                "paragraphs": [
+                    {
+                        "id": 4,
+                        "content": "The **stressed forms** of the **object pronouns** are used after all **prepositions** (see Unit 8), not just **a**. This is true even when no **emphasis** is required:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Vengo **con Lei**, Signora.", "I’m coming with you(, Madam)."],
+                                ["Chi **di loro** non vuole venire?", "Which of them doesn’t want to come?"],
+                                ["Puoi dormire **da me**, stasera.", "You can sleep at my place tonight."],
+                                ["Faccio questo **per te**.", "I’m doing this for you."],
+                                ["Puoi contare **su di me**.*", "You can count on me."],
+                                ["**Dopo di te** ci sono io.*", "After you it’s me/my turn."],
+                                ["Non ho nulla **contro di voi**.*", "I’ve got nothing against you."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* When **su**, **sopra**, **dopo**, **contro** are used with a personal pronoun, the pronoun is preceded by the preposition **di** (see Unit 8, paragraphs 9, 20)."
+                    }
+                ]
+            },
+            {
+                "title": "Stressed Pronouns with Two Objects",
+                "paragraphs": [
+                    {
+                        "id": 5,
+                        "content": "The **stressed forms** are also always used when the verb has two pronoun **direct** or **indirect objects**, even where no **emphasis** is required:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Ho visto te e lui** in città. [not Ti e lo ho visto in città.]", "I saw you and him in town."],
+                                ["**Invito voi e loro**. [not Vi e li invito.]", "I’m inviting you and them."],
+                                ["**Scrive a te e a me**. [not Ti e mi scrive.]", "He writes to you and me."],
+                                ["**Regaliamo fiori a loro e a lei**. [not Gli e le regaliamo fiori.]", "We’re giving flowers to them and her."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Stressed Pronouns with Specific Expressions",
+                "paragraphs": [
+                    {
+                        "id": 6,
+                        "content": "**Stressed forms** are always used after **anche/pure** (also, too), **neanche/nemmeno/neppure** (not even, neither), **come** (as, like), **quanto** (as much as), **eccetto (che)**, **meno (che)**, **tranne (che)**, **salvo (che)** (except, but):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Vengo **anche me**.", "I’m coming too."],
+                                ["**Non invito neanche loro**.", "I’m not inviting them either."],
+                                ["Corre veloce **come te**.", "He/she runs as fast as you."],
+                                ["Voglio aiutare **quanto loro**.", "I want to help as much as them."],
+                                ["Tutti sono venuti, **eccetto di te**.*", "Everyone came, except you."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* The forms **eccetto che**, **meno che**, **tranne che**, **salvo che** are used when there is a preposition before the pronoun."
+                    }
+                ]
+            },
+            {
+                "title": "Non-Agreement with Stressed Pronouns in Compound Tenses",
+                "paragraphs": [
+                    {
+                        "id": 7,
+                        "content": "Note that when the **stressed forms** of the **direct object pronouns** are used in a sentence with the verb in a **compound tense** (see Unit 13, paragraph 1), the **past participle** does not agree with the pronoun:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Ho visto te** in città, ma non ho visto **lui**.", "I saw you in town, but I didn’t see him."],
+                                ["**Abbiamo invitato voi e loro** alla festa.", "We invited you and them to the party."],
+                                ["**Hanno chiamato me**, non **lei**.", "They called me, not her."],
+                                ["**Ha accompagnato Lei** a casa, Signora.", "He accompanied you home, Madam."]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1: Replace with Italian Pronouns",
+            "instruction": "Replace the English words with the correct **Italian stressed pronouns**.",
+            "examples": [
+                "Prima accompagno (**her**) a scuola, poi (**you [sing.]**) in palestra.: Prima accompagno **a lei** a scuola, poi **a te** in palestra.",
+                "Dovete invitare anche (**them**).: Dovete invitare anche **a loro**."
+            ],
+            "items": [
+                { "question": "Prima accompagno (**her**) a scuola, poi (**you [sing.]**) in palestra.", "answer": "Prima accompagno a lei a scuola, poi a te in palestra." },
+                { "question": "Dovete invitare anche (**them**).", "answer": "Dovete invitare anche a loro." },
+                { "question": "Non è venuto nessuno, nemmeno (**her**).", "answer": "Non è venuto nessuno, nemmeno a lei." },
+                { "question": "Hanno invitato (**us**) e non (**you [pl.]**)?!", "answer": "Hanno invitato a noi e non a voi?!" },
+                { "question": "All’esame hanno promosso tutti tranne (**me**).", "answer": "All’esame hanno promosso tutti tranne me." },
+                { "question": "Credo a tutti meno che a (**him**).", "answer": "Credo a tutti meno che a lui." },
+                { "question": "Carla vuole bene a (**me**) quanto a (**you [sing.]**).", "answer": "Carla vuole bene a me quanto a te." },
+                { "question": "A (**you [polite]**) credo, Professore.", "answer": "A Lei credo, Professore." },
+                { "question": "Voglio presentare i miei amici anche a (**you [pl.]**).", "answer": "Voglio presentare i miei amici anche a voi." },
+                { "question": "A (**her**), come a (**them**), non sembra giusto.", "answer": "A lei, come a loro, non sembra giusto." }
+            ]
+        },
+        {
+            "title": "Exercise 2: Translate with Emphasis",
+            "instruction": "Translate the following sentences into Italian, underlining the emphasized words where necessary.",
+            "examples": [
+                "Nobody plays the drums **like me**.: Nessuno suona la batteria **come me**.",
+                "All the students did the homework except **him**.: Tutti gli studenti hanno fatto i compiti eccetto **di lui**."
+            ],
+            "items": [
+                { "question": "Nobody plays the drums **like me**.", "answer": "Nessuno suona la batteria **come me**." },
+                { "question": "All the students did the homework except **him**.", "answer": "Tutti gli studenti hanno fatto i compiti eccetto **di lui**." },
+                { "question": "Sergio is calling **you**, not **me**.", "answer": "Sergio chiama **te**, non **me**." },
+                { "question": "I’ll take **you** along too.", "answer": "Porterò anche **te**." },
+                { "question": "I understand as much as **you** do.", "answer": "Capisco quanto **te**." },
+                { "question": "Mauro tells the truth to everyone except **me**.", "answer": "Mauro dice la verità a tutti eccetto **a me**." },
+                { "question": "You must phone **me** too.", "answer": "Devi telefonare anche **a me**." },
+                { "question": "Claudia lends the records to **us**, not to **you**.", "answer": "Claudia presta i dischi **a noi**, non **a te**." },
+                { "question": "I give my address to everyone except **her**.", "answer": "Do il mio indirizzo a tutti eccetto **a lei**." },
+                { "question": "I’m giving a book to **her** and a record to **him**.", "answer": "Do un libro **a lei** e un disco **a lui**." }
+            ]
+        },
+        {
+            "title": "Exercise 3: Replace with Italian Pronouns",
+            "instruction": "Replace the English words with the correct **Italian stressed pronouns**.",
+            "examples": [
+                "Chi di (**you [pl.]**) non può venire alla festa?: Chi **di voi** non può venire alla festa?",
+                "All’esame orale sono passato subito dopo di (**him**).: All’esame orale sono passato subito **dopo di lui**."
+            ],
+            "items": [
+                { "question": "Chi di (**you [pl.]**) non può venire alla festa?", "answer": "Chi di voi non può venire alla festa?" },
+                { "question": "All’esame orale sono passato subito dopo di (**him**).", "answer": "All’esame orale sono passato subito dopo di lui." },
+                { "question": "Sopra di (**them**) abita una signora molto gentile.", "answer": "Sopra di loro abita una signora molto gentile." },
+                { "question": "Abbiamo deciso fra (**us**).", "answer": "Abbiamo deciso fra noi." },
+                { "question": "Esci con (**her**) anche stasera?", "answer": "Esci con lei anche stasera?" }
+            ]
+        },
+        {
+            "title": "Exercise 4: Translate into Italian",
+            "instruction": "Translate into Italian, using the **stressed form** of the pronouns.",
+            "examples": [
+                "Everyone’s against **me**!.: Tutti sono contro **di me**!",
+                "Are you [sing.] coming with **me**?: Vieni **con me**?"
+            ],
+            "items": [
+                { "question": "Everyone’s against **me**!", "answer": "Tutti sono contro di me!" },
+                { "question": "Are you [sing.] coming with **me**?", "answer": "Vieni con me?" },
+                { "question": "I’ve bought a present for **you [sing.]**.", "answer": "Ho comprato un regalo per te." },
+                { "question": "You [sing.] can’t count on **him**.", "answer": "Non puoi contare su di lui." },
+                { "question": "Can I sleep at **your [pl.]** place tonight?", "answer": "Posso dormire da voi stasera?" }
+            ]
+        }
+    ]
+}

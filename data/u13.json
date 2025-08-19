@@ -1,0 +1,206 @@
+{
+    "unitNumber": 13,
+    "text": {
+        "title": "Unit Thirteen: Direct and Indirect Object Pronouns (2)",
+        "sections": [
+            {
+                "title": "Agreement with Direct Object Pronouns in Compound Tenses",
+                "paragraphs": [
+                    {
+                        "id": 1,
+                        "content": "When a **direct object pronoun** is used with a verb in the **present perfect** (or any other compound tense), the **past participle** must agree in gender and number with the pronoun:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["‘Hai invitato Anna e Sara?’ ‘Sì, **le ho invitate**.’", "‘Did you invite Anna and Sara?’ ‘Yes, I invited them.’"],
+                                ["‘Avete portato i libri?’ ‘Sì, **li abbiamo portati**.’", "‘Have you brought the books?’ ‘Yes, we’ve brought them.’"],
+                                ["**Ho comprato** delle rose e **le ho date** a Luisa.", "I bought some roses and gave them to Luisa."],
+                                ["‘Chi ha scritto questa musica?’ ‘**L’ha scritta** Bob Marley.’", "‘Who wrote this music?’ ‘Bob Marley wrote it.’"],
+                                ["‘Dove hai comprato quelle scarpe?’ ‘**Le ho comprate** al mercato.’", "‘Where did you buy those shoes?’ ‘I bought them at the market.’"],
+                                ["**Ho** 25 compagni di classe e **li ho invitati** tutti alla mia festa di compleanno.", "I have 25 classmates and I’ve invited all of them to my birthday party."],
+                                ["**Non ci hanno invitati** alla festa.", "They didn’t invite us to the party. [we are all males, or mixed males and females]"],
+                                ["Mauro **mi ha accompagnata** alla stazione.", "Mauro took me to the station. [the speaker is female]"],
+                                ["**Ti hanno invitata**?", "Did they invite you? [the person addressed is female]"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Particular care must be taken when the gender is not shown in the pronoun, as in the last three examples."
+                    },
+                    {
+                        "content": "Note that when the **polite form** is used, the **past participle** always agrees with the feminine pronoun **La**, not with the gender of the person being spoken to:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Signor Belli, chi **L’ha invitata**?", "Who invited you, Mr Belli?"],
+                                ["Dottor Ranieri, **L’abbiamo vista** ieri sera alla televisione.", "We saw you on television last night, Dr Ranieri."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "No Agreement with Indirect Object Pronouns",
+                "paragraphs": [
+                    {
+                        "id": 2,
+                        "content": "The rule given above does not apply to **indirect object pronouns**: with these, the **past participle** of the verb never changes:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["‘Hai telefonato a Anna e Sara?’ ‘Sì, **gli ho telefonato**.’", "‘Did you phone Anna and Sara?’ ‘Yes, I phoned them.’"],
+                                ["Quando è venuta Livia, **le ho offerto** un gelato.", "When Livia came I offered her an ice cream."],
+                                ["**Ho parlato** con Carla e **le ho detto** tutto.", "I spoke to Carla and told her everything."],
+                                ["**Non ci hanno scritto**.", "They didn’t write to us."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Object Pronouns with Infinitives in Compound Tenses",
+                "paragraphs": [
+                    {
+                        "id": 3,
+                        "content": "As we saw in Units 7 and 10, when a **direct** or **indirect object pronoun** occurs in a sentence together with a verb in the **infinitive** (usually after **dovere**, **potere**, **volere** or **sapere**), it can be attached to the **infinitive**."
+                    },
+                    {
+                        "content": "In these sentences, when the main verb is in the **present perfect** (or any other compound tense) there is no agreement of the **past participle**, even with **direct object pronouns**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["‘Hai letto tutti i libri?’ ‘Sì, **ho dovuto leggerli** tutti.’", "‘Did you read all the books?’ ‘Yes, I had to read all of them.’"],
+                                ["Carmen **mi ha scritto** una lettera, ma **non ho ancora potuto leggerla**.", "Carmen wrote me a letter, but I still haven’t been able to read it."],
+                                ["Daniela ha molte compagne di scuola, ma **non ha voluto invitarle** alla festa.", "Daniela’s got a lot of school friends, but she didn’t want to/wouldn’t ask them to the party."],
+                                ["‘Avete fatto gli esercizi?’ ‘No, **non abbiamo saputo farli**.’", "‘Did you do the exercises?’ ‘No, we couldn’t/didn’t know how to do them.’"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "However, when the **direct object pronoun** is not attached to the **infinitive**, the **past participle** must agree with it:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["‘Hai letto tutti i libri?’ ‘Sì, **li ho dovuti leggere** tutti.’", "‘Did you read all the books?’ ‘Yes, I had to read all of them.’"],
+                                ["Carmen **mi ha scritto** una lettera, ma **non l’ho ancora potuta leggere**.", "Carmen wrote me a letter but I still haven’t been able to read it."],
+                                ["Daniela ha molte compagne di scuola, ma **non le ha volute invitare** alla festa.", "Daniela’s got a lot of school friends, but she didn’t want to/wouldn’t ask them to the party."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Non-Agreement in Contemporary Spoken Italian",
+                "paragraphs": [
+                    {
+                        "id": 4,
+                        "content": "In **contemporary spoken Italian** (and sometimes in written Italian as well), agreement of the **past participle** with first and second person **direct object pronouns** tends not to be observed; this is the case with both singular (**mi**, **ti**) and plural (**ci**, **vi**), so quite often you will hear (or read) sentences like the following:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Non mi hanno invitato** alla riunione.", "They didn’t invite me to the meeting."],
+                                ["**Ti ho visto** al concerto ieri.", "I saw you at the concert yesterday."],
+                                ["**Non ci hanno chiamato** per il progetto.", "They didn’t call us for the project."],
+                                ["**Vi abbiamo aspettato** fuori dal teatro.", "We waited for you outside the theater."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "However, the agreement is always made with the third person pronouns (**lo**, **la**, **li**, **le**):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Lo abbiamo visto** in città.", "We saw him in the city."],
+                                ["**La ho incontrata** al mercato.", "I met her at the market."],
+                                ["**Li abbiamo invitati** alla festa.", "We invited them to the party."],
+                                ["**Le ho comprate** ieri.", "I bought them yesterday."]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1: Direct Object Pronouns",
+            "instruction": "Complete the sentences with the **direct object pronouns**, making sure that the **past participle** agrees.",
+            "examples": [
+                "**Ho comprato** dei fiori e **— ho mess—** in un vaso.: **Ho comprato** dei fiori e **li ho messi** in un vaso.",
+                "**La zia è partita** e **— ho accompagnat—** alla stazione.: **La zia è partita** e **l’ho accompagnata** alla stazione."
+            ],
+            "items": [
+                { "question": "**Ho comprato** dei fiori e **— ho mess—** in un vaso.", "answer": "Ho comprato dei fiori e li ho messi in un vaso." },
+                { "question": "**La zia è partita** e **— ho accompagnat—** alla stazione.", "answer": "La zia è partita e l’ho accompagnata alla stazione." },
+                { "question": "**Ho visto** delle belle scarpe e **— ho comprat—**.", "answer": "Ho visto delle belle scarpe e le ho comprate." },
+                { "question": "Lara **ha aperto** le finestre, ma Luca **— ha chius—**.", "answer": "Lara ha aperto le finestre, ma Luca le ha chiuse." },
+                { "question": "Mi **hanno regalato** dei biscotti e **— ho mangiat—** tutti.", "answer": "Mi hanno regalato dei biscotti e li ho mangiati tutti." },
+                { "question": "Luisa, **non hai sentito** che Claudio **— ha chiamat—**?", "answer": "Luisa, non hai sentito che Claudio ti ha chiamata?" },
+                { "question": "Gaetano **ha preso** il giornale e **— ha lett—**.", "answer": "Gaetano ha preso il giornale e l’ha letto." },
+                { "question": "‘Vi **hanno invitati** alla festa?’ ‘No, **non — hanno invitat—**.’", "answer": "‘Vi hanno invitati alla festa?’ ‘No, non ci hanno invitati.’" },
+                { "question": "‘**Hai preso** i biglietti per il concerto?’ ‘Sì, **— ho pres—**.’", "answer": "‘Hai preso i biglietti per il concerto?’ ‘Sì, li ho presi.’" },
+                { "question": "Cerchi i libri? **— ho dat—** a Giovanni.", "answer": "Cerchi i libri? Li ho dati a Giovanni." }
+            ]
+        },
+        {
+            "title": "Exercise 2: Direct or Indirect Object Pronouns",
+            "instruction": "Complete the sentences with the correct **direct** or **indirect object pronoun**, making sure that the **past participle** agrees where necessary.",
+            "examples": [
+                "**Ho incontrato** Lina e **— ho offert—** un caffè.: **Ho incontrato** Lina e **le ho offerto** un caffè.",
+                "Cerco Paola e Gianni, **— avete vist—**?: Cerco Paola e Gianni, **li avete visti**?"
+            ],
+            "items": [
+                { "question": "**Ho incontrato** Lina e **— ho offert—** un caffè.", "answer": "Ho incontrato Lina e le ho offerto un caffè." },
+                { "question": "Cerco Paola e Gianni, **— avete vist—**?", "answer": "Cerchi Paola e Gianni, li avete visti?" },
+                { "question": "**Non ho** la bicicletta perché **— ho imprestat—** a Filippo.", "answer": "Non ho la bicicletta perché l’ho imprestata a Filippo." },
+                { "question": "**Non ho scritto** a Paola, **— ho telefonat—**.", "answer": "Non ho scritto a Paola, le ho telefonato." },
+                { "question": "Dove sono le chiavi? Chi **— ha pres—**?", "answer": "Dove sono le chiavi? Chi le ha prese?" },
+                { "question": "**Parlo** bene l’italiano e il tedesco perché **— ho studiat—** per sette anni.", "answer": "Parlo bene l’italiano e il tedesco perché li ho studiati per sette anni." },
+                { "question": "Ieri **ho visto** Alessandro e **— ha presentat—** sua sorella.", "answer": "Ieri ho visto Alessandro e mi ha presentato sua sorella." },
+                { "question": "Caterina, chi **— ha accompagnat—** ieri sera?", "answer": "Caterina, chi ti ha accompagnata ieri sera?" },
+                { "question": "Oggi è il compleanno di Daniela, **— hai mandat—** gli auguri?", "answer": "Oggi è il compleanno di Daniela, le hai mandato gli auguri?" },
+                { "question": "**Ho comprato** una macchina nuova e **— ho pagat—** molto.", "answer": "Ho comprato una macchina nuova e l’ho pagata molto." }
+            ]
+        },
+        {
+            "title": "Exercise 3: Rewrite Sentences",
+            "instruction": "Rewrite the sentences as shown in the example, changing the **pronoun** placement with **modal verbs**.",
+            "examples": [
+                "**Non ho saputo farli**.: **Non li ho saputo fare**.",
+                "**Ho voluto vederli**.: **Li ho voluto vedere**."
+            ],
+            "items": [
+                { "question": "**Non ho saputo farli**.", "answer": "Non li ho saputo fare." },
+                { "question": "**Ho voluto vederli**.", "answer": "Li ho voluto vedere." },
+                { "question": "**Non abbiamo potuto chiamarlo**.", "answer": "Non l’abbiamo potuto chiamare." },
+                { "question": "**Hanno potuto aiutarvi**?", "answer": "Vi hanno potuto aiutare?" },
+                { "question": "**Abbiamo dovuto invitarla**.", "answer": "L’abbiamo dovuta invitare." },
+                { "question": "**Non ha saputo tradurle**.", "answer": "Non le ha saputo tradurre." },
+                { "question": "**Avete dovuto accompagnarle**?", "answer": "Le avete dovute accompagnare?" },
+                { "question": "**Ha voluto mangiarla**.", "answer": "L’ha voluta mangiare." },
+                { "question": "**Hai potuto vederli**?", "answer": "Li hai potuti vedere?" },
+                { "question": "**Non hanno voluto farle**.", "answer": "Non le hanno volute fare." }
+            ]
+        },
+        {
+            "title": "Exercise 4: Translate into Italian",
+            "instruction": "Translate the following sentences into Italian, using the **present perfect** tense and appropriate pronouns.",
+            "examples": [
+                "Sabina **hasn’t invited** me [f].: Sabina **non mi ha invitata**.",
+                "Who **called** you [fs]?: Chi **ti ha chiamata**?"
+            ],
+            "items": [
+                { "question": "Sabina **hasn’t invited** me [f].", "answer": "Sabina non mi ha invitata." },
+                { "question": "Who **called** you [fs]?", "answer": "Chi ti ha chiamata?" },
+                { "question": "We **phoned** them yesterday.", "answer": "Gli abbiamo telefonato ieri." },
+                { "question": "I **looked for** you [mp], but I didn’t find you.", "answer": "Vi ho cercati, ma non vi ho trovati." },
+                { "question": "Chiara **took** us to the bus stop.", "answer": "Chiara ci ha accompagnati alla fermata dell’autobus." },
+                { "question": "I **sent** you [pl.] a postcard – did you receive it?", "answer": "Vi ho mandato una cartolina – l’avete ricevuta?" },
+                { "question": "My grandparents **gave** me 100 euros, but I’ve already spent it. [Say: ‘spent them’]", "answer": "I miei nonni mi hanno dato 100 euro, ma li ho già spesi." },
+                { "question": "I **bought** two rolls and ate them.", "answer": "Ho comprato due panini e li ho mangiati." },
+                { "question": "‘Have you [sing.] **switched** the light off?’ ‘Yes, I’ve switched it off.’", "answer": "‘Hai spento la luce?’ ‘Sì, l’ho spenta.’" },
+                { "question": "Carla **hasn’t been able** to help them [f].", "answer": "Carla non le ha potute aiutare." }
+            ]
+        }
+    ]
+}

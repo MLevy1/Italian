@@ -1,0 +1,240 @@
+{
+    "unitNumber": 17,
+    "text": {
+        "title": "Unit Seventeen: The Pronouns Ne and Ci",
+        "sections": [
+            {
+                "title": "The Pronoun Ne",
+                "paragraphs": [
+                    {
+                        "id": 1,
+                        "content": "The pronoun **ne** is used to refer to a **part of a whole**, corresponding to ‘of it/them’, as in ‘some of it/them’, ‘two of them’, etc. It is normally used together with **quantities**, whether expressed in numbers or in any other way (kilos, litres, metres, slices, cups, ‘too much/little’, ‘enough’, etc.); it is always placed **before the verb**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["La torta era molto buona e **ne** ho mangiate due fette.", "The cake was very good, and I ate two slices (of it)."],
+                                ["‘Quanti fratelli hai?’ ‘**Ne** ho due.’", "‘How many brothers and sisters do you have?’ ‘I have two (of them).’"],
+                                ["‘Ha degli euro, Signor Watt?’ ‘Sì, **ne** ho 50.’", "‘Have you got any euros, Mr Watt?’ ‘Yes, I’ve got 50 (of them).’"],
+                                ["‘Hai tutti i CD di Frank Zappa?’ ‘No, **ne** ho solo tre.’", "‘Have you got all Frank Zappa’s CDs?’ ‘No, I’ve only got three (of them).’"],
+                                ["‘Mangi la frutta?’ ‘Sì, **ne** mangio molta.’", "‘Do you eat fruit?’ ‘Yes, I eat a lot (of it).’"],
+                                ["‘Hai abbastanza soldi?’ ‘Sì, **ne** ho abbastanza.’", "‘Have you got enough money?’ ‘Yes, I have enough (of it).’"],
+                                ["Se c’è ancora del tè, **ne** prendo un’altra tazza.", "If there’s still some tea, I’ll have another cup (of it)."],
+                                ["Se compri le mele, **ne** prendi un chilo anche per me?", "If you’re buying apples, will you get a kilo (of them) for me as well?"],
+                                ["‘Volete ancora del cioccolato?’ ‘No, grazie, non **ne** vogliamo più.’", "‘Do you want some more chocolate?’ ‘No, thanks, we don’t want any more (of it).’"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Note, however, that **ne** is not used in cases where English would say ‘all of it’, ‘all of them’, etc."
+                    }
+                ]
+            },
+            {
+                "title": "Invariability of Ne",
+                "paragraphs": [
+                    {
+                        "id": 2,
+                        "content": "The pronoun **ne** is **invariable**, and can thus replace any noun, whether **masculine**, **feminine**, **singular**, or **plural**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Ho comprato delle arance e **ne** ho mangiate due.", "I bought some oranges and ate two (of them)."],
+                                ["C’erano molti biscotti, ma **ne** ho preso solo uno.", "There were many biscuits, but I took only one (of them)."],
+                                ["‘Hai del latte?’ ‘Sì, **ne** ho un litro.’", "‘Have you got any milk?’ ‘Yes, I’ve got a litre (of it).’"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ne with Compound Tenses",
+                "paragraphs": [
+                    {
+                        "id": 3,
+                        "content": "When **ne** is used with a verb in a **compound tense** (e.g., the **present perfect**), the **past participle** agrees in **gender** and **number** with the noun that **ne** replaces:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["‘Quanti libri hai letto?’ ‘**Ne** ho **dovuti leggere** tre.’", "‘How many books did you read?’ ‘I had to read three (of them).’"],
+                                ["C’erano molte mele e **ne** ho **mangiate** due.", "There were a lot of apples and I ate two (of them)."],
+                                ["C’erano molte torte e **ne** ho **mangiate** due.", "There were a lot of cakes and I ate two (of them)."],
+                                ["C’erano molti esercizi e **ne** ho **saputi fare** solo alcuni.", "There were a lot of exercises, but I could only do a few (of them)."],
+                                ["Gli esercizi erano difficili e **ne** ho **saputa fare** solo una parte [fs].", "The exercises were difficult, and I could only do part (of them)."],
+                                ["Gli esercizi [mp] erano difficili e **ne** ho **saputi fare** solo una parte.", "The exercises were difficult, and I could only do part (of them)."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ne with Verbs of Speaking or Thinking",
+                "paragraphs": [
+                    {
+                        "id": 4,
+                        "content": "The pronoun **ne** is also used with verbs like **parlare** (to talk/speak) or **pensare** (to think) to mean ‘about it/them’:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Conosco questo film: ieri **ne** parlavano alla radio.", "I know this film: they were talking about it on the radio yesterday."],
+                                ["È un libro di successo: tutti **ne** parlano.", "It’s a popular book: everybody’s talking about it."],
+                                ["Hai visto lo spettacolo? Che **ne** pensi?", "Did you see the show? What do you think of it?"],
+                                ["Ha molti problemi, ma non **ne** parla mai.", "He has a lot of problems, but he never talks about them."],
+                                ["Marco aveva dei problemi e **ne** ha parlato con Anna.", "Marco had problems, and talked about them with Anna."],
+                                ["Questi sono libri di successo e tutti **ne** hanno parlato.", "These are popular books and everybody’s been talking about them."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Pronoun Ci",
+                "paragraphs": [
+                    {
+                        "id": 10,
+                        "content": "The pronoun **ci** is used to replace a noun denoting a **place**; it corresponds to the English ‘there’. We have already seen this pronoun used with the verb **essere** in expressions like **c’è** and **ci sono** (Unit 4), but it can be used with other verbs, always **preceding** them:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Ci** vai spesso a Roma?", "Do you often go there to Rome?"],
+                                ["A Londra **ci** sono stato due volte.", "I’ve been there to London twice."],
+                                ["Non **ci** torno più in quel negozio.", "I’m not going back there to that shop."],
+                                ["**Ci** vivi da molto tempo a Firenze?", "Have you lived there in Florence for a long time?"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "As the examples suggest, **ci** is used more often in this kind of sentence than ‘there’ is in English."
+                    }
+                ]
+            },
+            {
+                "title": "Ci with Infinitives",
+                "paragraphs": [
+                    {
+                        "id": 11,
+                        "content": "**Ci** always comes **before the verb**. Like the other **unstressed pronouns**, though, it can be **attached** to the **infinitive** of a verb (usually after **dovere**, **potere**, **volere**, or **sapere**):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Non posso **andarci** domani.", "I can’t go there tomorrow."],
+                                ["Devo **tornarci** la prossima settimana.", "I have to go back there next week."],
+                                ["Vuoi **viverci** per sempre?", "Do you want to live there forever?"],
+                                ["Non so se posso **restarci** a lungo.", "I don’t know if I can stay there for long."]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1: Pronoun ne with Agreement",
+            "instruction": "Supply the pronoun **ne**, making sure that the **past participle** and the **adjective or pronoun** agree where necessary.",
+            "examples": [
+                "‘Quante cartoline hai mandato?’ ‘**—** ho **mandat—** 12.’: ‘Quante cartoline hai mandato?’ ‘**Ne** ho **mandate** 12.’",
+                "‘Hai comprato i biscotti?’ ‘Sì, **—** ho **comprat—** una scatola.’: ‘Hai comprato i biscotti?’ ‘Sì, **ne** ho **comprata** una scatola.’"
+            ],
+            "items": [
+                { "question": "‘Quante cartoline hai mandato?’ ‘**—** ho **mandat—** 12.’", "answer": "‘Quante cartoline hai mandato?’ ‘Ne ho mandate 12.’" },
+                { "question": "‘Hai comprato i biscotti?’ ‘Sì, **—** ho **comprat—** una scatola.’", "answer": "‘Hai comprato i biscotti?’ ‘Sì, ne ho comprata una scatola.’" },
+                { "question": "‘Hai fatto i compiti?’ ‘**—** ho **fatt—** la metà.’", "answer": "‘Hai fatto i compiti?’ ‘Ne ho fatti la metà.’" },
+                { "question": "‘Quante persone sono venute?’ ‘**—** sono **venut—** poch—.’", "answer": "‘Quante persone sono venute?’ ‘Ne sono venute poche.’" },
+                { "question": "‘Quanti errori hai fatto?’ ‘Non **—** ho **fatt—** nessun—.’", "answer": "‘Quanti errori hai fatto?’ ‘Non ne ho fatto nessuno.’" },
+                { "question": "‘Hai chiuso tutte le finestre?’ ‘No, **—** ho **lasciat—** una **apert—**.’", "answer": "‘Hai chiuso tutte le finestre?’ ‘No, ne ho lasciata una aperta.’" },
+                { "question": "‘Quanti amici hanno invitato?’ ‘**—** hanno **invitat—** **molt—**.’", "answer": "‘Quanti amici hanno invitato?’ ‘Ne hanno invitati molti.’" },
+                { "question": "‘Quanti libri hai letto?’ ‘**—** ho **lett—** due.’", "answer": "‘Quanti libri hai letto?’ ‘Ne ho letti due.’" },
+                { "question": "‘Quanta pasta avete comprato?’ ‘**—** abbiamo **comprat—** **poc—**.’", "answer": "‘Quanta pasta avete comprato?’ ‘Ne abbiamo comprata poca.’" },
+                { "question": "‘Quante caramelle hai mangiato?’ ‘Non **—** ho **mangiat—** **nessun—**.’", "answer": "‘Quante caramelle hai mangiato?’ ‘Non ne ho mangiata nessuna.’" },
+                { "question": "‘Quanti francobolli hai preso?’ ‘**—** ho **pres—** abbastanza.’", "answer": "‘Quanti francobolli hai preso?’ ‘Ne ho presi abbastanza.’" },
+                { "question": "Avevo molte riviste e **—** ho **dat—** **alcun—** a Luigi.", "answer": "Avevo molte riviste e ne ho date alcune a Luigi." },
+                { "question": "Ci piacciono i film comici e ieri sera **—** abbiamo **vist—** tre.", "answer": "Ci piacciono i film comici e ieri sera ne abbiamo visti tre." },
+                { "question": "Ho fatto una torta e **—** ho **mangiat—** due fette.", "answer": "Ho fatto una torta e ne ho mangiate due fette." },
+                { "question": "La zia ha portato dei cioccolatini ma Piero non **—** ha **mangiat—** **nessun—**.", "answer": "La zia ha portato dei cioccolatini ma Piero non ne ha mangiato nessuno." },
+                { "question": "Abbiamo molti videogiochi e **—** abbiamo **dat—** **qualcun—** a Michele.", "answer": "Abbiamo molti videogiochi e ne abbiamo dati alcuni a Michele." },
+                { "question": "C’erano molti libri interessanti e **—** ho **pres—** **alcun—**.", "answer": "C’erano molti libri interessanti e ne ho presi alcuni." },
+                { "question": "Hanno venduto molti CD e **—** sono **rimast—** **poch—**.", "answer": "Hanno venduto molti CD e ne sono rimasti pochi." }
+            ]
+        },
+        {
+            "title": "Exercise 2: Pronoun ne",
+            "instruction": "Complete the sentences with the pronoun **ne**.",
+            "examples": [
+                "‘Quando vai in biblioteca?’ ‘Ci vado oggi pomeriggio e **—** prendo due libri.’: ‘Quando vai in biblioteca?’ ‘Ci vado oggi pomeriggio e **ne** prendo due libri.’",
+                "‘Hai comprato delle mele?’ ‘Sì, **—** ho comprate tre chili.’: ‘Hai comprato delle mele?’ ‘Sì, **ne** ho comprate tre chili.’"
+            ],
+            "items": [
+                { "question": "‘Quando vai in biblioteca?’ ‘Ci vado oggi pomeriggio e **—** prendo due libri.’", "answer": "‘Quando vai in biblioteca?’ ‘Ci vado oggi pomeriggio e ne prendo due libri.’" },
+                { "question": "‘Hai comprato delle mele?’ ‘Sì, **—** ho comprate tre chili.’", "answer": "‘Hai comprato delle mele?’ ‘Sì, ne ho comprate tre chili.’" },
+                { "question": "‘Quante foto hai fatto?’ ‘**—** ho fatte più di cento.’", "answer": "‘Quante foto hai fatto?’ ‘Ne ho fatte più di cento.’" },
+                { "question": "‘Quante persone inviti?’ ‘**—** invito solo due.’", "answer": "‘Quante persone inviti?’ ‘Ne invito solo due.’" },
+                { "question": "‘Hai mangiato le fragole?’ ‘No, non **—** ho mangiate.’", "answer": "‘Hai mangiato le fragole?’ ‘No, non ne ho mangiate.’" },
+                { "question": "‘Quanti amici hai visto?’ ‘**—** ho visti cinque.’", "answer": "‘Quanti amici hai visto?’ ‘Ne ho visti cinque.’" },
+                { "question": "‘Hai preso i biglietti?’ ‘Sì, **—** ho presi due.’", "answer": "‘Hai preso i biglietti?’ ‘Sì, ne ho presi due.’" },
+                { "question": "‘Quante arance vuoi?’ ‘**—** voglio un chilo.’", "answer": "‘Quante arance vuoi?’ ‘Ne voglio un chilo.’" },
+                { "question": "‘Hai abbastanza soldi?’ ‘Sì, **—** ho abbastanza.’", "answer": "‘Hai abbastanza soldi?’ ‘Sì, ne ho abbastanza.’" },
+                { "question": "‘Quanti compiti hai fatto?’ ‘**—** ho fatti la metà.’", "answer": "‘Quanti compiti hai fatto?’ ‘Ne ho fatti la metà.’" }
+            ]
+        },
+        {
+            "title": "Exercise 3: Translate into Italian with ne",
+            "instruction": "Translate the following sentences into Italian using **ne**.",
+            "examples": [
+                "How many books did you read?: Quanti libri **ne** hai letti?",
+                "I ate two of those cakes.: **Ne** ho mangiate due di quelle torte."
+            ],
+            "items": [
+                { "question": "How many books did you read?", "answer": "Quanti libri ne hai letti?" },
+                { "question": "I ate two of those cakes.", "answer": "Ne ho mangiate due di quelle torte." },
+                { "question": "How many brothers do you have?", "answer": "Quanti fratelli ne hai?" },
+                { "question": "I didn’t take any of those biscuits.", "answer": "Non ne ho presi di quei biscotti." },
+                { "question": "How many photos did you [pl.] take?", "answer": "Quante foto ne avete fatte?" },
+                { "question": "I left some of those windows open.", "answer": "Ne ho lasciate alcune di quelle finestre aperte." },
+                { "question": "They invited a lot of those friends.", "answer": "Ne hanno invitati molti di quegli amici." },
+                { "question": "I didn’t make any of those mistakes.", "answer": "Non ne ho fatto nessuno di quegli errori." },
+                { "question": "We saw two of those films yesterday.", "answer": "Ne abbiamo visti due di quei film ieri." },
+                { "question": "How much of that pasta did you [pl.] buy?", "answer": "Quanta ne avete comprata di quella pasta?" }
+            ]
+        },
+        {
+            "title": "Exercise 4: Rewrite with ne and Modal Verbs",
+            "instruction": "Rewrite the sentences, attaching **ne** to the **infinitive** of the **modal verb**, ensuring **past participle** agreement where necessary.",
+            "examples": [
+                "Ho dovuto **darne** due [m] a Marisa.: **Ne** ho dovuti **dare** due a Marisa.",
+                "Hai potuto **comprarne** [fp]?: **Ne** hai potute **comprare**?"
+            ],
+            "items": [
+                { "question": "Ho dovuto **darne** due [m] a Marisa.", "answer": "Ne ho dovuti dare due a Marisa." },
+                { "question": "Hai potuto **comprarne** [fp]?", "answer": "Ne hai potute comprare?" },
+                { "question": "Quante hai dovuto **farne**?", "answer": "Quante ne hai dovute fare?" },
+                { "question": "Non hanno voluto **mangiarne** [fs].", "answer": "Non ne hanno voluta mangiare." },
+                { "question": "Ha dovuto **leggerne** quattro [mp].", "answer": "Ne ha dovuti leggere quattro." },
+                { "question": "Non abbiamo potuto **prenderne** [fp].", "answer": "Non ne abbiamo potute prendere." },
+                { "question": "Ho dovuto **scriverne** due [fp].", "answer": "Ne ho dovute scrivere due." },
+                { "question": "Ho potuto **leggerne** solo due pagine.", "answer": "Ne ho potute leggere solo due pagine." },
+                { "question": "Avete dovuto **rifarne** molti?", "answer": "Ne avete dovuti rifare molti?" },
+                { "question": "Non hanno potuto **assaggiarne** [fs].", "answer": "Non ne hanno potuta assaggiare." }
+            ]
+        },
+        {
+            "title": "Exercise 5: Replace with ci",
+            "instruction": "Identify the words that can be replaced by the pronoun **ci**, and rewrite the sentences with **ci** in the right place.",
+            "examples": [
+                "Abitiamo **in questa casa** da tre anni.: **Ci** abitiamo da tre anni.",
+                "Stefano lavora **al Museo di Storia Naturale** da febbraio.: Stefano **ci** lavora da febbraio."
+            ],
+            "items": [
+                { "question": "Abitiamo **in questa casa** da tre anni.", "answer": "Ci abitiamo da tre anni." },
+                { "question": "Stefano lavora **al Museo di Storia Naturale** da febbraio.", "answer": "Stefano ci lavora da febbraio." },
+                { "question": "Volete venire **alla festa di Marco**?", "answer": "Ci volete venire?" },
+                { "question": "Paola e Livia vanno **al cinema** due volte alla settimana.", "answer": "Paola e Livia ci vanno due volte alla settimana." },
+                { "question": "La Signora Bini va sempre **al supermercato** a piedi.", "answer": "La Signora Bini ci va sempre a piedi." },
+                { "question": "Rimango **in Italia** per tre settimane.", "answer": "Ci rimango per tre settimane." },
+                { "question": "Giulia viene sempre **a scuola** in bici.", "answer": "Giulia ci viene sempre in bici." },
+                { "question": "Ho passato tre ore **in coda all’ufficio postale**.", "answer": "Ci ho passato tre ore in coda." },
+                { "question": "Siete andati **a cena a casa di Pietro**?", "answer": "Ci siete andati a cena?" },
+                { "question": "Passiamo le vacanze **a Sorrento**.", "answer": "Ci passiamo le vacanze." }
+            ]
+        }
+    ]
+}

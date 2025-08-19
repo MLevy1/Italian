@@ -1,0 +1,226 @@
+{
+    "unitNumber": 19,
+    "text": {
+        "title": "Unit Nineteen: The Past Perfect Tense",
+        "sections": [
+            {
+                "title": "Use of the Past Perfect",
+                "paragraphs": [
+                    {
+                        "id": 1,
+                        "content": "The **past perfect** (or **pluperfect**) normally indicates a **past event** which happened **before another past event**, as in the English ‘I had finished showering when I heard the doorbell’, ‘By the time it finished, I had had enough.’ It is thus normally used in sentences where there is another **past tense**, or some other reference to a **past event**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Quando **sono arrivato** [present perfect] **avevano appena finito** [past perfect] di cenare.", "When I arrived they had just finished dinner."],
+                                ["Quel giorno **ero** [imperfect] molto contenta perché **avevo passato** [past perfect] l’esame.", "That day I was very happy because I had passed the exam."],
+                                ["Prima di **imprestare** [infinitive] l’auto a Marco, **avevo fatto** [past perfect] il pieno.", "Before lending the car to Marco, I had filled up."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "It is also often used **on its own**, where a **more recent event** is referred to, or implied, in the context:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Avevo fatto** quella torta per te, non per Paolo.", "I had made that tart for you, not for Paolo. [e.g. that’s why I’m so annoyed that Paolo’s eaten it]"],
+                                ["Tullio **aveva portato** i CD.", "Tullio had brought the CDs. [e.g. the ones I told you we were listening to]"],
+                                ["Francesca **era uscita**.", "Francesca had gone out. [e.g. which is why I didn’t see her last night]"]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "content": "Sometimes, when the **past perfect** is used **on its own**, the event nearer to the present is **purely implicit**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Non ti avevo visto**.", "I hadn’t seen you. [Implied: Ora ti ho visto, ma prima, i.e. I’ve seen you now, but I hadn’t before]"],
+                                ["**Non ti avevo sentito**.", "I hadn’t heard you. [Implied: Ma ora ti ho sentito, i.e. I hadn’t heard you before, but I have now]"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Forming the Past Perfect",
+                "paragraphs": [
+                    {
+                        "id": 3,
+                        "content": "The **past perfect** in Italian is formed with the **imperfect indicative** of **avere** or **essere** (auxiliary verbs) followed by the **past participle** of the main verb.",
+                        "table": {
+                            "headers": ["Parlare (To speak)", "Italian", "English"],
+                            "rows": [
+                                ["io", "avevo parlato", "I had spoken"],
+                                ["tu", "avevi parlato", "you had spoken"],
+                                ["lui/lei", "aveva parlato", "he/she/it had spoken"],
+                                ["noi", "avevamo parlato", "we had spoken"],
+                                ["voi", "avevate parlato", "you had spoken"],
+                                ["loro", "avevano parlato", "they had spoken"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Verbs that take **essere** in the **present perfect** (e.g., **andare**, **venire**, **essere**, etc.) also take **essere** in the **past perfect**, and the **past participle** agrees in **gender** and **number** with the subject:",
+                        "table": {
+                            "headers": ["Andare (To go)", "Italian", "English"],
+                            "rows": [
+                                ["io", "ero andato/andata", "I had gone [m/f]"],
+                                ["tu", "eri andato/andata", "you had gone [m/f]"],
+                                ["lui/lei", "era andato/andata", "he/she had gone"],
+                                ["noi", "eravamo andati/state", "we had gone [m/f]"],
+                                ["voi", "eravate andati/state", "you had gone [m/f]"],
+                                ["loro", "erano andati/state", "they had gone [m/f]"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "The verb **avere**",
+                        "table": {
+                            "headers": ["Avere (To have)", "Italian", "English"],
+                            "rows": [
+                                ["io", "avevo avuto", "I had had"],
+                                ["tu", "avevi avuto", "you had had"],
+                                ["lui/lei", "aveva avuto", "he/she/it had had"],
+                                ["noi", "avevamo avuto", "we had had"],
+                                ["voi", "avevate avuto", "you had had"],
+                                ["loro", "avevano avuto", "they had had"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "The verb **essere**",
+                        "table": {
+                            "headers": ["Essere (To be)", "Italian", "English"],
+                            "rows": [
+                                ["io", "ero stato/stata", "I had been [m/f]"],
+                                ["tu", "eri stato/stata", "you had been [m/f]"],
+                                ["lui/lei", "era stato/stata", "he/she had been"],
+                                ["noi", "eravamo stati/state", "we had been [m/f]"],
+                                ["voi", "eravate stati/state", "you had been [m/f]"],
+                                ["loro", "erano stati/state", "they had been [m/f]"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Monica **era uscita**.", "Monica had gone out."],
+                                ["Pietro **era stato** malato.", "Pietro had been ill."],
+                                ["Fabia e Silvia **erano rimaste** a casa.", "Fabia and Silvia had stayed at home."],
+                                ["Giulia e Sebastiano **erano partiti**.", "Giulia and Sebastiano had left."],
+                                ["**Ero andata** al cinema.", "I had been/gone to the cinema. [the speaker is female]"],
+                                ["**Eravamo arrivati** tardi.", "We had arrived late. [the speakers are males or a mixed group]"],
+                                ["**Non aveva avuto** tempo di finire il lavoro.", "He hadn’t had time to finish the job."],
+                                ["Tanya **aveva avuto** la varicella.", "Tanya had had chickenpox."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Negative Form",
+                "paragraphs": [
+                    {
+                        "id": 6,
+                        "content": "The **negative** is formed in the same way as for the **present perfect**, by placing **non** before the verb:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Non avevo parlato** con lui.", "I hadn’t spoken with him."],
+                                ["**Non erano arrivati** in tempo.", "They hadn’t arrived on time."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "content": "As with the **present perfect**, the adverbs **mai** (ever), **più** (more/again), and **già** (already) are normally placed **between the auxiliary and the verb**. With the negatives **non . . . ancora** (not . . . yet), **non . . . mai** (never), **non . . . più** (not . . . any more/not . . . again/no . . . longer), **non** is placed **before the auxiliary**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Avevo già risposto**.", "I had already replied."],
+                                ["**Non avevo ancora finito**.", "I hadn’t yet finished."],
+                                ["**Non era mai stato** a Roma.", "He had never been to Rome."],
+                                ["**Non erano più tornati**.", "They hadn’t returned any more."]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1: Supply Past Perfect",
+            "instruction": "Supply the **past perfect** of the verb in brackets.",
+            "examples": [
+                "Maria (**finire**) di cenare.: Maria **aveva finito** di cenare.",
+                "Anna (**arrivare**) il giorno prima.: Anna **era arrivata** il giorno prima."
+            ],
+            "items": [
+                { "question": "Maria (**finire**) di cenare.", "answer": "Maria aveva finito di cenare." },
+                { "question": "Anna (**arrivare**) il giorno prima.", "answer": "Anna era arrivata il giorno prima." },
+                { "question": "Scusi, Signora, non La (**io vedere**)!", "answer": "Scusi, Signora, non La avevo vista!" },
+                { "question": "(**tu spegnere**) la luce?", "answer": "Avevi spento la luce?" },
+                { "question": "(**voi prendere**) il giornale?", "answer": "Avevate preso il giornale?" },
+                { "question": "Prima di lavorare in Italia, Jim (**lavorare**) in Francia.", "answer": "Prima di lavorare in Italia, Jim aveva lavorato in Francia." },
+                { "question": "Hai perso la lettera che ti (**scrivere**) Antonio?", "answer": "Hai perso la lettera che ti aveva scritto Antonio?" },
+                { "question": "Alessandro non (**preparare**) l’esame.", "answer": "Alessandro non aveva preparato l’esame." },
+                { "question": "Non (**tu riuscire**) a finire il lavoro?", "answer": "Non eri riuscito a finire il lavoro?" },
+                { "question": "Gli (**noi chiedere**) dei CD.", "answer": "Gli avevamo chiesto dei CD." },
+                { "question": "Caterina (**stare**) male.", "answer": "Caterina era stata male." },
+                { "question": "(**io mangiare**) un panino, ma avevo ancora fame.", "answer": "Avevo mangiato un panino, ma avevo ancora fame." },
+                { "question": "Ti (**piacere**) la partita?", "answer": "Ti era piaciuta la partita?" },
+                { "question": "Cecilia (**andare**) in vacanza.", "answer": "Cecilia era andata in vacanza." },
+                { "question": "Le mie amiche (**uscire**).", "answer": "Le mie amiche erano uscite." },
+                { "question": "Non (**io capire**) nulla.", "answer": "Non avevo capito nulla." },
+                { "question": "Il treno (**partire**) in orario.", "answer": "Il treno era partito in orario." },
+                { "question": "Sergio (**rimanere**) in ufficio.", "answer": "Sergio era rimasto in ufficio." },
+                { "question": "Paolo non (**volere**) lavorare con noi.", "answer": "Paolo non aveva voluto lavorare con noi." },
+                { "question": "Gina (**essere**) contenta di vedermi.", "answer": "Gina era stata contenta di vedermi." }
+            ]
+        },
+        {
+            "title": "Exercise 2: Complete Sentences with Correct Tense",
+            "instruction": "Complete the following sentences, using the correct tense of the verb in brackets (**present perfect**, **imperfect**, or **past perfect**).",
+            "examples": [
+                "Quando (**io arrivare**) i miei amici (**uscire**) da poco.: Quando **sono arrivato** i miei amici **erano usciti** da poco.",
+                "Silvia non (**conoscere**) la persona che le (**telefonare**).: Silvia non **conosceva** la persona che le **aveva telefonato**."
+            ],
+            "items": [
+                { "question": "Quando (**io arrivare**) i miei amici (**uscire**) da poco.", "answer": "Quando sono arrivato i miei amici erano usciti da poco." },
+                { "question": "Silvia non (**conoscere**) la persona che le (**telefonare**).", "answer": "Silvia non conosceva la persona che le aveva telefonato." },
+                { "question": "(**tu fare**) un dolce? Ma ti (**io dire**) che sono a dieta!", "answer": "Hai fatto un dolce? Ma ti avevo detto che sono a dieta!" },
+                { "question": "Ernestina (**essere**) stanca perché (**camminare**) molto.", "answer": "Ernestina era stanca perché aveva camminato molto." },
+                { "question": "Carlo non (**venire**) con noi perché (**dovere**) fare un lavoro che gli (**loro dare**) la sera prima.", "answer": "Carlo non è venuto con noi perché aveva dovuto fare un lavoro che gli avevano dato la sera prima." },
+                { "question": "Silvio (**essere**) molto contento perché (**vincere**) la gara di sci.", "answer": "Silvio era molto contento perché aveva vinto la gara di sci." },
+                { "question": "Carla (**portare**) sempre la maglia che le (**regalare**) suo fratello.", "answer": "Carla portava sempre la maglia che le aveva regalato suo fratello." },
+                { "question": "(**io comprare**) i libri che mi (**voi consigliare**).", "answer": "Ho comprato i libri che mi avevate consigliato." },
+                { "question": "Mauro (**spendere**) tutti i soldi che (**lui guadagnare**).", "answer": "Mauro aveva speso tutti i soldi che aveva guadagnato." },
+                { "question": "Francesca (**invitare**) tutti gli amici che (**andare**) in vacanza con lei l’anno prima.", "answer": "Francesca aveva invitato tutti gli amici che erano andati in vacanza con lei l’anno prima." }
+            ]
+        },
+        {
+            "title": "Exercise 3: Translate into Italian",
+            "instruction": "Translate the following sentences into Italian, using the **past perfect** where appropriate.",
+            "examples": [
+                "Paola still hadn’t been to Scotland.: Paola **non era ancora stata** in Scozia.",
+                "I’d finished the job, but I was very tired.: **Avevo finito** il lavoro, ma ero molto stanco."
+            ],
+            "items": [
+                { "question": "Paola still hadn’t been to Scotland.", "answer": "Paola non era ancora stata in Scozia." },
+                { "question": "I’d finished the job, but I was very tired.", "answer": "Avevo finito il lavoro, ma ero molto stanco." },
+                { "question": "The girls had never gone into that church.", "answer": "Le ragazze non erano mai entrate in quella chiesa." },
+                { "question": "Arianna finished the tart her grandmother had made.", "answer": "Arianna aveva finito la torta che sua nonna aveva fatto." },
+                { "question": "‘What had you [sing.] said to Fabio?’ ‘I hadn’t said anything to him.’", "answer": "‘Cosa avevi detto a Fabio?’ ‘Non gli avevo detto nulla.’" },
+                { "question": "Maria had had to stay at home.", "answer": "Maria aveva dovuto restare a casa." },
+                { "question": "How much had your [pl.] car cost?", "answer": "Quanto era costata la vostra macchina?" },
+                { "question": "They’d bought the ticket the previous day.", "answer": "Avevano comprato il biglietto il giorno prima." },
+                { "question": "I hadn’t got the bike any longer, because I’d given it to Anna.", "answer": "Non avevo più la bici, perché l’avevo data ad Anna." },
+                { "question": "She was born in Russia, but she’d been living in Italy for many years when I met her.", "answer": "Era nata in Russia, ma aveva vissuto in Italia per molti anni quando l’ho incontrata." }
+            ]
+        }
+    ]
+}

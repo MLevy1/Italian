@@ -1,0 +1,347 @@
+{
+    "unitNumber": 21,
+    "text": {
+        "title": "Unit Twenty-One: The Imperative",
+        "sections": [
+            {
+                "title": "Use of the Imperative",
+                "paragraphs": [
+                    {
+                        "id": 1,
+                        "content": "The **imperative** is used, in Italian as in English, to express **orders**, **commands**, or **strong requests**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Guarda**!", "Look!"],
+                                ["**Entrate**!", "Come in!"],
+                                ["**Chiedi** a tuo padre.", "Ask your father."],
+                                ["**Venga** domani, Signora!", "Come tomorrow, Madam!"],
+                                ["**Andiamo**!", "Let’s go!"],
+                                ["**Dammi** il libro.", "Give me the book."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "As well as orders and requests, the **imperative** can also be used to express **wishes**, **invitations**, **encouragement**, and **advice**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Passa** delle buone vacanze.", "Have a good holiday."],
+                                ["**Ti ascolto**: **dimmi** tutto.", "I’m listening to you: tell me everything."],
+                                ["**Non ti preoccupare**.", "Don’t worry."],
+                                ["**Hai l’aria stanca**: **vai** a letto!", "You look tired: go to bed!"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Forms of the Imperative",
+                "paragraphs": [
+                    {
+                        "id": 2,
+                        "content": "Regular verbs in **-are**, **-ere**, and **-ire** are conjugated as follows:",
+                        "table": {
+                            "headers": ["", "Parlare (To speak)", "Prendere (To take/get)", "Partire (To leave)"],
+                            "rows": [
+                                ["tu", "parla", "prendi", "parti"],
+                                ["Lei", "parli", "prenda", "parta"],
+                                ["noi", "parliamo", "prendiamo", "partiamo"],
+                                ["voi", "parlate", "prendete", "partite"],
+                                ["Loro", "parlino", "prendano", "partano"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Some verbs ending in **-ire** add **-isc-**, as in the **present indicative** (see Unit 5):",
+                        "table": {
+                            "headers": ["Finire (To finish)", "Italian", "English"],
+                            "rows": [
+                                ["tu", "finisci", "finish"],
+                                ["Lei", "finisca", "finish"],
+                                ["noi", "finiamo", "let us finish"],
+                                ["voi", "finite", "finish"],
+                                ["Loro", "finiscano", "finish"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "In the **first person plural**, the meaning is more that of a **suggestion** than an order, made to a group of which we are part (cf. the English ‘Let’s have a coffee’). The **third person singular and plural** forms (**Lei** and **Loro**) are used for **formal address**."
+                    }
+                ]
+            },
+            {
+                "title": "Irregular Imperatives",
+                "paragraphs": [
+                    {
+                        "id": 3,
+                        "content": "Some verbs have irregular forms in the **tu** imperative. The most important are:",
+                        "table": {
+                            "headers": ["Verb", "tu Imperative", "English"],
+                            "rows": [
+                                ["andare", "va’", "go"],
+                                ["dare", "da’", "give"],
+                                ["dire", "di’", "say/tell"],
+                                ["fare", "fa’", "do/make"],
+                                ["stare", "sta’", "stay/be"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Va’** a casa!", "Go home!"],
+                                ["**Da’** un po’ di latte al gatto.", "Give some milk to the cat."],
+                                ["**Di’** la verità.", "Tell the truth."],
+                                ["**Fa’** i compiti!", "Do your homework!"],
+                                ["**Sta’** zitto!", "Be quiet!"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Other forms of these verbs are regular, except for **dire** in the **Loro** form (**dicano**).",
+                        "table": {
+                            "headers": ["", "Andare", "Dare", "Dire", "Fare", "Stare"],
+                            "rows": [
+                                ["Lei", "vada", "dia", "dica", "faccia", "stia"],
+                                ["noi", "andiamo", "diamo", "diciamo", "facciamo", "stiamo"],
+                                ["voi", "andate", "date", "dite", "fate", "state"],
+                                ["Loro", "vadano", "diano", "dicano", "facciano", "stiano"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Negative Imperative",
+                "paragraphs": [
+                    {
+                        "id": 7,
+                        "content": "The **negative imperative** for the **tu** form is formed by placing **non** before the **infinitive** of the verb. For all other forms (**Lei**, **noi**, **voi**, **Loro**), **non** is simply placed before the **imperative**:",
+                        "table": {
+                            "headers": ["", "Parlare", "Prendere", "Partire"],
+                            "rows": [
+                                ["tu", "non parlare", "non prendere", "non partire"],
+                                ["Lei", "non parli", "non prenda", "non parta"],
+                                ["noi", "non parliamo", "non prendiamo", "non partiamo"],
+                                ["voi", "non parlate", "non prendete", "non partite"],
+                                ["Loro", "non parlino", "non prendano", "non partano"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Non parlare** così!", "Don’t talk like that!"],
+                                ["**Non prendere** quel libro!", "Don’t take that book!"],
+                                ["**Non partiamo** adesso.", "Let’s not leave now."],
+                                ["**Non parta** ancora, Signora!", "Don’t leave yet, Madam!"]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Imperative with Pronouns",
+                "paragraphs": [
+                    {
+                        "id": 10,
+                        "content": "When an **unstressed pronoun** (direct, indirect, reflexive, **ne**, **ci**) is used with the **imperative**, the pronoun is **always attached** to the verb if it is in a **second person** form (**tu** or **voi**) or the **first person plural** form (**noi**):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Quel libro è per te: **prendilo**.", "That book is for you: take it."],
+                                ["**Chiediamole** aiuto.", "Let’s ask her for help."],
+                                ["Se hai dei problemi, **parlane**.", "If you are having problems, talk about them."],
+                                ["**Alzatevi**, ragazzi!", "Get up, boys!"],
+                                ["**Telefonagli** (or **Telefona loro** – see Unit 10, paragraph 2).", "Phone them."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Note that when an **unstressed pronoun** is used with the forms **da’**, **fa’**, **di’**, **sta’**, and **va’**, the first consonant of the pronoun (except **gli**) is **doubled**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Se sai la verità, **dilla**!", "If you know the truth, tell it!"],
+                                ["**Dammi** la penna!", "Give me the pen!"],
+                                ["**Danne** un po’ a tuo fratello.", "Give some to your brother."],
+                                ["**Fammi** un piacere.", "Do me a favour."],
+                                ["**Vallo** a comprare!", "Go and buy it!"],
+                                ["**Vacci** subito.", "Go there at once."],
+                                ["**Dille** la verità.", "Tell her the truth."],
+                                ["**Digli** la verità.", "Tell him the truth."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "In **negative sentences**, there is an **extra option**: the pronoun can be placed **before the verb** (and after **non**):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["**Non lo prendere**! or **Non prenderlo**!", "Don’t take it!"],
+                                ["**Non le chiediamo** aiuto. or **Non chiediamole** aiuto.", "Let’s not ask her for help."],
+                                ["**Non ne parlare**! or **Non parlarne**!", "Don’t talk about it!"],
+                                ["**Non vi alzate**! or **Non alzatevi**!", "Don’t get up!"]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "content": "In the **polite form** (**third person singular and plural**, **Lei** and **Loro**), the pronouns are **always placed before the verb**:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Quel libro è per Lei: **lo prenda**.", "That book is for you: take it."],
+                                ["**Le scriva** una mail.", "Write her an email."],
+                                ["**Ne parlino** al controllore.", "Speak to the conductor about it."],
+                                ["**Si alzi**, Signora!", "Get up, Madam!"]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1: Supply Imperative",
+            "instruction": "Supply the **imperative** of the verb in brackets.",
+            "examples": [
+                "(**tu comprare**) il pane.: **Compra** il pane.",
+                "(**noi uscire**) subito.: **Usciamo** subito."
+            ],
+            "items": [
+                { "question": "(**tu comprare**) il pane.", "answer": "Compra il pane." },
+                { "question": "(**noi uscire**) subito.", "answer": "Usciamo subito." },
+                { "question": "(**Lei stare**) tranquilla, Signora!", "answer": "Stia tranquilla, Signora!" },
+                { "question": "(**tu mettere**) in ordine!", "answer": "Metti in ordine!" },
+                { "question": "(**voi essere**) gentili.", "answer": "Siate gentili." },
+                { "question": "(**Lei venire**), Professore!", "answer": "Venga, Professore!" },
+                { "question": "(**tu dare**) una mano a tuo fratello.", "answer": "Da’ una mano a tuo fratello." },
+                { "question": "(**tu finire**) i compiti.", "answer": "Finisci i compiti." },
+                { "question": "(**comprare**) questa borsa, Signora!", "answer": "Compri questa borsa, Signora!" },
+                { "question": "(**noi fare**) una pausa!", "answer": "Facciamo una pausa!" },
+                { "question": "(**tu avere**) fiducia in lei.", "answer": "Abbi fiducia in lei." },
+                { "question": "(**Lei parlare**) più forte, Signora.", "answer": "Parli più forte, Signora." },
+                { "question": "(**tu andare**) fuori!", "answer": "Va’ fuori!" },
+                { "question": "(**tu dire**) tutto quello che sai.", "answer": "Di’ tutto quello che sai." },
+                { "question": "(**Lei fare**) attenzione, Signora.", "answer": "Faccia attenzione, Signora." },
+                { "question": "(**voi scrivere**) le cartoline!", "answer": "Scrivete le cartoline!" },
+                { "question": "(**tu fare**) attenzione!", "answer": "Fa’ attenzione!" },
+                { "question": "(**Loro entrare**), Signori.", "answer": "Entrino, Signori." },
+                { "question": "(**voi aprire**) le finestre!", "answer": "Aprite le finestre!" },
+                { "question": "(**tu rispondere**) al telefono.", "answer": "Rispondi al telefono." }
+            ]
+        },
+        {
+            "title": "Exercise 2: Supply Polite Imperative",
+            "instruction": "Supply the **polite form** (**Lei** or **Loro**) for these sentences.",
+            "examples": [
+                "**Chiudi** la porta, per favore.: **Chiuda** la porta, per favore.",
+                "**Vai** al terzo piano.: **Vada** al terzo piano."
+            ],
+            "items": [
+                { "question": "**Chiudi** la porta, per favore.", "answer": "Chiuda la porta, per favore." },
+                { "question": "**Vai** al terzo piano.", "answer": "Vada al terzo piano." },
+                { "question": "**Sorridi**!", "answer": "Sorrida!" },
+                { "question": "**Di’** tutto.", "answer": "Dica tutto." },
+                { "question": "**Fai** presto!", "answer": "Faccia presto!" },
+                { "question": "**Prendi** il libro.", "answer": "Prenda il libro." },
+                { "question": "**Scrivi** a loro.", "answer": "Scriva a loro." },
+                { "question": "**Apri** la finestra.", "answer": "Apria la finestra." },
+                { "question": "**Leggi** questo.", "answer": "Legga questo." },
+                { "question": "**Vieni** subito!", "answer": "Venga subito!" },
+                { "question": "**Parla** con me.", "answer": "Parli con me." },
+                { "question": "**State** attenti!", "answer": "Stiano attenti!" },
+                { "question": "**Date** una mano.", "answer": "Diano una mano." },
+                { "question": "**Finite** il lavoro.", "answer": "Finiscano il lavoro." },
+                { "question": "**Entrate** ora.", "answer": "Entrino ora." }
+            ]
+        },
+        {
+            "title": "Exercise 3: Supply Negative Imperative",
+            "instruction": "Supply the **negative imperative** of the verb in brackets.",
+            "examples": [
+                "(**tu parlare**) così!: **Non parlare** così!",
+                "(**Lei prendere**) quel libro!: **Non prenda** quel libro!"
+            ],
+            "items": [
+                { "question": "(**tu parlare**) così!", "answer": "Non parlare così!" },
+                { "question": "(**Lei prendere**) quel libro!", "answer": "Non prenda quel libro!" },
+                { "question": "(**noi partire**) adesso.", "answer": "Non partiamo adesso." },
+                { "question": "(**tu andare**) là!", "answer": "Non andare là!" },
+                { "question": "(**voi aprire**) la porta!", "answer": "Non aprite la porta!" },
+                { "question": "(**tu dire**) bugie!", "answer": "Non dire bugie!" },
+                { "question": "(**Lei scrivere**) questo!", "answer": "Non scriva questo!" },
+                { "question": "(**voi fare**) rumore!", "answer": "Non fate rumore!" },
+                { "question": "(**tu prendere**) le mie cose!", "answer": "Non prendere le mie cose!" },
+                { "question": "(**Loro parlare**) ora!", "answer": "Non parlino ora!" }
+            ]
+        },
+        {
+            "title": "Exercise 4: Imperative with Pronouns",
+            "instruction": "Supply the **imperative** with the correct pronoun (attached or placed before the verb as appropriate).",
+            "examples": [
+                "**Compra** il libro per me.: **Compramelo**.",
+                "**Chiedi** aiuto a lei.: **Chiedile** aiuto."
+            ],
+            "items": [
+                { "question": "**Compra** il libro per me.", "answer": "Compramelo." },
+                { "question": "**Chiedi** aiuto a lei.", "answer": "Chiedile aiuto." },
+                { "question": "**Prendi** quello!", "answer": "Prendilo!" },
+                { "question": "**Di’** a loro la verità.", "answer": "Digli la verità." },
+                { "question": "**Parla** di questo!", "answer": "Parlane!" },
+                { "question": "**Alzatevi** presto, ragazzi!", "answer": "Alzatevi presto, ragazzi!" },
+                { "question": "**Scrivi** una lettera a lui, Signora.", "answer": "Gli scriva una lettera, Signora." },
+                { "question": "**Fai** un favore a me!", "answer": "Fammi un favore!" },
+                { "question": "**Vai** là subito!", "answer": "Vacci subito!" },
+                { "question": "**Prenda** questo, Signore!", "answer": "Lo prenda, Signore!" }
+            ]
+        },
+        {
+            "title": "Exercise 5: Negative Imperative with Pronouns",
+            "instruction": "Supply the **negative imperative** with the pronoun either attached or placed before the verb.",
+            "examples": [
+                "**Prendi** quello!: **Non prenderlo**! or **Non lo prendere**!",
+                "**Chiedi** aiuto a lei.: **Non chiederle** aiuto. or **Non le chiedere** aiuto."
+            ],
+            "items": [
+                { "question": "**Prendi** quello!", "answer": "Non prenderlo! or Non lo prendere!" },
+                { "question": "**Chiedi** aiuto a lei.", "answer": "Non chiederle aiuto. or Non le chiedere aiuto." },
+                { "question": "**Parla** di questo!", "answer": "Non parlarne! or Non ne parlare!" },
+                { "question": "**Alzatevi** presto, ragazzi!", "answer": "Non alzatevi presto, ragazzi! or Non vi alzate presto, ragazzi!" },
+                { "question": "**Scrivi** a lui, Signora!", "answer": "Non gli scriva, Signora!" },
+                { "question": "**Fai** un favore a me!", "answer": "Non farmelo! or Non me lo fare!" },
+                { "question": "**Vai** là!", "answer": "Non andarci! or Non ci andare!" },
+                { "question": "**Prendi** questo, Signore!", "answer": "Non lo prenda, Signore!" },
+                { "question": "**Di’** a loro la verità!", "answer": "Non dirgli la verità! or Non gli dire la verità!" },
+                { "question": "**Fate** questo, ragazzi!", "answer": "Non fatelo, ragazzi! or Non lo fate, ragazzi!" }
+            ]
+        },
+        {
+            "title": "Exercise 6: Translate with Impersonal Si",
+            "instruction": "Translate the following sentences into Italian using the **impersonal 'si' construction**.",
+            "examples": [
+                "You buy bread at the bakery.: **Si compra** il pane al panificio.",
+                "One eats pizza on Fridays.: **Si mangia** la pizza il venerdì."
+            ],
+            "items": [
+                { "question": "You buy bread at the bakery.", "answer": "Si compra il pane al panificio." },
+                { "question": "One eats pizza on Fridays.", "answer": "Si mangia la pizza il venerdì." },
+                { "question": "You can see stars at night.", "answer": "Si vedono le stelle di notte." },
+                { "question": "Books are read in the library.", "answer": "Si leggono i libri in biblioteca." },
+                { "question": "You buy tickets at the station.", "answer": "Si comprano i biglietti alla stazione." },
+                { "question": "One drinks coffee in the morning.", "answer": "Si beve il caffè al mattino." },
+                { "question": "Vegetables are sold at the market.", "answer": "Si vendono le verdure al mercato." },
+                { "question": "You can watch films at the cinema.", "answer": "Si guardano i film al cinema." },
+                { "question": "One takes photos on holiday.", "answer": "Si fanno le foto in vacanza." },
+                { "question": "Newspapers are bought at the newsstand.", "answer": "Si comprano i giornali all’edicola." }
+            ]
+        }
+    ]
+}
