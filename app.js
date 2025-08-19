@@ -60,7 +60,10 @@ async function loadData() {
         console.log('loadData completed');
     } catch (error) {
         console.error('Error in loadData:', error);
-        document.getElementById('content').innerHTML = '<p class="text-danger fw-bold">Error loading content. Please try again.</p>';
+        const contentDiv = document.getElementById('content');
+        if (contentDiv) {
+            contentDiv.innerHTML = '<p class="text-danger fw-bold">Error loading content. Please try again.</p>';
+        }
         const loadingDiv = document.getElementById('loading');
         if (loadingDiv) {
             loadingDiv.style.display = 'none';
@@ -155,7 +158,11 @@ async function renderContent() {
     }
     console.log('Generated HTML length:', html.length, 'First 100 chars:', html.substring(0, 100));
     contentDiv.innerHTML = html;
-    console.log('Content div updated');
+    console.log('Content div updated, style.display:', contentDiv.style.display || 'inline');
+    // Verify DOM content
+    const exerciseSections = contentDiv.querySelectorAll(`[id^=exercise-section-${currentUnit}]`);
+    const textSections = contentDiv.querySelectorAll('section.mb-5');
+    console.log(`Post-render: ${exerciseSections.length} exercise sections, ${textSections.length} text sections`);
 
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
@@ -165,7 +172,7 @@ async function renderContent() {
     if (backLink) backLink.classList.toggle('d-none', currentUnit <= 1);
     if (nextLink) nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
     if (toggleViewLink) {
-        toggleViewLink.classList.toggle('d-none', false); // Always show toggle link when not on contents
+        toggleViewLink.classList.toggle('d-none', false);
         toggleViewLink.textContent = currentView === 'text' ? 'Show Exercises' : 'Show Text';
     } else {
         console.warn('toggleViewLink not found in DOM');
@@ -308,6 +315,33 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     } else {
         console.error('toggleViewLink not found during DOMContentLoaded');
+    }
+    const contentsLink = document.getElementById('contentsLink');
+    if (contentsLink) {
+        contentsLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            showContents();
+        });
+    } else {
+        console.error('contentsLink not found during DOMContentLoaded');
+    }
+    const backLink = document.getElementById('backLink');
+    if (backLink) {
+        backLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            navigate('back');
+        });
+    } else {
+        console.error('backLink not found during DOMContentLoaded');
+    }
+    const nextLink = document.getElementById('nextLink');
+    if (nextLink) {
+        nextLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            navigate('next');
+        });
+    } else {
+        console.error('nextLink not found during DOMContentLoaded');
     }
     loadData();
 });
