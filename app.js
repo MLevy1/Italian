@@ -19,7 +19,7 @@ async function loadUnitsList() {
         console.log('Units list loaded:', availableUnits);
     } catch (error) {
         console.error('Error loading units list:', error);
-        availableUnits = [1, 2]; // Fallback
+        availableUnits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]; // Fallback
     }
 }
 
@@ -122,6 +122,7 @@ async function renderContent() {
         `;
     } else {
         html = unit.exercises.map((exercise, exIndex) => `
+            <h2 class="mb-4">${parseBoldText(unit.text.title)}</h2>
             <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5">
                 <h3 class="mb-3">${parseBoldText(exercise.title)}</h3>
                 <p class="mb-3">${parseBoldText(exercise.instruction)}</p>
