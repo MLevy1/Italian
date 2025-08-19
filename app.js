@@ -151,6 +151,13 @@ async function renderContent() {
     if (toggleViewLink) {
         toggleViewLink.classList.toggle('d-none', false); // Always show toggle link when not on contents
         toggleViewLink.textContent = currentView === 'text' ? 'Show Exercises' : 'Show Text';
+        // Ensure the onclick event is properly attached
+        toggleViewLink.onclick = () => {
+            console.log('Toggle view link clicked');
+            toggleView();
+        };
+    } else {
+        console.warn('toggleViewLink not found in DOM');
     }
 }
 
@@ -225,7 +232,7 @@ function navigate(direction) {
 }
 
 function toggleView() {
-    console.log(`Toggling view from ${currentView}`);
+    console.log(`Toggling view from ${currentView} to ${currentView === 'text' ? 'exercises' : 'text'}`);
     currentView = currentView === 'text' ? 'exercises' : 'text';
     renderContent();
 }
@@ -248,7 +255,11 @@ function showContents() {
         </ul>
     `;
     const toggleViewLink = document.getElementById('toggleViewLink');
-    if (toggleViewLink) toggleViewLink.classList.add('d-none');
+    if (toggleViewLink) {
+        toggleViewLink.classList.add('d-none');
+    } else {
+        console.warn('toggleViewLink not found when showing contents');
+    }
 }
 
 function setUnitAndView(unitNum, view) {
@@ -261,5 +272,16 @@ function setUnitAndView(unitNum, view) {
 // Ensure DOM is fully loaded before binding events
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing app');
+    // Explicitly bind the toggleView event listener
+    const toggleViewLink = document.getElementById('toggleViewLink');
+    if (toggleViewLink) {
+        toggleViewLink.addEventListener('click', (e) => {
+            e.preventDefault(); // Prevent default anchor behavior
+            console.log('Toggle view link clicked via event listener');
+            toggleView();
+        });
+    } else {
+        console.error('toggleViewLink not found during DOMContentLoaded');
+    }
     loadData();
 });
