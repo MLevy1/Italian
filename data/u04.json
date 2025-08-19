@@ -366,7 +366,7 @@
     {
       "title": "Exercise 3: Essere or Avere",
       "instruction": "Taking the words in the two columns below, write negative and interrogative sentences using the verb avere.",
-      "examples": [tu|fretta: Non hai fretta; Hai fretta?],
+      "examples": ["tu|fretta: Non hai fretta; Hai fretta?"],
       "items": [
         {"question": "**io | ragione**", "answer": "Non ho ragione; Ho ragione?"},
         {"question": "**il professore | caldo**", "answer": "Il professore non ha caldo; Il professore ha caldo?"},
@@ -378,40 +378,51 @@
       ]
     },
     {
-      "title": "Exercise 4: C’è and Ci sono",
-      "instruction": "Complete the phrases with **c’è** or **ci sono**, according to whether the noun is **singular** or **plural**, and whether the sentence is **affirmative** or **negative**.",
-      "examples": [],
+      "title": "Exercise 4",
+      "instruction": "Taking the words in the two columns below, write affirmative and negative sentences using the verb essere.",
+      "examples": ["**io | italiana**: Sono italiana; Non sono italiana."],
       "items": [
-        {"question": "**bar**, **bar** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**bar**, **bar** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**bar**, **bar** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**discoteca**, **discoteche** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**discoteca**, **discoteche** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**discoteca**, **discoteche** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**panetteria**, **panetterie** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**panetteria**, **panetterie** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**panetteria**, **panetterie** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**cinema**, **cinema** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**cinema**, **cinema** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**cinema**, **cinema** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**biblioteca**, **biblioteche** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**biblioteca**, **biblioteche** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**biblioteca**, **biblioteche** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**scuola**, **scuole** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**scuola**, **scuole** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**scuola**, **scuole** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**ufficio postale**, **uffici postali** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**ufficio postale**, **uffici postali** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**ufficio postale**, **uffici postali** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**libreria**, **librerie** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**libreria**, **librerie** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**libreria**, **librerie** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**giardino pubblico**, **giardini pubblici** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**giardino pubblico**, **giardini pubblici** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**giardino pubblico**, **giardini pubblici** (**Negative**, **plural**)", "answer": "Non ci sono"},
-        {"question": "**ristorante**, **ristoranti** (**Affirmative**, **singular**)", "answer": "C’è"},
-        {"question": "**ristorante**, **ristoranti** (**Affirmative**, **plural**)", "answer": "Ci sono"},
-        {"question": "**ristorante**, **ristoranti** (**Negative**, **plural**)", "answer": "Non ci sono"}
+        {"question": "**io | stanco**", "answer": "Sono stanco; Non sono stanco."},
+        {"question": "**tu | pigra**", "answer": "Sei pigra; Non sei pigra."},
+        {"question": "**il dottore | giovane**", "answer": "Il dottore è giovane; Il dottore non è giovane."},
+        {"question": "**la professoressa | simpatica**", "answer": "La professoressa è simpatica; La professoressa non è simpatica."},
+        {"question": "**Lei [formal] | alto**", "answer": "Lei è alto; Lei non è alto."},
+        {"question": "**noi | magre**", "answer": "Siamo magre; Non siamo magre."},
+        {"question": "**voi | intelligenti**", "answer": "Siete intelligenti; Non siete intelligenti."},
+        {"question": "**le tue amiche | contente**", "answer": "Le tue amiche sono contente; Le tue amiche non sono contente."}
+      ]
+    },
+    {
+      "title": "Exercise 5",
+      "instruction": "Imagine the things in the office; using all the words in the list, write sentences using c’è or ci sono.",
+      "examples": ["una scrivania: Nell’ufficio c’è una scrivania; quattro sedie: Nell’ufficio ci sono quattro sedie."],
+      "items": [
+        {"question": "**una sedia**", "answer": "Nell’ufficio c’è una sedia"},
+        {"question": "**due poltrane**", "answer": "Nell’ufficio ci sono due poltrone."},
+        {"question": "**tre computer**", "answer": "Nell’uff icio ci sono tre computer."},
+        {"question": "**una stampante**", "answer": "Nell’ufficio c’è una stampante."},
+        {"question": "**un telefono**", "answer": "Nell’ufficio c’è un telefono."},
+        {"question": "**la fotocopiatrice**", "answer": "Nell’ufficio c’è la fotocopiatrice."},
+        {"question": "**due radiatori**", "answer": "Nell’ufficio ci sono due radiatori."},
+        {"question": "**una porta**", "answer": "Nell’ufficio ci sono due radiatori."},
+        {"question": "**tre finestre**", "answer": "Nell’ufficio ci sono tre f inestre."}
+      ]
+    },
+    {
+      "title": "Exercise 6",
+      "instruction": "Imagine what is in the village; using all the words in the list, make affirmative or negative sentences, paying attention to the negative form (non ci sono + plural noun).",
+      "examples": ["tabaccaio, tabaccai: In questo paese c’è un tabaccaio, ci sono tre tabaccai, non ci sono tabaccai."],
+      "items": [
+        {"question": "**museo, musei**", "answer": "In questo paese c’è un museo, ci sono tre musei, non ci sono musei."},
+        {"question": "**discoteca, discoteche**", "answer": "In questo paese c’è una discoteca, ci sono due discoteche, non ci sono discoteche."},
+        {"question": "**panetteria, panetterie**", "answer": "In questo paese c’è una panetteria, ci sono quattro panetterie, non ci sono panetterie."},
+        {"question": "**cinema, cinema**", "answer": "In questo paese c’è un cinema, ci sono due cinema, non ci sono cinema."},
+        {"question": "**biblioteca, biblioteche**", "answer": "In questo paese c’è una biblioteca, ci sono due biblioteche, non ci sono biblioteche."},
+        {"question": "**scuola, scuole**", "answer": "In questo paese c’è una scuola, ci sono due scuole, non ci sono scuole."},
+        {"question": "**ufficio postale, uffici postali**", "answer": "In questo paese c’è un ufficio postale, ci sono due uffici postali, non ci sono uffici postali."},
+        {"question": "**libreria, librerie**", "answer": "In questo paese c’è una libreria, ci sono quattro librerie, non ci sono librerie."},
+        {"question": "**giardino pubblico, giardini pubblici**", "answer": "In questo paese c’è un giardino pubblico, ci sono tre giardini pubblici, non ci sono giardini pubblici."},
+        {"question": "**ristorante, risk **", "answer": "In questo paese c’è un ristorante, ci sono sei ristoranti, non ci sono ristoranti."}
       ]
     }
   ]
