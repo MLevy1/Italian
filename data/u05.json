@@ -234,12 +234,10 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Conosci Paolo?", "Do you know Paolo?"],
-                ["Noi conosciamo Anna.", "We know Anna."],
-                ["Tu leggi molto?", "Do you read a lot?"],
-                ["Leggono il giornale.", "They read the newspaper."],
-                ["Tu scegli?", "Do you choose?"],
-                ["Scegliamo noi.", "We choose."]
+                ["**Vince sempre.**", "He/she always wins."],
+                ["**Non conosco i tuoi genitori.**", "I don’t know your parents."],
+                ["**Leggono il giornale.**", "They read the newspaper."],
+                ["**Non piango mai.**", "I never cry."]
               ]
             }
           },
@@ -247,14 +245,14 @@
             "id": "5.10",
             "content": "Regular verbs in -ire are conjugated as follows:",
             "table": {
-              "headers": ["", "Partire"],
+              "headers": ["Endings", "Partire", "To leave"],
               "rows": [
-                ["(io)", "parto", "I leave/depart"],
-                ["(tu)", "parti", "you leave/depart"],
-                ["(lui/lei)", "parte", "he/she/it leaves/departs"],
-                ["(noi)", "partiamo", "we leave/depart"],
-                ["(voi)", "partite", "you leave/depart"],
-                ["(loro)", "partono", "they leave/depart"]
+                ["(io)", "**parto**", "I leave"],
+                ["(tu)", "**parti**", "you leave"],
+                ["(lui/lei)", "**parte**", "he/she/it leaves"],
+                ["(noi)", "**partiamo**", "we leave"],
+                ["(voi)", "**partite**", "you leave"],
+                ["(loro)", "**partono**", "they leave"]
               ]
             }
           },
@@ -263,27 +261,25 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Parto domani.", "I leave tomorrow."],
-                ["Tu parti presto?", "Are you leaving early?"],
-                ["Anna parte alle 8.", "Anna leaves at 8."],
-                ["Partiamo fra un’ora.", "We’re leaving in an hour."],
-                ["Voi partite con noi?", "Are you leaving with us?"],
-                ["Partono tutti.", "They’re all leaving."]
+                [" Il treno parte alle 8.00.", "The train leaves at eight."],
+                ["I miei amici partono domani.", "My friends are leaving tomorrow."],
+                ["Mia sorella dorme.", " My sister is sleeping/asleep."],
+                ["Tutte le mattine apriamo le finestre.", "Every morning we open the windows."]
               ]
             }
           },
           {
-            "id": "5.12",
-            "content": "Some verbs in -ire insert -isc- before the endings of the first, second and third persons singular and the third person plural:",
+            "id": "5.11",
+            "content": "Many verbs in -ire (e.g. capire (to understand), costruire (to build), finire (to finish/to end), preferire (to prefer), pulire (to clean)) follow a slightly different pattern, adding -isc- before the singular endings and the third person plural:",
             "table": {
-              "headers": ["", "Capire"],
+              "headers": ["Endings", "", "Capire", "To understand"],
               "rows": [
-                ["(io)", "capisco", "I understand"],
-                ["(tu)", "capisci", "you understand"],
-                ["(lui/lei)", "capisce", "he/she/it understands"],
-                ["(noi)", "capiamo", "we understand"],
-                ["(voi)", "capite", "you understand"],
-                ["(loro)", "capiscono", "they understand"]
+                ["**-isc-o**", "(io)", "**capisco**", "I understand"],
+                ["**-isc-i**", "(tu)", "**capisci**", "you understand"],
+                ["**-isc-e**", "(lui/lei)", "**capisce**", "he/she/it understands"],
+                ["**-iamo**", "(noi)", "**capiamo**", "we understand"],
+                ["**-ite**", "(voi)", "**capite**", "you understand"],
+                ["**-isc-ono**", "(loro)", "**capiscono**", "they understand"]
               ]
             }
           },
@@ -292,12 +288,9 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Capisco tutto.", "I understand everything."],
-                ["Tu capisci?", "Do you understand?"],
-                ["Anna capisce.", "Anna understands."],
-                ["Noi non capiamo.", "We don’t understand."],
-                ["Capite l’italiano?", "Do you understand Italian?"],
-                ["Loro capiscono.", "They understand."]
+                ["**Marina capisce tutto.**", "Marina understands everything."],
+                ["**La lezione finisce alle 13.00.**", "The lesson/class finishes at 1 p.m."],
+                ["**Preferisco parlare italiano.**", "I prefer speaking/to speak Italian."]
               ]
             }
           },
