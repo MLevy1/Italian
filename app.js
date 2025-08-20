@@ -244,6 +244,13 @@ async function showContents() {
     if (exercisesLink) exercisesLink.classList.add('d-none');
 }
 
+function setUnitAndView(unitNum, view) {
+    console.log(`Setting unit ${unitNum}, view ${view}`);
+    currentUnit = unitNum;
+    currentView = view;
+    renderContent();
+}
+
 // Ensure DOM is fully loaded before binding events
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing app');
