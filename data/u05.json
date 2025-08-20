@@ -12,14 +12,14 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Mio padre lavora per la BBC.", "My father works for the BBC."],
-                ["Mio padre lavora in giardino.", "My father’s working in the garden."],
-                ["Di solito guardo la televisione.", "Normally I watch TV."],
-                ["Stasera guardo la televisione.", "I’m watching TV this evening."],
-                ["Non guardo la televisione.", "I don’t watch TV."],
-                ["Perché non guardi la televisione?", "Why don’t you watch TV?"],
-                ["Stasera non guardo la televisione.", "I’m not watching TV this evening."],
-                ["Perché non guardi la televisione stasera?", "Why aren’t you watching TV this evening?"]
+                ["**Mio padre lavora per la BBC.**", "My father works for the BBC."],
+                ["**Mio padre lavora in giardino.**", "My father’s working in the garden."],
+                ["**Di solito guardo la televisione.**", "Normally I watch TV."],
+                ["**Stasera guardo la televisione.**", "I’m watching TV this evening."],
+                ["**Non guardo la televisione.**", "I don’t watch TV."],
+                ["**Perché non guardi la televisione?**", "Why don’t you watch TV?"],
+                ["**Stasera non guardo la televisione.**", "I’m not watching TV this evening."],
+                ["**Perché non guardi la televisione stasera?**", "Why aren’t you watching TV this evening?"]
               ]
             }
           },
@@ -29,10 +29,10 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Il treno parte fra cinque minuti.", "The train leaves/is leaving in five minutes."],
-                ["Parto domani.", "I leave/I am leaving tomorrow."],
-                ["Domani mattina porto Luca alla stazione.", "Tomorrow morning I’ll take/I’m taking/I’m going to take Luca to the station."],
-                ["L’estate prossima lavoro con mio zio.", "Next summer I’ll work/I’m working/going to work with my uncle."]
+                ["**Il treno parte fra cinque minuti.**", "The train leaves/is leaving in five minutes."],
+                ["**Parto domani.**", "I leave/I am leaving tomorrow."],
+                ["**Domani mattina porto Luca alla stazione.**", "Tomorrow morning I’ll take/I’m taking/I’m going to take Luca to the station."],
+                ["**L’estate prossima lavoro con mio zio.**", "Next summer I’ll work/I’m working/going to work with my uncle."]
               ]
             }
           },
@@ -42,10 +42,10 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Lavoriamo qui da un mese.", "We’ve been working here for a month."],
-                ["Mio cugino abita a Roma da tre anni.", "My cousin’s lived/been living in Rome for three years."],
-                ["Conosco Giulia da tre anni.", "I have known Giulia for three years."],
-                ["Non vedo Dario da mesi.", "I haven’t seen Dario for months."]
+                ["**Lavoriamo qui da un mese.**", "We’ve been working here for a month."],
+                ["**Mio cugino abita a Roma da tre anni.**", "My cousin’s lived/been living in Rome for three years."],
+                ["**Conosco Giulia da tre anni.**", "I have known Giulia for three years."],
+                ["**Non vedo Dario da mesi.**", "I haven’t seen Dario for months."]
               ]
             }
           }
@@ -60,36 +60,36 @@
             "table": {
               "headers": ["First conjugation", "Second conjugation", "Third conjugation"],
               "rows": [
-                ["-are", "-ere", "-ire"]
+                ["**-are**", "**-ere**", "**-ire**"]
               ]
             }
           },
           {
             "content": "The forms of the present depend on which conjugation the verb belongs to. The present is formed by changing the ending of the infinitive, as follows:",
             "table": {
-              "headers": ["Person", "Infinitive in -are", "Infinitive in -ere", "Infinitive in -ire"],
+              "headers": ["Person", "Singular", "Infinitive in **-are**", "Infinitive in **-ere**", "Infinitive in **-ire**"],
               "rows": [
-                ["1st Singular (io)", "-o", "-o", "(-isc)-o"],
-                ["2nd Singular (tu)", "-i", "-i", "(-isc)-i"],
-                ["3rd Singular (lui/lei)", "-a", "-e", "(-isc)-e"],
-                ["1st Plural (noi)", "-iamo", "-iamo", "-iamo"],
-                ["2nd Plural (voi)", "-ate", "-ete", "-ite"],
-                ["3rd Plural (loro)", "-ano", "-ono", "(-isc)-ono"]
+                ["1st Singular", "(io)", "**-o**", "**-o**", "**(-isc)-o**"],
+                ["2nd Singular", "(tu)", "**-i**", "**-i**", "**(-isc)-i**"],
+                ["3rd Singular", "(lui/lei)", "**-a**", "**-e**", "**(-isc)-e**"],
+                ["1st Plural", "(noi)", "**-iamo**", "**-iamo**", "**-iamo**"],
+                ["2nd Plural", "(voi)", "**-ate**", "**-ete**", "**-ite**"],
+                ["3rd Plural", "(loro)", "**-ano**", "**-ono**", "**(-isc)-ono**"]
               ]
             }
           },
           {
             "id": "5.05",
-            "content": "Regular verbs in -are are conjugated as follows:",
+            "content": "Regular verbs in **-are** are conjugated as follows:",
             "table": {
-              "headers": ["Endings", "Parlare"],
+              "headers": ["Endings", "Singular", "**Parlare**", "To speak/talk"],
               "rows": [
-                ["(io)", "-o", "parlo", "I speak"],
-                ["(tu)", "-i", "parli", "you speak"],
-                ["(lui/lei)", "-a", "parla", "he/she/it speaks"],
-                ["(noi)", "-iamo", "parliamo", "we speak"],
-                ["(voi)", "-ate", "parlate", "you speak"],
-                ["(loro)", "-ano", "parlano", "they speak"]
+                ["(io)", "-o", "**parlo**", "I speak"],
+                ["(tu)", "-i", "**parli**", "you speak"],
+                ["(lui/lei)", "-a", "**parla**", "he/she/it speaks"],
+                ["(noi)", "-iamo", "**parliamo**", "we speak"],
+                ["(voi)", "-ate", "**parlate**", "you speak"],
+                ["(loro)", "-ano", "**parlano**", "they speak"]
               ]
             }
           },
@@ -98,10 +98,10 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Andrea e Carla lavorano in Italia.", "Andrea and Carla work in Italy."],
-                ["Parlo italiano.*", "I speak Italian."],
-                ["Parlate molto!*", "You talk a lot!"],
-                ["Abitiamo a Genova.*", "We live in Genoa."]
+                ["**Andrea e Carla lavorano in Italia.**", "Andrea and Carla work in Italy."],
+                ["**Parlo italiano.* **", "I speak Italian."],
+                ["**Parlate molto!* **", "You talk a lot!"],
+                ["**Abitiamo a Genova.* **", "We live in Genoa."]
               ]
             }
           },
@@ -134,7 +134,7 @@
           },
           {
             "id": "5.07",
-            "content": "Verbs ending in -ciare and -giare (first conjugation) lose the i before the endings of the second person singular (-i) and the first person plural (-iamo), because the i is not necessary:",
+            "content": "Verbs ending in -iare (first conjugation) normally have only one i in the second person singular and the first person plural:",
             "table": {
               "headers": ["", "Cominciare", "", "Mangiare", ""],
               "rows": [
@@ -161,16 +161,16 @@
           },
           {
             "id": "5.08",
-            "content": "Verbs ending in -iare (first conjugation) sometimes lose the i before the endings of the second person singular (-i) and the first person plural (-iamo), but the i is kept if it is stressed:",
+            "content": "Regular verbs in -ere are conjugated as follows:",
             "table": {
-              "headers": ["", "Inviare", "", "Mangiare", ""],
+              "headers": ["Endings", "", "Prendere",  "To take/get"],
               "rows": [
-                ["(io)", "invio", "I send", "mangio", "I eat"],
-                ["(tu)", "invi", "you send", "mangi", "you eat"],
-                ["(lui/lei)", "invia", "he/she/it sends", "mangia", "he/she/it eats"],
-                ["(noi)", "inviamo", "we send", "mangiamo", "we eat"],
-                ["(voi)", "inviate", "you send", "mangiate", "you eat"],
-                ["(loro)", "inviano", "they send", "mangiano", "they eat"]
+                ["**-o**", "(io) prendo", "I take/get"],
+                ["**-i**", "(tu) prendi", " you take/get"],
+                ["**-e**", "(lui/lei) prende", " he/she/it takes/gets"],
+                ["**-iamo**", "(noi) prendiamo", "we take/get"],
+                ["**-ete**", "(voi) prendete", "you take/get"],
+                ["**-ono**", "(loro) prendono", "they take/get"]
               ]
             }
           },
@@ -179,54 +179,53 @@
             "table": {
               "headers": ["Italian", "English"],
               "rows": [
-                ["Tu invi un’e-mail?", "Are you sending an e-mail?"],
-                ["Inviamo una lettera.", "We’re sending a letter."],
-                ["Tu non mangi niente!", "You don’t eat anything!"],
-                ["Mangiano poco.", "They don’t eat much."]
+                ["Prendo il prossimo treno.", "I’m getting/taking the next train."],
+                ["Prendiamo questa strada.", " We take this road."],
+                ["Anna scrive una lettera.", "Anna is writing a letter."],
+                ["Marco e Martina ridono molto.", "Marco and Martina laugh a lot."]
               ]
             }
           },
           {
             "id": "5.09",
-            "content": "Regular verbs in -ere are conjugated as follows:",
+            "content": "Verbs ending in -cere (or -scere) and -gere (or -ggere) change the sound of c (or sc) and g (or -gg), which become ‘hard’ before the endings of the first person singular (-o) and the third person plural (-ono). So care needs to be taken in speaking these verbs:",
             "table": {
-              "headers": ["", "Vendere"],
+              "headers": ["", "Vincere", "Spoken like English", "To Win"],
               "rows": [
-                ["(io)", "vendo", "I sell"],
-                ["(tu)", "vendi", "you sell"],
-                ["(lui/lei)", "vende", "he/she/it sells"],
-                ["(noi)", "vendiamo", "we sell"],
-                ["(voi)", "vendete", "you sell"],
-                ["(loro)", "vendono", "they sell"]
+                ["(io)", "**vinco**", "k", "I win"],
+                ["(tu)", "**vinci**", "ch", "you win"],
+                ["(lui/lei)", "**vince**", "ch", "he/she/it wins"],
+                ["(noi)", "**vinciamo**", "ch", "we win"],
+                ["(voi)", "**vincete**", "ch", "you win"],
+                ["(loro)", "**vincono**", "k", "they win"]
               ]
             }
           },
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", "Leggere", "Spoken like English", "To read"],
               "rows": [
-                ["Vendo il mio scooter.", "I’m selling my scooter."],
-                ["Tu vendi il tuo?", "Are you selling yours?"],
-                ["Anna vende il suo.", "Anna’s selling hers."],
-                ["Noi vendiamo la nostra casa.", "We’re selling our house."],
-                ["Vendete molto?", "Do you sell a lot?"],
-                ["Loro vendono tutto.", "They sell everything."]
+                ["(io)", "**leggo**", "g [as in ‘go’]", "I read"],
+                ["(tu)", "**leggi**", "j", "you read"],
+                ["(lui/lei)", "**legge**", "j", "he/she/it reads"],
+                ["(noi)", "**leggiamo**", "j", "we read"],
+                ["(voi)", "**leggete**", "j", "you read"],
+                ["(loro)", "**leggono**", "g [as in ‘go’]", "they read"]
               ]
             }
           },
           {
-            "id": "5.10",
-            "content": "Verbs ending in -cere, -gere, -scere (second conjugation) add an i before the endings of the second person singular (-i) and the first person plural (-iamo), in order to keep the soft sound of c, g and sc:",
+            "content": "",
             "table": {
-              "headers": ["", "Conoscere", "", "Leggere", "", "Scegliere", ""],
+              "headers": ["", "Conoscere", "Spoken like English", "To know"],
               "rows": [
-                ["(io)", "conosco", "I know", "leggo", "I read", "scelgo", "I choose"],
-                ["(tu)", "conosci", "you know", "leggi", "you read", "scegli", "you choose"],
-                ["(lui/lei)", "conosce", "he/she/it knows", "legge", "he/she/it reads", "sceglie", "he/she/it chooses"],
-                ["(noi)", "conosciamo", "we know", "leggiamo", "we read", "scegliamo", "we choose"],
-                ["(voi)", "conoscete", "you know", "leggete", "you read", "scegliete", "you choose"],
-                ["(loro)", "conoscono", "they know", "leggono", "they read", "scelgono", "they choose"]
+                ["(io)", "conosco", "", "I know", "I read"],
+                ["(tu)", "conosci", "", "you know", "you read"],
+                ["(lui/lei)", "conosce", "", "he/she/it knows"],
+                ["(noi)", "conosciamo", "", "we know"],
+                ["(voi)", "conoscete", "", "you know"],
+                ["(loro)", "conoscono", "", "they know"]
               ]
             }
           },
@@ -245,7 +244,7 @@
             }
           },
           {
-            "id": "5.11",
+            "id": "5.10",
             "content": "Regular verbs in -ire are conjugated as follows:",
             "table": {
               "headers": ["", "Partire"],
