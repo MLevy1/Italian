@@ -356,18 +356,21 @@
         "paragraphs": [
           {
             "id": "5.15",
-            "content":  " 15 In Italian, as in most languages, there are a number of irregular verbs whose conjugation is best learned by heart and with use. Here is the conjugation of some of the more frequently used irregular verbs:",            
+            "content":  "In Italian, as in most languages, there are a number of irregular verbs whose conjugation is best learned by heart and with use. Here is the conjugation of some of the more frequently used irregular verbs:",
             "table": {
-              "headers": ["", "Dare (to give)", "Stare (to stay/live/feel)", "Potere (can/may/to be able)", "Fare (to do/make)", "Volere (to wish/to want)", "Bere (to drink)"],
+              "headers": ["", "Dare (to give)", "Stare (to stay/live/feel)", "Sapere (to know)", "Andare (to go)", "Uscire (to go out/leave)", "Venire (to come)"],
               "rows": [
-                ["(io)", "dò", "sto", "posso", "faccio", "voglio", "bevo"],
-                ["(tu)", "dai", "stai", "puoi", "fai", "vuoi", "bevi"],
-                ["(lui/lei)", "dà", "sta", "può", "fa", "vuole", "beve"],
-                ["(noi)", "diamo", "stiamo", "possiamo", "facciamo", "vogliamo", "beviamo"],
-                ["(voi)", "date", "state", "potete", "fate", "volete", "bevete"],
-                ["(loro)", "danno", "stanno", "possono", "fanno", "vogliono", "bevono"]
+                ["(io)", "dò", "sto", "so", "vado", "esco", "vengo"],
+                ["(tu)", "dai", "stai", "sai", "vai", "esci", "vieni"],
+                ["(lui/lei)", "dà", "sta", "sa", "va", "esce", "viene"],
+                ["(noi)", "diamo", "stiamo", "sappiamo", "andiamo", "usciamo", "veniamo"],
+                ["(voi)", "date", "state", "sapete", "andate", "uscite", "venite"],
+                ["(loro)", "danno", "stanno", "sanno", "vanno", "escono", "vengono"]
               ]
-            },
+            }
+          },
+          {
+            "content": "",
             "table": {
               "headers": ["", "Dovere (must/to have to)", "Dire (to say/tell)", "Potere (can/may/to be able)", "Fare (to do/make)", "Volere (to wish/to want)", "Bere (to drink)"],
               "rows": [
@@ -379,16 +382,91 @@
                 ["(loro)", "devono", "dicono", "possono", "fanno", "vogliono", "bevono"]
               ]
             }
-            
-            
           },
           {
-            "content": "The verb riuscire (to succeed/manage/be able to) follows the same pattern as uscire."
+            "content": "The verb riuscire (to succeed/manage/be able to) follows the same pattern as uscire.",
+            "table": {
+                "headers": ["", ""],
+                "rows": [
+                    ["**Cosa fai?**", "What are you doing?"],
+                    ["**‘Come stai?’ ‘Sto bene, grazie.’**", "‘How are you?’ ‘I’m fine, thank you.’"],
+                    ["**Mia zia sta a Bologna.**", "My aunt lives in Bologna."],
+                    ["**Vado al cinema.**", "I’m going to the cinema."],
+                    ["**Stasera non esco.**", "I’m not going out tonight."],
+                    ["**Domani esco presto.**", "I’m leaving early tomorrow."],
+                    ["**Non riesco a capire.**", "I can’t understand."],
+                    ["**Non riesco a chiudere la porta.**", "I can’t manage to close the door."],
+                    ["**Adesso sapete tutto.**", "Now you know everything.*"]
+                ]
+            }
           },
-          {
-          },
-          {
-          }
+            {
+                "content": "* It is important not to confuse **sapere** and **conoscere** (paragraph 9). Both mean ‘to know’, but they are not always interchangeable. The basic difference is that **sapere** generally means ‘to know/be aware of/to have knowledge of a fact’ (but see also paragraph 17 below), whereas **conoscere** means ‘to be acquainted/familiar with’, or sometimes ‘to meet/make the acquaintance of’ (e.g. in the expression **piacere di conoscerti**, pleased to meet you). Thus **sapere** is never used for people, and **conoscere** is never followed by a phrase containing a verb:",
+                "table": {
+                    "headers": ["", ""],
+                    "rows": [
+                        ["**Sappiamo già che c’è sciopero domani.**", "We already know that there is a strike tomorrow."],
+                        ["**Sai che ora è?**", "Do you know what time it is?"],
+                        ["**Sai perché?**", "Do you know why?"],
+                        ["**Non so che cosa fare.**", "I don’t know what to do."],
+                        ["**Conosco le regole del gioco.**", "I know the rules of the game."],
+                        ["**Ho conosciuto il padre di Pia.**", "I (have) met Pia’s father."],
+                        ["**Non conosco il tuo ragazzo.**", "I don’t know your boyfriend."],
+                        ["**Conosci questa città?**", "Do you know this town?"]
+                    ]
+                }
+            },
+            {
+                "id": "5.16",
+                "content": "Dovere, potere and volere usually need to be followed by another verb in the infinitive:",
+                "table": {
+                    "headers": ["", ""],
+                    "rows": [
+                        ["**Dobbiamo fare gli esercizi.**", "We’ve got to do the exercises."],
+                        ["**Posso parlare con Luigi?**", "May I talk to Luigi?"],
+                        ["**Puoi telefonare domani.**", "You can phone tomorrow."],
+                        ["**Non vogliono uscire.**", "They don’t want to go out."]
+                    ]
+                }
+
+            },
+            {
+                "id": "5.17",
+                "content": "The verb sapere is another that is often followed by a verb in the infinitive; used in this way, it expresses the ability to do something (in the sense of ‘to know how to’ do something):",
+                "table": {
+                    "headers": ["", ""],
+                    "rows": [
+                        ["**So nuotare.**", "I can swim. [i.e. I know how to]"],
+                        ["**Paolo non sa ballare.**", "Paolo can’t dance. [i.e. he doesn’t know how to]"],
+                        ["**Sai usare quello scanner?**", "Can you/Do you know how to use that scanner?"]
+                    ]
+                }
+            },
+            {
+                "id": "5.18",
+                "content": "A few verbs end in -urre (like condurre (to lead/drive/manage), tradurre (to translate), produrre (to produce), etc.); all have the following pattern:",
+                "table": {
+                    "headers": ["Endings", "", "**Produrre**", "To produce"],
+                    "rows": [
+                        ["**-uc-o**", "io", "**produco**", "I produce"],
+                        ["**-uc-i**", "tu", "**produci**", "you produce"],
+                        ["**-uc-e**", "lui/lei", "**produce**", "he/she/it produces"],
+                        ["**-uc-iamo**", "noi", "**produciamo**", "we produce"],
+                        ["**-uc-ete**", "voi", "**producete**", "you produce"],
+                        ["**-uc-ono**", "loro", "**producono**", "they produce"]
+                    ]
+                }
+            },
+            {
+                "content": "",
+                "table": {
+                    "headers": ["", ""],
+                    "rows": [
+                        ["**Questa fabbrica produce automobili.**", "This factory produces cars."],
+                        ["**Traducono dal francese.**", "They translate from French."]
+                    ]
+                }
+            }
         ]
       }
     ]
