@@ -10,7 +10,7 @@
             "id": "5.01",
             "content": "The present tense (or simply ‘the present’) is used to state that an action is occurring at the present time. It corresponds basically to the English simple present (‘I eat’) and present continuous (‘I am eating’):",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
                 ["**Mio padre lavora per la BBC.**", "My father works for the BBC."],
                 ["**Mio padre lavora in giardino.**", "My father’s working in the garden."],
@@ -27,7 +27,7 @@
             "id": "5.02",
             "content": "The present can also be used to refer to the future, either the near future or one that is considered fairly certain:",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
                 ["**Il treno parte fra cinque minuti.**", "The train leaves/is leaving in five minutes."],
                 ["**Parto domani.**", "I leave/I am leaving tomorrow."],
@@ -69,9 +69,10 @@
             "table": {
               "headers": ["Person", "Singular", "Infinitive in **-are**", "Infinitive in **-ere**", "Infinitive in **-ire**"],
               "rows": [
-                ["1st Singular", "(io)", "**-o**", "**-o**", "**(-isc)-o**"],
-                ["2nd Singular", "(tu)", "**-i**", "**-i**", "**(-isc)-i**"],
-                ["3rd Singular", "(lui/lei)", "**-a**", "**-e**", "**(-isc)-e**"],
+                ["1st", "(io)", "**-o**", "**-o**", "**(-isc)-o**"],
+                ["2nd", "(tu)", "**-i**", "**-i**", "**(-isc)-i**"],
+                ["3rd", "(lui/lei)", "**-a**", "**-e**", "**(-isc)-e**"],
+                ["", "Plural", "", "", ""],
                 ["1st Plural", "(noi)", "**-iamo**", "**-iamo**", "**-iamo**"],
                 ["2nd Plural", "(voi)", "**-ate**", "**-ete**", "**-ite**"],
                 ["3rd Plural", "(loro)", "**-ano**", "**-ono**", "**(-isc)-ono**"]
@@ -82,21 +83,21 @@
             "id": "5.05",
             "content": "Regular verbs in **-are** are conjugated as follows:",
             "table": {
-              "headers": ["Endings", "Singular", "**Parlare**", "To speak/talk"],
+              "headers": ["Endings", "", "**Parlare**", "To speak/talk"],
               "rows": [
-                ["(io)", "-o", "**parlo**", "I speak"],
-                ["(tu)", "-i", "**parli**", "you speak"],
-                ["(lui/lei)", "-a", "**parla**", "he/she/it speaks"],
-                ["(noi)", "-iamo", "**parliamo**", "we speak"],
-                ["(voi)", "-ate", "**parlate**", "you speak"],
-                ["(loro)", "-ano", "**parlano**", "they speak"]
+                ["-o", "(io)",  "**parlo**", "I speak"],
+                ["-i", "(tu)",  "**parli**", "you speak"],
+                ["-a", "(lui/lei)",  "**parla**", "he/she/it speaks"],
+                ["-iamo", "(noi)",  "**parliamo**", "we speak"],
+                ["-ate", "(voi)",  "**parlate**", "you speak"],
+                ["-ano", "(loro)", "**parlano**", "they speak"]
               ]
             }
           },
           {
             "content": "* As we saw in Unit 4, the subject pronoun is normally omitted in the conjugation of Italian verbs.",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
                 ["**Andrea e Carla lavorano in Italia.**", "Andrea and Carla work in Italy."],
                 ["**Parlo italiano.* **", "I speak Italian."],
@@ -109,26 +110,26 @@
             "id": "5.06",
             "content": "Verbs ending in -care and -gare (first conjugation) add h before the endings of the second person singular (-i) and the first person plural (-iamo) in order to keep the hard sound of c and g:",
             "table": {
-              "headers": ["", "Cercare", "", "Pagare", ""],
+              "headers": ["", "Cercare", "To look for", "", "Pagare", "To pay"],
               "rows": [
-                ["(io)", "cerco", "I look for", "pago", "I pay"],
-                ["(tu)", "cerchi", "you look for", "paghi", "you pay"],
-                ["(lui/lei)", "cerca", "he/she/it looks for", "paga", "he/she/it pays"],
-                ["(noi)", "cerchiamo", "we look for", "paghiamo", "we pay"],
-                ["(voi)", "cercate", "you look for", "pagate", "you pay"],
-                ["(loro)", "cercano", "they look for", "pagano", "they pay"]
+                ["(io)", "cerco", "I look for", "", "pago", "I pay"],
+                ["(tu)", "cerchi", "you look for", "", "paghi", "you pay"],
+                ["(lui/lei)", "cerca", "he/she/it looks for", "", "paga", "he/she/it pays"],
+                ["(noi)", "cerchiamo", "we look for", "", "paghiamo", "we pay"],
+                ["(voi)", "cercate", "you look for", "", "pagate", "you pay"],
+                ["(loro)", "cercano", "they look for", "", "pagano", "they pay"]
               ]
             }
           },
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
-                ["Cerchi Marco?", "Are you looking for Marco?"],
-                ["Cerchiamo una casa.", "We’re looking for a house."],
-                ["Anna paga il conto.", "Anna pays the bill."],
-                ["Voi pagate troppo!", "You pay too much!"]
+                ["**Cerchi Marco?**", "Are you looking for Marco?"],
+                ["**Giochiamo a pallone.**", "We play football."],
+                ["**Perché litighi con tuo fratello?**", "Why are you arguing with your brother?"],
+                ["**Paghiamo sempre il conto!**", "We always pay the bill!"]
               ]
             }
           },
@@ -136,41 +137,41 @@
             "id": "5.07",
             "content": "Verbs ending in -iare (first conjugation) normally have only one i in the second person singular and the first person plural:",
             "table": {
-              "headers": ["", "Cominciare", "", "Mangiare", ""],
+              "headers": ["", "Cominciare", "To start/begin", "", "Mangiare", "To eat"],
               "rows": [
-                ["(io)", "comincio", "I begin/start", "mangio", "I eat"],
-                ["(tu)", "cominci", "you begin/start", "mangi", "you eat"],
-                ["(lui/lei)", "comincia", "he/she/it begins/starts", "mangia", "he/she/it eats"],
-                ["(noi)", "cominciamo", "we begin/start", "mangiamo", "we eat"],
-                ["(voi)", "cominciate", "you begin/start", "mangiate", "you eat"],
-                ["(loro)", "cominciano", "they begin/start", "mangiano", "they eat"]
+                ["(io)", "comincio", "I begin/start", "(io)", "mangio", "I eat"],
+                ["(tu)", "cominci", "you begin/start", "(tu)","mangi", "you eat"],
+                ["(lui/lei)", "comincia", "he/she/it begins/starts", "(lui/lei)", "mangia", "he/she/it eats"],
+                ["(noi)", "cominciamo", "we begin/start", "mangiamo", "(noi)", "we eat"],
+                ["(voi)", "cominciate", "you begin/start", "mangiate", "(voi)", "you eat"],
+                ["(loro)", "cominciano", "they begin/start", "mangiano", "(loro)", "they eat"]
               ]
             }
           },
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
-                ["Quando cominci il lavoro?", "When do you start work?"],
-                ["Cominciamo subito.", "We start right away."],
-                ["Tu non mangi niente!", "You don’t eat anything!"],
-                ["Mangiano poco.", "They don’t eat much."]
+                ["**Quando cominci la scuola?**", "When do you start school?"],
+                ["**Cominciamo la partita.**", "We’re starting the game."],
+                ["**Mangi troppo!**", "You eat too much!"],
+                ["**Stasera mangiamo fuori.**", "This evening we’re eating out."]
               ]
             }
           },
           {
-            "id": "5.08",
+            "id": "5.07",
             "content": "Regular verbs in -ere are conjugated as follows:",
             "table": {
               "headers": ["Endings", "", "Prendere",  "To take/get"],
               "rows": [
-                ["**-o**", "(io) prendo", "I take/get"],
-                ["**-i**", "(tu) prendi", " you take/get"],
-                ["**-e**", "(lui/lei) prende", " he/she/it takes/gets"],
-                ["**-iamo**", "(noi) prendiamo", "we take/get"],
-                ["**-ete**", "(voi) prendete", "you take/get"],
-                ["**-ono**", "(loro) prendono", "they take/get"]
+                ["**-o**", "(io)", "prendo", "I take/get"],
+                ["**-i**", "(tu)", "prendi", " you take/get"],
+                ["**-e**", "(lui/lei)", "prende", " he/she/it takes/gets"],
+                ["**-iamo**", "(noi)", "prendiamo", "we take/get"],
+                ["**-ete**", "(voi)", "prendete", "you take/get"],
+                ["**-ono**", "(loro)", "prendono", "they take/get"]
               ]
             }
           },
