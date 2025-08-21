@@ -233,7 +233,7 @@
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
                 ["**Vince sempre.**", "He/she always wins."],
                 ["**Non conosco i tuoi genitori.**", "I don’t know your parents."],
@@ -260,18 +260,18 @@
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
-                [" Il treno parte alle 8.00.", "The train leaves at eight."],
-                ["I miei amici partono domani.", "My friends are leaving tomorrow."],
-                ["Mia sorella dorme.", " My sister is sleeping/asleep."],
-                ["Tutte le mattine apriamo le finestre.", "Every morning we open the windows."]
+                ["**Il treno parte alle 8.00.**", "The train leaves at eight."],
+                ["**I miei amici partono domani.**", "My friends are leaving tomorrow."],
+                ["**Mia sorella dorme.**", " My sister is sleeping/asleep."],
+                ["**Tutte le mattine apriamo le finestre.**", "Every morning we open the windows."]
               ]
             }
           },
           {
             "id": "5.11",
-            "content": "Many verbs in -ire (e.g. capire (to understand), costruire (to build), finire (to finish/to end), preferire (to prefer), pulire (to clean)) follow a slightly different pattern, adding -isc- before the singular endings and the third person plural:",
+            "content": "Many verbs in **-ire** (e.g. capire (to understand), costruire (to build), finire (to finish/to end), preferire (to prefer), pulire (to clean)) follow a slightly different pattern, adding -isc- before the singular endings and the third person plural:",
             "table": {
               "headers": ["Endings", "", "Capire", "To understand"],
               "rows": [
@@ -285,9 +285,9 @@
             }
           },
           {
-            "content": "",
+            "content": "There is no way of telling which is the right pattern for a verb in -ire, other than to check in a dictionary.",
             "table": {
-              "headers": ["Italian", "English"],
+              "headers": ["", ""],
               "rows": [
                 ["**Marina capisce tutto.**", "Marina understands everything."],
                 ["**La lezione finisce alle 13.00.**", "The lesson/class finishes at 1 p.m."],
@@ -295,22 +295,6 @@
               ]
             }
           },
-          {
-            "id": "5.13",
-            "content": "Here are some of the verbs that insert -isc-: aprire (to open), capire (to understand), finire (to finish/end), pulire (to clean), preferire (to prefer), seguire (to follow). Here are some verbs that do not insert -isc-: dormire (to sleep), partire (to leave), servire (to serve/need), scoprire (to discover), sentire (to hear), soffrire (to suffer), venire (to come)."
-          },
-          {
-            "id": "5.14",
-            "content": "As we saw in Unit 4, the pronouns used for the formal form are Lei for the singular (for both women and men) and Voi for the plural (the pronoun Loro is much more formal):",
-            "table": {
-              "headers": ["Italian", "English"],
-              "rows": [
-                ["(Lei) Parla italiano?", "Do you speak Italian?"],
-                ["Non prende un taxi, Professor Masi?", "Aren’t you taking a taxi, Professor Masi?"],
-                ["Partite, Signori Bianco?", "Are you leaving(, Mr and Mrs Bianco)?"],
-                ["((Loro) Partono, Signori Bianco?)", "Are you leaving(, Mr and Mrs Bianco)?"]
-              ]
-            }
           }
         ]
       },
@@ -318,17 +302,15 @@
         "title": "Present Tense of Some Irregular Verbs",
         "paragraphs": [
           {
-            "id": "5.15",
-            "content": "In Italian, as in most languages, there are a number of irregular verbs whose conjugation is best learned by heart and with use. Here is the conjugation of some of the more frequently used irregular verbs:",
+            "id": "5.12",
+            "content": "As we saw in Unit 4, the interrogative is formed by adding a question mark at the end of the sentence:",
             "table": {
-              "headers": ["", "Dare (to give)", "Andare (to go)", "Stare (to stay/live/feel)", "Uscire (to go out/leave)", "Sapere (to know)", "Venire (to come)"],
+              "headers": ["", ""],
               "rows": [
-                ["(io)", "dò", "vado", "sto", "esco", "so", "vengo"],
-                ["(tu)", "dai", "vai", "stai", "esci", "sai", "vieni"],
-                ["(lui/lei)", "dà", "va", "sta", "esce", "sa", "viene"],
-                ["(noi)", "diamo", "andiamo", "stiamo", "usciamo", "sappiamo", "veniamo"],
-                ["(voi)", "date", "andate", "state", "uscite", "sapete", "venite"],
-                ["(loro)", "danno", "vanno", "stanno", "escono", "sanno", "vengono"]
+                ["**Carla resta a casa?**", "Is Carla staying at home?"],
+                ["**Prendi sempre la macchina fotografica?**", "Do you always take the camera?"],
+                ["**Quando partite?**", "When are you leaving? "],
+                ["**Capisci tutto?**", "Do you understand everything?"]
               ]
             }
           },
