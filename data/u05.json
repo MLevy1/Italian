@@ -10,7 +10,6 @@
             "id": "5.01",
             "content": "The present tense (or simply ‘the present’) is used to state that an action is occurring at the present time. It corresponds basically to the English simple present (‘I eat’) and present continuous (‘I am eating’):",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Mio padre lavora per la BBC.**", "My father works for the BBC."],
                 ["**Mio padre lavora in giardino.**", "My father’s working in the garden."],
@@ -27,7 +26,6 @@
             "id": "5.02",
             "content": "The present can also be used to refer to the future, either the near future or one that is considered fairly certain:",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Il treno parte fra cinque minuti.**", "The train leaves/is leaving in five minutes."],
                 ["**Parto domani.**", "I leave/I am leaving tomorrow."],
