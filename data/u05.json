@@ -362,7 +362,7 @@
             "table": {
               "headers": ["", "Dovere", "Dire", "Potere", "Fare", "Volere", "Bere"],
               "rows": [
-                ["(io)", "Must/Have To", "Say/Tell", "Can/May/Be Able", "Do/Make", "Wish/Want", "Drink"],
+                ["", "Must/Have To", "Say/Tell", "Can/May/Be Able", "Do/Make", "Wish/Want", "Drink"],
                 ["(io)", "devo", "dico", "posso", "faccio", "voglio", "bevo"],
                 ["(tu)", "devi", "dici", "puoi", "fai", "vuoi", "bevi"],
                 ["(lui/lei)", "deve", "dice", "può", "fa", "vuole", "beve"],
