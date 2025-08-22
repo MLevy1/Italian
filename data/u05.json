@@ -330,9 +330,9 @@
             "table": {
               "rows": [
                 ["**(Lei) Parla italiano?**", "Do you speak Italian?"],
-                ["**Non prende un taxi, Professor Masi?**", "We’re not taking the camera."],
-                ["** Partite, Signori Bianco?**", "Aren’t you taking a taxi, Professor Masi?"],
-                ["**((Loro) Partono, Signori Bianco?)**", ""]
+                ["**Non prende un taxi, Professor Masi?**", "Aren’t you taking a taxi, Professor Masi?"],
+                ["** Partite, Signori Bianco?**", "Are you leaving (Mr and Mrs Bianco)?"],
+                ["**((Loro) Partono, Signori Bianco?)**", "Are you leaving (Mr and Mrs Bianco)?"]
               ]
             }
           }
