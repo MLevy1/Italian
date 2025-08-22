@@ -137,9 +137,9 @@
                 ["(io)", "comincio", "I begin/start", "(io)", "mangio", "I eat"],
                 ["(tu)", "cominci", "you begin/start", "(tu)","mangi", "you eat"],
                 ["(lui/lei)", "comincia", "he/she/it begins/starts", "(lui/lei)", "mangia", "he/she/it eats"],
-                ["(noi)", "cominciamo", "we begin/start", "mangiamo", "(noi)", "we eat"],
-                ["(voi)", "cominciate", "you begin/start", "mangiate", "(voi)", "you eat"],
-                ["(loro)", "cominciano", "they begin/start", "mangiano", "(loro)", "they eat"]
+                ["(noi)", "cominciamo", "we begin/start", "(noi)", "mangiamo", "we eat"],
+                ["(voi)", "cominciate", "you begin/start", "(voi)", "mangiate", "you eat"],
+                ["(loro)", "cominciano", "they begin/start", "(loro)", "mangiano", "they eat"]
               ]
             }
           },
