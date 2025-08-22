@@ -108,12 +108,12 @@
             "table": {
               "headers": ["", "Cercare", "To look for", "", "Pagare", "To pay"],
               "rows": [
-                ["(io)", "cerco", "I look for", "", "pago", "I pay"],
-                ["(tu)", "cerchi", "you look for", "", "paghi", "you pay"],
-                ["(lui/lei)", "cerca", "he/she/it looks for", "", "paga", "he/she/it pays"],
-                ["(noi)", "cerchiamo", "we look for", "", "paghiamo", "we pay"],
-                ["(voi)", "cercate", "you look for", "", "pagate", "you pay"],
-                ["(loro)", "cercano", "they look for", "", "pagano", "they pay"]
+                ["(io)", "cerco", "I look for", "(io)", "pago", "I pay"],
+                ["(tu)", "cerchi", "you look for", "(tu)", "paghi", "you pay"],
+                ["(lui/lei)", "cerca", "he/she/it looks for", "(lui/lei)", "paga", "he/she/it pays"],
+                ["(noi)", "cerchiamo", "we look for", "(noi)", "paghiamo", "we pay"],
+                ["(voi)", "cercate", "you look for", "(voi)", "pagate", "you pay"],
+                ["(loro)", "cercano", "they look for", "(loro)", "pagano", "they pay"]
               ]
             }
           },
