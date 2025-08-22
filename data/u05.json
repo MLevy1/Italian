@@ -214,12 +214,12 @@
             "table": {
               "headers": ["", "Conoscere", "Spoken like English", "To know"],
               "rows": [
-                ["(io)", "conosco", "", "I know", "I read"],
-                ["(tu)", "conosci", "", "you know", "you read"],
-                ["(lui/lei)", "conosce", "", "he/she/it knows"],
-                ["(noi)", "conosciamo", "", "we know"],
-                ["(voi)", "conoscete", "", "you know"],
-                ["(loro)", "conoscono", "", "they know"]
+                ["(io)", "conosco", "sk", "I know", "I read"],
+                ["(tu)", "conosci", "sh", "you know", "you read"],
+                ["(lui/lei)", "conosce", "sh", "he/she/it knows"],
+                ["(noi)", "conosciamo", "sh", "we know"],
+                ["(voi)", "conoscete", "sh", "you know"],
+                ["(loro)", "conoscono", "sk", "they know"]
               ]
             }
           },
