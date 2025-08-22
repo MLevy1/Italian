@@ -7,10 +7,9 @@
         "title": "Forming Adverbs with -mente",
         "paragraphs": [
             {
-            "id": 1,
+            "id": 6.01,
             "content": "English adverbs are usually formed by adding ‘-ly’ to an adjective (e.g. ‘thinly’, ‘cleverly’). Italian adverbs are usually just as easy to form: -mente is added to the feminine singular form of the adjective:",
             "table": {
-                "headers": ["", "", ""],
                 "rows": [
                 ["**lenta + -mente**", "**lentamente**", "slowly"],
                 ["**rapida + -mente**", "**rapidamente**", "quickly"],
@@ -22,7 +21,6 @@
             {
             "content": "When the adjective ends in **-le** or **-re** preceded by a vowel, the final **e** is dropped before adding **-mente**:",
             "table": {
-                "headers": ["", "", ""],
                 "rows": [
                 ["**gentile + -mente**", "**gentilmente**", "kindly, politely"],
                 ["**utile + -mente**", "**utilmente**", "usefully"],
@@ -33,7 +31,6 @@
             },
             {
             "table": {
-                "headers": ["", ""],
                 "rows": [
                 ["**Il tempo cambia rapidamente.**", "The weather changes quickly."],
                 ["**La nonna cammina lentamente.**", "Granny walks slowly."],
@@ -48,7 +45,7 @@
         "title": "Other Adverbs",
         "paragraphs": [
             {
-            "id": 2,
+            "id": 6.02,
             "content": "In Italian there are also many adverbs which do not end in -mente. Here are some:",
             "table": {
                 "headers": ["Adverb", "English"],
@@ -89,7 +86,6 @@
             },
             {
             "table": {
-                "headers": ["", ""],
                 "rows": [
                 ["**Questo film è abbastanza bello.**", "This film is rather good."],
                 ["**Partiamo tardi: dopo le 11.**", "We’re leaving late: after 11."],
@@ -116,10 +112,9 @@
         "title": "Adverbs Qualifying Verbs, Adjectives, or Other Adverbs",
         "paragraphs": [
             {
-            "id": 3,
+            "id": 6.03,
             "content": "Adverbs can qualify verbs, adjectives or even other adverbs:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
                 ["**Dormo bene.** [verb + adverb]", "I sleep well."],
                 ["**Dormo molto bene.** [adverb + adverb]", "I sleep very well."],
@@ -133,7 +128,7 @@
         "title": "Adverbs and Adjectives of Quantity",
         "paragraphs": [
             {
-            "id": 4,
+            "id": 6.04,
             "content": "Some words denoting quantity can be used both as adverbs and as adjectives: **molto/tanto** (a lot (of)/very/many), **troppo** (too much/too many) and **poco** (few/little/not much/not very). When used as adverbs they are invariable, but when used as adjectives they agree in gender and number with the noun they refer to:",
             "table": {
                 "headers": ["Adverb", ""],
@@ -152,7 +147,6 @@
             },
             {
             "table": {
-                "headers": ["", ""],
                 "rows": [
                 ["**molto (tanto)/troppo/poco lavoro** [ms]", "a lot of/too much/not much work"],
                 ["**molta (tanta)/troppa/poca acqua** [fs]", "a lot of/too much/not much water"],
@@ -163,7 +157,6 @@
             },
             {
             "table": {
-                "headers": ["", ""],
                 "rows": [
                 ["**Mio padre lavora troppo.** [adverb]", "My father works too much."],
                 ["**Questa musica è molto bella.** [adverb]", "This music is very beautiful."],
@@ -182,10 +175,9 @@
         "title": "Adverbial Expressions",
         "paragraphs": [
             {
-            "id": 5,
+            "id": 6.05,
             "content": "Having a lot of words ending in **-mente** can often sound heavy. To avoid this, Italian sometimes uses adverbial phrases instead of single words. These do the same job as one-word adverbs, and indeed they do usually correspond to one-word English adverbs in ‘-ly’. These adverbial expressions are most often constructed with **con** (with), sometimes with **senza** (without), followed by a noun:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
                 ["**con difficoltà**", "with difficulty"],
                 ["**con eleganza**", "elegantly"],
@@ -201,7 +193,6 @@
             {
             "content": "There are also a number of adverbial expressions that use other prepositions than con. Here are some of the most common:",
             "table": {
-                "headers": ["", ""],
                 "rows": [
                 ["a poco a poco", "little by little"],
                 ["a volte", "sometimes"],
@@ -218,7 +209,6 @@
             {
             "content": "Another adverbial expression that is sometimes used is **in modo/in maniera** (i.e. ‘in a way’) followed by an adjective; the adjective is masculine when used with **modo** and feminine when used with **maniera**:",
             "table": {
-                "headers": ["", ""],
                 "rows": [
                 ["**in modo vago/in maniera vaga", "vaguely/in a vague way"],
                 ["**in modo strano/in maniera strana**", "strangely/in a strange way"],
