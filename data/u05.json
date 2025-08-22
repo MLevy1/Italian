@@ -345,8 +345,9 @@
             "id": "5.15",
             "content":  "In Italian, as in most languages, there are a number of irregular verbs whose conjugation is best learned by heart and with use. Here is the conjugation of some of the more frequently used irregular verbs:",
             "table": {
-              "headers": ["", "Dare (to give)", "Stare (to stay/live/feel)", "Sapere (to know)", "Andare (to go)", "Uscire (to go out/leave)", "Venire (to come)"],
+              "headers": ["", "Dare", "Stare", "Sapere", "Andare", "Uscire", "Venire"],
               "rows": [
+                ["", "Give", "Stay/Live/Feel", "Know", "Go", "Go Out/Leave", "Come"],
                 ["(io)", "dò", "sto", "so", "vado", "esco", "vengo"],
                 ["(tu)", "dai", "stai", "sai", "vai", "esci", "vieni"],
                 ["(lui/lei)", "dà", "sta", "sa", "va", "esce", "viene"],
@@ -359,8 +360,9 @@
           {
             "content": "",
             "table": {
-              "headers": ["", "Dovere (must/to have to)", "Dire (to say/tell)", "Potere (can/may/to be able)", "Fare (to do/make)", "Volere (to wish/to want)", "Bere (to drink)"],
+              "headers": ["", "Dovere", "Dire", "Potere", "Fare", "Volere", "Bere"],
               "rows": [
+                ["(io)", "Must/Have To", "Say/Tell", "Can/May/Be Able", "Do/Make", "Wish/Want", "Drink"],
                 ["(io)", "devo", "dico", "posso", "faccio", "voglio", "bevo"],
                 ["(tu)", "devi", "dici", "puoi", "fai", "vuoi", "bevi"],
                 ["(lui/lei)", "deve", "dice", "può", "fa", "vuole", "beve"],
