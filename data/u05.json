@@ -38,7 +38,6 @@
             "id": "5.03",
             "content": "The present is also used to refer to an action which started in the past and is still going on; here, it corresponds to the English present perfect:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Lavoriamo qui da un mese.**", "We’ve been working here for a month."],
                 ["**Mio cugino abita a Roma da tre anni.**", "My cousin’s lived/been living in Rome for three years."],
@@ -95,7 +94,6 @@
           {
             "content": "* As we saw in Unit 4, the subject pronoun is normally omitted in the conjugation of Italian verbs.",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Andrea e Carla lavorano in Italia.**", "Andrea and Carla work in Italy."],
                 ["**Parlo italiano.* **", "I speak Italian."],
@@ -122,7 +120,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Cerchi Marco?**", "Are you looking for Marco?"],
                 ["**Giochiamo a pallone.**", "We play football."],
@@ -149,7 +146,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Quando cominci la scuola?**", "When do you start school?"],
                 ["**Cominciamo la partita.**", "We’re starting the game."],
@@ -176,7 +172,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["Prendo il prossimo treno.", "I’m getting/taking the next train."],
                 ["Prendiamo questa strada.", " We take this road."],
@@ -231,7 +226,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Vince sempre.**", "He/she always wins."],
                 ["**Non conosco i tuoi genitori.**", "I don’t know your parents."],
@@ -258,7 +252,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Il treno parte alle 8.00.**", "The train leaves at eight."],
                 ["**I miei amici partono domani.**", "My friends are leaving tomorrow."],
@@ -285,7 +278,6 @@
           {
             "content": "There is no way of telling which is the right pattern for a verb in -ire, other than to check in a dictionary.",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Marina capisce tutto.**", "Marina understands everything."],
                 ["**La lezione finisce alle 13.00.**", "The lesson/class finishes at 1 p.m."],
@@ -302,7 +294,6 @@
             "id": "5.12",
             "content": "As we saw in Unit 4, the interrogative is formed by adding a question mark at the end of the sentence:",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Carla resta a casa?**", "Is Carla staying at home?"],
                 ["**Prendi sempre la macchina fotografica?**", "Do you always take the camera?"],
@@ -320,7 +311,6 @@
             "id": "5.13",
             "content": "The negative is formed by putting non (not) before the verb:",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**Non parlo italiano.**", "I don’t speak Italian."],
                 ["**Non prendiamo la macchina fotografica.**", "We’re not taking the camera."],
@@ -338,7 +328,6 @@
             "id": "5.14",
             "content": "As we saw in Unit 4, the pronouns used for the formal form are Lei for the singular (for both women and men) and Voi for the plural (the pronoun Loro is much more formal):",
             "table": {
-              "headers": ["", ""],
               "rows": [
                 ["**(Lei) Parla italiano?**", "Do you speak Italian?"],
                 ["**Non prende un taxi, Professor Masi?**", "We’re not taking the camera."],
@@ -384,7 +373,6 @@
           {
             "content": "The verb riuscire (to succeed/manage/be able to) follows the same pattern as uscire.",
             "table": {
-                "headers": ["", ""],
                 "rows": [
                     ["**Cosa fai?**", "What are you doing?"],
                     ["**‘Come stai?’ ‘Sto bene, grazie.’**", "‘How are you?’ ‘I’m fine, thank you.’"],
@@ -401,7 +389,6 @@
             {
                 "content": "* It is important not to confuse **sapere** and **conoscere** (paragraph 9). Both mean ‘to know’, but they are not always interchangeable. The basic difference is that **sapere** generally means ‘to know/be aware of/to have knowledge of a fact’ (but see also paragraph 17 below), whereas **conoscere** means ‘to be acquainted/familiar with’, or sometimes ‘to meet/make the acquaintance of’ (e.g. in the expression **piacere di conoscerti**, pleased to meet you). Thus **sapere** is never used for people, and **conoscere** is never followed by a phrase containing a verb:",
                 "table": {
-                    "headers": ["", ""],
                     "rows": [
                         ["**Sappiamo già che c’è sciopero domani.**", "We already know that there is a strike tomorrow."],
                         ["**Sai che ora è?**", "Do you know what time it is?"],
@@ -418,7 +405,6 @@
                 "id": "5.16",
                 "content": "Dovere, potere and volere usually need to be followed by another verb in the infinitive:",
                 "table": {
-                    "headers": ["", ""],
                     "rows": [
                         ["**Dobbiamo fare gli esercizi.**", "We’ve got to do the exercises."],
                         ["**Posso parlare con Luigi?**", "May I talk to Luigi?"],
@@ -432,7 +418,6 @@
                 "id": "5.17",
                 "content": "The verb sapere is another that is often followed by a verb in the infinitive; used in this way, it expresses the ability to do something (in the sense of ‘to know how to’ do something):",
                 "table": {
-                    "headers": ["", ""],
                     "rows": [
                         ["**So nuotare.**", "I can swim. [i.e. I know how to]"],
                         ["**Paolo non sa ballare.**", "Paolo can’t dance. [i.e. he doesn’t know how to]"],
@@ -458,7 +443,6 @@
             {
                 "content": "",
                 "table": {
-                    "headers": ["", ""],
                     "rows": [
                         ["**Questa fabbrica produce automobili.**", "This factory produces cars."],
                         ["**Traducono dal francese.**", "They translate from French."]
