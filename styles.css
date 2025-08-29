@@ -3,68 +3,83 @@ body {
     margin: 0;
     padding: 20px;
     box-sizing: border-box;
+    background-color: #1a1a1a; /* Dark background */
+    color: #e0e0e0; /* Light text for readability */
 }
 
 /* Container for the entire exercise section */
 .exercise {
     width: 100%;
-    max-width: 800px; /* Adjust based on design */
+    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
+    background-color: #2a2a2a; /* Darker section background */
+    border-radius: 8px;
 }
 
 /* Individual exercise item (label + input) */
 .exercise-item {
     display: flex;
-    flex-wrap: wrap; /* Allow wrapping for long content */
+    flex-wrap: wrap;
     align-items: left;
     margin-bottom: 10px;
     width: 100%;
+    background-color: #333333; /* Dark background for items */
+    padding: 10px;
+    border-radius: 4px;
 }
 
 /* Label styling */
 .exercise-item label {
-    flex: 1 1 70%; /* Take up most space, but allow shrinking */
+    flex: 1 1 70%;
     margin-right: 10px;
-    word-wrap: break-word; /* Break long words */
-    max-width: 70%; /* Prevent label from taking too much space */
+    word-wrap: break-word;
+    max-width: 70%;
+    color: #e0e0e0; /* Light text */
 }
 
 /* Input styling */
 .exercise-item input {
-    flex: 1 1 25%; /* Take up remaining space, but allow shrinking */
-    min-width: 100px; /* Minimum width for usability */
-    max-width: 200px; /* Prevent inputs from growing too wide */
+    flex: 1 1 25%;
+    min-width: 100px;
+    max-width: 200px;
     padding: 5px;
     box-sizing: border-box;
-    border: 1px solid #ccc;
+    border: 1px solid #555555; /* Darker border */
     border-radius: 4px;
+    background-color: #444444; /* Dark input background */
+    color: #e0e0e0; /* Light text */
 }
 
-/* Ensure feedback text (e.g., correct/incorrect answers) stays within bounds */
+/* Ensure feedback text stays within bounds */
 .exercise-item .feedback {
-    flex: 1 1 100%; /* Take full width for feedback */
-    color: red; /* Or green for correct */
+    flex: 1 1 100%;
+    color: #ff5555; /* Bright red for incorrect */
     font-size: 0.9em;
     margin-top: 5px;
+}
+
+/* Correct answer feedback */
+.correct-answer {
+    color: #55ff55; /* Bright green for correct */
 }
 
 /* Responsive adjustments for smaller screens */
 @media screen and (max-width: 600px) {
     .exercise-item {
-        flex-direction: column; /* Stack label and input vertically */
+        flex-direction: column;
         align-items: flex-start;
     }
 
     .exercise-item label {
-        max-width: 100%; /* Allow label to take full width */
+        max-width: 100%;
         margin-bottom: 5px;
     }
 
     .exercise-item input {
-        max-width: 100%; /* Full width on small screens */
-        min-width: 0; /* Allow shrinking */
+        max-width: 100%;
+        min-width: 0;
     }
 }
 
@@ -78,4 +93,12 @@ body {
 .button-container button {
     padding: 10px 20px;
     cursor: pointer;
+    background-color: #444444; /* Dark button background */
+    color: #e0e0e0; /* Light text */
+    border: 1px solid #666666; /* Darker border */
+    border-radius: 4px;
+}
+
+.button-container button:hover {
+    background-color: #555555; /* Slightly lighter on hover */
 }
