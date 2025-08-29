@@ -31,7 +31,7 @@ async function loadUnitData(unitNum) {
     }
     try {
         console.log(`Fetching unit ${unitNum}...`);
-        const response = await fetch(`https://mlevy1.github.io/Italian/data/u${unitNum.toString().padStart(2, '0')}.json`);
+        const response = await fetch(`./data/u${unitNum.toString().padStart(2, '0')}.json`);
         if (!response.ok) throw new Error(`Failed to load unit ${unitNum}: ${response.status} ${response.statusText}`);
         const data = await response.json();
         unitCache[unitNum] = data;
@@ -97,10 +97,10 @@ async function renderContent() {
                     <h3 class="mb-3">${parseBoldText(section.title)}</h3>
                     ${section.paragraphs.map(p => `
                         ${p.content ? `<p>${p.id ? p.id + ' ' : ''}${parseBoldText(p.content)}</p>` : ''}
-                        ${p.list ? `<ul class="list-group list-group-flush">${p.list.map(item => `<li class="list-group-item">${parseBoldText(item)}</li>`).join('')}</ul>` : ''}
+                        ${p.list ? `<ul class="list-group list-group-flush">${p.list.map(item => `<li class="list-group-item bg-dark text-light">${parseBoldText(item)}</li>`).join('')}</ul>` : ''}
                         ${p.table ? `
                             <div class="table-responsive">
-                                <table class="table table-bordered table-hover table-sm custom-table">
+                                <table class="table table-dark table-bordered table-hover table-sm custom-table">
                                     ${p.table.headers && p.table.headers.length > 0 ? `
                                         <thead>
                                             <tr>${p.table.headers.map(h => `<th scope="col" class="text-wrap">${parseBoldText(h)}</th>`).join('')}
@@ -229,7 +229,7 @@ function showContents() {
         <h2 class="mb-4">Table of Contents</h2>
         <ul class="list-group">
             ${availableUnits.map(unitNum => `
-                <li class="list-group-item d-flex justify-content-between align-items-center">
+                <li class="list-group-item bg-dark text-light d-flex justify-content-between align-items-center">
                     <span>Unit ${unitNum}</span>
                     <div>
                         <button class="btn btn-link p-0 me-2" type="button" onclick="setUnitAndView(${unitNum}, 'text')">Text</button>
