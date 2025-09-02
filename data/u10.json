@@ -160,10 +160,13 @@
                 { "question": "*Le* possiamo scrivere?", "answer": "Possiamo scriverle?" },
                 { "question": "*Ti* devo parlare.", "answer": "Devo parlarti." },
                 { "question": "*Gli* voglio regalare una chitarra.", "answer": "Voglio regalargli una chitarra." },
-                { "question": "*Vi* posso offrire un caffè?", "answer": "Posso offrirvi un caffè?" },
-                { "question": "*Ci* devono scrivere una lettera.", "answer": "Devono scriverci una lettera." },
-                { "question": "*Le* voglio raccontare una storia.", "answer": "Voglio raccontarle una storia." },
-                { "question": "*Ti* posso prestare i soldi.", "answer": "Posso prestarti i soldi." }
+                { "question": "*Ci* puoi telefonare?", "answer": "Puoi telefonarci?" },
+                { "question": "*Vi* devono offrire qualcosa!", "answer": "Devono offrirvi qualcosa!" },
+                { "question": "*Mi* potete dire tutto.", "answer": "Potete dirmi tutto." },
+                { "question": "*Le* posso parlare, Signora?", "answer": "Posso parlarle, Signora?" },
+                { "question": "Non *gli* dovete scrivere.", "answer": "Non dovete scrivergli." },
+                { "question": "Non *ti* posso rispondere.", "answer": "Non posso risponderti." },
+                { "question": "*Le* voglio credere.", "answer": "Voglio crederle." }
             ]
         },
         {
@@ -200,7 +203,7 @@
             "items": [
                 { "question": "Can you [sing.] tell *Lucia* that I want to speak to *her*?", "answer": "Puoi dire a Lucia che voglio parlarle?" },
                 { "question": "As soon as I arrive in Rome I’ll phone *you [pl.]*.", "answer": "Appena arrivo a Roma vi telefono." },
-                { "question": "I have to ask *you* a favour, Madam.", "answer": "Devo chiederLe un favore, Signora." },
+                { "question": "I have to ask *you* a favour, Madam.", "answer": "Devo chiederle un favore, Signora." },
                 { "question": "Are *you [sing.]* giving *them* your phone number?", "answer": "Gli dai il tuo numero di telefono?" },
                 { "question": "They always tell *us* interesting things.", "answer": "Ci dicono sempre cose interessanti." },
                 { "question": "They always send *me* a card when they go to Italy.", "answer": "Mi mandano sempre una cartolina quando vanno in Italia." },
