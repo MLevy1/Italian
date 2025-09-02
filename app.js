@@ -5,8 +5,13 @@ let availableUnits = []; // List of unit numbers
 
 // Parse **bold** markers to <strong> tags
 function parseBoldText(text) {
-    return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    return text
+        .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><em>$1</em></strong>') // Bold italics
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') // Bold
+        .replace(/\*(.*?)\*/g, '<em>$1</em>');// Italic
+
 }
+
 
 // Fetch the list of available units
 async function loadUnitsList() {
@@ -128,9 +133,9 @@ async function renderContent() {
                 <p class="mb-3">${parseBoldText(exercise.instruction)}</p>
                 <p class="mb-3"><strong>Examples:</strong> ${exercise.examples.map(ex => parseBoldText(ex)).join('; ')}</p>
                 ${exercise.items.map((item, index) => `
-                    <div class="exercise-item mb-3 d-flex align-items-center" id="exercise-item-${currentUnit}-${exIndex}-${index}">
+                    <div class="exercise-item mb-3 d-flex flex-column" id="exercise-item-${currentUnit}-${exIndex}-${index}">
                         <span class="me-2">${index + 1}. ${parseBoldText(item.question)}</span>
-                        <input type="text" class="form-control w-auto" id="answer-${currentUnit}-${exIndex}-${index}" />
+                        <input type="text" class="form-control" id="answer-${currentUnit}-${exIndex}-${index}" />
                     </div>
                 `).join('')}
                 <div class="d-flex gap-2">
@@ -146,10 +151,12 @@ async function renderContent() {
     const backLink = document.getElementById('backLink');
     const nextLink = document.getElementById('nextLink');
     const exercisesLink = document.getElementById('exercisesLink');
+    const textLink = document.getElementById('textLink');
     console.log(`Updating nav: currentUnit=${currentUnit}, availableUnits=${availableUnits}, currentView=${currentView}`);
     if (backLink) backLink.classList.toggle('d-none', currentUnit <= 1);
     if (nextLink) nextLink.classList.toggle('d-none', currentUnit >= availableUnits.length);
     if (exercisesLink) exercisesLink.classList.toggle('d-none', currentView !== 'text');
+    if (textLink) textLink.classList.toggle('d-none', currentView == 'text');
 }
 
 async function checkAnswers(unitNum, exIndex, itemCount) {
@@ -222,26 +229,6 @@ function navigate(direction) {
     renderContent();
 }
 
-function showContents() {
-    console.log('Showing contents');
-    const contentDiv = document.getElementById('content');
-    contentDiv.innerHTML = `
-        <h2 class="mb-4">Table of Contents</h2>
-        <ul class="list-group">
-            ${availableUnits.map(unitNum => `
-                <li class="list-group-item bg-dark text-light d-flex justify-content-between align-items-center">
-                    <span>Unit ${unitNum}</span>
-                    <div>
-                        <button class="btn btn-link p-0 me-2" type="button" onclick="setUnitAndView(${unitNum}, 'text')">Text</button>
-                        <button class="btn btn-link p-0" type="button" onclick="setUnitAndView(${unitNum}, 'exercises')">Exercises</button>
-                    </div>
-                </li>
-            `).join('')}
-        </ul>
-    `;
-    const exercisesLink = document.getElementById('exercisesLink');
-    if (exercisesLink) exercisesLink.classList.add('d-none');
-}
 
 function setUnitAndView(unitNum, view) {
     console.log(`Setting unit ${unitNum}, view ${view}`);
@@ -255,3 +242,29 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing app');
     loadData();
 });
+
+async function showContents() {
+    console.log('Showing contents');
+    const contentDiv = document.getElementById('content');
+    contentDiv.innerHTML = '<h2 class="mb-4">Table of Contents</h2><ul class="list-group">';
+
+    // Fetch titles for all units
+    const unitPromises = availableUnits.map(async (unitNum) => {
+        const unit = await loadUnitData(unitNum);
+        const title = unit ? parseBoldText(unit.text.title) : `Unit ${unitNum}`;
+        return 	`
+           <li class="d-grid gap-2 list-group-item">
+               <button class="list-group-item list-group-item-action text-start" type="button" onclick="setUnitAndView(${unitNum}, 'text')">
+				${unit.text.title}
+				</button>
+           </li>
+        `;
+    });
+
+    // Wait for all unit titles to load
+    const unitItems = await Promise.all(unitPromises);
+    contentDiv.innerHTML += unitItems.join('') + '</ul>';
+
+    const exercisesLink = document.getElementById('exercisesLink');
+    if (exercisesLink) exercisesLink.classList.add('d-none');
+}

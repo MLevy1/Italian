@@ -13,29 +13,25 @@
     <header class="bg-dark text-white text-center py-4">
         <h1>Basic Italian Course</h1>
     </header>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+    <div class="btn-group">
         <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav me-auto">
-                    <li class="nav-item">
-                        <button class="nav-link btn btn-link" type="button" onclick="showContents()">Contents</button>
-                    </li>
-                    <li class="nav-item">
-                        <button class="nav-link btn btn-link" type="button" id="exercisesLink" onclick="setUnitAndView(currentUnit, 'exercises')">Exercises</button>
-                    </li>
-                    <li class="nav-item">
-                        <button class="nav-link btn btn-link" type="button" id="backLink" onclick="navigate('back')">Back</button>
-                    </li>
-                    <li class="nav-item">
-                        <button class="nav-link btn btn-link" type="button" id="nextLink" onclick="navigate('next')">Next</button>
-                    </li>
-                </ul>
-            </div>
+           <button class="btn btn-link" type="button" onclick="showContents()">
+				Contents
+			</button>
+           <button class="btn btn-link" type="button" id="textLink" onclick="setUnitAndView(currentUnit, 'text')">
+				Reading 
+			</button>
+           <button class="btn btn-link" type="button" id="exercisesLink" onclick="setUnitAndView(currentUnit, 'exercises')">
+				Exercises
+			</button>
+           <button class="btn btn-link" type="button" id="backLink" onclick="navigate('back')">
+				Back 
+			</button>
+           <button class="btn btn-link" type="button" id="nextLink" onclick="navigate('next')">
+				Next
+			</button>
         </div>
-    </nav>
+    </div>
     <main class="container">
         <div id="content" class="card text-bg-dark p-4">
             <div id="loading" class="text-center" style="display: none;">

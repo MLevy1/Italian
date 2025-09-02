@@ -7,19 +7,18 @@
         "title": "Introduction to Direct Object Pronouns",
         "paragraphs": [
             {
-            "id": 1,
-            "content": "A direct object is the person or thing that the verb directly impacts on: Invito Elena (I’m inviting Elena); Uso il computer tutti i giorni (I use the computer every day)."
+            "id": 7.01,
+            "content": "A direct object is the person or thing that the verb directly impacts on: **Invito** ***Elena*** (I’m inviting *Elena*); **Uso** ***il computer*** **tutti i giorni** (I use *the computer* every day)."
             },
             {
             "content": "A direct object pronoun replaces a noun used as a direct object; it must therefore agree in gender and number with the noun it refers to. Direct object pronouns normally come before the verb. In the following examples, the pronouns are in italics:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["Quando vedo *Elena* *la* invito a cena. [la replaces and agrees with Elena (fs)]", "When I see Elena I’ll invite *her* to dinner."],
-                ["Quando vedo *Lorenzo* *lo* invito a cena. [lo replaces and agrees with Lorenzo (ms)]", "When I see Lorenzo I’ll invite *him* to dinner."],
-                ["Scrivo *le cartoline* e poi *le* imbuco. [le replaces and agrees with le cartoline (fp)]", "I write the postcards and then post *them*."],
-                ["Appena compro *i biscotti* *li* mangio. [li replaces and agrees with i biscotti (mp)]", "As soon as I buy biscuits I eat *them*."],
-                ["Prendo *il giornale* e *lo* leggo subito. [lo replaces and agrees with il giornale (ms)]", "I get the paper and read *it* immediately."]
+                ["**Quando vedo Elena** ***la*** **invito a cena.** [***la*** replaces and agrees with **Elena** (fs)]", "When I see Elena I’ll invite *her* to dinner."],
+                ["**Quando vedo Lorenzo** ***lo*** **invito a cena.** [***lo*** replaces and agrees with **Lorenzo** (ms)]", "When I see Lorenzo I’ll invite *him* to dinner."],
+                ["**Scrivo le cartoline e poi** ***le*** **imbuco.** [***le*** replaces and agrees with **le cartoline** (fp)]", "I write the postcards and then post *them*."],
+                ["**Appena compro i biscotti** ***li*** **mangio.** [***li*** replaces and agrees with **i biscotti** (mp)]", "As soon as I buy biscuits I eat *them*."],
+                ["**Prendo il giornale e** ***lo*** **leggo subito.** [***lo*** replaces and agrees with **il giornale** (ms)]", "I get the paper and read *it* immediately."]
                 ]
             }
             }
@@ -29,40 +28,38 @@
         "title": "Forms of Direct Object Pronouns",
         "paragraphs": [
             {
-            "id": 2,
+            "id": 7.02,
             "content": "The forms of the direct object pronouns are as follows:",
             "table": {
-                "headers": ["Subject", "Direct Object", "English"],
+                "headers": ["*Subject*", "*Direct Object*", ""],
                 "rows": [
-                ["io", "mi", "me"],
-                ["tu", "ti", "you"],
-                ["lui/lei", "lo [m]/la [f]", "him/her/it"],
-                ["noi", "ci", "us"],
-                ["voi", "vi", "you"],
-                ["loro", "li [m]/le [f]", "them"]
+                ["io", "**mi**", "me"],
+                ["tu", "**ti**", "you"],
+                ["lui/lei", "**lo** [m]/**la** [f]", "him/her/it"],
+                ["noi", "**ci**", "us"],
+                ["voi", "**vi**", "you"],
+                ["loro", "**li** [m]/**le** [f]", "them"]
                 ]
             }
             },
             {
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["Giacomo *mi* invita spesso a cena.", "Giacomo often invites *me* to dinner."],
-                ["Se vuoi, *ti* aiuto.", "If you want, I’ll help *you*."],
-                ["*Lo* conosco bene.", "I know *him* well."],
-                ["*La* vedo tutti i giorni.", "I see *her* every day."],
-                ["*Vi* invito alla festa.", "I’m inviting *you* to the party."]
+                ["**Giacomo** ***mi*** **invita spesso a cena.**", "Giacomo often invites *me* to dinner."],
+                ["**Se vuoi,** ***ti*** **aiuto.**", "If you want, I’ll help *you*."],
+                ["***Lo*** **conosco bene.**", "I know *him* well."],
+                ["***La*** **vedo tutti i giorni.**", "I see *her* every day."],
+                ["***Vi*** **invito alla festa.**", "I’m inviting *you* to the party."]
                 ]
             }
             },
             {
-            "id": 3,
-            "content": "We saw in Unit 3 that if an adjective refers to two or more nouns that are different in gender, it has the masculine plural form, e.g. Laura e Piero sono italiani (Laura and Piero are Italian). The same principle applies to direct object pronouns:",
+            "id": 7.03,
+            "content": "We saw in Unit 3 that if an adjective refers to two or more nouns that are different in gender, it has the masculine plural form, e.g. **Laura e Piero sono italian*****i*** (Laura and Piero are Italian). The same principle applies to direct object pronouns:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["‘Conosci *Laura [f] e Piero [m]*?’ ‘Sì, *li [mp]* conosco bene.’", "‘Do you know Laura and Piero?’ ‘Yes, I know *them* well.’"],
-                ["‘Usi *il computer [m] e la stampante [f]*?’ ‘Sì, *li [mp]* uso spesso.’", "‘Do you use the computer and the printer?’ ‘Yes, I often use *them*.’"]
+                ["**‘Conosci Laura [f] e Piero [m]?’ ‘Sì,** ***li*** **[mp] conosco bene.’**", "‘Do you know Laura and Piero?’ ‘Yes, I know *them* well.’"],
+                ["**‘Usi *il computer [m] e la stampante [f]?’ ‘Sì,** ***li*** **[mp] uso spesso.’**", "‘Do you use the computer and the printer?’ ‘Yes, I often use *them*.’"]
                 ]
             }
             }
@@ -72,15 +69,14 @@
         "title": "Negative Form",
         "paragraphs": [
             {
-            "id": 4,
-            "content": "The negative is formed by putting non before the pronoun:",
+            "id": 7.04,
+            "content": "The negative is formed by putting **non** before the pronoun:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["*Non lo* conosco bene.", "I don’t know *him* well."],
-                ["*Non vi* invito alla festa.", "I’m not inviting *you* to the party."],
-                ["*Non li* vedo spesso.", "I don’t often see *them*."],
-                ["*Non ti* capisco.", "I don’t understand *you*."]
+                ["***Non lo*** **conosco bene.**", "I don’t know *him* well."],
+                ["***Non vi*** **invito alla festa.**", "I’m not inviting *you* to the party."],
+                ["***Non li*** **vedo spesso.**", "I don’t often see *them*."],
+                ["***Non ti*** **capisco.**", "I don’t understand *you*."]
                 ]
             }
             }
@@ -90,22 +86,21 @@
         "title": "Direct Object Pronouns with Infinitives",
         "paragraphs": [
             {
-            "id": 5,
-            "content": "When a direct object pronoun is used with a verb in the infinitive (usually after verbs like dovere, potere, volere or sapere), it can be attached to the infinitive, which drops the final vowel:"
+            "id": 7.05,
+            "content": "When a direct object pronoun is used with a verb in the infinitive (usually after verbs like **dovere, potere, volere** or **sapere**), it can be attached to the infinitive, which drops the final vowel:"
             },
             {
             "content": "Each pair of sentences has exactly the same meaning – the form used makes no difference."
             },
             {
-            "content": "* Note that verbs in -urre drop the second r as well as the final vowel: lo devo tradurre or devo tradurlo.",
+            "content": "*Note that verbs in **-urre** drop the second **r** as well as the final vowel: **lo devo tradurre** or **devo tradurlo**.",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["*La* devo chiamare. or Devo *chiamarla*.", "I must call *her*."],
-                ["*Ti* voglio invitare. or Voglio *invitarti*.", "I want to invite *you*."],
-                ["*Lo* puoi prendere. or Puoi *prenderlo*.", "You can take *it*."],
-                ["*Lo* so fare. or So *farlo*.", "I can/know how to do *it*."],
-                ["*Lo* devo tradurre.* or Devo *tradurlo*.*", "I’ve got to translate *it*."]
+                ["***La*** **devo chiamare.** or **Devo chiamar*****la***.", "I must call *her*."],
+                ["***Ti*** **voglio invitare.** or **Voglio invitar*****ti***.", "I want to invite *you*."],
+                ["***Lo*** **puoi prendere.** or **Puoi prender*****lo***.", "You can take *it*."],
+                ["***Lo*** **so fare.** or **So far*****lo***.", "I can/know how to do *it*."],
+                ["***Lo*** **devo tradurre.* ** or **Devo tradur*****lo*** **.* **", "I’ve got to translate *it*."]
                 ]
             }
             }
@@ -115,14 +110,13 @@
         "title": "Using Lo to Replace a Clause",
         "paragraphs": [
             {
-            "id": 6,
-            "content": "The pronoun lo [ms] is often used to replace a whole clause:",
+            "id": 7.06,
+            "content": "The pronoun **lo** [ms] is often used to replace a whole clause:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["‘Sai che oggi è il compleanno di Carla?’ ‘Sì, *lo* so.’ [lo = oggi è il compleanno di Carla]", "‘Do you know that it’s Carla’s birthday today?’ ‘Yes, I do.’ [lit. Yes, I know *it*]"],
-                ["‘Dove sono le chiavi?’ ‘Non *lo* so.’ [lo = dove sono le chiavi]", "‘Where are the keys?’ ‘I don’t know.’ [lit. I don’t know *it*]"],
-                ["‘Devi cambiare la cartuccia.’ ‘*Lo* faccio subito.’ [lo = cambiare la cartuccia]", "‘You’ve got to replace the cartridge.’ ‘I’ll do *it* straight away.’"]
+                ["**‘Sai che oggi è il compleanno di Carla?’ ‘Sì, *lo* so.’ [lo = oggi è il compleanno di Carla]**", "‘Do you know that it’s Carla’s birthday today?’ ‘Yes, I do.’ [lit. Yes, I know *it*]"],
+                ["**‘Dove sono le chiavi?’ ‘Non *lo* so.’ [lo = dove sono le chiavi]**", "‘Where are the keys?’ ‘I don’t know.’ [lit. I don’t know *it*]"],
+                ["**‘Devi cambiare la cartuccia.’ ‘*Lo* faccio subito.’ [lo = cambiare la cartuccia]**", "‘You’ve got to replace the cartridge.’ ‘I’ll do *it* straight away.’"]
                 ]
             }
             }
@@ -132,24 +126,22 @@
         "title": "Direct Object Pronouns with Avere",
         "paragraphs": [
             {
-            "id": 7,
-            "content": "When the pronouns lo and la are used with the verb avere, they are shortened to l’, and are often preceded by the particle ce:",
+            "id": 7.07,
+            "content": "When the pronouns **lo** and **la** are used with the verb **avere**, they are shortened to **l’**, and are often preceded by the particle **ce**:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["‘Hai *la cartuccia*?’ ‘Sì, *ce l’ho*.’", "‘Have you got the cartridge?’ ‘Yes, I’ve got *it*.’"],
-                ["Non posso leggere *il libro di Primo Levi* perché *non ce l’ho*.", "I can’t read Primo Levi’s book because I haven’t got *it*."],
-                ["‘Avete *l’indirizzo di Anna*?’ ‘Sì, *ce l’abbiamo*.’", "‘Have you got Anna’s address?’ ‘Yes, we have/Yes, we’ve got *it*.’"]
+                ["**‘Hai la cartuccia*?’ ‘Sì, ce l’ho**.’", "‘Have you got the cartridge?’ ‘Yes, I’ve got *it*.’"],
+                ["**Non posso leggere il libro di Primo Levi perché non ce l’ho**.", "I can’t read Primo Levi’s book because I haven’t got *it*."],
+                ["**‘Avete l’indirizzo di Anna?’ ‘Sì, ce l’abbiamo.’**", "‘Have you got Anna’s address?’ ‘Yes, we have/Yes, we’ve got *it*.’"]
                 ]
             }
             },
             {
-            "content": "The plural pronouns li and le, however, are never shortened, and are only rarely used with ce:",
+            "content": "The plural pronouns **li** and **le**, however, are never shortened, and are only rarely used with **ce**:",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["‘Hai *le parole di questa canzone*?’ ‘No, *non (ce) le ho*.’", "‘Have you got the lyrics of this song?’ ‘No, I haven’t /No, I’ve not got *them*.’"],
-                ["‘Hai *i libri*?’ ‘Sì, *(ce) li ho*.’", "‘Have you got the books?’ ‘Yes, I’ve got *them*/Yes, I have.’"]
+                ["**‘Hai le parole di questa canzone?’ ‘No, non** ***(ce) le*** **ho.’**", "‘Have you got the lyrics of this song?’ ‘No, I haven’t /No, I’ve not got *them*.’"],
+                ["**‘Hai i libri?’ ‘Sì,** ***(ce) li*** **ho.’**", "‘Have you got the books?’ ‘Yes, I’ve got *them*/Yes, I have.’"]
                 ]
             }
             }
@@ -159,16 +151,15 @@
         "title": "Formal Form",
         "paragraphs": [
             {
-            "id": 8,
-            "content": "The direct object pronouns used for the formal form are La for the singular (for both women and men) and Vi for the plural (the pronouns Li and Le can also be used for the masculine and feminine respectively, but this is particularly formal):",
+            "id": 7.08,
+            "content": "The direct object pronouns used for the formal form are **La** for the singular (for both women and men) and **Vi** for the plural (the pronouns **Li** and **Le** can also be used for the masculine and feminine respectively, but this is particularly formal):",
             "table": {
-                "headers": ["Italian", "English"],
                 "rows": [
-                ["Professor Masi, *La* accompagno in aeroporto.", "Professor Masi, I’ll take *you* to the airport."],
-                ["Signora, *La* accompagno in aeroporto.", "I’ll take *you* to the airport, Madam."],
-                ["Signori Bianco, *Vi* accompagno in aeroporto.", "Mr and Mrs Bianco, I’ll take *you* to the airport."],
-                ["(Signori Bianco, *Li* accompagno in aeroporto.)", "Mr and Mrs Bianco, I’ll take *you* to the airport."],
-                ["Signore, *Vi* accompagno in aeroporto. (Signore, *Le* accompagno in aeroporto.)", "(Ladies,) I’ll take *you* to the airport."]
+                ["**Professor Masi, La accompagno in aeroporto.**", "Professor Masi, I’ll take *you* to the airport."],
+                ["**Signora, La accompagno in aeroporto.**", "I’ll take *you* to the airport, Madam."],
+                ["**Signori Bianco, Vi accompagno in aeroporto.**", "Mr and Mrs Bianco, I’ll take *you* to the airport."],
+                ["**(Signori Bianco, Li accompagno in aeroporto.)**", "Mr and Mrs Bianco, I’ll take *you* to the airport."],
+                ["**Signore, Vi accompagno in aeroporto. (Signore, Le accompagno in aeroporto.)**", "(Ladies,) I’ll take *you* to the airport."]
                 ]
             }
             }
@@ -178,7 +169,7 @@
     },
     "exercises": [
     {
-        "title": "Exercise 1: Direct Object Pronouns",
+        "title": "Exercise 1",
         "instruction": "Rewrite the sentences, replacing the words in italics with the correct direct object pronoun.",
         "examples": ["Anna guarda *la televisione*: Anna *la* guarda.", "Invitiamo *i nostri amici*: *Li* invitiamo."],
         "items": [
@@ -205,7 +196,7 @@
         ]
     },
     {
-        "title": "Exercise 2: Negative Sentences",
+        "title": "Exercise 2",
         "instruction": "Change the sentences into the negative.",
         "examples": ["*Le* voglio.: *Non le* voglio.", "*Li* compriamo.: *Non li* compriamo."],
         "items": [
@@ -216,53 +207,57 @@
         { "question": "I Signori Bianchi *lo* prendono.", "answer": "I Signori Bianchi non lo prendono." },
         { "question": "*Mi* invitate?", "answer": "Non mi invitate?" },
         { "question": "*Vi* aspetto.", "answer": "Non vi aspetto." },
-        { "question": "*La* vedo domani.", "answer": "Non la vedo domani." }
+        { "question": "*La* vedo domani.", "answer": "Non la vedo domani." },
+        { "question": "*Ti* accompagno alla stazione.", "answer": "Non ti accompagno alla stazione." },
+        { "question": "*Lo* guardiamo.", "answer": "Non lo guardiamo." }
         ]
     },
     {
-        "title": "Exercise 3: Direct Object Pronouns",
+        "title": "Exercise 3",
         "instruction": "Rewrite the sentences, replacing the words in italics with the correct direct object pronoun.",
-        "examples": ["Devo chiamare *mio fratello*: *Lo* devo chiamare.", "Non voglio vedere *quel film*: *Non lo* voglio vedere."],
+        "examples": ["Li devi comprare: Devi comprarli"],
         "items": [
-        { "question": "Devo chiamare *mio fratello*.", "answer": "Lo devo chiamare." },
-        { "question": "Non voglio vedere *quel film*.", "answer": "Non lo voglio vedere." },
-        { "question": "Compriamo *questi libri*.", "answer": "Li compriamo." },
-        { "question": "Leggo *la lettera*.", "answer": "La leggo." },
-        { "question": "Ascolti *la musica*?", "answer": "La ascolti?" },
-        { "question": "Devo prendere *gli occhiali*.", "answer": "Li devo prendere." },
-        { "question": "Mangiate *la torta*?", "answer": "La mangiate?" },
-        { "question": "Finisco *il progetto*.", "answer": "Lo finisco." }
+        { "question": "Lo vogliamo vedere.", "answer": "Vogliamo vederlo." },
+        { "question": "Non ti posso aiutare.", "answer": "Non posso aiutarti." },
+        { "question": "Mi puoi accompagnare?", "answer": "Puoi accompagnarmi?" },
+        { "question": "La vuoi sentire?", "answer": "Vuoi sentirla?" },
+        { "question": "Ci devono chiamare.", "answer": "Devono chiamarci." },
+        { "question": "Vi voglio invitare.", "answer": "Voglio invitarvi." },
+        { "question": "Le vuole conoscere.", "answer": "Vuole conoscerle." },
+        { "question": "Non li potete fare.", "answer": "Non potete farli." },
+        { "question": "Mi devi ascoltare.", "answer": "Devi ascoltarmi." },
+        { "question": "Non La posso aiutare, Signora.", "answer": "Non posso aiutarLa, Signora." }
         ]
     },
     {
-        "title": "Exercise 4: Complete with Direct Object Pronouns",
+        "title": "Exercise 4",
         "instruction": "Complete the sentences with the correct direct object pronoun.",
-        "examples": ["Devo chiamare *Anna* e *la* invito a cena.", "Vedo *i tuoi amici* e *li* saluto."],
+        "examples": ["Marco telefona agli amici e —— invita alla festa: li", "Guido non sta bene: devo chiamar—— : lo"],
         "items": [
-        { "question": "Devo chiamare *Anna* e ____ invito a cena.", "answer": "la" },
-        { "question": "Vedo *i tuoi amici* e ____ saluto.", "answer": "li" },
-        { "question": "Compro *il giornale* e ____ leggo.", "answer": "lo" },
-        { "question": "Ho *la macchina* e ____ lavo oggi.", "answer": "la" },
-        { "question": "Preparo *la cena* e ____ servo.", "answer": "la" },
-        { "question": "Non voglio *il caffè*, ma ____ prendo.", "answer": "lo" },
-        { "question": "Prendiamo *i libri* e ____ portiamo a scuola.", "answer": "li" },
-        { "question": "Professor Bartoli, ____ posso aiutare?", "answer": "La" },
-        { "question": "I Signori Pieri partono: ____ accompagni in aeroporto?", "answer": "Li" },
-        { "question": "Hai *molte amiche*: ____ inviti tutte?", "answer": "le" },
-        { "question": "Se non usi *la bici* ____ prendo io.", "answer": "la" },
-        { "question": "Ci sono *molti errori*: ____ dovete correggere.", "answer": "li" },
-        { "question": "Claudio telefona a *Giulia* e ____ invita alla festa.", "answer": "la" },
-        { "question": "Partite? ____ porto in stazione.", "answer": "vi" },
-        { "question": "C’è *un film* alla televisione ma non ____ guardiamo.", "answer": "lo" },
-        { "question": "Alma parte: volete salutar____?", "answer": "la" },
-        { "question": "*La sorella di Matteo* è molto simpatica. ____ conosco bene.", "answer": "La" },
-        { "question": "*Gli esercizi* sono difficili, ma ____ so fare.", "answer": "li" },
-        { "question": "Se vuoi *delle caramelle*, ____ puoi prendere.", "answer": "le" },
+        { "question": "Compro il giornale e —— leggo.", "answer": "lo" },
+        { "question": "Scrivo le cartoline e —— spedisco.", "answer": "le" },
+        { "question": "Laura fa i panini e poi —— mangia.", "answer": "li" },
+        { "question": "Compro i fiori e —— metto in un vaso.", "answer": "li" },
+        { "question": "Apriamo la finestra e poi —— chiudiamo.", "answer": "la" },
+        { "question": "Non riesco a fare questo esercizio: —— aiuti?", "answer": "mi" },
+        { "question": "Prendiamo i libri e —— portiamo a scuola.", "answer": "li" },
+        { "question": "Professor Bartoli, —— posso aiutare?", "answer": "la" },
+        { "question": "I Signori Pieri partono: —— accompagni in aeroporto?", "answer": "li" },
+        { "question": "Hai molte amiche: —— inviti tutte?", "answer": "le" },
+        { "question": "Se non usi la bici —— prendo io.", "answer": "la" },
+        { "question": "Ci sono molti errori: —— dovete correggere.", "answer": "li" },
+        { "question": "Claudio telefona a Giulia e —— invita alla festa.", "answer": "la" },
+        { "question": "Partite? —— porto in stazione.", "answer": "vi" },
+        { "question": "C’è un film alla televisione ma non —— guardiamo.", "answer": "lo" },
+        { "question": "Alma parte: volete salutar——?", "answer": "la" },
+        { "question": "La sorella di Matteo è molto simpatica. —— conosco bene.", "answer": "la" },
+        { "question": "Gli esercizi sono difficili, ma —— so fare.", "answer": "li" },
+        { "question": "Se vuoi delle caramelle, —— puoi prendere.", "answer": "le" },
         { "question": "‘Sai che *Alessandro suona il sassofono in un gruppo*?’ ‘Sì, ____ so.’", "answer": "lo" }
         ]
     },
     {
-        "title": "Exercise 5: Translate into Italian",
+        "title": "Exercise 5",
         "instruction": "Translate the following sentences into Italian.",
         "examples": ["We’re inviting *you [pl.]* to the party: *Vi* invitiamo alla festa.", "I’ve got a lot of friends, and I often see *them*: Ho *molti amici* e *li* vedo spesso."],
         "items": [

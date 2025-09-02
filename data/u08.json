@@ -1,487 +1,641 @@
 {
-    "unitNumber": 8,
-    "text": {
-        "title": "Unit Eight: Prepositions",
-        "sections": [
-            {
-                "title": "Common Italian Prepositions",
-                "paragraphs": [
-                    {
-                        "id": 1,
-                        "content": "The most common Italian prepositions are the following:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["di", "of"],
-                                ["a", "to"],
-                                ["da", "from"],
-                                ["in", "in"],
-                                ["con", "with"],
-                                ["su", "on"],
-                                ["per", "for"],
-                                ["tra/fra*", "among, between"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "* The meaning of tra and fra is the same."
-                    },
-                    {
-                        "content": "These prepositions often correspond to the English counterparts we give here. However, as we shall see, each of them also has a number of other meanings, corresponding to other English prepositions."
-                    }
-                ]
-            },
-            {
-                "title": "Prepositions Combined with Articles",
-                "paragraphs": [
-                    {
-                        "id": 2,
-                        "content": "The prepositions di, a, da, in, and su, when used together with a noun preceded by the definite article, always combine with the article:",
-                        "table": {
-                            "headers": ["", "il", "lo", "l’", "la", "i", "gli", "le"],
-                            "rows": [
-                                ["di", "del", "dello", "dell’", "della", "dei", "degli", "delle"],
-                                ["a", "al", "allo", "all’", "alla", "ai", "agli", "alle"],
-                                ["da", "dal", "dallo", "dall’", "dalla", "dai", "dagli", "dalle"],
-                                ["in", "nel", "nello", "nell’", "nella", "nei", "negli", "nelle"],
-                                ["su", "sul", "sullo", "sull’", "sulla", "sui", "sugli", "sulle"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "The preposition con normally combines only with il and i, as col and coi; this form is common in spoken Italian, though con il and con i are often found in the written language:",
-                        "table": {
-                            "headers": ["", "il", "lo", "l’", "la", "i", "gli", "le"],
-                            "rows": [
-                                ["con", "col", "(collo)", "(coll’)", "(colla)", "coi", "(cogli)", "(colle)"]
-                            ]
-                        }
-                    },
-                    {
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["di + il ragazzo", "del ragazzo (of the boy)"],
-                                ["a + lo studente", "allo studente (to the student)"],
-                                ["da + l’albergo", "dall’albergo (from the hotel)"],
-                                ["in + la scuola", "nella scuola (in the school)"],
-                                ["su + i divani", "sui divani (on the sofas)"],
-                                ["con + i libri", "coi libri (with the books)"],
-                                ["con + le chiavi", "con le chiavi (with the keys)"],
-                                ["per + gli insegnanti", "per gli insegnanti (for the teachers)"],
-                                ["fra + i calciatori", "fra i calciatori (among the footballers)"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Using Prepositions",
-                "paragraphs": [
-                    {
-                        "id": 3,
-                        "content": "As in many other languages, there is so much variation in how Italian prepositions are used that it is not feasible to give simple rules covering every possibility. To appreciate the problem, you only have to look at a few of the possible uses of the preposition di:"
-                    },
-                    {
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["il presidente della repubblica", "the president of the republic"],
-                                ["Il libro è di Calvino.", "The book is by Calvino."],
-                                ["Sono di Roma.", "I’m from Rome."],
-                                ["Di pomeriggio fanno sempre la siesta.", "They always have a nap in the afternoon."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "Sometimes, Italian even has a preposition where English does not:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["l’auto di Anna", "Anna’s car"],
-                                ["Vuoi della frutta?", "Do you want (some/any) fruit?"],
-                                ["Ci sono alcune migliaia di persone nella piazza.", "There are a few thousand people in the square."],
-                                ["Ho una bella camicia di seta.", "I’ve got a lovely silk shirt."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "Since there is not a simple set of rules governing prepositions in Italian, what we are going to do is show some typical uses of the common ones listed above. The more you hear and read Italian, the more you will encounter different uses of these and other prepositions; the best way of mastering them is to learn them and practise them as you go along."
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Di",
-                "paragraphs": [
-                    {
-                        "id": 4,
-                        "content": "Di is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["possession", "La moto di Luca è rossa.", "Luca’s motorbike is red."],
-                                ["material", "una giacca di pelle", "a leather jacket"],
-                                ["time", "Di sera non esco.", "I don’t go out in the evening(s)."],
-                                ["subject", "una lezione di storia", "a history lesson"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "The most common uses of di are the ones which correspond to the English possessive (‘s) and the noun + noun structure:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["il libro di Calvino", "Calvino’s book"],
-                                ["la casa di Anna", "Anna’s house"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "Di is frequently used in partitive constructions, i.e. to express the English ‘some’ or ‘any’ in such sentences as ‘I’d like some bread’, ‘Have you any pasta?’:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["Vuoi del pane?", "Do you want some bread?"],
-                                ["Abbiamo della pasta e delle olive.", "We’ve got (some) pasta and (some) olives."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "Di is also used, followed by a verb in the infinitive, after certain verbs like credere (to believe), pensare (to think), dire (to say), sperare (to hope), finire (to finish), smettere (to stop):"
-                    }
-                ]
-            },
-            {
-                "title": "Uses of A",
-                "paragraphs": [
-                    {
-                        "content": "A is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["direction/movement", "Andiamo a Roma.", "We’re going to Rome."],
-                                ["location", "Abito a Milano.", "I live in Milan."],
-                                ["time", "A che ora parti?", "What time are you leaving?"],
-                                ["indirect object", "Do il libro a Maria.", "I give the book to Maria."]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Da",
-                "paragraphs": [
-                    {
-                        "content": "Da is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["origin/source", "Vengo da Londra.", "I come from London."],
-                                ["agent", "È stato fatto da me.", "It was done by me."],
-                                ["time (since)", "Studio da due ore.", "I’ve been studying for two hours."],
-                                ["purpose", "occhiali da sole", "sunglasses"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of In",
-                "paragraphs": [
-                    {
-                        "content": "In is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["location", "Vivo in Italia.", "I live in Italy."],
-                                ["means of transport", "Vado in treno.", "I go by train."],
-                                ["time (period)", "Nel 2000.", "In 2000."],
-                                ["specific place", "Compro il pane in panetteria.", "I buy bread at the bakery/the baker’s."]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Su",
-                "paragraphs": [
-                    {
-                        "content": "Su is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["location", "Devi camminare sul marciapiede.", "You have to walk on the pavement."],
-                                ["position", "il ponte sul’Arno", "the bridge over the Arno"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Per",
-                "paragraphs": [
-                    {
-                        "content": "Per is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["destination", "Parti per Dublino?", "Are you leaving for Dublin?"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Uses of Tra/Fra",
-                "paragraphs": [
-                    {
-                        "content": "Tra/Fra is typically used to express:",
-                        "table": {
-                            "headers": ["Use", "Italian", "English"],
-                            "rows": [
-                                ["position", "Novara è tra Torino e Milano.", "Novara is between Turin and Milan."],
-                                ["relationship", "Siamo fra amici.", "We are among friends."]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Prepositions of Time",
-                "paragraphs": [
-                    {
-                        "id": 15,
-                        "content": "Some examples of the different prepositions used to denote time:"
-                    },
-                    {
-                        "id": 16,
-                        "content": "Di is used with the days of the week and parts of the day:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["Di domenica non lavoro.", "I don’t work on Sundays."],
-                                ["Di sera guardo la tv.", "In the evenings I watch TV."],
-                                ["Di lunedì andiamo in piscina.", "On Mondays we go to the swimming pool."],
-                                ["Di mattina vado a scuola.", "In the morning I go to school."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "In these cases, di is always used without the definite article."
-                    },
-                    {
-                        "id": 17,
-                        "content": "A is used with names of festivities, months and hours of the day:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["A Natale rimaniamo a casa.", "At Christmas we stay at home."],
-                                ["A Pasqua Piera va in Italia.", "At Easter Piera is going to Italy."],
-                                ["Il museo riapre a marzo.", "The museum reopens/will reopen in March."],
-                                ["Il treno parte alle 12.", "The train is leaving at 12."],
-                                ["Di solito mangiano a mezzogiorno.", "They normally eat at midday."],
-                                ["Donatella arriva alle 7.", "Donatella will arrive at seven."]
-                            ]
-                        }
-                    },
-                    {
-                        "id": 18,
-                        "content": "In is used with years, centuries and seasons:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["Sono nato nel 1990.", "I was born in 1990."],
-                                ["Studio il turismo nel XIX secolo.", "I’m studying tourism in the nineteenth century."],
-                                ["Gli esami sono in primavera.", "The exams are/will be in the spring."],
-                                ["In autunno piove molto.", "In autumn it rains a lot."]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "A or In?",
-                "paragraphs": [
-                    {
-                        "id": 19,
-                        "content": "Sometimes it can be difficult to know whether to use a or in, so we list below common expressions using these two prepositions:",
-                        "table": {
-                            "headers": ["A", "In"],
-                            "rows": [
-                                ["a casa - (at) home", "in pizzeria - in/to/at a/the pizzeria/pizza parlour"],
-                                ["a scuola - at/to school", "in discoteca - in/to the disco"],
-                                ["a letto - in/to bed", "in città - in/to town"],
-                                ["a lezione - in class/to (one’s) class", "in centro - in/to the city centre"],
-                                ["a tavola - to the table [i.e. come and sit down]/at table", "in chiesa - in/to church"],
-                                ["a destra/a sinistra - (on/to the) right/left", "in mensa - in/to the canteen"],
-                                ["a nord/a sud/a est/a ovest - (in/to the) north/south/east/west", "in camera - in/to the bedroom"],
-                                ["a mezzogiorno/a mezzanotte - at midday/midnight", "in bagno - in/to the bathroom"],
-                                ["a metà - in the middle/mid", "in classe - in/to the classroom"],
-                                ["all’ombra/al sole - in the shade/in the sun", "in palestra - in/to the gym"],
-                                ["al bar - in the bar", "in caserma - in/to the barracks"],
-                                ["al ristorante - at/to the restaurant", "in prigione - in/to prison"],
-                                ["alla stazione - at/in/to the station", "in ufficio - in/to the office"],
-                                ["", "in piscina - at/to the swimming pool"]
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "title": "Compound Prepositions",
-                "paragraphs": [
-                    {
-                        "id": 20,
-                        "content": "Italian also has a number of ‘compound prepositions’, e.g. accanto a, ‘next to/beside’, invece di, ‘instead of’. Some of these are always in the compound form, others include di only when followed by a personal pronoun. We give here a list of the most common ones:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["accanto a", "next to/beside"],
-                                ["davanti a", "in front of"],
-                                ["dietro a", "behind"],
-                                ["in mezzo a", "in the middle of"],
-                                ["invece di*", "instead of"],
-                                ["a causa di*", "because of"],
-                                ["per via di*", "because of/due to"]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "* When these prepositions are used with a personal pronoun, the pronoun is preceded by the preposition di (see Unit 14)."
-                    },
-                    {
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["La macchina è accanto alla casa.", "The car is next to the house."],
-                                ["Il gatto è davanti alla porta.", "The cat is in front of the door."],
-                                ["Sto in mezzo agli amici.", "I’m in the middle of friends."],
-                                ["Vado in pizzeria invece di andare al ristorante.", "I’m going to the pizzeria instead of going to the restaurant."]
-                            ]
-                        }
-                    }
-                ]
+  "unitNumber": 8,
+  "text": {
+    "title": "Unit Eight: Prepositions",
+    "sections": [
+      {
+        "title": "Common Italian Prepositions",
+        "paragraphs": [
+          {
+            "id": 8.01,
+            "content": "The most common Italian prepositions are the following:",
+            "table": {
+              "rows": [
+                ["di", "of"],
+                ["a", "to, at"],
+                ["da", "from"],
+                ["in", "in"],
+                ["con", "with"],
+                ["su", "on"],
+                ["per", "for"],
+                ["tra/fra*", "among, between, amongst"]
+              ]
             }
+          },
+          {
+            "content": "* The meaning of tra and fra is the same."
+          },
+          {
+            "content": "These prepositions often correspond to the English counterparts we give here. However, as we shall see, each of them also has a number of other meanings, corresponding to other English prepositions."
+          }
         ]
-    },
-    "exercises": [
-        {
-            "title": "Exercise 1: Combine Prepositions and Articles",
-            "instruction": "Combine the prepositions and the definite articles.",
-            "examples": ["di + la mamma: della mamma", "a + lo stadio: allo stadio"],
-            "items": [
-                { "question": "di + la mamma", "answer": "della mamma" },
-                { "question": "di + lo zio", "answer": "dello zio" },
-                { "question": "di + gli amici", "answer": "degli amici" },
-                { "question": "di + il parco", "answer": "del parco" },
-                { "question": "di + l’auto", "answer": "dell’auto" },
-                { "question": "di + i paesi", "answer": "dei paesi" },
-                { "question": "di + le stanze", "answer": "delle stanze" },
-                { "question": "a + il mare", "answer": "al mare" },
-                { "question": "a + lo stadio", "answer": "allo stadio" },
-                { "question": "a + la stazione", "answer": "alla stazione" },
-                { "question": "a + i ragazzi", "answer": "ai ragazzi" },
-                { "question": "a + gli uomini", "answer": "agli uomini" },
-                { "question": "a + le donne", "answer": "alle donne" },
-                { "question": "a + l’ospedale", "answer": "all’ospedale" },
-                { "question": "da + la zia", "answer": "dalla zia" },
-                { "question": "da + lo studente", "answer": "dallo studente" },
-                { "question": "da + il dentista", "answer": "dal dentista" },
-                { "question": "da + l’aeroporto", "answer": "dall’aeroporto" },
-                { "question": "da + gli uffici", "answer": "dagli uffici" },
-                { "question": "da + le colleghe", "answer": "dalle colleghe" },
-                { "question": "da + i ministri", "answer": "dai ministri" },
-                { "question": "in + l’albergo", "answer": "nell’albergo" },
-                { "question": "in + lo stipendio", "answer": "nello stipendio" },
-                { "question": "in + la casa", "answer": "nella casa" },
-                { "question": "in + gli anni", "answer": "negli anni" },
-                { "question": "in + i cassetti", "answer": "nei cassetti" },
-                { "question": "in + le camere", "answer": "nelle camere" },
-                { "question": "in + il frigo", "answer": "nel frigo" },
-                { "question": "su + il tavolo", "answer": "sul tavolo" },
-                { "question": "su + la sedia", "answer": "sulla sedia" },
-                { "question": "su + lo scaffale", "answer": "sullo scaffale" },
-                { "question": "su + le spalle", "answer": "sulle spalle" }
-            ]
-        },
-        {
-            "title": "Exercise 2: Prepositions",
-            "instruction": "Complete the sentences with di, a, da, in, or su.",
-            "examples": ["Vado ____ Venezia: a", "Abito ____ Roma: a"],
-            "items": [
-                { "question": "Vado ____ Venezia.", "answer": "a" },
-                { "question": "Abito ____ Roma.", "answer": "a" },
-                { "question": "È ____ Firenze.", "answer": "a" },
-                { "question": "Vengo ____ Napoli.", "answer": "da" },
-                { "question": "Andiamo ____ scuola.", "answer": "a" },
-                { "question": "Torniamo ____ casa.", "answer": "a" },
-                { "question": "Lavoro ____ banca.", "answer": "in" },
-                { "question": "Studiano ____ biblioteca.", "answer": "in" },
-                { "question": "Metto i libri ____ tavolo.", "answer": "sul" },
-                { "question": "Scrivo ____ quaderno.", "answer": "sul" },
-                { "question": "È una borsa ____ pelle.", "answer": "di" },
-                { "question": "È un tavolo ____ legno.", "answer": "di" },
-                { "question": "È un’amica ____ Maria.", "answer": "di" },
-                { "question": "È il libro ____ professore.", "answer": "del" },
-                { "question": "Vado ____ medico.", "answer": "dal" },
-                { "question": "Compro il pane ____ forno.", "answer": "al" },
-                { "question": "Parto ____ Londra.", "answer": "per" },
-                { "question": "Vivo ____ campagna.", "answer": "in" }
-            ]
-        },
-        {
-            "title": "Exercise 3: Prepositions and Articles",
-            "instruction": "Complete the sentences with the correct preposition and article.",
-            "examples": ["Vado ____ (la) spiaggia: alla spiaggia", "Abito ____ (il) centro: al centro"],
-            "items": [
-                { "question": "Vado ____ (la) spiaggia.", "answer": "alla" },
-                { "question": "Abito ____ (il) centro.", "answer": "al" },
-                { "question": "Sono ____ (la) cucina.", "answer": "in" },
-                { "question": "Vengo ____ (il) negozio.", "answer": "dal" },
-                { "question": "Studio ____ (la) biblioteca.", "answer": "in" },
-                { "question": "Lavoro ____ (la) banca.", "answer": "in" },
-                { "question": "Metto il libro ____ (il) tavolo.", "answer": "sul" },
-                { "question": "È una giacca ____ (la) pelle.", "answer": "di" },
-                { "question": "È una sedia ____ (il) legno.", "answer": "di" },
-                { "question": "È il cane ____ (la) mia amica.", "answer": "della" },
-                { "question": "Vado ____ (il) medico.", "answer": "dal" },
-                { "question": "Compro il latte ____ (il) negozio.", "answer": "al" },
-                { "question": "Parto ____ (la) Francia.", "answer": "per la" },
-                { "question": "Vivo ____ (la) città.", "answer": "in" },
-                { "question": "Mangiamo ____ (la) mensa.", "answer": "in" },
-                { "question": "Piero va ____ (il) supermercato.", "answer": "al" },
-                { "question": "Il padre ____ (la) mia amica è avvocato.", "answer": "della" },
-                { "question": "____ pizzeria c’è sempre molta gente.", "answer": "In" },
-                { "question": "Paola dorme ____ (la) stanza vicina alla mia.", "answer": "nella" },
-                { "question": "Leggo un libro ____ fantascienza.", "answer": "di" }
-            ]
-        },
-        {
-            "title": "Exercise 4: Translate into Italian",
-            "instruction": "Translate the following sentences into Italian.",
-            "examples": ["I finish working at six: Finisco di lavorare alle sei.", "Antonio’s leaving for Genoa: Antonio parte per Genova."],
-            "items": [
-                { "question": "I finish working at six.", "answer": "Finisco di lavorare alle sei." },
-                { "question": "Antonio’s leaving for Genoa.", "answer": "Antonio parte per Genova." },
-                { "question": "Gemma was born in 2001.", "answer": "Gemma è nata nel 2001." },
-                { "question": "Fabia never goes out in the evening.", "answer": "Fabia non esce mai di sera." },
-                { "question": "Mr and Mrs Bancroft live in the country, in an old villa.", "answer": "I signori Bancroft vivono in campagna, in una vecchia villa." },
-                { "question": "The library’s behind the gym.", "answer": "La biblioteca è dietro la palestra." },
-                { "question": "You [sing.] can’t go out without me!", "answer": "Non puoi uscire senza di me!" },
-                { "question": "Do you [pl.] live far from the school?", "answer": "Abitate lontano dalla scuola?" },
-                { "question": "Isabella’s aunt lives in Greve, in Tuscany.", "answer": "La zia di Isabella abita a Greve, in Toscana." },
-                { "question": "She’s got a leather skirt.", "answer": "Ha una gonna di pelle." },
-                { "question": "Angus is from Edinburgh, in Scotland.", "answer": "Angus viene da Edimburgo, in Scozia." },
-                { "question": "You have to turn right after the church(, Madam).", "answer": "Deve girare a destra dopo la chiesa(, Signora)." },
-                { "question": "We’re eating at a pizzeria tonight.", "answer": "Stasera mangiamo in pizzeria." },
-                { "question": "These flowers are for your [sing.] mother.", "answer": "Questi fiori sono per tua madre." },
-                { "question": "At Christmas we’re going skiing in the mountains.", "answer": "A Natale andiamo a sciare in montagna." },
-                { "question": "I live near the prison.", "answer": "Abito vicino alla prigione." },
-                { "question": "Margaret’s been living in Turin for five years.", "answer": "Margaret abita a Torino da cinque anni." },
-                { "question": "The train for Aosta leaves from platform 7.", "answer": "Il treno per Aosta parte dal binario 7." },
-                { "question": "We’re giving Luisa a CD of Russian music.", "answer": "Regaliamo a Luisa un CD di musica russa." },
-                { "question": "I always buy the bread at Belli’s.", "answer": "Compro sempre il pane da Belli." }
-            ]
-        }
+      },
+      {
+        "title": "Prepositions Combined with Articles",
+        "paragraphs": [
+          {
+            "id": 8.02,
+            "content": "The prepositions di, a, da, in and su, when used together with a noun preceded by the definite article, always combine with the article:",
+            "table": {
+              "headers": ["", "il", "lo", "l’", "la", "i", "gli", "le"],
+              "rows": [
+                ["di", "del", "dello", "dell’", "della", "dei", "degli", "delle"],
+                ["a", "al", "allo", "all’", "alla", "ai", "agli", "alle"],
+                ["da", "dal", "dallo", "dall’", "dalla", "dai", "dagli", "dalle"],
+                ["in", "nel", "nello", "nell’", "nella", "nei", "negli", "nelles"],
+                ["su", "sul", "sullo", "sull’", "sulla", "sui", "sugli", "sulle"]
+              ]
+            }
+          },
+          {
+            "content": "The preposition con normally combines only with il and i, as col and coi; this form is common in spoken Italian, though con il and con i are often found in the written language:",
+            "table": {
+              "headers": ["", "il", "lo", "l’", "la", "i", "gli", "le"],
+              "rows": [
+                ["con", "col", "(collo)", "(coll’)", "(colla)", "coi", "(cogli)", "(colle)"]
+              ]
+            }
+          },
+          {
+            "table": {
+              "rows": [
+                ["di + il ragazzo", "del ragazzo", "of the boy"],
+                ["a + lo studente", "allo studente", "to the student"],
+                ["da + l’albergo", "dall’albergo", "from the hotel"],
+                ["in + la scuola", "nella scuola", "in the school"],
+                ["su + i divani", "sui divani", "on the sofas"],
+                ["con + i libri", "coi libri", "with the books"],
+                ["con + le chiavi", "con le chiavi", "with the keys"],
+                ["per + gli insegnanti", "per gli insegnanti", "for the teachers"],
+                ["fra + i calciatori", "fra i calciatori", "among the footballers"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Using Prepositions",
+        "paragraphs": [
+          {
+            "id": 8.03,
+            "content": "As in many other languages, there is so much variation in how Italian prepositions are used that it is not feasible to give simple rules covering every possibility. To appreciate the problem, you only have to look at a few of the possible uses of the preposition di:",
+            "table": {
+              "rows": [
+                ["il presidente della repubblica", "the president of the republic"],
+                ["Il libro è di Calvino.", "The book is by Calvino."],
+                ["Sono di Roma.", "I’m from Rome."],
+                ["Di pomeriggio fanno sempre la siesta.", "They always have a nap in the afternoon."]
+              ]
+            }
+          },
+          {
+            "content": "Sometimes, Italian even has a preposition where English does not; here are some typical examples:",
+            "table": {
+              "rows": [
+                ["l’auto di Anna", "Anna’s car"],
+                ["Vuoi della frutta?", "Do you want (some/any) fruit?"],
+                ["Ci sono alcune migliaia di persone nella piazza.", "There are a few thousand people in the square."],
+                ["Ho una bella camicia di seta.", "I’ve got a lovely silk shirt."]
+              ]
+            }
+          },
+          {
+            "content": "Since there is not a simple set of rules governing prepositions in Italian, what we are going to do is show some typical uses of the common ones listed above. The more you hear and read Italian, the more you will encounter different uses of these and other prepositions; the best way of mastering them is to learn them and practise them as you go along."
+          }
+        ]
+      },
+      {
+        "title": "Uses of Di",
+        "paragraphs": [
+          {
+            "id": 8.04,
+            "content": "Di is typically used to express:",
+            "table": {
+              "rows": [
+                ["possession", "La moto di Luca è rossa.", "Luca’s motorbike is red."],
+                ["material", "una giacca di pelle", "a leather jacket"],
+                ["time", "Di sera non esco.", "I don’t go out in the evening(s)."],
+                ["subject", "una lezione di storia", "a history lesson"]
+              ]
+            }
+          },
+          {
+            "content": "The most common uses of di are the ones which correspond to the English possessive (’s) and the noun + noun structure:",
+            "table": {
+              "rows": [
+                ["il libro del professore", "the teacher’s book"],
+                ["la sorella di Monica", "Monica’s sister"],
+                ["il casco di Sebastiano", "Sebastiano’s helmet"],
+                ["la politica del governo", "the government’s policy/government policy"],
+                ["una buca delle lettere", "a letter box"],
+                ["un racconto di fate", "a fairy tale"],
+                ["il professore di scienze", "the science teacher"],
+                ["un panino di formaggio", "a cheese roll"]
+              ]
+            }
+          },
+          {
+            "content": "Di is frequently used in partitive constructions, i.e. to express the English ‘some’ or ‘any’ in such sentences as ‘I’d like some bread’, ‘Have you any pasta?’, ‘We’ve got (some) pasta and (some) olives’:",
+            "table": {
+              "rows": [
+                ["Devo comprare del pane.", "I’ve got to get (some) bread."],
+                ["Prendo della pasta.", "I’m getting (some) pasta."],
+                ["C’è dell’acqua in frigo.", "There’s (some) water in the fridge."],
+                ["Esco con degli amici.", "I’m going out with (some) friends."],
+                ["Vuoi dei libri in italiano?", "Do you want (some) books in Italian?"],
+                ["Ci sono delle case sulla collina.", "There are (some) houses on the hill."]
+              ]
+            }
+          },
+          {
+            "content": "Di is also used, followed by a verb in the infinitive, after certain verbs like credere (to believe), pensare (to think), dire (to say), sperare (to hope), finire (to finish), smettere (to stop):",
+            "table": {
+              "rows": [
+                ["Finisco di leggere il giornale e poi esco.", "I finish reading the paper and then I go out."],
+                ["Paolo pensa di essere intelligente.", "Paolo thinks he is intelligent."],
+                ["Anna crede di riuscire a passare l’esame.", "Anna believes she can pass the exam."],
+                ["La mamma dice di essere stanca.", "Mum says she’s tired."],
+                ["Devo smettere di perdere tempo!", "I must stop wasting time!"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Uses of A",
+        "paragraphs": [
+          {
+            "id": 8.05,
+            "content": "A is typically used to express:",
+            "table": {
+              "rows": [
+                ["place", "Abito a Londra.", "I live in London."],
+                ["", "Vado al cinema.", "I’m going to the cinema."],
+                ["", "Sono a casa.", "I’m at home."],
+                ["", "La casa si trova a 100 metri dal mare.", "The house is 100 metres from the sea."],
+                ["time", "Parto alle 17.", "I’m leaving at 17.00."],
+                ["", "Vado in Olanda a luglio.", "I’m going to Holland in July."],
+                ["indirect object", "Diamo il libro a Silvia.", "We’re giving the book to Silvia."],
+                ["", "Scrivete ai vostri genitori?", "Do you write to your parents?"],
+                ["quality", "Vuoi un gelato al limone?", "Do you want a lemon icecream?"],
+                ["means/manner", "La giacca è fatta a mano.", "The jacket’s made by hand."],
+                ["", "Impari tutto a memoria?", "Do you learn everything by heart?"],
+                ["", "Stasera mangiamo patate al vapore.", "We’re having steamed potatoes tonight. [i.e. they’re cooked with steam]"]
+              ]
+            }
+          },
+          {
+            "content": "A is also used, followed by a verb in the infinitive, after certain verbs like andare (to go), venire (to come), cominciare (to start/begin), continuare (to continue), riuscire (can/to be able/manage):",
+            "table": {
+              "rows": [
+                ["‘Dove vai?’ ‘Vado a lavorare.’", "‘Where are you going?’ ‘I’m going to work.’"],
+                ["Vieni a studiare in biblioteca?", "Are you coming to work in the library?"],
+                ["Comincio a capire.", "I’m beginning to understand."],
+                ["Paolo continua a parlare.", "Paolo continues/keeps on talking."],
+                ["Non riesco a sentire cosa dice.", "I can’t hear what he’s saying."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Uses of Da",
+        "paragraphs": [
+          {
+            "id": 8.06,
+            "content": "Da is typically used to express:",
+            "table": {
+              "rows": [
+                ["place", "Parto da Milano.", "I’m leaving from Milan."],
+                ["time", "Studio italiano da un mese.", "I have been studying Italian for a month."],
+                ["function", "aperto dalle 9 alle 10", "open (from) 9 to 10 (o’clock)"],
+                ["", "Sono scarpe da tennis.", "They’re tennis shoes."]
+              ]
+            }
+          },
+          {
+            "content": "Da is always used to mean ‘at/at the house of’ a person or people:",
+            "table": {
+              "rows": [
+                ["Abiti da tua zia?", "Do you live at your aunt’s?"],
+                ["Lavoro da Anna stasera.", "I’m working at Anna’s tonight."],
+                ["Devo andare dal dentista.", "I have to go to the dentist."]
+              ]
+            }
+          },
+          {
+            "content": "Da is also used followed by an infinitive after molto (a lot), poco (little), niente (nothing), qualcosa (something):",
+            "table": {
+              "rows": [
+                ["Ho molto da fare.", "I’ve got a lot to do."],
+                ["Ha poco da dire.", "He has little/He’s not got much to say."],
+                ["Non c’è niente da bere.", "There’s nothing to drink."],
+                ["Vuoi qualcosa da mangiare?", "Do you want something to eat?"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Uses of In",
+        "paragraphs": [
+          {
+            "id": 8.07,
+            "content": "In is typically used to express:",
+            "table": {
+              "rows": [
+                ["place", "Vivo in campagna.", "I live in the country."],
+                ["", "Abbiamo una casa in Francia.", "We have a house in France."],
+                ["time", "nel 2006", "in 2006"],
+                ["", "nel ventesimo secolo", "in the twentieth century"],
+                ["means", "Andiamo in treno/in auto/in bici.*", "We’re going by train/car/on our bikes."]
+              ]
+            }
+          },
+          {
+            "content": "* NB: in piedi means ‘standing’; ‘on foot’ is a piedi."
+          }
+        ]
+      },
+      {
+        "title": "Uses of Con",
+        "paragraphs": [
+          {
+            "id": 8.08,
+            "content": "Con is typically used to express:",
+            "table": {
+              "rows": [
+                ["company", "Vado al cinema con Luca.", "I’m going to the cinema with Luca."],
+                ["", "Parlo con Anna.", "I’m talking to/with Anna."],
+                ["means", "Devo scrivere con una penna rossa.", "I’ve got to write with a red pen."],
+                ["", "Pago con un assegno.", "I’m paying with a cheque/by cheque."],
+                ["manner", "Parla con accento straniero.", "He speaks with a foreign accent."],
+                ["", "Parla con lentezza.", "He speaks slowly."],
+                ["quality", "una signora con i capelli grigi", "a lady with grey hair"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Uses of Su",
+        "paragraphs": [
+          {
+            "id": 8.09,
+            "content": "Su is typically used to express:",
+            "table": {
+              "rows": [
+                ["place", "I tuoi libri sono sulla scrivania.", "Your books are on the desk."],
+                ["", "il ponte sullo stretto di Messina", "the bridge over the Strait of Messina"],
+                ["subject", "un libro sul calcio", "a book on/about football"]
+              ]
+            }
+          },
+          {
+            "content": "When the preposition su is used with a personal pronoun, the pronoun is also preceded by di: Conto su di lui (I’m counting on him)."
+          }
+        ]
+      },
+      {
+        "title": "Uses of Per",
+        "paragraphs": [
+          {
+            "id": 8.10,
+            "content": "Per is typically used to express:",
+            "table": {
+              "rows": [
+                ["place", "Partiamo per la montagna.", "We are leaving for the mountains."],
+                ["time", "Esco per 10 minuti.", "I’m going out for 10 minutes."],
+                ["", "Per le 11 sono a casa.", "I’ll be home by/for 11."],
+                ["means", "Mando il file per email.", "I’ll send the file by email."],
+                ["cause", "una multa per eccesso di velocità", "a fine for speeding/speeding fine"],
+                ["aim", "Studio per passare l’esame.", "I’m studying (in order) to pass the exam."],
+                ["price", "per 15 euro", "for 15 euros"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Uses of Tra and Fra",
+        "paragraphs": [
+          {
+            "id": 8.11,
+            "content": "Tra and fra are typically used to express:",
+            "table": {
+              "rows": [
+                ["place", "tra Milano e Torino", "between Milan and Turin"],
+                ["", "fra compagni di classe", "among classmates"],
+                ["time", "fra due ore", "in two hours/two hours’ time"]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Prepositions of Place",
+        "paragraphs": [
+          {
+            "id": 8.12,
+            "content": "Here are some examples of the different prepositions used to denote place:",
+            "table": {
+              "rows": [
+                ["Sono di Ferrara.", "I am/come from Ferrara."],
+                ["La domenica vado al cinema.", "On Sundays I go to the cinema."],
+                ["Sono a scuola.", "I’m at school."],
+                ["Vengo da Ferrara.", "I’m coming from Ferrara."],
+                ["Abito da mia nonna.", "I live at my granny’s."],
+                ["Luisa è in camera sua.", "Luisa is in her room."],
+                ["Devi camminare sul marciapiedi.", "You have to walk on the pavement."],
+                ["il ponte sull’Arno", "the bridge over the Arno"],
+                ["Partite per Dublino?", "Are you leaving for Dublin?"],
+                ["Novara è fra Torino e Milano.", "Novara is between Turin and Milan."],
+                ["Siamo tra amici.", "We are among friends."]
+              ]
+            }
+          },
+          {
+            "content": "Another preposition used to denote place is lungo (along): lungo il fiume (along the river)."
+          },
+          {
+            "id": 8.13,
+            "content": "A is normally used with names of town and villages and with cardinal points:",
+            "table": {
+              "rows": [
+                ["Vado a Pisa.", "I’m going to Pisa."],
+                ["Abito a Londra.", "I live in London."],
+                ["Passo le vacanze a Cogne.", "I spend my holidays in Cogne."],
+                ["Andiamo a nord.", "We are going north."],
+                ["Cogne è a sud di Aosta.", "Cogne is south of Aosta."]
+              ]
+            }
+          },
+          {
+            "id": 8.14,
+            "content": "In is normally used with names of regions and nations, with geographical areas, and with shops:",
+            "table": {
+              "rows": [
+                ["Vado in Toscana.", "I’m going to Tuscany."],
+                ["Abito in Inghilterra.", "I live in England."],
+                ["Passo le vacanze in montagna.*", "I spend my holidays in the mountains."],
+                ["Compro il pane in panetteria.", "I buy bread at the bakery/the baker’s."]
+              ]
+            }
+          },
+          {
+            "content": "* With mare (sea) the preposition a is used (al mare, ‘at the seaside’)."
+          }
+        ]
+      },
+      {
+        "title": "Prepositions of Time",
+        "paragraphs": [
+          {
+            "id": 8.15,
+            "content": "Some examples of the different prepositions used to denote time:",
+            "table": {
+              "rows": [
+                ["Di domenica non lavoro.", "I don’t work on Sundays."],
+                ["Di sera guardo la tv.", "In the evenings I watch TV."],
+                ["Donatella arriva alle 7.", "Donatella will arrive at seven."],
+                ["A Natale rimaniamo a casa.", "At Christmas we stay at home."],
+                ["La scuola finisce a giugno.", "School ends in June."],
+                ["nel 2000", "in 2000"],
+                ["nel diciottesimo secolo", "in the eighteenth century"],
+                ["In autunno piove molto.", "In autumn it rains a lot."]
+              ]
+            }
+          },
+          {
+            "id": 8.16,
+            "content": "Di is used with the days of the week and parts of the day:",
+            "table": {
+              "rows": [
+                ["Di lunedì andiamo in piscina.", "On Mondays we go to the swimming pool."],
+                ["Di mattina vado a scuola.", "In the morning I go to school."]
+              ]
+            }
+          },
+          {
+            "content": "In these cases, di is always used without the definite article."
+          },
+          {
+            "id": 8.17,
+            "content": "A is used with names of festivities, months and hours of the day:",
+            "table": {
+              "rows": [
+                ["A Pasqua Piera va in Italia.", "At Easter Piera is going to Italy."],
+                ["Il museo riapre a marzo.", "The museum reopens/will reopen in March."],
+                ["Il treno parte alle 12.", "The train is leaving at 12."],
+                ["Di solito mangiano a mezzogiorno.", "They normally eat at midday."]
+              ]
+            }
+          },
+          {
+            "id": 8.18,
+            "content": "In is used with years, centuries and seasons:",
+            "table": {
+              "rows": [
+                ["Sono nato nel 1990.", "I was born in 1990."],
+                ["Studio il turismo nel XIX secolo.", "I’m studying tourism in the nineteenth century."],
+                ["Gli esami sono in primavera.", "The exams are/will be in the spring."]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "A or In?",
+        "paragraphs": [
+          {
+            "id": 8.19,
+            "content": "Sometimes it can be difficult to know whether to use a or in, so we list below common expressions using these two prepositions:",
+            "table": {
+              "rows": [
+                ["a casa", "(at) home", "in pizzeria", "in/to/at a/the pizzeria/pizza parlour"],
+                ["a scuola", "at/to school", "in discoteca", "in/to the disco"],
+                ["a letto", "in/to bed", "in città", "in/to town"],
+                ["a lezione", "in class/to (one’s) class", "in centro", "in/to the city centre"],
+                ["a tavola", "to the table [i.e. come and sit down]/at table", "in chiesa", "in/to church"],
+                ["a destra/a sinistra", "(on/to the) right/left", "in mensa", "in/to the canteen"],
+                ["a nord/a sud/a est/a ovest", "(in/to the) north/south/east/west", "in camera", "in/to the bedroom"],
+                ["a colazione/a pranzo/a cena", "at/for breakfast/lunch/dinner, supper or tea", "in bagno", "in/to the bathroom"],
+                ["a mezzogiorno/a mezzanotte", "at midday/midnight", "in classe", "in/to the classroom"],
+                ["a 10/11/12 [etc.] anni", "at ten/eleven/twelve [etc.] (years of age)", "in palestra", "in/to the gym"],
+                ["a metà", "in the middle/mid", "in caserma", "in/to the barracks"],
+                ["all’ombra/al sole", "in the shade/in the sun", "in prigione", "in/to prison"],
+                ["al bar", "in the bar", "in ufficio", "in/to the office"],
+                ["al ristorante", "at/to the restaurant", "in piscina", "at/to the swimming bath"],
+                ["alla stazione", "at/in/to the station", "", ""]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Compound Prepositions",
+        "paragraphs": [
+          {
+            "id": 8.20,
+            "content": "Italian also has a number of ‘compound prepositions’, e.g. accanto a, ‘next to/beside’, invece di, ‘instead of’. Some of these are always in the compound form, others include di only when followed by a personal pronoun. We give here a list of the most common ones:",
+            "table": {
+              "rows": [
+                ["davanti a", "in front of/opposite"],
+                ["vicino a", "near/next/close to"],
+                ["fuori da/di", "outside"],
+                ["prima di", "before"],
+                ["lontano da", "far from/a long way from"],
+                ["contro*", "against"],
+                ["dentro*", "inside"],
+                ["dietro*", "behind"],
+                ["dopo*", "after"],
+                ["senza*", "without"],
+                ["sopra*", "on/above"],
+                ["sotto*", "under/below"],
+                ["verso*", "towards"]
+              ]
+            }
+          },
+          {
+            "content": "* When these prepositions are used with a personal pronoun, the pronoun is preceded by the preposition di (see Unit 14)."
+          },
+          {
+            "table": {
+              "rows": [
+                ["La farmacia è davanti al supermercato.", "The pharmacy is opposite the supermarket."],
+                ["Abito lontano dal centro.", "I live a long way from the city centre."],
+                ["L’albergo è vicino alla stazione.", "The hotel is close to the station."],
+                ["Non esco senza di voi.", "I’m not going out without you."]
+              ]
+            }
+          }
+        ]
+      }
     ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1",
+      "instruction": "Combine the prepositions and the definite articles.", 
+	  "examples": ["(di) il figlio: del figlio"],
+      "items": [
+        {"question": "di + la mamma", "answer": "della mamma"},
+        {"question": "di + lo zio", "answer": "dello zio"},
+        {"question": "di + gli amici", "answer": "degli amici"},
+        {"question": "di + il parco", "answer": "del parco"},
+        {"question": "di + l’auto", "answer": "dell’auto"},
+        {"question": "di + i paesi", "answer": "dei paesi"},
+        {"question": "di + le stanze", "answer": "delle stanze"},
+        {"question": "a + il mare", "answer": "al mare"},
+        {"question": "a + lo stadio", "answer": "allo stadio"},
+        {"question": "a + la stazione", "answer": "alla stazione"},
+        {"question": "a + i ragazzi", "answer": "ai ragazzi"},
+        {"question": "a + gli uomini", "answer": "agli uomini"},
+        {"question": "a + le donne", "answer": "alle donne"},
+        {"question": "a + l’ospedale", "answer": "all’ospedale"},
+        {"question": "da + la zia", "answer": "dalla zia"},
+        {"question": "da + lo studente", "answer": "dallo studente"},
+        {"question": "da + il dentista", "answer": "dal dentista"},
+        {"question": "da + l’aeroporto", "answer": "dall’aeroporto"},
+        {"question": "da + gli uffici", "answer": "dagli uffici"},
+        {"question": "da + le colleghe", "answer": "dalle colleghe"},
+        {"question": "da + i ministri", "answer": "dai ministri"},
+        {"question": "in + l’albergo", "answer": "nell’albergo"},
+        {"question": "in + lo stipendio", "answer": "nello stipendio"},
+        {"question": "in + la casa", "answer": "nella casa"},
+        {"question": "in + gli anni", "answer": "negli anni"},
+        {"question": "in + i cassetti", "answer": "nei cassetti"},
+        {"question": "in + le camere", "answer": "nelle camere"},
+        {"question": "in + il frigo", "answer": "nel frigo"},
+        {"question": "su + il tavolo", "answer": "sul tavolo"},
+        {"question": "su + la sedia", "answer": "sulla sedia"},
+        {"question": "su + lo scaffale", "answer": "sullo scaffale"},
+        {"question": "su + le spalle", "answer": "sulle spalle"},
+        {"question": "su + i libri", "answer": "sui libri"},
+        {"question": "su + gli alberi", "answer": "sugli alberi"},
+        {"question": "su + l’idea", "answer": "sull’idea"}
+      ]
+    },
+    {
+      "title": "Exercise 2",
+      "instruction": "Complete the sentences with the correct prepositions and, where necessary, combine them with the definite article.",
+	  "examples": ["Vengo ——— (la) stazione: dalla"],
+      "items": [
+        {"question": "Carla abita ——— Budapest.", "answer": "a"},
+        {"question": "Parigi è ——— Francia.", "answer": "in"},
+        {"question": "Mangiate ——— (il) ristorante?", "answer": "al"},
+        {"question": "Torniamo ——— un’ora.", "answer": "fra or tra"},
+        {"question": "Hai molto ——— fare?", "answer": "da"},
+        {"question": "Devi scrivere ——— (la) nonna.", "answer": "alla"},
+        {"question": "Esco ——— Massimo.", "answer": "con"},
+        {"question": "Filippo va ——— (il) dentista.", "answer": "dal"},
+        {"question": "Quell’auto è ——— (il) padre di Silvia.", "answer": "del"},
+        {"question": "Scrivo una lettera ——— (i) miei genitori.", "answer": "ai"},
+        {"question": "Vado ——— Milano ——— treno.", "answer": "a, in"},
+        {"question": "Vieni ——— (il) cinema ——— me?", "answer": "al, con"},
+        {"question": "Le chiavi sono ——— (il) cassetto.", "answer": "nel"},
+        {"question": "La lezione finisce ——— (le) 11.", "answer": "alle"},
+        {"question": "Studiamo italiano ——— due mesi.", "answer": "da"},
+        {"question": "Il museo apre ——— (le) 9.00.", "answer": "alle"},
+        {"question": "Compro le rose ——— la zia.", "answer": "per"},
+        {"question": "Posso parlare ——— Elisa?", "answer": "con"},
+        {"question": "Vuoi ——— (il) dolce?", "answer": "del"},
+        {"question": "Il mio compleanno è ——— giugno.", "answer": "a"}
+      ]
+    },
+    {
+      "title": "Exercise 3",
+      "instruction": "Complete the sentences with the correct prepositions and, where necessary, combine them with the definite article.",
+	  "examples": ["I tuoi libri sono ——— (il) tavolo: sul"],
+      "items": [
+        {"question": "Domani rimango ——— casa.", "answer": "a"},
+        {"question": "Sabato andiamo ——— centro.", "answer": "in"},
+        {"question": "Vado ——— nuotare ——— piscina.", "answer": "a, in"},
+        {"question": "Livia è ——— letto: sta poco bene.", "answer": "a"},
+        {"question": "Puoi comprare una bottiglia ——— aceto?", "answer": "di"},
+        {"question": "Regalo i CD ——— (il) mio ragazzo.", "answer": "al"},
+        {"question": "Napoli è ——— sud di Roma.", "answer": "a"},
+        {"question": "Domani cominciamo ——— lavorare.", "answer": "a"},
+        {"question": "Parto ——— Roma alle 14 e arrivo ——— Torino alle 21.", "answer": "da, a"},
+        {"question": "Ho fame: c’è qualcosa ——— mangiare?", "answer": "da"},
+        {"question": "Imprestate la bici ——— Maurizio?", "answer": "a"},
+        {"question": "Vai a scuola ——— autobus?", "answer": "in"},
+        {"question": "Bardonecchia è ——— montagna.", "answer": "in"},
+        {"question": "Prendo un gelato ——— (la) fragola.", "answer": "alla"},
+        {"question": "Cosa fate ——— Natale?", "answer": "a or per"},
+        {"question": "Piero va ——— (il) supermercato.", "answer": "al"},
+        {"question": "Il padre ——— (la) mia amica è avvocato.", "answer": "della"},
+        {"question": "——— pizzeria c’è sempre molta gente.", "answer": "In"},
+        {"question": "Paola dorme ——— (la) stanza vicina alla mia.", "answer": "nella"},
+        {"question": "Leggo un libro ——— fantascienza.", "answer": "di"}
+      ]
+    },
+    {
+      "title": "Exercise 4",
+      "instruction": "Translate into Italian:",
+		"examples": [""],
+      "items": [
+        {"question": "I finish working at six.", "answer": "Finisco di lavorare alle 6."},
+        {"question": "Antonio’s leaving for Genoa.", "answer": "Antonio parte per Genova."},
+        {"question": "Gemma was born in 2001.", "answer": "Gemma è nata nel 2001."},
+        {"question": "Fabia never goes out in the evening.", "answer": "Fabia non esce mai di sera."},
+        {"question": "Mr and Mrs Bancroft live in the country, in an old villa.", "answer": "I Signori Bancroft abitano in campagna, in una vecchia villa."},
+        {"question": "The library’s behind the gym.", "answer": "La biblioteca è dietro la palestra."},
+        {"question": "You [sing.] can’t go out without me!", "answer": "Non puoi uscire senza di me!"},
+        {"question": "Do you [pl.] live far from the school?", "answer": "Abitate lontano dalla scuola?"},
+        {"question": "Isabella’s aunt lives in Greve, in Tuscany.", "answer": "La zia di Isabella vive a Greve, in Toscana."},
+        {"question": "She’s got a leather skirt.", "answer": "Ha una gonna di pelle."},
+        {"question": "Angus is from Edinburgh, in Scotland.", "answer": "Angus è di Edimburgo, in Scozia."},
+        {"question": "You have to turn right after the church(, Madam).", "answer": "Deve girare a destra dopo la chiesa(, Signora)."},
+        {"question": "We’re eating at a pizzeria tonight.", "answer": "Stasera mangiamo in pizzeria."},
+        {"question": "These flowers are for your [sing.] mother.", "answer": "Questi fiori sono per tua madre."},
+        {"question": "At Christmas we’re going skiing in the mountains.", "answer": "A or per Natale andiamo a sciare in montagna."},
+        {"question": "I live near the prison.", "answer": "Abito vicino alla prigione."},
+        {"question": "Margaret’s been living in Turin for five years.", "answer": "Margaret vive a Torino da cinque anni."},
+        {"question": "The train for Aosta leaves from platform 7.", "answer": "Il treno per Aosta parte dal binario 7."},
+        {"question": "We’re giving Luisa a CD of Russian music.", "answer": "Regaliamo or diamo a Luisa un CD di musica russa."},
+        {"question": "I always buy the bread at Belli’s.", "answer": "Compro sempre il pane da Belli."}
+      ]
+    }
+  ]
 }
