@@ -246,25 +246,69 @@ document.addEventListener('DOMContentLoaded', () => {
 async function showContents() {
     console.log('Showing contents');
     const contentDiv = document.getElementById('content');
-    contentDiv.innerHTML = '<h2 class="mb-4">Table of Contents</h2><ul class="list-group">';
+    if (!contentDiv) {
+        console.error('Content div not found');
+        return;
+    }
 
-    // Fetch titles for all units
-    const unitPromises = availableUnits.map(async (unitNum) => {
-        const unit = await loadUnitData(unitNum);
-        const title = unit ? parseBoldText(unit.text.title) : `Unit ${unitNum}`;
-        return 	`
-           <li class="d-grid gap-2 list-group-item">
-               <button class="list-group-item list-group-item-action text-start" type="button" onclick="setUnitAndView(${unitNum}, 'text')">
-				${unit.text.title}
-				</button>
-           </li>
-        `;
-    });
+    // Initialize table structure
+    let tableHTML = '<h2 class="mb-4">Table of Contents</h2><table class="table table-dark table-striped table-hover">';
 
-    // Wait for all unit titles to load
-    const unitItems = await Promise.all(unitPromises);
-    contentDiv.innerHTML += unitItems.join('') + '</ul>';
+    try {
+        // Fetch titles for all units
+        const unitPromises = availableUnits.map(async (unitNum) => {
+            try {
+                const unit = await loadUnitData(unitNum);
+                const title = unit?.text?.title ? sanitizeHTML(parseBoldText(unit.text.title)) : `Unit ${unitNum}`;
+                return `
+                    <tr>
+                        <td class="text-primary fw-bold text-center align-middle">Unit ${unitNum}</td>
+                        <td>
+                            <button class="btn btn-link text-start unit-button" type="button" data-unit="${unitNum}">
+                                ${title}
+                            </button>
+                        </td>
+                    </tr>
+                `;
+            } catch (error) {
+                console.error(`Error loading unit ${unitNum}:`, error);
+                return `
+                    <tr>
+                        <td>Unit ${unitNum}</td>
+                        <td>Error loading unit</td>
+                    </tr>
+                `;
+            }
+        });
 
-    const exercisesLink = document.getElementById('exercisesLink');
-    if (exercisesLink) exercisesLink.classList.add('d-none');
+        // Wait for all unit titles to load
+        const unitItems = await Promise.all(unitPromises);
+        tableHTML += unitItems.join('') + '</table>';
+
+        // Set the complete table HTML once
+        contentDiv.innerHTML = tableHTML;
+
+        // Attach event listeners programmatically
+        const buttons = contentDiv.querySelectorAll('.unit-button');
+        buttons.forEach(button => {
+            const unitNum = button.getAttribute('data-unit');
+            button.addEventListener('click', () => setUnitAndView(unitNum, 'text'));
+        });
+
+        // Hide exercises link if it exists
+        const exercisesLink = document.getElementById('exercisesLink');
+        if (exercisesLink) {
+            exercisesLink.classList.add('d-none');
+        }
+    } catch (error) {
+        console.error('Error generating table of contents:', error);
+        contentDiv.innerHTML = '<p>Error loading table of contents.</p>';
+    }
+}
+
+// Helper function to sanitize HTML (basic example, use a library like DOMPurify in production)
+function sanitizeHTML(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
 }

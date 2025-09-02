@@ -166,7 +166,7 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Replace with Pronouns",
+            "title": "Exercise 1",
             "instruction": "Rewrite the sentences, replacing the words in italics with the correct pronoun.",
             "examples": [
                 "**A Claudia non piace** andare a scuola.: **Non le piace** andare a scuola.",
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "title": "Exercise 2: Negative Sentences",
+            "title": "Exercise 2",
             "instruction": "Change the sentences into the negative.",
             "examples": [
                 "**Le piace** andare in centro il sabato.: **Non le piace** andare in centro il sabato.",
@@ -206,41 +206,43 @@
             ]
         },
         {
-            "title": "Exercise 3: Express Your Taste",
+            "title": "Exercise 3",
             "instruction": "Write sentences expressing your taste using **piacere**. Use affirmative or negative as you prefer.",
             "examples": [
-                "**Mi piace** la frutta.",
-                "**Non mi piace** il calcio."
+                "cavalli: (Non) mi piacciono i cavalli."
             ],
             "items": [
                 { "question": "la frutta", "answer": "" },
                 { "question": "il calcio", "answer": "" },
                 { "question": "le fragole", "answer": "" },
-                { "question": "leggere", "answer": "" },
-                { "question": "i gatti", "answer": "" }
+                { "question": "giocare a tennis", "answer": "" },
+                { "question": "uscire con gli amici", "answer": "" },
+                { "question": "i gatti", "answer": "" },
+                { "question": "la pizza", "answer": "" },
+                { "question": "i dolci", "answer": "" },
+                { "question": "ballare;", "answer": "" },
+                { "question": "le vacanze", "answer": "" }
             ]
         },
         {
-            "title": "Exercise 4: Make Sentences",
-            "instruction": "Make sentences using the verb **piacere** and the prompts given.",
+            "title": "Exercise 4",
+            "instruction": "",
             "examples": [
-                "mio fratello / la pizza: **A mio fratello piace** la pizza.",
-                "i miei amici / sciare: **Ai miei amici piace** sciare."
+                "mio fratello / la pizza: **A mio fratello piace** la pizza."
             ],
             "items": [
-                { "question": "mio fratello / la pizza", "answer": "A mio fratello piace la pizza." },
-                { "question": "i miei amici / sciare", "answer": "Ai miei amici piace sciare." },
-                { "question": "mia sorella / andare al cinema", "answer": "A mia sorella piace andare al cinema." },
-                { "question": "i miei cugini / i film di Fellini", "answer": "Ai miei cugini piacciono i film di Fellini." },
-                { "question": "il primo ministro / la politica", "answer": "Al primo ministro piace la politica." }
+                { "question": "Luigi / il caffè senza zucchero", "answer": "" },
+                { "question": "il professore / le poesie di Leopardi", "answer": "" },
+                { "question": "mia sorella / andare al cinema", "answer": "" },
+                { "question": "i miei cugini / i film di Fellini", "answer": "" },
+                { "question": "il primo ministro / la politica", "answer": "" }
             ]
         },
         {
-            "title": "Exercise 5: Supply Verb Forms",
+            "title": "Exercise 5",
             "instruction": "Supply the correct form of the verbs in brackets.",
             "examples": [
-                "**Ci (bastare)** questo pane?: **Ci basta** questo pane?",
-                "**Vi (sembrare)** bello quel film?: **Vi sembra** bello quel film?"
+                "*Quei libri mi (sembrare) interessanti: sembrano"
             ],
             "items": [
                 { "question": "**Ci (bastare)** questo pane?", "answer": "Ci basta questo pane?" },
@@ -256,7 +258,7 @@
             ]
         },
         {
-            "title": "Exercise 6: Translate into Italian",
+            "title": "Exercise 6",
             "instruction": "Translate into Italian, using the verbs **piacere**, **sembrare**, **servire**, **mancare**, or **bastare**.",
             "examples": [
                 "An hour isn’t enough for me!: **Non mi basta** un’ora!",

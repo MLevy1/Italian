@@ -49,14 +49,36 @@
                             "rows": [
                                 ["-are", "-ato", "parlare → **parlato**"],
                                 ["-ere", "-uto", "vedere → **veduto**"],
-                                ["-ire", "-ito", "dormire → **dormito**"],
-                                ["-cere/-scere*", "-iuto", "vincere → **vinto**"],
-                                ["-urre", "-otto", "produrre → **prodotto**"]
+                                ["-ire", "-ito", "dormire → **dormito**"]
                             ]
                         }
                     },
                     {
-                        "content": "* Verbs ending in **-cere** (or **-scere**) keep the ‘soft’ sound of **c** (or **sc**) and therefore add an **i** before the **-uto** ending (**-iuto**)."
+                        "content": "* Verbs ending in **-cere** (or **-scere**) keep the ‘soft’ sound of **c** (or **sc**) and therefore add an **i** before the **-uto** ending (**-iuto**).",
+                        "table": {
+                            "headers": ["Infinitive", "Past Participle", ""],
+                            "rows": [
+                                ["parlare", "parlato", "(to speak) spoken"],
+                                ["mangiare", "mangiato", "(to eat) eaten"],
+                                ["cadere", "caduto", "(to fall) fallen"],
+                                ["volere", "voluto", "(to want) wanted"],
+                                ["piacere", "piaciuto*", "(to like) liked"],
+                                ["conoscere", "conosciuto*", "(to know/meet for the first time) known/met"],
+                                ["partire", "partito", "(to leave) left"],
+                                ["capire", "capito", "(to understand) understood"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "The past participle of verbs in -urre ends in -otto:",
+                        "table": {
+                            "headers": ["Infinitive", "Past Participle", ""],
+                            "rows": [
+                                ["condurre", "condotto", "(to lead/drive/manage) led/driven/managed"],
+                                ["tradurre", "tradotto", "(to translate) translated"],
+                                ["produrre", "prodotto", "(to produce) produced"]
+                            ]
+                        }
                     }
                 ]
             },
