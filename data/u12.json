@@ -4,206 +4,340 @@
         "title": "Present Perfect Tense",
         "sections": [
             {
-                "title": "Use of the Present Perfect",
+                "title": "Use of the present perfect",
                 "paragraphs": [
                     {
-                        "id": 1,
-                        "content": "The **present perfect** (**passato prossimo**) is one of the two most used past tenses of the indicative in Italian (the other is the **imperfect** (**imperfetto**)). The **present perfect** is often used like the English present perfect (e.g. ‘I have seen it’, ‘She has gone home’) to state that an action has happened in the past, but that its effects are still lasting in the present. However, in Northern Italy and in the language of the media, it is also equivalent to the English **simple past** (e.g. ‘I saw it’, ‘She went home’), referring to actions which happened in a more distant past and have no immediate consequences in the present. Indeed, it more often corresponds to the English **simple past** than to the English **present perfect**. In other words, in Italian, the difference between **present perfect** (**passato prossimo**) and **simple past** (**passato remoto**) is not always marked, and it is always possible to use the former:",
+                        "id": 12.01,
+                        "content": "The present perfect (‘passato prossimo’) is one of the two most used past tenses of the indicative in Italian (the other is the imperfect (‘imperfetto’)). The present perfect is often used like the English present perfect (e.g. ‘I have seen it’, ‘She has gone home’) to state that an action has happened in the past, but that its effects are still lasting in the present. However, in Northern Italy and in the language of the media, it is also equivalent to the English simple past (e.g. ‘I saw it’, ‘She went home’), referring to actions which happened in a more distant past and have no immediate consequences in the present. Indeed, it more often corresponds to the English simple past than to the English present perfect. In other words, in Italian, the difference between present perfect (‘passato prossimo’) and simple past (‘passato remoto’) is not always marked, and it is always possible to use the former:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["Napoleone **è morto** il 5 maggio 1821.", "Napoleon died on 5 May 1821."],
-                                ["L’estate scorsa **siamo andati** in vacanza sul lago di Garda.", "Last summer we went to Lake Garda for our/a holiday."],
-                                ["Nina **è nata** in Russia.", "Nina was born in Russia."],
-                                ["L’anno scorso, mi **hanno regalato** una mountain bike.", "Last year, they gave me a mountain bike."]
+                                ["Napoleone è morto il 5 maggio 1821.", "Napoleon died on 5 May 1821."],
+                                ["L’estate scorsa siamo andati in vacanza sul lago di Garda.", "Last summer we went to Lake Garda for our/a holiday."],
+                                ["Nina è nata in Russia.", "Nina was born in Russia."],
+                                ["L’anno scorso, mi hanno regalato una mountain bike.", "Last year, they gave me a mountain bike."]
                             ]
                         }
                     },
                     {
-                        "id": 2,
-                        "content": "The **present perfect** is a compound tense and is formed, as in English, with the **present tense** of the **auxiliary verb** followed by the **past participle** of the verb:",
+                        "id": 12.02,
+                        "content": "The present perfect is a compound tense and is formed, as in English, with the present tense of the auxiliary verb followed by the past participle of the verb:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Ho visto** un bel film.", "I saw/have seen a lovely film."],
-                                ["**Ha telefonato** Marco.", "Marco phoned/has phoned."],
-                                ["**Sono rimasto** a casa.", "I stayed/have stayed at home."],
-                                ["Anna **è uscita**.", "Anna went out/has gone out."],
-                                ["**Sono andati** in piscina?", "Did they go/Have they gone to the swimming pool?"]
+                                ["Ho visto un bel film.", "I saw/have seen a lovely film."],
+                                ["Ha telefonato Marco.", "Marco phoned/has phoned."],
+                                ["Sono rimasto a casa.", "I stayed/have stayed at home."],
+                                ["Anna è uscita.", "Anna went out/has gone out."],
+                                ["Sono andati in piscina?", "Did they go/Have they gone to the swimming pool?"]
                             ]
                         }
                     },
                     {
-                        "content": "As the examples confirm, the **passato prossimo** may correspond to either the **simple past** or the **present perfect** in English. But there are also other differences between the Italian and English structures: there is only one auxiliary verb in English (‘to have’), but in Italian there is a choice of two, **avere** and **essere**; when **essere** is used, the past participle has to agree in gender and number with the subject; finally, whether to use **avere** or **essere** is not usually a free choice. We will look at all these differences in detail, but first we need to look at the forms of the Italian **past participle**."
+                        "content": "As the examples confirm, the ‘passato prossimo’ may correspond to either the simple past or the present perfect in English. But there are also other differences between the Italian and English structures: there is only one auxiliary verb in English (‘to have’), but in Italian there is a choice of two, avere and essere; when essere is used, the past participle has to agree in gender and number with the subject; finally, whether to use avere or essere is not usually a free choice. We will look at all these differences in detail, but first we need to look at the forms of the Italian past participle."
                     }
                 ]
             },
             {
-                "title": "Forms of the Past Participle",
+                "title": "Forms of the past participle",
                 "paragraphs": [
                     {
-                        "id": 3,
-                        "content": "The regular forms of the **past participle** are obtained by changing the ending of the infinitive as follows:",
+                        "id": 12.03,
+                        "content": "The regular forms of the past participle are obtained by changing the ending of the infinitive as follows:",
                         "table": {
-                            "headers": ["Infinitive Ending", "Past Participle Ending", "Example"],
+                            "headers": ["Infinitive ending", "Past participle ending", "Example"],
                             "rows": [
-                                ["-are", "-ato", "parlare → **parlato**"],
-                                ["-ere", "-uto", "vedere → **veduto**"],
-                                ["-ire", "-ito", "dormire → **dormito**"]
+                                ["-are", "-ato", "parlare → parlato"],
+                                ["-ere", "-uto", "vedere → veduto"],
+                                ["-ire", "-ito", "dormire → dormito"],
+                                ["-cere/-scere", "-iuto", "vincere → vinto"],
+                                ["-urre", "-otto", "produrre → prodotto"]
                             ]
                         }
                     },
                     {
-                        "content": "* Verbs ending in **-cere** (or **-scere**) keep the ‘soft’ sound of **c** (or **sc**) and therefore add an **i** before the **-uto** ending (**-iuto**).",
+                        "content": "* Verbs ending in -cere (or -scere) keep the ‘soft’ sound of c (or sc) and therefore add an i before the -uto ending (-iuto)."
+                    },
+                    {
+                        "id": 12.04,
+                        "content": "In Italian, as in most languages, many verbs have an irregular past participle, which is best learned by heart and with use. Here is a list of the most frequently used:",
                         "table": {
-                            "headers": ["Infinitive", "Past Participle", ""],
+                            "headers": ["Infinitive", "Past participle", "English"],
                             "rows": [
-                                ["parlare", "parlato", "(to speak) spoken"],
-                                ["mangiare", "mangiato", "(to eat) eaten"],
-                                ["cadere", "caduto", "(to fall) fallen"],
-                                ["volere", "voluto", "(to want) wanted"],
-                                ["piacere", "piaciuto*", "(to like) liked"],
-                                ["conoscere", "conosciuto*", "(to know/meet for the first time) known/met"],
-                                ["partire", "partito", "(to leave) left"],
-                                ["capire", "capito", "(to understand) understood"]
+                                ["accendere", "acceso", "turned on/switched on"],
+                                ["aprire", "aperto", "opened"],
+                                ["bere", "bevuto", "drunk"],
+                                ["chiedere", "chiesto", "asked"],
+                                ["chiudere", "chiuso", "closed"],
+                                ["decidere", "deciso", "decided"],
+                                ["dire", "detto", "said/told"],
+                                ["essere", "stato*", "been"],
+                                ["fare", "fatto", "done/made"],
+                                ["leggere", "letto", "read"],
+                                ["mettere", "messo", "put/put on"],
+                                ["perdere", "perso/perduto**", "lost"],
+                                ["prendere", "preso", "taken"],
+                                ["rendere", "reso", "returned/given back"],
+                                ["rimanere", "rimasto", "remained/stayed"],
+                                ["rispondere", "risposto", "answered"],
+                                ["rompere", "rotto", "broken"],
+                                ["scendere", "sceso", "gone down/descended"],
+                                ["scrivere", "scritto", "written"],
+                                ["spegnere", "spento", "turned off/switched off"],
+                                ["spendere", "speso", "spent"],
+                                ["succedere", "successo", "happened"],
+                                ["togliere", "tolto", "taken away/off"],
+                                ["vedere", "visto/veduto**", "seen"],
+                                ["venire", "venuto", "come"],
+                                ["vincere", "vinto", "won"],
+                                ["vivere", "vissuto", "lived"]
                             ]
                         }
                     },
                     {
-                        "content": "The past participle of verbs in -urre ends in -otto:",
+                        "content": "* Stato is also the past participle of stare. ** The regular forms perduto and veduto are rarely used."
+                    }
+                ]
+            },
+            {
+                "title": "The present perfect",
+                "paragraphs": [
+                    {
+                        "id": 12.05,
+                        "content": "The present perfect in Italian is formed with the present indicative of avere or essere (auxiliary verbs) followed by the past participle of the verb. Here are two examples, one using avere and the other essere:",
                         "table": {
-                            "headers": ["Infinitive", "Past Participle", ""],
+                            "headers": ["Present of avere", "Past participle of scrivere", "English"],
                             "rows": [
-                                ["condurre", "condotto", "(to lead/drive/manage) led/driven/managed"],
-                                ["tradurre", "tradotto", "(to translate) translated"],
-                                ["produrre", "prodotto", "(to produce) produced"]
+                                ["(io) ho", "scritto", "I wrote/have written"],
+                                ["(tu) hai", "scritto", "you wrote/have written"],
+                                ["(lui/lei) ha", "scritto", "he/she/it wrote/has written"],
+                                ["(noi) abbiamo", "scritto", "we wrote/have written"],
+                                ["(voi) avete", "scritto", "you wrote/have written"],
+                                ["(loro) hanno", "scritto", "they wrote/have written"]
+                            ]
+                        }
+                    },
+                    {
+                        "table": {
+                            "headers": ["Present of essere", "Past participle of andare", "English"],
+                            "rows": [
+                                ["(io) sono", "andato/andata", "I went/have gone"],
+                                ["(tu) sei", "andato/andata", "you went/have gone"],
+                                ["(lui/lei) è", "andato/andata", "he/she/it went/has gone"],
+                                ["(noi) siamo", "andati/andate", "we went/have gone"],
+                                ["(voi) siete", "andati/andate", "you went/have gone"],
+                                ["(loro) sono", "andati/andate", "they went/have gone"]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 12.06,
+                        "content": "As can be seen, when the present perfect is formed with avere the past participle does not change; but when the present perfect is formed with essere the past participle behaves like an adjective, agreeing in gender and number with the subject of the verb. Here are some examples:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["Livia ha guardato la televisione.", "Livia (has) watched TV."],
+                                ["Hai comprato il pane?", "Did you buy/Have you bought the bread?"],
+                                ["Ha prenotato, Signor Ferro?", "Did you book/Have you booked, Mr Ferro?"],
+                                ["Monica è uscita. [fs]", "Monica went out/Monica’s gone out."],
+                                ["Pietro è stato malato. [ms]", "Pietro’s been ill."],
+                                ["Fabia e Silvia sono rimaste a casa. [fp]", "Fabia and Silvia (have) stayed at home."],
+                                ["Giulia e Sebastiano sono partiti. [mp]", "Giulia and Sebastiano (have) left."],
+                                ["Sono andata al cinema. [fs]", "I went/I’ve been to the cinema. [the speaker is female]"],
+                                ["Siamo arrivati tardi. [mp]", "We (have) arrived late. [the speakers are males or a mixed group]"],
+                                ["Signor Poli, Lei quando è arrivato?* [ms]", "When did you arrive, Mr Poli?"],
+                                ["Signora Poli, Lei quando è arrivata?* [fs]", "When did you arrive, Mrs Poli?"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* When the polite form is used and the auxiliary is essere, the past participle agrees with the gender of the person being spoken to, not with Lei."
+                    }
+                ]
+            },
+            {
+                "title": "Present perfect of avere and essere",
+                "paragraphs": [
+                    {
+                        "id": 12.07,
+                        "content": "Avere forms the present perfect with the auxiliary avere:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["ho avuto", "I had/have had"],
+                                ["hai avuto", "you had/have had"],
+                                ["ha avuto", "he/she/it had/has had"],
+                                ["abbiamo avuto", "we had/have had"],
+                                ["avete avuto", "you had/have had"],
+                                ["hanno avuto", "they had/have had"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Essere forms the present perfect with the auxiliary essere:",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["sono stato/stata", "I was/have been"],
+                                ["sei stato/stata", "you were/have been"],
+                                ["è stato/stata", "he/she/it was/has been"],
+                                ["siamo stati/state", "we were/have been"],
+                                ["siete stati/state", "you were/have been"],
+                                ["sono stati/state", "they were/have been"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["La settimana scorsa abbiamo avuto ospiti.", "Last week we had guests."],
+                                ["Tanya ha avuto la varicella.", "Tanya has had chickenpox."],
+                                ["Nina è stata malata.", "Nina has been ill."],
+                                ["Des è stato mio studente.", "Des was a student of mine."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 12.08,
+                        "content": "Like the present, the present perfect of essere can be used with the pronoun ci (see Unit 4): c’è stato/stata (there was/has been), ci sono stati/state (there were/have been):",
+                        "table": {
+                            "headers": ["Italian", "English"],
+                            "rows": [
+                                ["C’è stata un’alluvione.", "There was/has been a flood."],
+                                ["Ci sono stati troppo incidenti.", "There were/have been too many accidents."]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Auxiliary Verbs: Avere and Essere",
+                "title": "Essere or avere?",
                 "paragraphs": [
                     {
-                        "id": 4,
-                        "content": "The choice of **auxiliary verb** (**avere** or **essere**) depends on the verb:"
-                    },
-                    {
-                        "content": "**Verbs using avere**",
+                        "id": 12.09,
+                        "content": "Deciding whether to use essere or avere can be a bit of a problem. The only firm rules are those governing transitive verbs (i.e. verbs which can have a direct object) and reflexive verbs (see Unit 20). Transitive verbs always use avere; reflexive verbs always use essere. As for intransitive verbs, some use avere and others essere. In general, it can be said that verbs of movement (such as andare (to go), venire (to come), partire (to leave), uscire (to go out), entrare (to go in/come in)) or nonmovement (such as rimanere (to remain), restare (to stay/remain)), and verbs of state (such as essere, diventare (to become), cambiare (to change), crescere (to grow)) use the auxiliary essere. However, this is not a hard and fast rule: there are intransitive verbs which take avere.",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Ho mangiato** una pizza.", "I ate/have eaten a pizza."],
-                                ["**Abbiamo comprato** un’auto.", "We bought/have bought a car."],
-                                ["**Ha scritto** una lettera.", "He/she wrote/has written a letter."]
+                                ["Ho conosciuto i genitori di Gianni. [transitive]", "I (have) met Gianni’s parents."],
+                                ["Avete spedito le vostre cartoline? [transitive]", "Did you send/Have you sent your postcards?"],
+                                ["Quanto hai speso? [transitive]", "How much did you spend?"],
+                                ["Ieri sera siamo andati a un concerto rock. [intransitive]", "Last night we went to a rock concert."],
+                                ["Domenica scorsa siamo rimasti a casa. [intransitive]", "Last Sunday we stayed at home."],
+                                ["Il tempo è cambiato. [intransitive]", "The weather’s changed."],
+                                ["Ho dormito bene. [intransitive]", "I slept well."]
                             ]
                         }
                     },
                     {
-                        "content": "**Verbs using essere**",
-                        "paragraph": "When **essere** is used, the **past participle** agrees in gender and number with the subject:",
+                        "content": "To help in choosing the right auxiliary, here is a list of common verbs which form the present perfect with essere:",
+                        "table": {
+                            "headers": ["Infinitive", "Present perfect", "English"],
+                            "rows": [
+                                ["andare", "sono andato/-a", "I went/have gone"],
+                                ["arrivare", "sono arrivato/-a", "I arrived/have arrived"],
+                                ["bastare*", "è bastato/-a sono bastati/-e", "it was/has been enough they were/have been enough"],
+                                ["costare*", "è costato/-a sono costati/-e", "it cost/has cost they cost/have cost"],
+                                ["crescere", "sono cresciuto/-a", "I grew/have grown"],
+                                ["diventare", "sono diventato/-a", "I became/have become"],
+                                ["entrare", "sono entrato/-a", "I went/have gone in/I entered/have entered"],
+                                ["essere", "sono stato/-a", "I was/have been"],
+                                ["morire*", "è morto/-a sono morti/-e", "he/she/it died/has died"],
+                                ["nascere", "sono nato/-a", "I was born"],
+                                ["partire", "sono partito/-a", "I left/have left"],
+                                ["piacere*", "è piaciuto/-a sono piaciuti/-e", "it pleased/has pleased they pleased/have pleased"],
+                                ["restare", "sono restato/-a", "I stayed/remained/I have stayed/remained"],
+                                ["rimanere", "sono rimasto/-a", "I stayed/remained/I have stayed/remained"],
+                                ["(ri)tornare", "sono (ri)tornato/-a", "I came back/have come back"],
+                                ["riuscire", "sono riuscito/-a", "I succeeded/managed/I have succeeded/managed"],
+                                ["sembrare", "sono sembrato/-a", "I seemed/have seemed"],
+                                ["stare", "sono stato/-a", "I stood/stayed/I have stood/stayed"],
+                                ["succedere*", "è successo/-a sono successi/-e", "it happened/has happened they happened/have happened"],
+                                ["uscire", "sono uscito/-a", "I went out/have gone out"],
+                                ["venire", "sono venuto/-a", "I came/have come"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* These verbs are normally only used in the third person singular and plural:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Sono andato** a Roma. [m. sing.]", "I went/have gone to Rome."],
-                                ["**Sono andata** al mercato. [f. sing.]", "I went/have gone to the market."],
-                                ["**Siamo arrivati** in ritardo. [m. pl.]", "We arrived/have arrived late."],
-                                ["**Sono arrivate** presto. [f. pl.]", "They (f.) arrived/have arrived early."]
+                                ["I soldi sono bastati.", "The money was enough."],
+                                ["Quanto è costata quella bici?", "How much did that bicycle cost?"],
+                                ["La bici è costata più di 900 euro.", "The bike cost over 900 euros."],
+                                ["Molti civili sono morti.", "Many civilians died/have died."],
+                                ["Le è piaciuto il film, Signora?", "Did you like the film(, Madam)?"],
+                                ["Da allora sono successe molte cose.*", "Since then many things have happened/After that many things happened."]
                             ]
                         }
                     },
                     {
-                        "content": "Common verbs that use **essere** include:",
-                        "table": {
-                            "headers": ["Verb", "Italian Example", "English"],
-                            "rows": [
-                                ["bastare", "I soldi **sono bastati**.", "The money was/has been enough."],
-                                ["costare", "La bici **è costata** più di 900 euro.", "The bike cost/has cost over 900 euros."],
-                                ["crescere", "**Sono cresciuto** in Italia.", "I grew/have grown up in Italy."],
-                                ["diventare", "**È diventata** medico.", "She became/has become a doctor."],
-                                ["entrare", "**Siamo entrati** nel museo.", "We went/have gone into the museum."],
-                                ["essere", "**Sono stato** a casa.", "I was/have been at home."],
-                                ["morire", "Molti civili **sono morti**.", "Many civilians died/have died."],
-                                ["nascere", "Nina **è nata** in Russia.", "Nina was born."],
-                                ["partire", "**È partita** ieri.", "She left/has left yesterday."],
-                                ["piacere", "**Le è piaciuto** il film, Signora?", "Did you like the film(, Madam)?"],
-                                ["rimanere", "**Sono rimasto** a casa.", "I stayed/remained/have stayed/remained at home."],
-                                ["restare", "**Siamo restati** in hotel.", "We stayed/have stayed in the hotel."],
-                                ["ritornare", "**Sono ritornato** ieri.", "I came back/have come back yesterday."],
-                                ["riuscire", "Lisa **non è riuscita** a finire quel lavoro.", "Lisa didn’t manage/hasn’t managed to finish that job."],
-                                ["sembrare", "**È sembrata** felice.", "She seemed/has seemed happy."],
-                                ["stare", "**Sono stato** in piedi tutta la notte.", "I stood/stayed/have stood/stayed up all night."],
-                                ["succedere*", "Da allora **sono successe** molte cose.", "Since then many things have happened/After that many things happened."],
-                                ["uscire", "Anna **è uscita**.", "Anna went out/has gone out."],
-                                ["venire", "**Sono venuto** con amici.", "I came/have come with friends."]
-                            ]
-                        }
-                    },
-                    {
-                        "content": "* Note that **succedere** is an **impersonal verb**: something or things can happen, but **succedere** cannot be used like the English ‘I happened to be in Rome’ etc."
+                        "content": "* Note that succedere is an impersonal verb: something or things can happen, but succedere cannot be used like the English ‘I happened to be in Rome’ etc."
                     }
                 ]
             },
             {
-                "title": "Negative Form",
+                "title": "Negative form",
                 "paragraphs": [
                     {
-                        "id": 10,
-                        "content": "The **negative** is formed by putting **non** before the auxiliary:",
+                        "id": 12.10,
+                        "content": "The negative is formed by putting non before the auxiliary:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["Ieri **non sono andato** a scuola.", "I didn’t go to school yesterday."],
-                                ["Lisa **non è riuscita** a finire quel lavoro.", "Lisa didn’t manage/hasn’t managed to finish that job."],
-                                ["**Non hai telefonato** a Fabia?", "Didn’t you phone/Haven’t you phoned Fabia?"]
+                                ["Ieri non sono andato a scuola.", "I didn’t go to school yesterday."],
+                                ["Lisa non è riuscita a finire quel lavoro.", "Lisa didn’t manage/hasn’t managed to finish that job."],
+                                ["Non hai telefonato a Fabia?", "Didn’t you phone/Haven’t you phoned Fabia?"]
                             ]
                         }
                     },
                     {
-                        "id": 11,
-                        "content": "The adverbs **ancora** (again), **mai** (ever), **più** (more/again), and **già** (already) are normally placed between the auxiliary and the verb (e.g. **Ho già risposto** (I’ve already replied)). When they are used in the negative – **non ... ancora** (not ... yet), **non ... mai** (never), **non ... più** (not ... any more/not ... again/no ... longer) (see also Unit 6, paragraph 2) – **non** is placed before the auxiliary:",
+                        "id": 12.11,
+                        "content": "The adverbs ancora (again), mai (ever), più (more/again) and già (already) are normally placed between the auxiliary and the verb (e.g. Ho già risposto (I’ve already replied)). When they are used in the negative – non . . . ancora (not . . . yet), non . . . mai (never), non . . . più (not . . . any more/not . . . again/no . . . longer) (see also Unit 6, paragraph 2) – non is placed before the auxiliary:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Sei ancora andato** in biblioteca?", "Did you go/Have you been to the library again?"],
-                                ["**Siete mai stati** su un ghiacciaio?", "Have you ever been on a glacier?"],
-                                ["**Hai più visto** i tuoi amici?", "Have you (ever) seen your friends again?"],
-                                ["**Non abbiamo ancora preso** il biglietto.", "We haven’t bought the ticket yet."],
-                                ["Paola **non è mai stata** a Venezia.", "Paola has never been to Venice."],
-                                ["Carlo **non ha più telefonato**.", "Carlo didn’t phone/hasn’t (ever) phoned again."]
+                                ["Sei ancora andato in biblioteca?", "Did you go/Have you been to the library again?"],
+                                ["Siete mai stati su un ghiacciaio?", "Have you ever been on a glacier?"],
+                                ["Hai più visto i tuoi amici?", "Have you (ever) seen your friends again?"],
+                                ["Non abbiamo ancora preso il biglietto.", "We haven’t bought the ticket yet."],
+                                ["Paola non è mai stata a Venezia.", "Paola has never been to Venice."],
+                                ["Carlo non ha più telefonato.", "Carlo didn’t phone/hasn’t (ever) phoned again."]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Dovere, Potere, Volere",
+                "title": "Dovere, potere, volere",
                 "paragraphs": [
                     {
-                        "id": 12,
-                        "content": "The **present perfect** of **dovere**, **potere**, and **volere** is normally formed with the auxiliary **avere**, but when they are followed by a verb which forms the **present perfect** with **essere**, they may take **essere** as well; if **essere** is used, the **past participle** of the verb agrees with the subject:",
+                        "id": 12.12,
+                        "content": "The present perfect of dovere, potere and volere is normally formed with the auxiliary avere, but when they are followed by a verb which forms the present perfect with essere, they may take essere as well; if essere is used, the past participle of the verb agrees with the subject:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Ho dovuto** studiare molto.", "I had to study a lot."],
-                                ["**Sono dovuto** andare a Roma. [m. sing.]", "I had to go to Rome."],
-                                ["**È dovuta** partire presto. [f. sing.]", "She had to leave early."],
-                                ["**Hai potuto** finire il lavoro?", "Could you finish the work?"],
-                                ["**Siamo potuti** arrivare in tempo. [m. pl.]", "We were able to arrive on time."],
-                                ["**Hanno voluto** comprare l’auto.", "They wanted to buy the car."],
-                                ["**Sono volute** uscire. [f. pl.]", "They (f.) wanted to go out."]
+                                ["I nostri amici hanno dovuto partire.", "Our friends had to leave."],
+                                ["I nostri amici sono dovuti partire.", "Our friends had to leave."],
+                                ["Cecilia non ha potuto andare in Irlanda.", "Cecilia couldn’t go to Ireland."],
+                                ["Cecilia non è potuta andare in Irlanda.", "Cecilia couldn’t go to Ireland."],
+                                ["Perché non avete voluto uscire?", "Why didn’t you want to go out?"],
+                                ["Perché non siete voluti uscire?", "Why didn’t you want to go out?"]
                             ]
                         }
                     },
                     {
-                        "content": "Remember that it is never wrong to use **avere**:",
+                        "content": "Remember that it is never wrong to use avere:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Ho dovuto** andare a Roma.", "I had to go to Rome."],
-                                ["**Ha potuto** arrivare in tempo.", "He/she was able to arrive on time."],
-                                ["**Hanno voluto** uscire.", "They wanted to go out."]
+                                ["Ho dovuto lavorare.", "I (have) had to work."],
+                                ["Maria ha dovuto rimanere a casa.", "Maria (has) had to stay at home."],
+                                ["Elena non ha potuto telefonare.", "Elena couldn’t/hasn’t been able to phone."],
+                                ["Elena e Sergio non hanno potuto entrare.", "Elena and Sergio couldn’t/haven’t been able to get in."]
                             ]
                         }
                     }
@@ -213,96 +347,97 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Past Participle Endings",
-            "instruction": "Supply the correct endings for the **past participles**, ensuring that they agree with the subject.",
+            "title": "Exercise 1",
+            "instruction": "Supply the correct endings for the past participles, ensuring that they agree with the subject.",
             "examples": [
-                "Francesca e Filippo **sono restat—** a casa.: Francesca e Filippo **sono restati** a casa.",
-                "Giulia e Susanna **non sono uscit—** ieri sera.: Giulia e Susanna **non sono uscite** ieri sera."
+                "Le mie amiche sono uscit—: uscite"
             ],
             "items": [
-                { "question": "Francesca e Filippo **sono restat—** a casa.", "answer": "Francesca e Filippo sono restati a casa." },
-                { "question": "Giulia e Susanna **non sono uscit—** ieri sera.", "answer": "Giulia e Susanna non sono uscite ieri sera." },
-                { "question": "Nicoletta **è andat—** in vacanza.", "answer": "Nicoletta è andata in vacanza." },
-                { "question": "I miei amici **sono arrivat—** domenica scorsa.", "answer": "I miei amici sono arrivati domenica scorsa." },
-                { "question": "Quando Fabia **è entrat—**, ha visto gli amici.", "answer": "Quando Fabia è entrata, ha visto gli amici." },
-                { "question": "Pierluigi **non è riuscit—** a finire il lavoro.", "answer": "Pierluigi non è riuscito a finire il lavoro." },
-                { "question": "Professor Rossi, quando **è arrivat—**?", "answer": "Professor Rossi, quando è arrivato?" },
-                { "question": "Ti **è piaciut—** la partita?", "answer": "Ti è piaciuta la partita?" },
-                { "question": "Quanto **sono costat—** quei libri?", "answer": "Quanto sono costati quei libri?" },
-                { "question": "Quando **è nat—** tua sorella?", "answer": "Quando è nata tua sorella?" }
+                {"question": "Francesca e Filippo sono restat— a casa.", "answer": "restati"},
+                {"question": "Giulia e Susanna non sono uscit— ieri sera.", "answer": "uscite"},
+                {"question": "Nicoletta è andat— in vacanza.", "answer": "andata"},
+                {"question": "I miei amici sono arrivat— domenica scorsa.", "answer": "arrivati"},
+                {"question": "Quando Fabia è entrat— , ha visto gli amici.", "answer": "entrata"},
+                {"question": "Pierluigi non è riuscit— a finire il lavoro.", "answer": "riuscito"},
+                {"question": "Professor Rossi, quando è arrivat—?", "answer": "arrivato"},
+                {"question": "Ti è piaciut— la partita?", "answer": "piaciuta"},
+                {"question": "Quanto sono costat— quei libri?", "answer": "costati"},
+                {"question": "Quando è nat— tua sorella?", "answer": "nata"}
             ]
         },
         {
-            "title": "Exercise 2: Present Perfect (Auxiliary Essere)",
-            "instruction": "Supply the **present perfect** of the verb in brackets, using **essere** as the auxiliary.",
+            "title": "Exercise 2",
+            "instruction": "Supply the present perfect of the verb in brackets.",
             "examples": [
-                "(noi dovere) lavorare tutto il giorno.: **Siamo dovuti** lavorare tutto il giorno.",
-                "(voi partire)?: **Siete partiti**?"
+                "Anna (partire) ieri: è partita"
             ],
             "items": [
-                { "question": "(noi dovere) lavorare tutto il giorno.", "answer": "Siamo dovuti lavorare tutto il giorno." },
-                { "question": "Dove (voi mangiare)?", "answer": "Dove siete mangiati?" },
-                { "question": "A che ora (tu partire)?", "answer": "A che ora sei partito?" },
-                { "question": "Chi (telefonare)?", "answer": "Chi è telefonato?" },
-                { "question": "Claudia (volere) restare a casa.", "answer": "Claudia è voluta restare a casa." },
-                { "question": "(tu conoscere) il fratello di Piero?", "answer": "Hai conosciuto il fratello di Piero?" },
-                { "question": "Silvia (dovere) andare in ospedale.", "answer": "Silvia è dovuta andare in ospedale." },
-                { "question": "(voi accompagnare) Lina alla stazione?", "answer": "Siete accompagnati Lina alla stazione?" },
-                { "question": "Chi (vincere)?", "answer": "Chi è vinto?" },
-                { "question": "(tu finire) i compiti?", "answer": "Sei finito i compiti?" },
-                { "question": "Non (io capire) nulla.", "answer": "Non sono capito nulla." },
-                { "question": "(tu portare) i libri in biblioteca?", "answer": "Sei portato i libri in biblioteca?" },
-                { "question": "Non (noi riuscire) a finire in tempo.", "answer": "Non siamo riusciti a finire in tempo." }
+                {"question": "Dove (tu comprare) quelle scarpe?", "answer": "hai comprato"},
+                {"question": "Ettore (regalare) un portafoglio a Luisa.", "answer": "ha regalato"},
+                {"question": "Ieri sera (noi andare) a un concerto.", "answer": "siamo andati"},
+                {"question": "Dove (voi trovare) quei fogli?", "answer": "avete trovato"},
+                {"question": "(tu spegnere) la luce?", "answer": "hai spento"},
+                {"question": "Quanta gente (venire) alla festa?", "answer": "è venuta"},
+                {"question": "Signora Depaoli, (portare) i documenti?", "answer": "ha portato"},
+                {"question": "(voi prendere) il giornale?", "answer": "avete preso"},
+                {"question": "Ieri (io vedere) le mie amiche.", "answer": "ho visto"},
+                {"question": "Non (tu potere) finire il lavoro?", "answer": "hai potuto"},
+                {"question": "(io dovere) studiare molto per questo esame.", "answer": "ho dovuto"},
+                {"question": "Franco (uscire) tardi e (perdere) l’autobus.", "answer": "è uscito, ha perso"},
+                {"question": "Chi ti (scrivere) quella lettera?", "answer": "ha scritto"},
+                {"question": "(noi giocare) a pallone tutto il pomeriggio.", "answer": "abbiamo giocato"},
+                {"question": "Federica (cominciare) il nuovo lavoro.", "answer": "ha cominciato"},
+                {"question": "Lorenzo non (volere) uscire.", "answer": "non ha voluto"},
+                {"question": "Dove (tu mettere) i libri?", "answer": "hai messo"},
+                {"question": "(tu potere) parlare col professore?", "answer": "hai potuto"},
+                {"question": "(voi avere) tempo per fare tutto?", "answer": "avete avuto"},
+                {"question": "(tu leggere) il giornale di oggi?", "answer": "hai letto"}
             ]
         },
         {
-            "title": "Exercise 3: Present Perfect (Auxiliary Avere)",
-            "instruction": "Supply the **present perfect** of the verb(s) in brackets, using **avere** as the auxiliary.",
+            "title": "Exercise 3",
+            "instruction": "Supply the present perfect of the verb in brackets.",
             "examples": [
-                "(io mangiare) una pizza buonissima.: **Ho mangiato** una pizza buonissima.",
-                "(tu comprare) quella giacca?: **Hai comprato** quella giacca?"
+                "Il dottore (uscire): è uscito"
             ],
             "items": [
-                { "question": "(io mangiare) una pizza buonissima.", "answer": "Ho mangiato una pizza buonissima." },
-                { "question": "Dove (tu comprare) quella giacca?", "answer": "Dove hai comprato quella giacca?" },
-                { "question": "(voi parlare) con il professore?", "answer": "Avete parlato con il professore?" },
-                { "question": "Non (noi vedere) quel film.", "answer": "Non abbiamo visto quel film." },
-                { "question": "(tu scrivere) una lettera a Maria?", "answer": "Hai scritto una lettera a Maria?" },
-                { "question": "Giorgio (finire) il suo lavoro.", "answer": "Giorgio ha finito il suo lavoro." },
-                { "question": "Signora Depaoli, (portare) i documenti?", "answer": "Signora Depaoli, ha portato i documenti?" },
-                { "question": "(voi prendere) il giornale?", "answer": "Avete preso il giornale?" },
-                { "question": "Ieri (io vedere) le mie amiche.", "answer": "Ieri ho visto le mie amiche." },
-                { "question": "Non (tu potere) finire il lavoro?", "answer": "Non hai potuto finire il lavoro?" },
-                { "question": "(io dovere) studiare molto per questo esame.", "answer": "Ho dovuto studiare molto per questo esame." },
-                { "question": "Franco (uscire) tardi e (perdere) l’autobus.", "answer": "Franco ha uscito tardi e ha perso l’autobus." },
-                { "question": "Chi ti (scrivere) quella lettera?", "answer": "Chi ti ha scritto quella lettera?" },
-                { "question": "(noi giocare) a pallone tutto il pomeriggio.", "answer": "Abbiamo giocato a pallone tutto il pomeriggio." },
-                { "question": "Federica (cominciare) il nuovo lavoro.", "answer": "Federica ha cominciato il nuovo lavoro." },
-                { "question": "Lorenzo non (volere) uscire.", "answer": "Lorenzo non ha voluto uscire." },
-                { "question": "Dove (tu mettere) i libri?", "answer": "Dove hai messo i libri?" },
-                { "question": "(tu potere) parlare col professore?", "answer": "Hai potuto parlare col professore?" },
-                { "question": "(voi avere) tempo per fare tutto?", "answer": "Avete avuto tempo per fare tutto?" },
-                { "question": "(tu leggere) il giornale di oggi?", "answer": "Hai letto il giornale di oggi?" }
+                {"question": "(noi dovere) lavorare tutto il giorno.", "answer": "abbiamo dovuto"},
+                {"question": "Dove (voi mangiare)?", "answer": "avete mangiato"},
+                {"question": "A che ora (tu partire)?", "answer": "sei partito"},
+                {"question": "Chi (telefonare)?", "answer": "ha telefonato"},
+                {"question": "Claudia (volere) restare a casa.", "answer": "è voluta"},
+                {"question": "(tu conoscere) il fratello di Piero?", "answer": "hai conosciuto"},
+                {"question": "Silvia (dovere) andare in ospedale.", "answer": "è dovuta"},
+                {"question": "(voi accompagnare) Lina alla stazione?", "answer": "avete accompagnato"},
+                {"question": "Chi (vincere) il campionato?", "answer": "ha vinto"},
+                {"question": "(tu finire) i compiti?", "answer": "hai finito"},
+                {"question": "Non (io capire) nulla.", "answer": "non ho capito"},
+                {"question": "(tu portare) i libri in biblioteca?", "answer": "hai portato"},
+                {"question": "Non (noi riuscire) a finire in tempo.", "answer": "non siamo riusciti"},
+                {"question": "Cosa (voi decidere)?", "answer": "avete deciso"},
+                {"question": "Carla (avere) la febbre.", "answer": "ha avuto"},
+                {"question": "Ugo e Marina non (venire) a cena da noi.", "answer": "non sono venuti"},
+                {"question": "Che cosa (voi fare) domenica?", "answer": "avete fatto"},
+                {"question": "Il treno (partire) con mezz’ora di ritardo.", "answer": "è partito"},
+                {"question": "La nonna (essere) contenta di vedermi.", "answer": "è stata"},
+                {"question": "Chi (tradurre) questo libro?", "answer": "ha tradotto"}
             ]
         },
         {
-            "title": "Exercise 4: Translate into Italian",
-            "instruction": "Translate the following sentences into Italian, using the **present perfect** tense.",
-            "examples": [
-                "We’ve already done this exercise.: **Abbiamo già fatto** questo esercizio.",
-                "I haven’t finished reading the paper yet.: **Non ho ancora finito** di leggere il giornale."
-            ],
+            "title": "Exercise 4",
+            "instruction": "Translate into Italian:",
+            "examples": [],
             "items": [
-                { "question": "We’ve already done this exercise.", "answer": "Abbiamo già fatto questo esercizio." },
-                { "question": "I haven’t finished reading the paper yet.", "answer": "Non ho ancora finito di leggere il giornale." },
-                { "question": "Stefano’s never been to Rome.", "answer": "Stefano non è mai stato a Roma." },
-                { "question": "I didn’t see Roberto again after the party.", "answer": "Non ho più visto Roberto dopo la festa." },
-                { "question": "Have you [pl.] already paid the bill?", "answer": "Avete già pagato il conto?" },
-                { "question": "Giulia hasn’t started working yet.", "answer": "Giulia non ha ancora iniziato a lavorare." },
-                { "question": "Carlo couldn’t work any more.", "answer": "Carlo non ha potuto lavorare più." },
-                { "question": "I’ve never met her parents.", "answer": "Non ho mai conosciuto i suoi genitori." },
-                { "question": "Have you [sing.] written the letters already?", "answer": "Hai già scritto le lettere?" },
-                { "question": "I’ve never seen that film.", "answer": "Non ho mai visto quel film." }
+                {"question": "We’ve already done this exercise.", "answer": "Abbiamo già fatto questo esercizio."},
+                {"question": "I haven’t finished reading the paper yet.", "answer": "Non ho ancora finito di leggere il giornale."},
+                {"question": "Stefano’s never been to Rome.", "answer": "Stefano non è mai stato a Roma."},
+                {"question": "I didn’t see Roberto again after the party.", "answer": "Non ho più visto Roberto dopo la festa."},
+                {"question": "Have you [pl.] already paid the bill?", "answer": "Avete già pagato il conto?"},
+                {"question": "Giulia hasn’t started working yet.", "answer": "Giulia non ha ancora cominciato a lavorare."},
+                {"question": "Carlo couldn’t work any more.", "answer": "Carlo non ha più potuto lavorare."},
+                {"question": "I’ve never met her parents.", "answer": "Non ho mai conosciuto i suoi genitori."},
+                {"question": "Have you [sing.] written the letters already?", "answer": "Hai già scritto le lettere?"},
+                {"question": "I’ve never seen that film.", "answer": "Non ho mai visto quel film."}
             ]
         }
     ]
