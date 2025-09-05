@@ -4,36 +4,44 @@
         "title": "Questions",
         "sections": [
             {
+                "title": "Introduction",
+                "paragraphs": [
+                    {
+                        "content": "In this unit we will look at the most common ways of asking questions in Italian. We have already seen (Units 4 and 5) that the order of the words in the sentence does not change in the interrogative form; now we need to look at some Italian ‘question words’."
+                    }
+                ]
+            },
+            {
                 "title": "1. Chi?",
                 "paragraphs": [
                     {
-                        "content": "Chi means ‘who/whom’, or sometimes ‘which of’, and is only used to refer to people. Chi is invariable – that is, the same form is used for masculine and feminine, singular and plural:",
+                        "content": "**Chi** means ‘who/whom’, or sometimes ‘which of’, and is only used to refer to people. **Chi** is invariable – that is, the same form is used for masculine and feminine, singular and plural:",
                         "table": {
                             "rows": [
-                                ["Chi è quell’uomo?", "Who is that man?"],
-                                ["Chi è quella ragazza?", "Who is that girl?"],
-                                ["Chi sono i tuoi amici?", "Who are your friends?"],
-                                ["Chi sono quelle ragazze?", "Who are those girls?"],
-                                ["Chi vuole venire al cinema con me?", "Who wants to come to the cinema with me?"],
-                                ["Chi viene a cena?", "Who’s coming for dinner?"],
-                                ["Con chi esci?", "Who(m) are you going out with?"],
-                                ["A chi scrivete?", "Who(m) are you writing to?"],
-                                ["Chi ha una penna?", "Who’s got a pen? [i.e. has anyone got a pen?]"],
-                                ["Chi non va in gita domani?", "Who’s not going on the trip tomorrow?"],
-                                ["Chi non inviti?", "Who(m) aren’t you inviting?"],
-                                ["Chi di loro parla italiano?", "Which of them speaks Italian?"]
+                                ["**Chi è quell’uomo?**", "Who is that man?"],
+                                ["**Chi è quella ragazza?**", "Who is that girl?"],
+                                ["**Chi sono i tuoi amici?**", "Who are your friends?"],
+                                ["**Chi sono quelle ragazze?**", "Who are those girls?"],
+                                ["**Chi vuole venire al cinema con me?**", "Who wants to come to the cinema with me?"],
+                                ["**Chi viene a cena?**", "Who’s coming for dinner?"],
+                                ["**Con chi esci?**", "Who(m) are you going out with?"],
+                                ["**A chi scrivete?**", "Who(m) are you writing to?"],
+                                ["**Chi ha una penna?**", "Who’s got a pen? [i.e. has anyone got a pen?]"],
+                                ["**Chi non va in gita domani?**", "Who’s not going on the trip tomorrow?"],
+                                ["**Chi non inviti?**", "Who(m) aren’t you inviting?"],
+                                ["**Chi di loro parla italiano?**", "Which of them speaks Italian?"]
                             ]
                         }
                     },
                     {
-                        "content": "When an adjective refers to chi, it must be in the masculine singular form unless it refers to an all-female group:",
+                        "content": "When an adjective refers to **chi**, it must be in the masculine singular form unless it refers to an all-female group:",
                         "table": {
                             "rows": [
-                                ["Chi è pronto?", "Who is ready?"],
-                                ["Chi è soddisfatto?", "Who is satisfied?"],
-                                ["Chi non è stanco?", "Who isn’t tired?"],
-                                ["Chi di voi (ragazze) è pronta?", "Which of you (girls) is ready?"],
-                                ["Chi di voi (Signori) è italiano?", "Which of you (gentlemen) is Italian?"]
+                                ["**Chi è pront*****o***?", "Who is ready?"],
+                                ["**Chi è soddisfatt*****o***?", "Who is satisfied?"],
+                                ["**Chi non è stanc*****o***?", "Who isn’t tired?"],
+                                ["**Chi di voi (ragazze) è pront*****a***?", "Which of you (girls) is ready?"],
+                                ["**Chi di voi (Signori) è italian*****o***?", "Which of you (gentlemen) is Italian?"]
                             ]
                         }
                     }
@@ -43,29 +51,29 @@
                 "title": "2. Che cosa? Cosa? Che?",
                 "paragraphs": [
                     {
-                        "content": "All three mean ‘what’ and are used when referring to objects. Che cosa?, Cosa? and Che? are invariable in gender and number:",
+                        "content": "All three mean ‘what’ and are used when referring to objects. **Che cosa?**, **Cosa?** and **Che?** are invariable in gender and number:",
                         "table": {
                             "rows": [
-                                ["Cos’è quello?", "What’s that?"],
-                                ["Che cos’è quella luce?", "What’s that light?"],
-                                ["Cosa sono quei segni?", "What are those marks?"],
-                                ["Che sono quelle costruzioni?", "What are those buildings?"],
-                                ["Che succede?", "What’s happening?"],
-                                ["Che cosa volete?", "What do you want?"],
-                                ["Cosa studi?", "What are you studying/do you study?"],
-                                ["Cosa posso fare per Lei?", "What can I do for you?"],
-                                ["A che pensate?", "What are you thinking about?"]
+                                ["**Cos’è quello?**", "What’s that?"],
+                                ["**Che cos’è quella luce?**", "What’s that light?"],
+                                ["**Cosa sono quei segni?**", "What are those marks?"],
+                                ["**Che sono quelle costruzioni?**", "What are those buildings?"],
+                                ["**Che succede?**", "What’s happening?"],
+                                ["**Che cosa volete?**", "What do you want?"],
+                                ["**Cosa studi?**", "What are you studying/do you study?"],
+                                ["**Cosa posso fare per Lei?**", "What can I do for you?"],
+                                ["**A che pensate?**", "What are you thinking about?"]
                             ]
                         }
                     },
                     {
-                        "content": "Che is also used as an adjective meaning ‘what (sort/type of)’:",
+                        "content": "**Che** is also used as an adjective meaning ‘what (sort/type of)’:",
                         "table": {
                             "rows": [
-                                ["Che lavoro fai?", "What’s your job? [lit. what work do you do?]" ],
-                                ["Che musica ascolti di solito?", "What (sort of) music do you usually listen to?"],
-                                ["Che film vai a vedere?", "What film are you going to see?"],
-                                ["Che auto compra tuo padre?", "What (make of) car is your father going to buy?"]
+                                ["**Che lavoro fai?**", "What’s your job? [lit. what work do you do?]" ],
+                                ["**Che musica ascolti di solito?**", "What (sort of) music do you usually listen to?"],
+                                ["**Che film vai a vedere?**", "What film are you going to see?"],
+                                ["**Che auto compra tuo padre?**", "What (make of) car is your father going to buy?"]
                             ]
                         }
                     }
@@ -75,17 +83,17 @@
                 "title": "3. Come?",
                 "paragraphs": [
                     {
-                        "content": "Come means ‘how’:",
+                        "content": "**Come** means ‘how’:",
                         "table": {
                             "rows": [
-                                ["Come sta, Signora?", "How are you, Madam?"],
-                                ["Come va?", "How’s it going?"],
-                                ["Come fate la pizza?", "How do you make (a) pizza?"]
+                                ["**Come sta, Signora?**", "How are you, Madam?"],
+                                ["**Come va?**", "How’s it going?"],
+                                ["**Come fate la pizza?**", "How do you make (a) pizza?"]
                             ]
                         }
                     },
                     {
-                        "content": "Come can sometimes mean ‘what’, as in Come dici? (What did you say?), Com’è Edimburgo/il nuovo professore? (What’s Edinburgh/the new teacher like?)."
+                        "content": "**Come** can sometimes mean ‘what’, as in **Come dici**? (What did you say?), **Com’è Edimburgo/il nuovo professore?** (What’s Edinburgh/the new teacher like?)."
                     }
                 ]
             },
@@ -93,15 +101,13 @@
                 "title": "4. Dove?",
                 "paragraphs": [
                     {
-                        "content": "Dove means ‘where’:",
+                        "content": "**Dove** means ‘where’:",
                         "table": {
                             "rows": [
-                                ["Dove sei?", "Where are you?"],
-                                ["Dove andate?", "Where are you going?"],
-                                ["Dove abita?", "Where does he/she live?"],
-                                ["Da dove venite?", "Where do you come from?"],
-                                ["Dov’è il museo?", "Where’s the museum?"],
-                                ["Dove sono i miei libri?", "Where are my books?"]
+                                ["**Dove abiti?**", "Where do you live?"],
+                                ["**Dove andate?**", "Where are you going?"],
+                                ["**Dove sono le chiavi?**", "Where are the keys?"],
+                                ["**Dov’è il mio libro?**", "Where is my book?"]
                             ]
                         }
                     }
@@ -114,10 +120,10 @@
                         "content": "Quando means ‘when’:",
                         "table": {
                             "rows": [
-                                ["Quando partono i tuoi amici?", "When are your friends leaving?"],
-                                ["Quando comincia il film?", "When does the film start?"],
-                                ["Quando arriva il treno?", "When does the train arrive?"],
-                                ["Quando è lo sciopero dei treni?", "When’s the rail/train strike?"]
+                                ["**Quando partono i tuoi amici?**", "When are your friends leaving?"],
+                                ["**Quando comincia il film?**", "When does the film start?"],
+                                ["**Quando arriva il treno?**", "When does the train arrive?"],
+                                ["**Quando è lo sciopero dei treni?**", "When’s the rail/train strike?"]
                             ]
                         }
                     }
@@ -127,21 +133,21 @@
                 "title": "6. Perché?",
                 "paragraphs": [
                     {
-                        "content": "Perché means ‘why’:",
+                        "content": "**Perché** means ‘why’:",
                         "table": {
                             "rows": [
-                                ["Perché ridono?", "Why are they laughing?"],
-                                ["Perché Giulia non va a scuola?", "Why isn’t Giulia going to school?"],
-                                ["Perché non studi?", "Why don’t you study?"]
+                                ["**Perché ridono?**", "Why are they laughing?"],
+                                ["**Perché Giulia non va a scuola?**", "Why isn’t Giulia going to school?"],
+                                ["**Perché non studi?**", "Why don’t you study?"]
                             ]
                         }
                     },
                     {
-                        "content": "Come mai has a similar meaning, corresponding to the English ‘how come’:",
+                        "content": "**Come mai** has a similar meaning, corresponding to the English ‘how come’:",
                         "table": {
                             "rows": [
-                                ["Come mai non mangi?", "How come you’re not eating?"],
-                                ["Come mai siete in ritardo?", "How come you are late?"]
+                                ["**Come mai non mangi?**", "How come you’re not eating?"],
+                                ["**Come mai siete in ritardo?**", "How come you are late?"]
                             ]
                         }
                     }
@@ -151,28 +157,28 @@
                 "title": "7. Quanto?",
                 "paragraphs": [
                     {
-                        "content": "Quanto means ‘how much’ when referring to quantity, and ‘how long’, ‘how far’, ‘how tall’, etc. when it refers to time, distance, height, etc.:",
+                        "content": "**Quanto** means ‘how much’ when referring to quantity, and ‘how long’, ‘how far’, ‘how tall’, etc. when it refers to time, distance, height, etc.:",
                         "table": {
                             "rows": [
-                                ["Quanto pesa?", "How much/What does it weigh?"],
-                                ["Quanto costa questa maglietta?", "How much/What does this T-shirt cost?"],
-                                ["Quanto dura il film?", "How long does the film last?"],
-                                ["Quanto è alta tua sorella?", "How tall is your sister?"],
-                                ["Quant’è?", "How much is it?"]
+                                ["**Quanto pesa?**", "How much/What does it weigh?"],
+                                ["**Quanto costa questa maglietta?**", "How much/What does this T-shirt cost?"],
+                                ["**Quanto dura il film?**", "How long does the film last?"],
+                                ["**Quanto è alta tua sorella?**", "How tall is your sister?"],
+                                ["**Quant’è?", "How much is it?**"]
                             ]
                         }
                     },
                     {
-                        "content": "Quanto can also be used as an adjective or pronoun. In such cases it agrees in gender and number with the noun it refers to: quanto [ms], quanta [fs] (how much), quanti [mp], quante [fp] (how many):",
+                        "content": "**Quanto** can also be used as an adjective or pronoun. In such cases it agrees in gender and number with the noun it refers to: **quant*****o*** [ms], **quant*****a*** [fs] (how much), **quant*****i*** [mp], **quant*****e*** [fp] (how many):",
                         "table": {
                             "rows": [
-                                ["Quanto pane devo comprare?", "How much bread do I have to buy?"],
-                                ["Quanta pasta vuoi?", "How much pasta do you want?"],
-                                ["Quanti esercizi dobbiamo fare?", "How many exercises have we got to do?"],
-                                ["Quante ragazze ci sono in classe tua?", "How many girls are there in your class?"],
-                                ["Quanto tempo abbiamo?", "How much time is there?/How long have we got?"],
-                                ["‘Ci sono molte persone.’ ‘Quante?’", "‘There are a lot of people.’ ‘How many?’"],
-                                ["‘Dobbiamo comprare del pane.’ ‘Quanto?’", "‘We must get (some) bread.’ ‘How much?’"]
+                                ["**Quant*****o*** **pane devo comprare?**", "How much bread do I have to buy?"],
+                                ["**Quant*****a*** **pasta vuoi?**", "How much pasta do you want?"],
+                                ["**Quant*****i*** **esercizi dobbiamo fare?**", "How many exercises have we got to do?"],
+                                ["**Quant*****e*** **ragazze ci sono in classe tua?**", "How many girls are there in your class?"],
+                                ["**Quant*****o*** **tempo abbiamo?**", "How much time is there?/How long have we got?"],
+                                ["**‘Ci sono molte persone.’ ‘Quant*****e*****?’**", "‘There are a lot of people.’ ‘How many?’"],
+                                ["**‘Dobbiamo comprare del pane.’ ‘Quant*****o*****?’**", "‘We must get (some) bread.’ ‘How much?’"]
                             ]
                         }
                     }
@@ -182,20 +188,20 @@
                 "title": "8. Quale?",
                 "paragraphs": [
                     {
-                        "content": "Quale means ‘which’ (or sometimes ‘what’). It is used either as an adjective or as a pronoun, and therefore agrees with the noun it refers to: quale, ‘which (one)’, quali, ‘which (ones)’. The use of quale rather than che usually implies that there is a choice, as for example if there are some books lying on the table: Quale libro leggi? ‘Which book are you reading?’:",
+                        "content": "**Quale** means ‘which’ (or sometimes ‘what’). It is used either as an adjective or as a pronoun, and therefore agrees with the noun it refers to: **qual*****e***, ‘which (one)’, **qual*****i***, ‘which (ones)’. The use of **quale** rather than **che** usually implies that there is a choice, as for example if there are some books lying on the table: **Quale libro leggi?** ‘Which book are you reading?’:",
                         "table": {
                             "rows": [
-                                ["Quale canzone preferisci?", "Which song do you prefer?"],
-                                ["Quali esercizi facciamo?", "Which exercises are we doing?"],
-                                ["Quali sono i tuoi libri?", "Which are your books?"],
-                                ["‘Compro due giornali.’ ‘Quali?’", "‘I’m buying two papers.’ ‘Which ones?’"],
-                                ["Qual è la canzone più famosa?*", "Which/What is the best-known song?"],
-                                ["Qual è il Suo indirizzo/numero di telefono?*", "What’s your address/phone number?"]
+                                ["**Qual*****e*** canzone preferisci?", "Which song do you prefer?"],
+                                ["**Qual*****i*** esercizi facciamo?", "Which exercises are we doing?"],
+                                ["**Qual*****i*** sono i tuoi libri?", "Which are your books?"],
+                                ["**‘Compro due giornali.’ ‘Qual*****i***?’", "‘I’m buying two papers.’ ‘Which ones?’"],
+                                ["**Qual è la canzone più famosa?***", "Which/What is the best-known song?"],
+                                ["**Qual è il Suo indirizzo/numero di telefono?***", "What’s your address/phone number?"]
                             ]
                         }
                     },
                     {
-                        "content": "* Qual (without an apostrophe) is used before the forms of essere starting with a vowel; used in this way, it sometimes means ‘what’ rather than ‘which’."
+                        "content": "*** Qual** (without an apostrophe) is used before the forms of **essere** starting with a vowel; used in this way, it sometimes means ‘what’ rather than ‘which’."
                     }
                 ]
             },
@@ -203,14 +209,14 @@
                 "title": "9. Shortened Forms",
                 "paragraphs": [
                     {
-                        "content": "As is seen in some of the examples in paragraphs 2, 3, 4 and 7, cosa, che cosa, come, dove and quanto can also be shortened before the forms of essere starting with a vowel, becoming cos’, che cos’, com’, dov’ and quant’ (all with an apostrophe):",
+                        "content": "As is seen in some of the examples in paragraphs 2, 3, 4 and 7, **cosa, che cosa, come, dove** and **quanto** can also be shortened before the forms of essere starting with a vowel, becoming **cos’, che cos’, com’, dov’** and **quant’** (all with an apostrophe):",
                         "table": {
                             "rows": [
-                                ["Cos’era quel rumore?", "What was that noise?"],
-                                ["Che cos’è successo?", "What happened?"],
-                                ["Com’era lo spettacolo?", "How was the show?"],
-                                ["Dov’è la stazione?", "Where is the station?"],
-                                ["Quant’è costato?", "How much did it cost?"]
+                                ["**Cos’era quel rumore?**", "What was that noise?"],
+                                ["**Che cos’è successo?**", "What happened?"],
+                                ["**Com’era lo spettacolo?**", "How was the show?"],
+                                ["**Dov’è la stazione?**", "Where is the station?"],
+                                ["**Quant’è costato?**", "How much did it cost?"]
                             ]
                         }
                     }
@@ -221,7 +227,7 @@
     "exercises": [
         {
             "title": "Exercise 1",
-            "instruction": "Complete the sentences with chi or che/cosa/che cosa as appropriate.",
+            "instruction": "Complete the sentences with **chi** or **che/cosa/che cosa** as appropriate.",
             "examples": ["____ sono quei signori?: Chi", "____ fate?: Chi"],
             "items": [
                 { "question": "____ sono quei signori?", "answer": "che/cosa/che cosa" },
@@ -248,7 +254,7 @@
         },
         {
             "title": "Exercise 2",
-            "instruction": "Complete the questions with an appropriate word (che, come, dove, quando, perché or quale/quali/qual).",
+            "instruction": "Complete the questions with an appropriate word (**che, come, dove, quando, perché** or **quale/quali/qual**).",
             "examples": ["‘____ abitate?’ ‘A Milano.’: Dove", "‘____ parte l’autobus?’ ‘Alle 8.00.’: Quando"],
             "items": [
                 { "question": "‘____ abitate?’ ‘A Milano.’", "answer": "Dove" },
@@ -275,7 +281,7 @@
         },
         {
             "title": "Exercise 3",
-            "instruction": "Complete the sentences with the correct form of quanto.",
+            "instruction": "Complete the sentences with the correct form of **quanto**.",
             "examples": ["____ è grande la tua casa?: Quanto", "____ studenti ci sono?: Quanti"],
             "items": [
                 { "question": "____ è grande la tua casa?", "answer": "Quanto" },

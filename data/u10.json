@@ -7,13 +7,12 @@
                 "title": "Introduction to Indirect Object Pronouns",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 10.01,
                         "content": "We saw in Unit 7 that a direct object is the person or thing that the verb directly impacts on. An indirect object is the person or thing that the action is happening to or for: Scrivo a Carla domani (I’ll write to Carla tomorrow); Mando cartoline a tutti i miei amici (I send cards to all my friends). In English, the indirect object can usually be preceded by ‘to’ or ‘for’, but these are very often omitted: compare ‘I gave the book to Karen’ and ‘I gave Karen the book’, or ‘I’ll pour a glass for Jane’ and ‘I’ll pour Jane a glass’."
                     },
                     {
                         "content": "An indirect object pronoun replaces a noun used as an indirect object: ‘I gave the book to her/I gave her the book’, ‘I’ll pour her a glass/I’ll pour a glass for her’. In Italian, an indirect object pronoun replaces a noun preceded by the preposition a; it has to agree in gender and number with the noun it refers to. Indirect object pronouns normally come before the verb. In the following examples, the pronouns are in italics:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Quando vedo *Maria* *le* racconto tutto. [le stands for a Maria (fs)]", "When I see Maria I’ll tell *her* everything."],
                                 ["Non telefono *a Carlo*, *gli* scrivo. [gli stands for a Carlo (ms)]", "I’m not going to phone Carlo: I’ll write to *him*."],
@@ -27,10 +26,9 @@
                 "title": "Forms of Indirect Object Pronouns",
                 "paragraphs": [
                     {
-                        "id": 2,
+                        "id": 10.02,
                         "content": "The forms of the indirect object pronouns are as follows:",
                         "table": {
-                            "headers": ["Pronoun", "Indirect Object", "English"],
                             "rows": [
                                 ["mi", "mi", "to me"],
                                 ["ti", "ti", "to you"],
@@ -44,7 +42,6 @@
                     {
                         "content": "The third person plural pronoun gli is used for both masculine and feminine. For the third person plural, loro can be used instead of gli, but it always follows the verb; the meaning is the same, but the use of loro is far less frequent and is more formal.",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["*Mi* mandi una cartolina da Roma?", "Will you send *me* a postcard from Rome?"],
                                 ["*Vi* scrivo appena arrivo.", "I’ll write to *you* as soon as I arrive."],
@@ -62,10 +59,9 @@
                 "title": "Negative Form",
                 "paragraphs": [
                     {
-                        "id": 3,
-                        "content": "The negative is formed by putting non before the pronoun:",
+                        "id": 10.03,
+                        "content": "The negative is formed by putting **non** before the pronoun:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["*Non ti* impresto i soldi.", "I won’t lend *you* the money."],
                                 ["*Non le* scrivo, *le* telefono.", "I’m not going to write (to *her*), I’ll phone *her*."],
@@ -79,13 +75,12 @@
                 "title": "Indirect Object Pronouns with Infinitives",
                 "paragraphs": [
                     {
-                        "id": 4,
+                        "id": 10.04,
                         "content": "When an indirect object pronoun is used with a verb in the infinitive (usually after verbs like dovere, potere, volere or sapere), it can be attached to the infinitive, which drops the final vowel:"
                     },
                     {
                         "content": "Each pair of sentences has exactly the same meaning – the form used makes no difference.",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["*Le* voglio parlare. or Voglio *parlarle*.", "I want to talk to *her*."],
                                 ["*Gli* devo scrivere. or Devo *scrivergli*.", "I must write to *him/them*."],
@@ -100,10 +95,9 @@
                 "title": "Formal Form",
                 "paragraphs": [
                     {
-                        "id": 5,
+                        "id": 10.05,
                         "content": "The indirect object pronouns used for the formal form are Le for the singular (for both women and men) and Vi for the plural (the pronoun Loro – after the verb – can also be used, but this is very formal):",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Professor Masi, *Le* scrivo domani.", "Professor Masi, I’ll write to *you* tomorrow."],
                                 ["Signora, *Le* telefono più tardi.", "Madam, I’ll phone *you* later."],
