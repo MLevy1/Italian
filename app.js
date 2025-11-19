@@ -126,26 +126,62 @@ async function renderContent() {
             `).join('')}
         `;
     } else {
-        html = unit.exercises.map((exercise, exIndex) => `
-            <h2 class="mb-4">${parseBoldText(unit.text.title)}</h2>
-            <section id="exercise-section-${currentUnit}-${exIndex}" class="mb-5">
+        html = `
+        <h2 class="mb-4">${parseBoldText(unit.text.title)}</h2>
+        ${unit.exercises.map((exercise, exIndex) => `
+            <section class="mb-5">
                 <h3 class="mb-3">${parseBoldText(exercise.title)}</h3>
                 <p class="mb-3">${parseBoldText(exercise.instruction)}</p>
                 <p class="mb-3"><strong>Examples:</strong> ${exercise.examples.map(ex => parseBoldText(ex)).join('; ')}</p>
-                ${exercise.items.map((item, index) => `
-                    <div class="exercise-item mb-3 d-flex flex-column" id="exercise-item-${currentUnit}-${exIndex}-${index}">
-                        <span class="me-2">${index + 1}. ${parseBoldText(item.question)}</span>
-                        <input type="text" class="form-control" id="answer-${currentUnit}-${exIndex}-${index}" />
-                    </div>
-                `).join('')}
-                <div class="d-flex gap-2">
-                    <button class="btn btn-primary" type="button" onclick="checkAnswers(${currentUnit}, ${exIndex}, ${exercise.items.length})">Check Answers</button>
-                    <button class="btn btn-secondary" type="button" onclick="resetAnswers(${currentUnit}, ${exIndex}, ${exercise.items.length})">Reset</button>
-                </div>
+                
+                ${exercise.items.map((item, itemIndex) => {
+                    const questionId = `question-${currentUnit}-${exIndex}-${itemIndex}`;
+                    return `
+                        <div class="exercise-item mb-4 p-3 border rounded bg-dark" id="${questionId}">
+                            <div class="mb-2 fw-bold text-light">
+                                ${itemIndex + 1}. ${parseBoldText(item.question)}
+                            </div>
+                            <input type="text" 
+                                   class="form-control mb-2 answer-input" 
+                                   data-unit="${currentUnit}" 
+                                   data-ex="${exIndex}" 
+                                   data-item="${itemIndex}" />
+                            
+                            <div class="d-flex gap-2 mt-2">
+                                <button class="btn btn-sm btn-success check-btn" 
+                                        data-question-id="${questionId}">
+                                    Check Answer
+                                </button>
+                                <button class="btn btn-sm btn-secondary reset-btn" 
+                                        data-question-id="${questionId}">
+                                    Reset
+                                </button>
+                            </div>
+                            
+                            <div class="feedback mt-2"></div>
+                        </div>
+                    `;
+                }).join('')}
             </section>
-        `).join('');
+        `).join('')}
+    `;
     }
     contentDiv.innerHTML = html;
+
+    // === NEW: Attach event listeners to per-question buttons ===
+    document.querySelectorAll('.check-btn').forEach(btn => {
+        btn.onclick = function() {
+            const qid = this.dataset.questionId;
+            checkSingleAnswer(qid);
+        };
+    });
+
+    document.querySelectorAll('.reset-btn').forEach(btn => {
+        btn.onclick = function() {
+            const qid = this.dataset.questionId;
+            resetSingleAnswer(qid);
+        };
+    });
 
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
@@ -216,6 +252,54 @@ function resetAnswers(unitNum, exIndex, itemCount) {
     const section = document.getElementById(`exercise-section-${unitNum}-${exIndex}`);
     const existingPercentage = section.querySelector('.percentage-correct');
     if (existingPercentage) existingPercentage.remove();
+}
+
+
+// Check a single question
+async function checkSingleAnswer(questionId) {
+    const container = document.getElementById(questionId);
+    if (!container) return;
+
+    const input = container.querySelector('.answer-input');
+    const feedback = container.querySelector('.feedback');
+    const unitNum = parseInt(input.dataset.unit);
+    const exIndex = parseInt(input.dataset.ex);
+    const itemIndex = parseInt(input.dataset.item);
+
+    const unit = await loadUnitData(unitNum);
+    const correctAnswer = unit.exercises[exIndex].items[itemIndex].answer;
+
+    const normalize = (text) => text.replace(/[\u2018\u2019`]/g, "'").toLowerCase().trim();
+    const userAnswer = normalize(input.value);
+    const expectedAnswer = normalize(correctAnswer);
+
+    // Clear previous feedback
+    feedback.innerHTML = '';
+    input.classList.remove('is-valid', 'is-invalid');
+
+    if (userAnswer === expectedAnswer) {
+        input.classList.add('is-valid');
+        feedback.innerHTML = '<span class="text-success fw-bold">Correct!</span>';
+    } else {
+        input.classList.add('is-invalid');
+        feedback.innerHTML = `
+            <span class="text-danger">Incorrect.</span>
+            <br><small class="text-warning">Correct answer: <strong>${correctAnswer}</strong></small>
+        `;
+    }
+}
+
+// Reset a single question
+function resetSingleAnswer(questionId) {
+    const container = document.getElementById(questionId);
+    if (!container) return;
+
+    const input = container.querySelector('.answer-input');
+    const feedback = container.querySelector('.feedback');
+
+    input.value = '';
+    input.classList.remove('is-valid', 'is-invalid');
+    feedback.innerHTML = '';
 }
 
 function navigate(direction) {
