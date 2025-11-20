@@ -378,14 +378,17 @@ const unitPromises = availableUnits.map(async (unitNum) => {
       ? sanitizeHTML(parseBoldText(unit.text.title))
       : `Unit ${unitNum}`;
 
-    return `
+
+
+
+return `
       <tr>
         <td class="text-light fw-bold text-center align-middle">
           Unit ${unitNum}
         </td>
         <td class="align-middle">
           <button
-            class="btn btn-link text-start text-light text-decoration-none mt-0"
+            class="btn btn-link text-light text-start"
             type="button"
             data-unit="${unitNum}"
           >
@@ -393,6 +396,8 @@ const unitPromises = availableUnits.map(async (unitNum) => {
           </button>
         </td>
       </tr>`;
+
+
   } catch (error) {
     console.error(`Error loading unit ${unitNum}:`, error);
     return `
