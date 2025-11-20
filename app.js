@@ -360,68 +360,37 @@ document.addEventListener('DOMContentLoaded', () => {
     loadData();
 });
 
-async function showContents() {
-    console.log('Showing contents');
-    const contentDiv = document.getElementById('content');
-    if (!contentDiv) {
-        console.error('Content div not found');
-        return;
-    }
+const unitPromises = availableUnits.map(async (unitNum) => {
+  try {
+    const unit = await loadUnitData(unitNum);
+    const title = unit?.text?.title
+      ? sanitizeHTML(parseBoldText(unit.text.title))
+      : `Unit ${unitNum}`;
 
-    // Initialize table structure
-    let tableHTML = '<h2 class="mb-4">Table of Contents</h2><table class="table table-dark table-striped table-hover">';
-
-    try {
-        // Fetch titles for all units
-        const unitPromises = availableUnits.map(async (unitNum) => {
-            try {
-                const unit = await loadUnitData(unitNum);
-                const title = unit?.text?.title ? sanitizeHTML(parseBoldText(unit.text.title)) : `Unit ${unitNum}`;
-                return `
-                    <tr>
-                        <td class="text-primary fw-bold text-center align-middle">Unit ${unitNum}</td>
-                        <td>
-                            <button class="btn btn-link text-start unit-button" type="button" data-unit="${unitNum}">
-                                ${title}
-                            </button>
-                        </td>
-                    </tr>
-                `;
-            } catch (error) {
-                console.error(`Error loading unit ${unitNum}:`, error);
-                return `
-                    <tr>
-                        <td>Unit ${unitNum}</td>
-                        <td>Error loading unit</td>
-                    </tr>
-                `;
-            }
-        });
-
-        // Wait for all unit titles to load
-        const unitItems = await Promise.all(unitPromises);
-        tableHTML += unitItems.join('') + '</table>';
-
-        // Set the complete table HTML once
-        contentDiv.innerHTML = tableHTML;
-
-        // Attach event listeners programmatically
-        const buttons = contentDiv.querySelectorAll('.unit-button');
-        buttons.forEach(button => {
-            const unitNum = button.getAttribute('data-unit');
-            button.addEventListener('click', () => setUnitAndView(unitNum, 'text'));
-        });
-
-        // Hide exercises link if it exists
-        const exercisesLink = document.getElementById('exercisesLink');
-        if (exercisesLink) {
-            exercisesLink.classList.add('d-none');
-        }
-    } catch (error) {
-        console.error('Error generating table of contents:', error);
-        contentDiv.innerHTML = '<p>Error loading table of contents.</p>';
-    }
-}
+    return `
+      <tr>
+        <td class="text-primary fw-bold text-center align-middle">
+          Unit ${unitNum}
+        </td>
+        <td>
+          <button
+            class="btn btn-link text-start unit-button"
+            type="button"
+            data-unit="${unitNum}"
+          >
+            ${title}
+          </button>
+        </td>
+      </tr>`;
+  } catch (error) {
+    console.error(`Error loading unit ${unitNum}:`, error);
+    return `
+      <tr>
+        <td>Unit ${unitNum}</td>
+        <td>Error loading unit</td>
+      </tr>`;
+  }
+});
 
 // Helper function to sanitize HTML (basic example, use a library like DOMPurify in production)
 function sanitizeHTML(str) {
