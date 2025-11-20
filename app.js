@@ -277,25 +277,48 @@ async function checkSingleAnswer(questionId) {
     const itemIndex = parseInt(input.dataset.item);
 
     const unit = await loadUnitData(unitNum);
-    const correctAnswer = unit.exercises[exIndex].items[itemIndex].answer;
+    if (!unit || !unit.exercises[exIndex]?.items[itemIndex]) {
+        feedback.innerHTML = '<span class="text-danger">Error loading answer.</span>';
+        return;
+    }
 
-    const normalize = (text) => text.replace(/[\u2018\u2019`]/g, "'").toLowerCase().trim();
+    const correctRaw = unit.exercises[exIndex].items[itemIndex].answer;
+
+    // Convert single string → array for uniform handling
+    const correctAnswers = Array.isArray(correctRaw) ? correctRaw : [correctRaw];
+
+    // Normalize function (smart quotes, trim, lowercase)
+    const normalize = (text) => {
+        return text
+            .replace(/[\u2018\u2019]/g, "'")
+            .replace(/[\u201C\u201D]/g, '"')
+            .replace(/[-–—]/g, '-')  // en-dash, em-dash
+            .toLowerCase()
+            .trim();
+    };
+
     const userAnswer = normalize(input.value);
-    const expectedAnswer = normalize(correctAnswer);
+    const normalizedCorrect = correctAnswers.map(ans => normalize(ans));
 
-    // Clear previous feedback
-    feedback.innerHTML = '';
+    // Clear previous styles & feedback
     input.classList.remove('is-valid', 'is-invalid');
+    feedback.innerHTML = '';
 
-    if (userAnswer === expectedAnswer) {
+    if (normalizedCorrect.includes(userAnswer)) {
         input.classList.add('is-valid');
         feedback.innerHTML = '<span class="text-success fw-bold">Correct!</span>';
     } else {
         input.classList.add('is-invalid');
-        feedback.innerHTML = `
-            <span class="text-danger">Incorrect.</span>
-            <br><small class="text-warning">Correct answer: <strong>${correctAnswer}</strong></small>
-        `;
+
+        let message = '<span class="text-danger">Incorrect.</span><br>';
+        if (correctAnswers.length === 1) {
+            message += `<small class="text-warning">Correct answer: <strong>${correctAnswers[0]}</strong></small>`;
+        } else {
+            message += `<small class="text-warning">Acceptable answers:<br>`;
+            message += correctAnswers.map(a => `• <strong>${a}</strong>`).join('<br>');
+            message += `</small>`;
+        }
+        feedback.innerHTML = message;
     }
 }
 
