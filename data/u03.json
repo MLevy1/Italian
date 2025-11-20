@@ -479,19 +479,19 @@
     },
     {
       "title": "Exercise 4",
-      "instruction": "Answer the questions using the **possessive pronoun**, according to whether the answer is affirmative or negative.",
-      "examples": ["‘È **la Sua macchina**, Signor Rossi?’ ‘Sì, è **la mia**.’"],
+      "instruction": "Answer the questions, using possessive pronouns.",
+      "examples": ["È la Sua macchina, Signor Rossi?’ ‘Sì, è la mia."],
       "items": [
-        {"question": "È **il cellulare** di Anna? (No)", "answer": "No, non è il suo."},
-        {"question": "È **la Vostra casa**, Signori Zola? (Sì)", "answer": "Sì, è la vostra."},
-        {"question": "Sono **i miei CD**? (No)", "answer": "No, non sono i tuoi."},
-        {"question": "È **il Suo ufficio**? (No)", "answer": "No, non è il suo."},
-        {"question": "Sono **i suoi libri**? (Sì)", "answer": "Sì, sono i suoi."},
-        {"question": "Sono **le mie lettere**? (Sì)", "answer": "Sì, sono le mie."},
-        {"question": "È **la casa** dei tuoi amici? (Sì)", "answer": "Sì, è la loro."},
-        {"question": "Sono **i nostri vestiti**? (No)", "answer": "No, non sono i vostri."},
-        {"question": "Sono **le camicie** di Paolo? (Sì)", "answer": "Sì, sono le sue."},
-        {"question": "Sono **i vostri bagagli**? (Sì)", "answer": "Sì, sono i vostri."}
+        {"question": "‘È il cellulare di Anna?’ ‘No, non è -.‘", "answer": "il suo"},
+        {"question": "’È la Vostra casa, Signori Zola?’ ‘Sì, è -.’", "answer": "la nostra"},
+        {"question": "’Sono i miei CD?’ ‘No, non sono -.’", "answer": "i tuoi"},
+        {"question": "’È il Suo uﬃcio?’ ‘No, non è -.’", "answer": "il mio"},
+        {"question": "’Sono i suoi libri?’ ‘Sì, sono -.’", "answer": "i suoi"},
+        {"question": "’Sono le mie lettere?’ ‘Sì, sono -.’", "answer": "le tue"},
+        {"question": "’È la casa dei tuoi amici?’ ‘Sì, è -.’", "answer": "la loro"},
+        {"question": "’Sono i nostri vestiti?’ ‘No, non sono -.’", "answer": "i loro"},
+        {"question": "’Sono le camicie di Paolo?’ ‘Sì, sono -.’", "answer": "le sue"},
+        {"question": "’Sono i vostri bagagli?’ ‘Sì, sono -.’", "answer": "i nostri"}
       ]
     },
     {
