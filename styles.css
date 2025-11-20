@@ -1,102 +1,88 @@
-/* Ensure the main container is responsive */
+* { margin:0; padding:0; box-sizing:border-box; }
+
 body {
-    margin: 0;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #1a1a1a; /* Dark background */
-    color: #e0e0e0; /* Light text for readability */
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+  line-height: 1.6;
+  padding: 2rem;
 }
 
-/* Container for the entire exercise section */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  padding: 2.5rem;
+}
+
+h1, h2 {
+  color: #dc2626;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
 .exercise {
-    width: 100%;
-    margin: 0 auto;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #2a2a2a; /* Darker section background */
-    border-radius: 8px;
+  margin: 2.5rem 0;
+  padding: 1.8rem;
+  background: #fef3c7;
+  border-left: 6px solid #f59e0b;
+  border-radius: 8px;
+  transition: all 0.3s ease;
 }
 
-/* Individual exercise item (label + input) */
-.exercise-item {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: left;
-    margin-bottom: 10px;
-    width: 100%;
-    background-color: #333333; /* Dark background for items */
-    padding: 10px;
-    border-radius: 4px;
+.exercise:hover { background: #fde68a; transform: translateY(-2px); }
+
+.exercise h3 {
+  color: #92400e;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
 }
 
-/* Label styling */
-.exercise-item label {
-    flex: 1 1 70%;
-    margin-right: 10px;
-    word-wrap: break-word;
-    max-width: 70%;
-    color: #e0e0e0; /* Light text */
+.question {
+  background: white;
+  padding: 1.2rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
-/* Input styling */
-.exercise-item input {
-    flex: 1 1 25%;
-    min-width: 100px;
-    padding: 5px;
-    box-sizing: border-box;
-    border: 1px solid #555555; /* Darker border */
-    border-radius: 4px;
-    background-color: #444444; /* Dark input background */
-    color: #e0e0e0; /* Light text */
+input[type="text"], textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  transition: border 0.2s;
 }
 
-/* Ensure feedback text stays within bounds */
-.exercise-item .feedback {
-    flex: 1 1 100%;
-    color: #ff5555; /* Bright red for incorrect */
-    font-size: 0.9em;
-    margin-top: 5px;
+input[type="text"]:focus, textarea:focus {
+  outline: none;
+  border-color: #dc2626;
+  box-shadow: 0 0 0 3px rgba(220,38,38,0.15);
 }
 
-/* Correct answer feedback */
-.correct-answer {
-    color: #55ff55; /* Bright green for correct */
+button {
+  background: #dc2626;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: background 0.2s;
 }
 
-/* Responsive adjustments for smaller screens */
-@media screen and (max-width: 600px) {
-    .exercise-item {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+button:hover { background: #b91c1c; }
 
-    .exercise-item label {
-        max-width: 100%;
-        margin-bottom: 5px;
-    }
+.correct { background: #d1fae5 !important; border-color: #10b981; }
+.incorrect { background: #fee2e2 !important; border-color: #ef4444; }
 
-    .exercise-item input {
-        max-width: 100%;
-        min-width: 0;
-    }
-}
-
-/* Button container for Check Answers and Reset */
-.button-container {
-    display: flex;
-    gap: 10px;
-    margin-top: 20px;
-}
-
-.button-container button {
-    padding: 10px 20px;
-    cursor: pointer;
-    background-color: #444444; /* Dark button background */
-    color: #e0e0e0; /* Light text */
-    border: 1px solid #666666; /* Darker border */
-    border-radius: 4px;
-}
-
-.button-container button:hover {
-    background-color: #555555; /* Slightly lighter on hover */
+@media (max-width: 640px) {
+  .container { padding: 1.5rem; }
+  body { padding: 1rem; }
 }
