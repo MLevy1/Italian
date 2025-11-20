@@ -499,16 +499,16 @@
       "instruction": "Complete the sentences by choosing the right form of the adjectives and pronouns.",
       "examples": ["(**Questo**) non è (**tuo**) **stanza**, è (**mio**): **Questa** non è **la tua stanza**, è **la mia**."],
       "items": [
-        {"question": "(**Questo**) **signori** sono (**nostro**) **ospiti** (**tedesco**).", "answer": "Questi signori sono i nostri ospiti tedeschi."},
-        {"question": "(**Suo**) **colleghi** sono (**ottimista**), Signora!", "answer": "I Suoi colleghi sono ottimisti, Signora!"},
-        {"question": "(**Questo**) sono (**vostro**) **stanze**.", "answer": "Queste sono le vostre stanze."},
-        {"question": "Io ho (**mio**) **documenti**, Lei ha (**Suo**), Signore?", "answer": "Io ho i miei documenti, Lei ha i Suoi, Signore?"},
-        {"question": "(**Questo**) sono (**mio**) **CD**, (**quello**) sono (**tuo**).", "answer": "Questi sono i miei CD, quelli sono i tuoi."},
-        {"question": "(**Nostro**) **professore** è (**entusiasta**), com’è (**vostro**)?", "answer": "Il nostro professore è entusiasta, com’è il vostro?"},
-        {"question": "(**Quello**) sono (**mio**) **magliette**, (**questo**) sono (**tuo**).", "answer": "Quelle sono le mie magliette, queste sono le tue."},
-        {"question": "(**Quello**) **esercizi** sono (**divertente**), ma (**questo**) è (**difficile**).", "answer": "Quelli esercizi sono divertenti, ma questo è difficile."},
-        {"question": "(**Mio**) **bagagli** sono (**pesante**), ma (**vostro**) sono (**leggero**).", "answer": "I miei bagagli sono pesanti, ma i vostri sono leggeri."},
-        {"question": "(**Quello**) **acqua** (**minerale**) è (**gassato**), ma (**questo**) è (**liscio**).", "answer": "Quell’acqua minerale è gassata, ma questa è liscia."}
+        {"question": "(Questo) signori sono (nostro) ospiti (tedesco).", "answer": "questi i nostri tedeschi"},
+        {"question": "(Suo) colleghi sono (ottimista), Signora!", "answer": "i Suoi, ottimisti"},
+        {"question": "(Questo) sono (vostro) stanze.", "answer": " queste, le vostre"},
+        {"question": "Io ho (mio) documenti, Lei ha (Suo), Signore?", "answer": "i miei, i Suoi"},
+        {"question": "(Questo) sono (mio) CD, (quello) sono (tuo).", "answer": " questi, i miei, quelli, i tuoi"},
+        {"question": "(Nostro) professore è (entusiasta), com’è (vostro)?", "answer": "il nostro, entusiasta, il vostro"},
+        {"question": "(Quello) sono (mio) magliette, (questo) sono (tuo).", "answer": " quelle, le mie, queste, le tue"},
+        {"question": "(Quello) esercizi sono (divertente), ma (questo) è (diﬃcile).", "answer": "quegli, divertenti, questo, difficile"},
+        {"question": "(Mio) bagagli sono (pesante), ma (vostro) sono (leggero).", "answer": "i miei, pesanti, i vostri, leggeri"},
+        {"question": "(Quello) acqua (minerale) è (gassato), ma (questo) è (liscio).", "answer": "quell’, minerale, gassata, questa, liscia"}
       ]
     }
   ]
