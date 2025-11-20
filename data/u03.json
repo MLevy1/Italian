@@ -487,9 +487,9 @@
         {"question": "’Sono i miei CD?’ ‘No, non sono -.’", "answer": "i tuoi"},
         {"question": "’È il Suo uﬃcio?’ ‘No, non è -.’", "answer": "il mio"},
         {"question": "’Sono i suoi libri?’ ‘Sì, sono -.’", "answer": "i suoi"},
-        {"question": "’Sono le mie lettere?’ ‘Sì, sono -.’", "answer": "le tue"},
+        {"question": "’Sono le mie lettere?’ ‘Sì, sono -.’", "answer": ["le Sue", "le tue"]},
         {"question": "’È la casa dei tuoi amici?’ ‘Sì, è -.’", "answer": "la loro"},
-        {"question": "’Sono i nostri vestiti?’ ‘No, non sono -.’", "answer": "i loro"},
+        {"question": "’Sono i nostri vestiti?’ ‘No, non sono -.’", "answer": ["i vostri", "i loro"]},
         {"question": "’Sono le camicie di Paolo?’ ‘Sì, sono -.’", "answer": "le sue"},
         {"question": "’Sono i vostri bagagli?’ ‘Sì, sono -.’", "answer": "i nostri"}
       ]
