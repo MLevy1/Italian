@@ -101,7 +101,8 @@ async function renderContent() {
                 <section class="mb-5">
                     <h3 class="mb-3">${parseBoldText(section.title)}</h3>
                     ${section.paragraphs.map(p => `
-                        ${p.content ? `<p>${p.id ? p.id + ' ' : ''}${parseBoldText(p.content)}</p>` : ''}
+                        ${p.id ? `<span class="unit-id h5 fw-bold me-2">${p.id}</span>` : ''}
+                        ${parseBoldText(p.content)}
                         ${p.list ? `<ul class="list-group list-group-flush">${p.list.map(item => `<li class="list-group-item bg-dark text-light">${parseBoldText(item)}</li>`).join('')}</ul>` : ''}
                         ${p.table ? `
                             <div class="table-responsive">
