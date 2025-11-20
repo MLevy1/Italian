@@ -144,22 +144,20 @@ async function renderContent() {
                 ${exercise.items.map((item, itemIndex) => {
                     const questionId = `question-${currentUnit}-${exIndex}-${itemIndex}`;
                     return `
-                        <div class="container exercise-item mb-4 p-3 border rounded bg-dark" id="${questionId}">
+                        <div class="exercise-item mb-4 p-3 border rounded bg-dark" id="${questionId}">
                         
-                            <div class="row mb-2 fw-bold text-light">
+                            <div class="mb-2 fw-bold text-light">
                                 ${itemIndex + 1}. ${parseBoldText(item.question)}
                             </div>
                             
-                            <div class="row">
                                 <input type="text" 
                                        class="form-control mb-2 answer-input" 
                                        data-unit="${currentUnit}" 
                                        data-ex="${exIndex}" 
                                        data-item="${itemIndex}" 
                                 />
-                            </div>
                             
-                            <div class="row d-flex gap-2 mt-2">
+                            <div class="d-flex gap-2 mt-2">
                                 <button class="btn btn-sm btn-success check-btn" 
                                         data-question-id="${questionId}">
                                     Check Answer
@@ -169,9 +167,8 @@ async function renderContent() {
                                     Reset
                                 </button>
                             </div>
-                            <div class="row">
+                            
                             <div class="feedback mt-2"></div>
-                            </div>
                         </div>
                     `;
                 }).join('')}
