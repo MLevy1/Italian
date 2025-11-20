@@ -371,33 +371,37 @@ async function showContents(){
     
     try {
 
-        const unitPromises = availableUnits.map(async (unitNum) => {
-            try {
-                const unit = await loadUnitData(unitNum);
-                const title = unit?.text?.title ? sanitizeHTML(parseBoldText(unit.text.title)): `Unit ${unitNum}`;
-                return `
-                    <tr>
-                        <td class="text-primary fw-bold text-center align-middle"> Unit ${unitNum}</td>
-                        <td>
-                            <button
-                                class="btn btn-link text-start unit-button"
-                                type="button"
-                                data-unit="${unitNum}"
-                            >
-                                ${title}
-                            </button>
-                        </td>
-                    </tr>`;
-            } catch (error) {
-                console.error(`Error loading unit ${unitNum}:`, error);
-                return `
-                    <tr>
-                        <td>Unit ${unitNum}</td>
-                        <td>Error loading unit</td>
-                    </tr>
-                `;
-            }
-        });
+const unitPromises = availableUnits.map(async (unitNum) => {
+  try {
+    const unit = await loadUnitData(unitNum);
+    const title = unit?.text?.title
+      ? sanitizeHTML(parseBoldText(unit.text.title))
+      : `Unit ${unitNum}`;
+
+    return `
+      <tr>
+        <td class="text-primary fw-bold text-center align-middle">
+          Unit ${unitNum}
+        </td>
+        <td>
+          <button
+            class="btn btn-link text-start unit-button"
+            type="button"
+            data-unit="${unitNum}"
+          >
+            ${title}
+          </button>
+        </td>
+      </tr>`;
+  } catch (error) {
+    console.error(`Error loading unit ${unitNum}:`, error);
+    return `
+      <tr>
+        <td>Unit ${unitNum}</td>
+        <td>Error loading unit</td>
+      </tr>`;
+  }
+});
         
         const unitItems = await Promise.all(unitPromises);
         tableHTML += unitItems.join('') + '</table>';
