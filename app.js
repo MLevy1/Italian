@@ -388,7 +388,7 @@ return `
         </td>
         <td class="align-middle">
           <button
-            class="btn btn-link text-start"
+            class="btn btn-link text-start unit-button"
             type="button"
             data-unit="${unitNum}"
           >
