@@ -385,7 +385,7 @@ const unitPromises = availableUnits.map(async (unitNum) => {
         </td>
         <td class="text-center align-middle">
           <button
-            class="btn btn-link text-light text-decoration-none"
+            class="mt-0 btn btn-link text-light text-decoration-none"
             type="button"
             data-unit="${unitNum}"
           >
