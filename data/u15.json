@@ -8,21 +8,21 @@
                 "paragraphs": [
                     {
                         "id": 1,
-                        "content": "The Italian **relative pronouns** correspond to the English ‘who’, ‘which’, ‘that’, ‘whom’, ‘whose’. They have two forms: **invariable** (**che**, **cui**) and **variable** (**il quale** [ms], **la quale** [fs], **i quali** [mp], **le quali** [fp]):",
+                        "content": "The Italian relative pronouns correspond to the English ‘who’, ‘which’, ‘that’, ‘whom’, ‘whose’. They have two forms: invariable (**che**, **cui**) and variable (**il quale** [ms], **la quale** [fs], **i quali** [mp], **le quali** [fp]):",
                         "table": {
-                            "headers": ["Form", "Type"],
                             "rows": [
-                                ["che", "invariable"],
-                                ["cui", "invariable"],
-                                ["il quale", "variable (ms)"],
-                                ["la quale", "variable (fs)"],
-                                ["i quali", "variable (mp)"],
-                                ["le quali", "variable (fp)"]
+                                ["Il treno **che** prendo la mattina è sempre molto affollato.", "The train (that) I get in the morning is always very crowded."],
+                                ["La storia **che** ho letto è strana.", "The story (that) I’ve read is strange."],
+                                ["La ragazza **che**/**la quale** ha telefonato ha bisogno di un favore.", "The girl who phoned needs a favour."],
+                                ["Gli amici **che**/**i quali** sono venuti a trovarmi sono irlandesi.", "The friends who came to see me are Irish."],
+                                ["Hai ancora le chiavi **che** ti ho dato?", "Have you still got the keys (that) I gave you?"],
+                                ["Il ragazzo **con cui**/**col quale** esci è molto simpatico.", "The boy with whom you are going out/you’re going out with is very nice."],
+                                ["La ragazza **a cui**/**alla quale** ho dato i libri è una mia amica.*", "The girl to whom I gave the books/I gave the books to is a friend of mine."]
                             ]
                         }
                     },
                     {
-                        "content": "The **invariable forms**, which can replace all nouns (masculine, feminine, singular, plural), are the most frequently used."
+                        "content": "The invariable forms, which can replace all nouns (masculine, feminine, singular, plural), are the most frequently used."
                     }
                 ]
             },
@@ -31,18 +31,13 @@
                 "paragraphs": [
                     {
                         "id": 2,
-                        "content": "The **invariable form** **che** is used for masculine, feminine, singular, and plural nouns; it can be either a **subject** or a **direct object**:",
+                        "content": "The invariable form **che** is used for masculine, feminine, singular, and plural nouns; it can be either a subject or a direct object:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Il treno **che** prendo la mattina è sempre molto affollato.", "The train (that) I get in the morning is always very crowded."],
-                                ["La storia **che** ho letto è strana.", "The story (that) I’ve read is strange."],
-                                ["La ragazza **che**/**la quale** ha telefonato ha bisogno di un favore.", "The girl who phoned needs a favour."],
-                                ["Gli amici **che**/**i quali** sono venuti a trovarmi sono irlandesi.", "The friends who came to see me are Irish."],
-                                ["Hai ancora le chiavi **che** ti ho dato?", "Have you still got the keys (that) I gave you?"],
                                 ["Il gruppo **che** suona stasera è molto conosciuto.*", "The group who are playing tonight are very well known."],
-                                ["Il cantante **che** abbiamo sentito ieri sera non è molto bravo.", "The singer (whom) we heard last night isn’t very good."],
-                                ["Le scarpe **che** ho comprato sono care.", "The shoes (that) I bought are expensive."]
+                                ["Il cantante ***che*** abbiamo sentito ieri sera non è molto bravo.", "The singer (whom) we heard last night isn’t very good."],
+                                ["Le scarpe ***che*** ho comprato sono care.", "The shoes (that) I bought are expensive."],
+                                ["Non conosco i ragazzi ***che*** [subject, mp] sono appena arrivati.", "I don’t know the boys who have just arrived."]
                             ]
                         }
                     },
@@ -56,13 +51,17 @@
                 "paragraphs": [
                     {
                         "id": 3,
-                        "content": "When a **preposition** is needed before the **invariable relative pronoun** (e.g. if it stands for an **indirect object**), the form used is **cui**:",
+                        "content": "When a preposition is needed before the invariable relative pronoun (e.g. if it stands for an indirect object), the form used is **cui**:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Il ragazzo **con cui**/**col quale** esci è molto simpatico.", "The boy with whom you are going out/you’re going out with is very nice."],
-                                ["La ragazza **a cui**/**alla quale** ho dato i libri è una mia amica.*", "The girl to whom I gave the books/I gave the books to is a friend of mine."],
-                                ["La ragione **per cui** non vengo è semplice.**", "The reason why I’m not coming is simple."]
+                                ["Lo zio a ***cui*** scrivo sempre arriva domani.", "The uncle I always write to/to whom I always write is arriving tomorrow."],
+                                ["La vicina ***per cui*** ho fatto la spesa mi ha invitato a cena.", "The neighbour I went shopping for/for whom I went shopping has invited me to dinner."],
+                                ["Non conosci la persona ***(a) cui*** devo telefonare.*", "You don’t know the person (that) I have to phone."],
+                                ["Il dentista ***da cui*** vado è molto bravo.", "The dentist I go to is very good."],
+                                ["Nella città ***in cui*** abito ci sono molti cinema.", "There are a lot of cinemas in the town in which I live."],
+                                ["Gli amici ***con cui*** esco sono italiani.", "The friends I go out with are Italian."],
+                                ["Non capisco la ragione ***per cui*** Paola non è venuta.**", "I don’t understand (the reason) why Paola didn’t come."],
+                                ["Non ho ancora letto le notizie ***di cui*** parli.", "I haven’t read the news you’re talking about yet."]
                             ]
                         }
                     },
@@ -81,12 +80,14 @@
                         "id": 4,
                         "content": "The **variable forms** **il quale** [ms], **la quale** [fs], **i quali** [mp], **le quali** [fp] are used as **subject**, **indirect object**, and – very rarely – as **direct object**. They must agree in gender and number with the noun they replace:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
+                                ["Paolo, il quale è sempre in ritardo, non è ancora arrivato.", "Paolo, who is always late, still hasn’t arrived."],
+                                ["Ho parlato con una ragazza la quale mi ha dato tutte le informazioni.", "I spoke to a girl who gave me all the information."],
+                                ["Tullio e Anna sono amici i quali mi invitano spesso.", "Tullio and Anna are friends who often invite me round."],
+                                ["Ci sono due signore le quali non hanno prenotato.", "There are two ladies who haven’t booked."],
+                                ["L’amica con la quale sono andata in vacanza si chiama Elisa.", "The friend with whom I went on holiday/I went away with is called Elisa."],
                                 ["Questa è l’amica **della quale** ti ho parlato.*", "This is the friend I told you about."],
-                                ["L’insegnante **al quale** ho parlato è stato molto gentile.*", "The teacher I spoke to was very kind."],
-                                ["Non conosco i ragazzi **i quali** hanno prenotato.", "I don’t know the boys who have booked."],
-                                ["Le signore **le quali** non hanno prenotato.", "The ladies who haven’t booked."]
+                                ["L’insegnante **al quale** ho parlato è stato molto gentile.*", "The teacher I spoke to was very kind."]
                             ]
                         }
                     },
@@ -100,9 +101,8 @@
                 "paragraphs": [
                     {
                         "id": 5,
-                        "content": "When a **relative pronoun** is preceded by **in** or **a**, and these denote **place**, it is often replaced, in **contemporary Italian**, by the adverb **dove**. **Da dove** or **di dove** can be used when the **relative pronoun** is preceded by the preposition **da**:",
+                        "content": "When a relative pronoun is preceded by **in** or **a**, and these denote place, it is often replaced, in contemporary Italian, by the adverb **dove**. **Da dove** or **di dove** can be used when the **relative pronoun** is preceded by the preposition **da**:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Milano è la città **dove** vive Walter. [for **in cui**]", "Milan is the city where Walter lives."],
                                 ["Questo è il negozio **dove** lavora Pia. [for **in cui**]", "This is the shop where Pia works."],
@@ -118,12 +118,11 @@
                 "paragraphs": [
                     {
                         "id": 6,
-                        "content": "The **relative pronouns** (both **variable** and **invariable**) can be used in conjunction with the **demonstrative pronouns** **colui** and **quello**."
+                        "content": "The relative pronouns (both variable and invariable) can be used in conjunction with the demonstrative pronouns **colui** and **quello**."
                     },
                     {
-                        "content": "**Colui** can only refer to **people**. It has three forms: **colui** [ms], **colei** [fs], **coloro** [mp and fp]; these combine with **che**/**cui** or **il quale**/**la quale**/**i quali**/**le quali** as follows:",
+                        "content": "**Colui** can only refer to people. It has three forms: **colui** [ms], **colei** [fs], **coloro** [mp and fp]; these combine with **che**/**cui** or **il quale**/**la quale**/**i quali**/**le quali** as follows:",
                         "table": {
-                            "headers": ["Form", "Meaning"],
                             "rows": [
                                 ["**colui che** or **colui il quale**", "he who"],
                                 ["**colei che** or **colei la quale**", "she who"],
@@ -134,7 +133,6 @@
                     {
                         "content": "**Quello** has four forms: **quello** [ms], **quella** [fs], **quelli** [mp], **quelle** [fp]; these only combine with **che**/**cui**, and can refer to both **objects** and **people**:",
                         "table": {
-                            "headers": ["Form", "Meaning"],
                             "rows": [
                                 ["**quello che**", "that which, he who, the one which/who"],
                                 ["**quella che**", "that which, she who, the one which/who"],
@@ -144,14 +142,17 @@
                         }
                     },
                     {
-                        "content": "The use of **quello che** etc. to refer to a person is rather **informal**, unlike **colui che**/**colui il quale** etc. which are quite **formal**.",
+                        "content": "The use of **quello che** etc. to refer to a person is rather informal, unlike **colui che**/**colui il quale** etc. which are quite formal.",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Colui che** parla è il professore.", "He who is speaking is the professor."],
-                                ["**Colei che** ha scritto il libro è famosa.", "She who wrote the book is famous."],
-                                ["**Quello che** ho comprato è nuovo.", "The one which I bought is new."],
-                                ["**Quelli che** cantano sono studenti.", "Those who are singing are students."]
+                                ["Colui che pensa questo sbaglia.", "He who thinks this is wrong."],
+                                ["Quello che pensa questo sbaglia.", "Anyone who thinks this is wrong."],
+                                ["Possono entrare solo coloro che/coloro i quali hanno l’invito.", "Only those who have an invitation may come/go in."],
+                                ["Possono entrare solo quelli che hanno l’invito.", "Only people with an invitation can come/go in."],
+                                ["Coloro a cui/ai quali scrivo sono amici di mio fratello.", "Those I’m writing to are friends of my brother(’s)."],
+                                ["Quelli a cui scrivo sono amici di mio fratello.", "The people I’m writing to are friends of my brother(’s)."],
+                                ["Quelli che sono sul tavolo sono i libri di Tullio.", "Those/The ones (which are) on the table are Tullio’s books."],
+                                ["Ci sono due case: quella in cui abita Giorgio è la più grande.", "There are two houses: the one Giorgio lives in is the bigger."]
                             ]
                         }
                     }
@@ -162,14 +163,16 @@
                 "paragraphs": [
                     {
                         "id": 7,
-                        "content": "When referring to **people**, the pronoun **chi** (who, anyone who, the person/people who) is often used instead of the more formal ‘double relative’ (**colui**/**colei**/**coloro che**, **colui il quale**, etc.). **Chi** is always used with the verb in the **third person singular**; **past participles** and **adjectives** are always in the **masculine singular**:",
+                        "content": "When referring to people, the pronoun **chi** (who, anyone who, the person/people who) is often used instead of the more formal ‘double relative’ (**colui**/**colei**/**coloro che**, **colui il quale**, etc.). **Chi** is always used with the verb in the third person singular; past participles and adjectives are always in the masculine singular:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Chi** arriva primo vince il premio.", "Whoever arrives first wins the prize."],
-                                ["**Chi** ha chiamato è partito.", "The person who called has left."],
-                                ["**Chi** vuole venire è benvenuto.", "Anyone who wants to come is welcome."],
-                                ["**Chi** ha scritto questo è famoso.", "The person who wrote this is famous."]
+                                ["Chi pensa questo sbaglia.", "Anyone who thinks this is wrong."],
+                                ["Può entrare solo chi ha l’invito", "Only people who have an invitation can come in/go in."],
+                                ["Non ho visto chi è entrato.", "I didn’t see who came in/went in."],
+                                ["Esco con chi mi invita.", "I’ll go out with anyone who invites/asks me."],
+                                ["Lavoro per chi mi paga.", "I’ll work for anyone who pays me."],
+                                ["Ripeto la spiegazione per chi non ha capito.", "I’ll repeat the explanation for those/anyone who didn’t understand."],
+                                ["Hai risposto a chi ti ha scritto?", "Have you replied to the person/peoplewho wrote to you?"]
                             ]
                         }
                     }
@@ -182,95 +185,93 @@
             "title": "Exercise 1: Complete with che or cui",
             "instruction": "Complete the sentences with the **relative pronouns** **che** or **cui**.",
             "examples": [
-                "Il film **—** mi hai consigliato è molto bello.: Il film **che** mi hai consigliato è molto bello.",
-                "La palestra **in —** vado non è lontana.: La palestra **in cui** vado non è lontana."
+                "La ragazza —— ho invitato è mia cugina: che",
+                "Il ragazzo a —— devo  telefonare è Matteo: cui"
             ],
             "items": [
-                { "question": "Il film **—** mi hai consigliato è molto bello.", "answer": "Il film che mi hai consigliato è molto bello." },
-                { "question": "La palestra **in —** vado non è lontana.", "answer": "La palestra in cui vado non è lontana." },
-                { "question": "I bambini **—** sono venuti sono i miei cugini.", "answer": "I bambini che sono venuti sono i miei cugini." },
-                { "question": "Non conosco le persone **con —** esci.", "answer": "Non conosco le persone con cui esci." },
-                { "question": "La torta **—** ha fatto tua mamma è molto buona.", "answer": "La torta che ha fatto tua mamma è molto buona." },
-                { "question": "Quando mi rendi i CD **—** ti ho imprestato?", "answer": "Quando mi rendi i CD che ti ho imprestato?" },
-                { "question": "L’argomento **di —** parla Paolo non mi interessa.", "answer": "L’argomento di cui parla Paolo non mi interessa." },
-                { "question": "La ragione **per —** non sono venuto è semplice.", "answer": "La ragione per cui non sono venuto è semplice." },
-                { "question": "La città **—** visiti è Roma?", "answer": "La città che visiti è Roma?" },
-                { "question": "Gli amici **a —** scrivo sono in vacanza.", "answer": "Gli amici a cui scrivo sono in vacanza." }
+                { "question": "Il film —— mi hai consigliato è molto bello.", "answer": "che" },
+                { "question": "La palestra in —— vado non è lontana.", "answer": "cui" },
+                { "question": "I bambini —— sono venuti sono i miei cugini.", "answer": "che" },
+                { "question": "Non conosco le persone con — esci.", "answer": "cui" },
+                { "question": "La torta —— ha fatto tua mamma è molto buona.", "answer": "che" },
+                { "question": "Quando mi rendi i CD —— ti ho imprestato?", "answer": "che" },
+                { "question": "L’argomento di —— parla Paolo non mi interessa.", "answer": "cui" },
+                { "question": "La ragione per —— non sono venuto è semplice.", "answer": "cui" },
+                { "question": "La città —— visiti è Roma?", "answer": "cui" },
+                { "question": "Come è andato l’esame —— hai dato ieri?", "answer": "che" }
             ]
         },
         {
             "title": "Exercise 2: Translate into English",
-            "instruction": "Translate the following Italian sentences into English.",
+            "instruction": "Complete the sentences with the relative pronouns **che** or **cui**",
             "examples": [
-                "**Colui che** pensa questo sbaglia.: **He who** thinks this is wrong.",
-                "Possono entrare solo **coloro che** hanno l’invito.: Only **those who** have the invitation can enter."
+                "Hai comprato le cose —— ti ho chiesto?: che",
+                "La discoteca in —— andiamo è in centro: cui"
             ],
             "items": [
-                { "question": "**Colui che** pensa questo sbaglia.", "answer": "He who thinks this is wrong." },
-                { "question": "Possono entrare solo **coloro che** hanno l’invito.", "answer": "Only those who have the invitation can enter." },
-                { "question": "**Quelli a cui** scrivo sono amici di mio fratello.", "answer": "Those to whom I write are my brother’s friends." },
-                { "question": "Ci sono due case: **quella in cui** abita Giorgio è la più grande.", "answer": "There are two houses: the one in which Giorgio lives is the bigger one." },
-                { "question": "Non ho visto **chi** è entrato.", "answer": "I didn’t see who came in." },
-                { "question": "Lavoro per **chi** mi paga.", "answer": "I work for whoever pays me." },
-                { "question": "Hai risposto **a chi** ti ha scritto?", "answer": "Did you reply to the person who wrote to you?" },
-                { "question": "**Quelli che** sono sul tavolo sono i libri di Tullio.", "answer": "Those which are on the table are Tullio’s books." },
-                { "question": "Esco **con chi** mi invita.", "answer": "I go out with whoever invites me." },
-                { "question": "Ripeto la spiegazione per **chi** non ha capito.", "answer": "I repeat the explanation for anyone who didn’t understand." }
+                { "question": "Nella biblioteca in —— vado a studiare fa sempre freddo.", "answer": "cui" },
+                { "question": "Gli amici da —— siamo andati sono molto simpatici.", "answer": "cui" },
+                { "question": "La stanza in —— dorme Luigi è la più luminosa", "answer": "cui" },
+                { "question": "Non mi piace la musica —— ascolti tu", "answer": "che" },
+                { "question": "Hai già letto il libro —— ti hanno regalato?", "answer": "che" },
+                { "question": "Gli esercizi —— avete fatto sono tutti giusti.", "answer": "che" },
+                { "question": "Quello è il muro su —— vogliamo mettere i poster.", "answer": "cui" },
+                { "question": " Vuoi leggere la lettera —— mi ha scritto Angela?", "answer": "che" },
+                { "question": "Il medico da —— vanno i miei genitori è molto giovane.", "answer": "cui" },
+                { "question": "Di chi è la bici con —— sei arrivato?", "answer": "cui" }
             ]
         },
         {
             "title": "Exercise 3: Complete with che or cui",
-            "instruction": "Complete the sentences with the **relative pronouns** **che** or **cui**.",
+            "instruction": "Replace che and cui with il quale, la quale, i quali or le quali (remember to combine the definite article and the preposition, where necessary).",
             "examples": [
-                "Il libro **—** hai comprato è caro.: Il libro **che** hai comprato è caro.",
-                "La città **di —** parliamo è Firenze.: La città **di cui** parliamo è Firenze."
+                "Gli amici da cui andiamo in vacanza sono simpatici: dai quali"
             ],
             "items": [
-                { "question": "Il libro **—** hai comprato è caro.", "answer": "Il libro che hai comprato è caro." },
-                { "question": "La città **di —** parliamo è Firenze.", "answer": "La città di cui parliamo è Firenze." },
-                { "question": "Gli studenti **—** hanno finito sono usciti.", "answer": "Gli studenti che hanno finito sono usciti." },
-                { "question": "La persona **a —** ho dato il libro è mia sorella.", "answer": "La persona a cui ho dato il libro è mia sorella." },
-                { "question": "Il ragazzo **—** ha ricevuto l’invito è contento.", "answer": "Il ragazzo che ha ricevuto l’invito è contento." },
-                { "question": "Franco, **—** è un bravo attore, ha trovato lavoro in un teatro.", "answer": "Franco, che è un bravo attore, ha trovato lavoro in un teatro." },
-                { "question": "Il parrucchiere **da —** vado è un amico.", "answer": "Il parrucchiere da cui vado è un amico." },
-                { "question": "Le cugine di Chiara, **—** abitano vicino a me, sono simpatiche.", "answer": "Le cugine di Chiara, che abitano vicino a me, sono simpatiche." },
-                { "question": "Le amiche **di —** ti ho parlato arrivano domani.", "answer": "Le amiche di cui ti ho parlato arrivano domani." },
-                { "question": "I nostri amici, **—** sono tutti italiani, non parlano inglese.", "answer": "I nostri amici, che sono tutti italiani, non parlano inglese." }
+                { "question": "Mia madre, che è infermiera, lavora in un ospedale.", "answer": "la quale" },
+                { "question": "Chi è la ragazza con cui sei uscito?", "answer": "con la quale" },
+                { "question": "Gli esami di cui ha parlato il professore sono a giugno.", "answer": "dei quali" },
+                { "question": "Il campeggio in cui siamo stati è vicino al mare.", "answer": "nel quale" },
+                { "question": "Tutte le ragazze a cui ho telefonato hanno accettato l’invito.", "answer": "alle quali" },
+                { "question": "Franco, che è un bravo attore, ha trovato lavoro in un teatro.", "answer": "il quale" },
+                { "question": "Il parrucchiere da cui vado è un amico.", "answer": "dal quale" },
+                { "question": "Le cugine di Chiara, che abitano vicino a me, sono simpatiche.", "answer": "le quali" },
+                { "question": "Le amiche di cui ti ho parlato arrivano domani.", "answer": "delle quali" },
+                { "question": "I nostri amici, che sono tutti italiani, non parlano inglese.", "answer": "i quali" }
             ]
         },
         {
             "title": "Exercise 4: Double Relative Pronouns",
-            "instruction": "Supply the correct **double relative pronoun** (**colui**/**colei**/**coloro che**).",
+            "instruction": "Supply the correct double relative pronoun (**colui**/**colei**/**coloro che**).",
             "examples": [
-                "**——** ha scritto questo libro è la sorella di Piero.: **Colei che** ha scritto questo libro è la sorella di Piero.",
-                "**——** ci hanno invitati sono amici di Luisa.: **Coloro che** ci hanno invitati sono amici di Luisa."
+                "———— hanno biglietti possono entrare: coloro che"
             ],
             "items": [
-                { "question": "**——** ha scritto questo libro è la sorella di Piero.", "answer": "Colei che ha scritto questo libro è la sorella di Piero." },
-                { "question": "**——** ci hanno invitati sono amici di Luisa.", "answer": "Coloro che ci hanno invitati sono amici di Luisa." },
-                { "question": "**——** ha vinto il premio è Antonio.", "answer": "Colui che ha vinto il premio è Antonio." },
-                { "question": "**——** dà le informazioni deve parlare inglese e spagnolo.", "answer": "Colui che dà le informazioni deve parlare inglese e spagnolo." },
-                { "question": "**——** hanno parlato sono persone molto importanti.", "answer": "Coloro che hanno parlato sono persone molto importanti." }
+                { "question": "**——** ha scritto questo libro è la sorella di Piero.", "answer": "colei che" },
+                { "question": "**——** ci hanno invitati sono amici di Luisa.", "answer": "coloro che" },
+                { "question": "**——** ha vinto il premio è Antonio.", "answer": "colui che" },
+                { "question": "**——** dà le informazioni deve parlare inglese e spagnolo.", "answer": ["colui", "colei che"] },
+                { "question": "**——** hanno parlato sono persone molto importanti.", "answer": "coloro che" }
             ]
         },
         {
             "title": "Exercise 5: Complete with chi or quello/quella/quelli/quelle che",
             "instruction": "Complete using the correct pronouns (**chi** or **quello**/**quella**/**quelli**/**quelle che**).",
             "examples": [
-                "Non conosco **—** ha scritto questa lettera.: Non conosco **chi** ha scritto questa lettera.",
-                "La spiegazione è **—** ti ho dato.: La spiegazione è **quella che** ti ho dato."
+                "—— non ha il biglietto non entra: chi",
+                " —— hai fatto non sono errori gravi: quelli che"
             ],
             "items": [
-                { "question": "Non conosco **—** ha scritto questa lettera.", "answer": "Non conosco chi ha scritto questa lettera." },
-                { "question": "La spiegazione è **—** ti ho dato.", "answer": "La spiegazione è quella che ti ho dato." },
-                { "question": "Il controllore è **—** controlla i biglietti.", "answer": "Il controllore è colui che controlla i biglietti." },
-                { "question": "Vince il premio **—** finisce per primo.", "answer": "Vince il premio chi finisce per primo." },
-                { "question": "**—** ti ho imprestato sono i libri che devi leggere.", "answer": "Quelli che ti ho imprestato sono i libri che devi leggere." },
-                { "question": "**—** abbiamo comprato è un’auto economica.", "answer": "Quella che abbiamo comprato è un’auto economica." },
-                { "question": "**—** fa la spesa al mercato spende meno.", "answer": "Chi fa la spesa al mercato spende meno." },
-                { "question": "**—** abbiamo prenotato è un hotel di lusso.", "answer": "Quello che abbiamo prenotato è un hotel di lusso." },
-                { "question": "**—** non può venire deve telefonare per avvertire.", "answer": "Chi non può venire deve telefonare per avvertire." },
-                { "question": "**—** ho visto in quel negozio sono scarpe molto belle.", "answer": "Quelle che ho visto in quel negozio sono scarpe molto belle." }
+                { "question": "Non conosco **—** ha scritto questa lettera.", "answer": "chi" },
+                { "question": "La spiegazione è **—** ti ho dato.", "answer": "quella che" },
+                { "question": "Il controllore è **—** controlla i biglietti.", "answer": ["chi", "quello che"] },
+                { "question": "Vince il premio **—** finisce per primo.", "answer": "chi" },
+                { "question": "**—** ti ho imprestato sono i libri che devi leggere.", "answer": "quelli che" },
+                { "question": "**—** abbiamo comprato è un’auto economica.", "answer": "quella che" },
+                { "question": "**—** fa la spesa al mercato spende meno.", "answer": "chi" },
+                { "question": "**—** abbiamo prenotato è un hotel di lusso.", "answer": "quello che" },
+                { "question": "**—** non può venire deve telefonare per avvertire.", "answer": "chi" },
+                { "question": "**—** ho visto in quel negozio sono scarpe molto belle.", "answer": "quelle che" }
             ]
         },
         {
@@ -282,15 +283,15 @@
             ],
             "items": [
                 { "question": "The book **which** I want to buy is too expensive.", "answer": "Il libro che voglio comprare è troppo caro." },
-                { "question": "The lady **I spoke to** is German.", "answer": "La signora a cui ho parlato è tedesca." },
-                { "question": "The people **who** phoned live in America!", "answer": "Le persone che hanno telefonato vivono in America!" },
-                { "question": "The town **I live in** isn’t very big.", "answer": "La città in cui vivo non è molto grande." },
-                { "question": "Anyone **who** wants to go to university must be able to read and write.", "answer": "Chi vuole andare all’università deve saper leggere e scrivere." },
-                { "question": "Paolo, **who**’s lost his mobile, is not happy.", "answer": "Paolo, che ha perso il suo cellulare, non è felice." },
-                { "question": "I like that song, but I prefer **the ones** we heard last night.", "answer": "Mi piace quella canzone, ma preferisco quelle che abbiamo sentito ieri sera." },
-                { "question": "This is Fabio’s sister, **who** lent me her bike.", "answer": "Questa è la sorella di Fabio, che mi ha prestato la sua bicicletta." },
-                { "question": "Did you [sing.] see **who** ate the peaches?", "answer": "Hai visto chi ha mangiato le pesche?" },
-                { "question": "Who’s the man **you [pl.] sold the tickets to**?", "answer": "Chi è l’uomo a cui avete venduto i biglietti?" }
+                { "question": "The lady **I spoke to** is German.", "answer": ["La signora con cui ho parlato è tedesca.", "La signora con la quale ho parlato è tedesca."] },
+                { "question": "The people **who** phoned live in America!", "answer": ["Le persone che hanno telefonato vivono or abitano in America!", "Le persone le quali hanno telefonato vivono or abitano in America!"] },
+                { "question": "The town **I live in** isn’t very big.", "answer": ["La città dove non è molto grande.", "La città in cui non è molto grande.", "La città nella quale vivo non è molto grande.", "La città abito non è molto grande."] },
+                { "question": "Anyone **who** wants to go to university must be able to read and write.", "answer": ["Colui che andare all’università deve sapere leggere e scrivere.", "Chi vuole andare all’università deve sapere leggere e scrivere."] },
+                { "question": "Paolo, **who**’s lost his mobile, is not happy.", "answer": ["Paolo, che ha perso il suo cellulare, non è contento.", "Paolo, che ha perso il suo cellulare, non è felice.", "Paolo, che ha perso il cellulare, non è contento.", "Paolo, che ha perso il cellulare, non è felice.", "Paolo, il quale ha perso il suo cellulare, non è contento.", "Paolo, il quale ha perso il suo cellulare, non è felice.", "Paolo, il quale ha perso il cellulare, non è contento.", "Paolo, il quale ha perso il cellulare, non è felice."]},
+                { "question": "I like that song, but I prefer **the ones** we heard last night.", "answer": ["Quella canzone mi piace, ma preferisco quelle che abbiamo sentito ieri sera.", "Mi piace quella canzone, ma preferisco quelle che abbiamo sentito ieri sera."] },
+                { "question": "This is Fabio’s sister, **who** lent me her bike.", "answer": ["Questa è la sorella di Fabio, la quale mi ha prestato la sua bici.", "Questa è la sorella di Fabio, che mi ha prestato la sua bici.", "Ecco la sorella di Fabio, la quale mi ha prestato la sua bici.", "Ecco la sorella di Fabio, che mi ha prestato la sua bici."] },
+                { "question": "Did you [sing.] see **who** ate the peaches?", "answer": ["Hai visto chi ha mangiato le pesche?", "Hai visto colui che ha mangiato le pesche?", "Hai visto colei che ha mangiato le pesche?"] },
+                { "question": "Who’s the man **you [pl.] sold the tickets to**?", "answer": ["Chi è l’uomo cui avete venduto i biglietti?", "Chi è l’uomo a cui avete venduto i biglietti?", "Chi è l’uomo al quale avete venduto i biglietti?"] }
             ]
         }
     ]

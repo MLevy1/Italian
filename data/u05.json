@@ -511,14 +511,14 @@
       ]
     },
     {
-      "title": "Exercise 3: Translate into English",
+      "title": "Exercise 3: Translate into Italian",
       "instruction": "Translate the following sentences into Italian.",
       "examples": [],
       "items": [
         {"question": "You [pl.] have got to talk to Marcello.", "answer": "Dovete parlare con Marcello."},
         {"question": "We’re leaving tonight.", "answer": "Partiamo stasera."},
         {"question": "We’re getting the next bus.", "answer": "Prendiamo il prossimo autobus."},
-        {"question": "You [polite] can go to the cinema, Mr Buchan.", "answer": "(Lei) può andare al cinema, Signor Buchan."},
+        {"question": "You [polite] can go to the cinema, Mr Buchan.", "answer": ["Lei può andare al cinema, Signor Buchan.", "Può andare al cinema, Signor Buchan."]},
         {"question": "We know how to use those mobile phones.", "answer": "Sappiamo usare quei cellulari."},
         {"question": "She always prefers reading the paper.", "answer": "Preferisce sempre leggere il giornale."},
         {"question": "The baby’s asleep.", "answer": "Il bambino dorme."},
@@ -538,7 +538,7 @@
         {"question": "Do you [sing.] want a coffee?", "answer": "Vuoi un caffè?"},
         {"question": "Can you play the piano, Francesco?", "answer": "Sai suonare il piano, Francesco?"},
         {"question": "What are you [sing.] looking for?", "answer": "Che cerchi?"},
-        {"question": "Are you [polite] drinking coffee or mineral water, Madam?", "answer": "Beve caffè o acqua minerale, Signora?"},
+        {"question": "Are you [polite] drinking coffee or mineral water, Madam?", "answer": ["Lei beve caffè o acqua minerale, Signora?", "Beve caffè o acqua minerale, Signora?"]},
         {"question": "Do you [sing.] and Jim know my parents?", "answer": "Tu e Jim conoscete i miei genitori?"},
         {"question": "Are you [sing.] well today?", "answer": "Stai bene oggi?"},
         {"question": "What are they building?", "answer": "Che costruiscono?"}
@@ -549,7 +549,7 @@
       "instruction": "Translate the following sentences into Italian.",
       "examples": [],
       "items": [
-        {"question": "Don’t you [polite] speak English, Mrs Vialli?", "answer": "Non parla inglese, Signora Vialli?"},
+        {"question": "Don’t you [polite] speak English, Mrs Vialli?", "answer": ["Lei non parla inglese, Signora Vialli?", "Non parla inglese, Signora Vialli?"]},
         {"question": "My German friends can’t sing in Italian.", "answer": "I miei amici tedeschi non sanno cantare in italiano."},
         {"question": "I don’t earn a lot.", "answer": "Non guadagno molto."},
         {"question": "Isn’t she giving a party for her birthday?", "answer": "Non dà una festa per il suo compleanno?"},

@@ -114,7 +114,11 @@ Exercise 2
 
 Exercise 3
 
-1 Non ho ragione; Ho ragione?	2 Il professore non ha caldo; Il professore ha caldo?	3 La Signorina Berti non ha sete; La Signorina Berti ha sete? 4 Lei  non  ha  sonno;  Lei  ha  sonno?	5 Non  avete  paura;  Avete  paura? 6 Non hanno freddo; Hanno freddo?    7 Carla e Andrea non hanno fame; Carla e Andrea hanno fame?
+1 Non ho ragione; Ho ragione?	
+2 Il professore non ha caldo; Il professore ha caldo?	
+3 La Signorina Berti non ha sete; La Signorina Berti ha sete? 
+4 Lei  non  ha  sonno;  Lei  ha  sonno?	
+5 Non  avete  paura;  Avete  paura? 6 Non hanno freddo; Hanno freddo?    7 Carla e Andrea non hanno fame; Carla e Andrea hanno fame?
 
 Exercise 4
 
@@ -149,77 +153,116 @@ Exercise 2
 
 Exercise 3
 
-1 Dovete parlare con Marcello.	2 Partiamo stasera.	3 Prendiamo il pros-simo autobus.	4 (Lei) può andare al cinema, Signor Buchan.	5 Sappiamo usare  quei  cellulari.	6 Preferisce  sempre  leggere  il  giornale.     7 Il  bam-bino  dorme.     8 Vengo  a  Torino  quest’estate.	9 Escono  spesso  la  sera. 10 I ragazzi giocano a pallone domani.
+1 Dovete parlare con Marcello.	
+2 Partiamo stasera.	
+3 Prendiamo il pros-simo autobus.	
+
+4 Lei può andare al cinema, Signor Buchan.
+4 Può andare al cinema, Signor Buchan.
+
+5 Sappiamo usare  quei  cellulari.	
+6 Preferisce  sempre  leggere  il  giornale.     
+7 Il  bam-bino  dorme.     
+8 Vengo  a  Torino  quest’estate.	
+9 Escono  spesso  la  sera. 
+10 I ragazzi giocano a pallone domani.
 
 Exercise 4
 
-1 Esci stasera, mamma?	2 Cosa facciamo domani?	3 Puoi aprire quella porta?	4 Vuoi un caﬀè?    5 Sai suonare il piano, Francesco?	6 Cosa cer-chi?    7 (Lei) beve caﬀè o acqua minerale, Signora?    8 Tu e Jim conoscete i miei genitori?   9 Stai bene oggi?    10 Cosa costruiscono?
+1 Esci stasera, mamma?	
+2 Cosa facciamo domani?	
+3 Puoi aprire quella porta?	
+4 Vuoi un caﬀè?    
+5 Sai suonare il piano, Francesco?	
+6 Cosa cer-chi?    
+7 (Lei) beve caﬀè o acqua minerale, Signora?    
+8 Tu e Jim conoscete i miei genitori?   
+9 Stai bene oggi?    
+10 Cosa costruiscono?
 
 Exercise 5
 
-1 (Lei) non parla inglese, Signora Vialli?	2 I miei amici tedeschi non sanno cantare in italiano.	3 Non guadagno molto.	4 Non dà una festa per il suo compleanno?	5 Non lavori con Giulia?    6 Non vedono il Signor Moro da tre anni.   7 Perché non vai mai a Firenze, Claudio?   8 Non riesco a chiudere
-172   Key to exercises
-
-
-questa  ﬁnestra. domani?
+1 (Lei) non parla inglese, Signora Vialli?	
+2 I miei amici tedeschi non sanno cantare in italiano.	
+3 Non guadagno molto.	
+4 Non dà una festa per il suo compleanno?	
+5 Non lavori con Giulia?    
+6 Non vedono il Signor Moro da tre anni.   
+7 Perché non vai mai a Firenze, Claudio?   
+8 Non riesco a chiudere questa  ﬁnestra. 
+9 Perché non bevete caffè stamattina?
+10 Non venite domani?
 
 
 UNIT 6 Exercise 1
 1 dolcemente
-5 maggiormente 9 facilmente
+2 tranquillamente
+3 semplicemente
+4 allegramente
+5 maggiormente 
+6 irregolarmente
+7 probabilmente
+8 chiaramente
+9 facilmente
+10 velocemente
+11 lentamente
+12 utilmente
 13 attentamente
-
-9 Perché  non  bevete  caﬀè  stamattina?
-
-
-
-
-
-
-2 tranquillamente	3 semplicemente 6 irregolarmente       7 probabilmente
-10 velocemente	11 lentamente 14 rapidamente    15 leggermente
-
-10 Non  venite
-
-
-
-
-
-
-4 allegramente 8 chiaramente 12 utilmente
-
-
+14 rapidamente
+15 leggermente
 
 Exercise 2
 
-
-1 molti 8 molto
-15 molto
-
-2 molto      3 pochi 9 poco     10 molte
-16 poca    17 molta
-
-4 troppo 11 poco 18 molto
-
-5 troppi 12 molto 19 troppe
-
-6 tanta 13 molto 20 poche
-
-7 troppo 14 pochi
-
+1 molti
+2 molto
+3 pochi 
+4 troppo
+5 troppi 
+6 tanta 
+7 troppo 
+8 molto
+9 poco
+10 molte
+11 poco
+12 molto
+13 molto
+14 pochi
+15 molto           
+16 poca
+17 molta
+18 molto
+19 troppe
+20 poche
 
 Exercise 3
 
-1 con prudenza	2 con pazienza	3 in modo nervoso	4 a poco a poco 5 senza esitazione    6 di solito    7 in tempo	8 con coraggio	9 di sicuro 10 in maniera brusca
+1 con prudenza	
+2 con pazienza	
+3 in modo nervoso	
+4 a poco a poco 
+5 senza esitazione    
+6 di solito    
+7 in tempo	
+8 con coraggio	
+9 di sicuro 
+10 in maniera brusca
 
 Exercise 4
 
-1 A volte mangio in mensa.	2 La piscina è abbastanza grande.	3 Usciamo spesso con i nostri amici.    4 Hai abbastanza soldi?	5 Devi parlare lenta-mente or piano.	6 Marina non mangia mai (il) formaggio.    7 Francesca arriva sempre tardi or in ritardo.	8 Aspetto da quasi quaranta minuti! 9 Carla e Andrea sono fuori.    10 I tuoi genitori stanno bene?
+1 A volte mangio in mensa.	
+2 La piscina è abbastanza grande.	
+3 Usciamo spesso con i nostri amici.    
+4 Hai abbastanza soldi?	
+5 Devi parlare lenta-mente or piano.	
+6 Marina non mangia mai (il) formaggio.    
+7 Francesca arriva sempre tardi or in ritardo.	
+8 Aspetto da quasi quaranta minuti! 
+9 Carla e Andrea sono fuori.    
+10 I tuoi genitori stanno bene?
 
 
 UNIT 7 Exercise 1
 1 Anna la guarda.	2 Li invitiamo.	3 Le scrivete?	4 Lo leggono.	5 La suono.	6 La preparo.	7 Lo chiamo.	8 Li faccio.    9 Le invito.    10 Le chiudete.    11 Lorenzo li corregge.    12 Lo prendono.    13 Li porto.    14 Li cerco.   15 Pia la beve.   16 Paola lo ﬁnisce.   17 Li accompagno.   18 Le vedi oggi?    19 La ascolto.    20 Luca li lava.
-Key to exercises   173
 
 Exercise 2
 
@@ -235,12 +278,38 @@ Exercise 4
 
 Exercise 5
 
-1 Vi invitiamo alla festa.   2 Ho molti amici e li vedo spesso.   3 Signora Fusi, La posso chiamare or posso chiamarLa domani?	4 Ci aiuti la settimana prossima?   5 Ti devo vedere or Devo vederti.   6 Olga e Anna partono doma-ni e le voglio accompagnare/portare or voglio accompagnarle/portarle alla stazione.	7 Non vi posso aiutare or non posso aiutarvi.	8 ‘Porti la chi-tarra?’ ‘No, non ce l’ho.’	9 Tullio compra queste riviste e le legge.	10 Mi puoi  portare/accompagnare  or  puoi  portarmi/accompagnarmi  a  scuola domani?
+1 Vi invitiamo alla festa.   
+
+2 Ho molti amici e li vedo spesso.   
+
+3 Signora Fusi, La posso chiamare domani?	
+3 Signora Fusi, posso chiamarla domani?	
+
+4 Ci aiuti la settimana prossima?   
+
+5 Ti devo vedere.   
+5 Devo vederti.   
+
+6 Olga e Anna partono domani e le voglio accompagnare alla stazione.
+6 Olga e Anna partono domani e le voglioportare alla stazione.
+6 Olga e Anna partono domani e voglio accompagnarle alla stazione.
+6 Olga e Anna partono domani e voglio portarle alla stazione.
+
+7 Non vi posso aiutare.	
+7 Non posso aiutarvi.	
+
+8 ‘Porti la chi-tarra?’ ‘No, non ce l’ho.’	
+
+9 Tullio compra queste riviste e le legge.	
+
+10 Mi puoi portare a scuola domani?
+10 Mi puoi accompagnare a scuola domani?
+10 Puoi portarmi a scuola domani?
+10 Puoi accompagnarmi a scuola domani?
 
 
 UNIT 8 Exercise 1
 1 della mamma	2 dello zio	3 degli amici	4 del parco	5 dell’auto	6 dei paesi	7 delle stanze	8 al mare	9 allo stadio	10 alla stazione	11 ai ragazzi     12 agli  uomini     13 alle  donne     14 all’ospedale	15 dalla  zia 16 dallo  studente     17 dal  dentista	18 dall’aeroporto     19 dagli  uﬃci 20 dalle   colleghe   21 dai   ministri      22 nell’albergo      23 nello   stipendio 24 nella  casa     25 negli  anni     26 nei  cassetti     27 nelle  camere     28 nel frigo	29 sul  tavolo	30 sulla  sedia     31 sullo  scaﬀale     32 sulle  spalle 33 sui libri   34 sugli alberi   35 sull’idea
-174   Key to exercises
 
 
 Exercise 2
@@ -454,36 +523,102 @@ Exercise 4
 5 Posso dormire da voi, stasera?
 
 
-UNIT 15 Exercise 1
-1 che    2 cui    3 che    4 cui    5 che    6 che    7 cui    8 cui    9 cui    10 che
+UNIT 15 
+Exercise 1
+1 che
+2 cui    
+3 che    
+4 cui    
+5 che    
+6 che    
+7 cui    
+8 cui    
+9 cui    
+10 che
 
 
 Exercise 2
-
-1 cui    2 cui    3 cui    4 che    5 che    6 che    7 cui    8 che    9 cui    10 cui
+1 cui    
+2 cui    
+3 cui    
+4 che    
+5 che    
+6 che    
+7 cui    
+8 che    
+9 cui    
+10 cui
 
 
 Exercise 3
 
-1 la quale	2 con la quale	3 dei quali	4 nel quale	5 alle quali	6 il quale    7 dal quale    8 le quali    9 delle quali    10 i quali
+1 la quale	
+2 con la quale	
+3 dei quali	
+4 nel quale	
+5 alle quali	
+6 il quale    
+7 dal quale    
+8 le quali    
+9 delle quali    
+10 i quali
 
 
 Exercise 4
 
-1 colei che    2 coloro che    3 colui che    4 colui or colei che    5 coloro che
+1 colei che    
+2 coloro che    
+3 colui che    
+4 colui or colei che    
+5 coloro che
 
 
 Exercise 5
 
-1 chi	2 quella che	3 chi or quello che	4 chi	5 quelli che	6 quella che 7 chi 8 quello che    9 chi    10 quelle che
+1 chi	
+2 quella che	
+3 chi or quello che	
+4 chi	
+5 quelli che	
+6 quella che 
+7 chi 
+8 quello che    
+9 chi    
+10 quelle che
 
 
 Exercise 6
 
-1 Il libro che voglio comprare è troppo caro.	2 La signora con cui or con la quale ho parlato è tedesca.	3 Le persone che or le quali hanno telefonato vivono or abitano in America!   4 La città dove or in cui or nella quale vivo or
-180   Key to exercises
+1 Il libro che voglio comprare è troppo caro.	
+2 La signora con cui or con la quale ho parlato è tedesca.	
+3 Le persone che or le quali hanno telefonato vivono or abitano in America!   
+4 La città dove or in cui or nella quale vivo or abito non è molto grande.	
+5 Colui che or chi vuole andare all’università deve sapere leggere e scrivere.	
+6 Paolo, che or il quale ha perso il (suo) cellulare, non è contento or felice.	
 
-abito non è molto grande.	5 Colui che or chi vuole andare all’università deve sapere leggere e scrivere.	6 Paolo, che or il quale ha perso il (suo) cellulare, non è contento or felice.	7 Quella canzone mi piace or Mi piace quella canzone, ma preferisco quelle che abbiamo sentito ieri sera.   8 Questa è or Ecco la sorella di Fabio, la quale or che mi ha prestato la sua bici.   9 Hai visto chi or colui che or colei che ha mangiato le pesche?   10 Chi è l’uomo cui or a cui or al quale avete venduto i biglietti?
+
+7 Quella canzone mi piace, ma preferisco quelle che abbiamo sentito ieri sera.   
+7 Mi piace quella canzone, ma preferisco quelle che abbiamo sentito ieri sera.   
+
+8 Questa è la sorella di Fabio, la quale mi ha prestato la sua bici.
+8 Questa è la sorella di Fabio, che mi ha prestato la sua bici.   
+8 Ecco la sorella di Fabio, la quale mi ha prestato la sua bici.   
+8 Ecco la sorella di Fabio, che mi ha prestato la sua bici.   
+
+
+
+9 Hai visto chi or colui che or colei che ha mangiato le pesche?   
+
+9 Hai visto chi ha mangiato le pesche? 
+9 Hai visto colui che ha mangiato le pesche? 
+9 Hai visto colei che ha mangiato le pesche? 
+
+
+10 Chi è l’uomo cui or a cui or al quale avete venduto i biglietti?
+
+10 Chi è l’uomo cui avete venduto i biglietti?
+10 Chi è l’uomo a cui avete venduto i biglietti?
+10 Chi è l’uomo al quale avete venduto i biglietti?
 
 
 UNIT 16 Exercise 1

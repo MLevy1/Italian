@@ -868,7 +868,7 @@
                 },
                 {
                     "question": "Marina never eats cheese.",
-                    "answer": "Marina non mangia mai formaggio."
+                    "answer": ["Marina non mangia mai formaggio.", "Marina non mangia mai il formaggio."]
                 },
                 {
                     "question": "Francesca always arrives late.",

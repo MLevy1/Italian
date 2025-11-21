@@ -263,14 +263,14 @@
         "items": [
         { "question": "We’re inviting *you [pl.]* to the party.", "answer": "Vi invitiamo alla festa." },
         { "question": "I’ve got a lot of friends, and I often see *them*.", "answer": "Ho molti amici e li vedo spesso." },
-        { "question": "Signora Fusi, can I call *you* tomorrow?", "answer": "Signora Fusi, La posso chiamare domani?" },
+        { "question": "Signora Fusi, can I call *you* tomorrow?", "answer": ["Signora Fusi, La posso chiamare domani?", "Signora Fusi, posso chiamarla domani?"] },
         { "question": "Are *you [sing.]* helping *us* next week?", "answer": "Ci aiuti la prossima settimana?" },
-        { "question": "I have to see *you [sing.]*.", "answer": "Ti devo vedere." },
-        { "question": "Olga and Anna are leaving tomorrow and I want to take *them* to the station.", "answer": "Olga e Anna partono domani e voglio accompagnarle in stazione." },
-        { "question": "I can’t help *you [pl.]*.", "answer": "Non vi posso aiutare." },
+        { "question": "I have to see *you [sing.]*.", "answer": ["Ti devo vedere.", "Devo vederti."] },
+        { "question": "Olga and Anna are leaving tomorrow and I want to take *them* to the station.", "answer": ["Olga e Anna partono domani e le voglio accompagnare alla stazione.", "Olga e Anna partono domani e le voglioportare alla stazione.", "Olga e Anna partono domani e voglio accompagnarle alla stazione.", "Olga e Anna partono domani e voglio portarle alla stazione."] },
+        { "question": "I can’t help *you [pl.]*.", "answer": ["Non vi posso aiutare.", "Non posso aiutarvi."] },
         { "question": "‘Are *you [sing.]* bringing *the guitar*?’ ‘No, I haven’t got *it*.’", "answer": "‘Porti la chitarra?’ ‘No, non ce l’ho.’" },
         { "question": "Tullio buys *these magazines* and reads *them*.", "answer": "Tullio compra queste riviste e le legge." },
-        { "question": "Can *you [sing.]* take *me* to school tomorrow?", "answer": "Mi puoi portare a scuola domani?" }
+        { "question": "Can *you [sing.]* take *me* to school tomorrow?", "answer": ["Mi puoi portare a scuola domani?","Mi puoi accompagnare a scuola domani?","Puoi portarmi a scuola domani?","Puoi accompagnarmi a scuola domani?"] }
         ]
     }
     ]
