@@ -195,16 +195,16 @@
             "instruction": "Translate the following sentences into Italian.",
             "examples": ["Can you [sing.] tell *Lucia* that I want to speak to *her*?: Puoi dire *a Lucia* che voglio *parlarle*?", "As soon as I arrive in Rome I’ll phone *you [pl.]*: Appena arrivo a Roma *vi* telefono."],
             "items": [
-                { "question": "Can you [sing.] tell *Lucia* that I want to speak to *her*?", "answer": "Puoi dire a Lucia che voglio parlarle?" },
+                { "question": "Can you [sing.] tell *Lucia* that I want to speak to *her*?", "answer": ["Puoi dire a Lucia che le voglio parlare?", "Puoi dire a Lucia che voglio parlarle?"] },
                 { "question": "As soon as I arrive in Rome I’ll phone *you [pl.]*.", "answer": "Appena arrivo a Roma vi telefono." },
-                { "question": "I have to ask *you* a favour, Madam.", "answer": "Devo chiederle un favore, Signora." },
+                { "question": "I have to ask *you* a favour, Madam.", "answer": [" Devo  chiederle  chiedere un favore, Signora.", "Devo  Le  devo  chiedere un favore, Signora."] },
                 { "question": "Are *you [sing.]* giving *them* your phone number?", "answer": "Gli dai il tuo numero di telefono?" },
-                { "question": "They always tell *us* interesting things.", "answer": "Ci dicono sempre cose interessanti." },
+                { "question": "They always tell *us* interesting things.", "answer": ["Ci dicono sempre delle cose interessanti.", "Ci dicono sempre cose interessanti.", "Raccontano sempre delle cose interessanti.", "Raccontano sempre cose interessanti."] },
                 { "question": "They always send *me* a card when they go to Italy.", "answer": "Mi mandano sempre una cartolina quando vanno in Italia." },
                 { "question": "For *her* birthday, I’m giving *her* flowers.", "answer": "Per il suo compleanno, le regalo dei fiori." },
-                { "question": "I’ve got to give *you [sing.]* *Luca’s* books.", "answer": "Devo darti i libri di Luca." },
+                { "question": "I’ve got to give *you [sing.]* *Luca’s* books.", "answer": ["Devo darti i libri di Luca.", "Ti devo dare i libri di Luca."] },
                 { "question": "If *you [pl.]* want, I’ll tell *you* a story.", "answer": "Se volete, vi racconto una storia." },
-                { "question": "Massimo writes to *me* every week.", "answer": "Massimo mi scrive ogni settimana." }
+                { "question": "Massimo writes to *me* every week.", "answer": ["Massimo mi scrive ogni settimana.", "Massimo mi scrive tutte le settimane."] }
             ]
         }
     ]

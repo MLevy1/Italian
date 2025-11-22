@@ -183,12 +183,12 @@
                 { "question": "Nessuno suona la batteria come me.", "answer": "Nobody plays drums like me." },
                 { "question": "Tutti gli studenti hanno fatto il compito meno lui.", "answer": "Every student but him did the homework." },
                 { "question": "Sergio chiama te, non me.", "answer": "Sergio calls you, not me." },
-                { "question": "Accompagno anche te.", "answer": "I’ll accompany you as well." },
-                { "question": "Capisco quanto te.", "answer": "I understand as much as you." },
-                { "question": "Mauro dice la verità a tutti, tranne che a me.", "answer": "Mauro tells everyone the truth but or except me." },
-                { "question": "Dovete telefonare anche a me.", "answer": "You should call me as well." },
+                { "question": "Accompagno anche te.", "answer": ["I’ll take you as well.", "I’ll go with you as well.", "I’ll accompany you as well."] },
+                { "question": "Capisco quanto te.", "answer": ["I understand as much as you.", "I understand as much as you do."] },
+                { "question": "Mauro dice la verità a tutti, tranne che a me.", "answer": ["Mauro tells everyone the truth but me.", "Mauro tells everyone the truth except me."] },
+                { "question": "Dovete telefonare anche a me.", "answer": ["You should call me as well.", "You must call me as well.", "You have to call me as well."] },
                 { "question": "Claudia impresta i dischi a noi, non a voi.", "answer": "Claudia’s lending us the records, not you." },
-                { "question": "Do il mio indirizzo a tutti salvo che a lei.", "answer": "I’ll give my address to everyone but her." },
+                { "question": "Do il mio indirizzo a tutti salvo che a lei.", "answer": ["I'm giving my address to everyone but her.", "I’ll give my address to everyone but her."] },
                 { "question": "Regalo un libro a lei e un disco a lui.", "answer": "I’m giving her a book and him a record." }
             ]
         },

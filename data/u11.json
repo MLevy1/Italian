@@ -212,16 +212,16 @@
                 "cavalli: (Non) mi piacciono i cavalli."
             ],
             "items": [
-                { "question": "la frutta", "answer": "(Non) mi piace la frutta." },
-                { "question": "il calcio", "answer": "(Non) mi piace il calcio." },
-                { "question": "le fragole", "answer": "(Non) mi piacciono le fragole." },
-                { "question": "giocare a tennis", "answer": "(Non) mi piace giocare a tennis." },
-                { "question": "uscire con gli amici", "answer": "(Non) mi piace uscire con gli amici." },
-                { "question": "i gatti", "answer": "(Non) mi piacciono i gatti." },
-                { "question": "la pizza", "answer": "(Non) mi piace la pizza." },
-                { "question": "i dolci", "answer": "(Non) mi piacciono i dolci." },
-                { "question": "ballare", "answer": "(Non) mi piace ballare." },
-                { "question": "le vacanze", "answer": "(Non) mi piacciono le vacanze." }
+                { "question": "la frutta", "answer": ["Mi piace la frutta.", "Non mi piace la frutta."] },
+                { "question": "il calcio", "answer": ["Mi piace il calcio.", "Non mi piace il calcio."] },
+                { "question": "le fragole", "answer": ["Mi piacciono le fragole.", "Non mi piacciono le fragole."] },
+                { "question": "giocare a tennis", "answer": ["Mi piace giocare a tennis.", "Non mi piace giocare a tennis."] },
+                { "question": "uscire con gli amici", "answer": ["Mi piace uscire con gli amici.", "Non mi piace uscire con gli amici."] },
+                { "question": "i gatti", "answer": ["Mi piacciono i gatti.", "Non mi piacciono i gatti."] },
+                { "question": "la pizza", "answer": ["Mi piace la pizza.", "Non mi piace la pizza."] },
+                { "question": "i dolci", "answer": ["Mi piacciono i dolci.", "Non mi piacciono i dolci."] },
+                { "question": "ballare", "answer": ["Mi piace ballare.", "Non mi piace ballare."] },
+                { "question": "le vacanze", "answer": ["Mi piacciono le vacanze.", "Non mi piacciono le vacanze."] }
             ]
         },
         {

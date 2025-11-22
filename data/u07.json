@@ -192,7 +192,7 @@
         { "question": "Accompagno *Carlo e Anna*.", "answer": "Li accompagno." },
         { "question": "Vedi *le tue amiche* oggi?", "answer": "Le vedi oggi?" },
         { "question": "Ascolto *la radio*.", "answer": "La ascolto." },
-        { "question": "Luca lava *i piatti*.", "answer": "Li lava." }
+        { "question": "Luca lava *i piatti*.", "answer": "Luca li lava." }
         ]
     },
     {
@@ -226,7 +226,7 @@
         { "question": "Le vuole conoscere.", "answer": "Vuole conoscerle." },
         { "question": "Non li potete fare.", "answer": "Non potete farli." },
         { "question": "Mi devi ascoltare.", "answer": "Devi ascoltarmi." },
-        { "question": "Non La posso aiutare, Signora.", "answer": "Non posso aiutarLa, Signora." }
+        { "question": "Non La posso aiutare, Signora.", "answer": "Non posso aiutala, Signora." }
         ]
     },
     {

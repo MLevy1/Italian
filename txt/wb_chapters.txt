@@ -297,7 +297,7 @@ le paia [f] le uova [f]
 eggs
 6   Unit 1
 
-19  Note that, in Italian, the masculine form of a noun is also used when the gender is not important. A noun in the plural may therefore designate any one of three diﬀerent sets of people:
+19  Note that, in Italian, the masculine form of a noun is also used when the gender is not important. A noun in the plural may therefore designate any one of three different sets of people:
 
 
 gli amici
@@ -392,7 +392,7 @@ Examples:  la notte f; il/la pianista m/f; il fratello m
 
 il giorno —— la sera —— l’uomo ——
 l’infermiera —— la stanza —— l’orecchio ——
-il caﬀè ——
+il caffè ——
 lo zucchero —— il ﬁume ——
 l’olandese ——
 
@@ -447,7 +447,7 @@ i nomi	11 le vie	12 i ﬁgli	13 le mani	14 le opinioni	15 i clienti	16 gli occhi
 la ———— il ———— il ———— l’———— il ———— la ———— il ———— il ———— l’————
 l’————
 
-le ciliegie i caﬀè
+le ciliegie i caffè
 i medici gli attivisti
 le ginocchia le bugie
 i tedeschi i test
@@ -465,7 +465,7 @@ Deﬁnite and indeﬁnite articles
 
 Deﬁnite article
 
-1  In Italian the deﬁnite article (English ‘the’) has diﬀerent forms, depending on the gender (masculine/feminine) and number (singular/plural) of the fol-lowing word, and on the letter (or sound) with which the following word begins. Here are the forms:
+1  In Italian the deﬁnite article (English ‘the’) has different forms, depending on the gender (masculine/feminine) and number (singular/plural) of the fol-lowing word, and on the letter (or sound) with which the following word begins. Here are the forms:
 
 
 
@@ -501,7 +501,7 @@ the girl(s) the house(s) the room(s) the car(s)
 the experience(s) the stewardess(es)
 
 
-3  There are three diﬀerent forms for the masculine singular: il, lo and l’; and two for the plural: i and gli. All these forms are used before masculine words:
+3  There are three different forms for the masculine singular: il, lo and l’; and two for the plural: i and gli. All these forms are used before masculine words:
 10   Unit 2
 
 l’ is used before words beginning with a vowel or h;
@@ -633,7 +633,7 @@ Remember that, as we saw in Unit 1, paragraph 19, the masculine plural form can 
 
 Indeﬁnite article
 
-5  Like the deﬁnite article, the indeﬁnite article (English ‘a/an’) has diﬀerent forms, depending on the gender of the word it refers to and the letter (or sound) with which the following word begins. There is no plural for the indeﬁnite article. Here are the forms:
+5  Like the deﬁnite article, the indeﬁnite article (English ‘a/an’) has different forms, depending on the gender of the word it refers to and the letter (or sound) with which the following word begins. There is no plural for the indeﬁnite article. Here are the forms:
 
 
 Feminine	un’ una
@@ -701,7 +701,7 @@ a colleague (female) an athlete (male)
 an athlete (female)
 
 
-* In the case of nouns starting with a vowel, the only diﬀerence between the articles is the apostrophe.
+* In the case of nouns starting with a vowel, the only difference between the articles is the apostrophe.
 Unit 2   13
 
 9  It may be useful to compare the use of the deﬁnite and indeﬁnite article in table form:
@@ -717,14 +717,14 @@ un’ is used when l’ is used una is used when la is used
 
 Use of the articles
 
-10  The use of the articles is often the same in Italian as in English, but there are cases (mostly concerning the deﬁnite article) where the two languages diﬀer. Here are the most common instances:
+10  The use of the articles is often the same in Italian as in English, but there are cases (mostly concerning the deﬁnite article) where the two languages differ. Here are the most common instances:
 
 •	In Italian, the deﬁnite article is used before a noun used in a general sense:
 
 
 Amo la musica rock/le vacanze. La musica rock è popolare.
 Le vacanze sono sempre troppo corte. Il tempo vola.
-Le auto inquinano l’ambiente. La disoccupazione è diﬀusa.
+Le auto inquinano l’ambiente. La disoccupazione è diffusa.
 
 I love rock music/holidays. Rock music is popular. Holidays are always too short. Time ﬂies.
 Cars pollute the environment. Unemployment is widespread.
@@ -742,14 +742,14 @@ Mrs/Ms Urbani is kind. Doctor Vanni isn’t here. Doctor Marchi is busy. Good mo
 * Note that some masculine titles, notably Signore, Professore and Dottore, drop the ﬁnal vowel when used before the name of the person, becoming Signor, Professor, Dottor, etc.
 
 •	The Italian deﬁnite article is always used with years, e.g. il 1990, il 2000. •	The deﬁnite article is normally used in Italian with names of countries
-and regions, e.g. l’Inghilterra (England), la Toscana (Tuscany), il Porto-gallo (Portugal), l’Europa (Europe). But the rule may be diﬀerent when using a preposition, e.g. in Italia (in Italy) (see Unit 8, paragraph 14).
+and regions, e.g. l’Inghilterra (England), la Toscana (Tuscany), il Porto-gallo (Portugal), l’Europa (Europe). But the rule may be different when using a preposition, e.g. in Italia (in Italy) (see Unit 8, paragraph 14).
 14   Unit 2
 
 11  In some cases a deﬁnite article is used in Italian where an indeﬁnite article (or a possessive adjective – see Unit 3) is used in English. Here are some instances:
 
 
 Antonio ha il naso lungo. Hai la patente?
-Avete l’ombrello? Ho il raﬀreddore.
+Avete l’ombrello? Ho il raffreddore.
 Dove passi le vacanze di solito?
 
 Di pomeriggio faccio il compito. Hai il biglietto?
@@ -868,7 +868,7 @@ italiano nuovo francese grande
 Italian new French big
 
 
-2  Adjectives ending in -o have four diﬀerent forms: -o for the masculine singular (italiano), -a for feminine singular (italiana), -i for the masculine plural (italiani) and -e for the feminine plural (italiane):
+2  Adjectives ending in -o have four different forms: -o for the masculine singular (italiano), -a for feminine singular (italiana), -i for the masculine plural (italiani) and -e for the feminine plural (italiane):
 
 
 l’arbitro [ms] italiano gli arbitri [mp] italiani la cameriera [fs] italiana le cameriere [fp] italiane lo stadio [ms] nuovo
@@ -879,7 +879,7 @@ the new stadia/stadiums the new house
 the new houses
 
 
-3  Adjectives ending in -e have only two forms: -e for the masculine and feminine singular (francese) and -i for the masculine and feminine plural (francesi). With adjectives ending in -e there is thus no diﬀerence between the masculine and the feminine form:
+3  Adjectives ending in -e have only two forms: -e for the masculine and feminine singular (francese) and -i for the masculine and feminine plural (francesi). With adjectives ending in -e there is thus no difference between the masculine and the feminine form:
 18   Unit 3
 
 
@@ -954,7 +954,7 @@ Lorenzo and Vittorio are Italian. Anna is Italian.
 Anna and Claudia are Italian.
 
 
-When the adjective refers to two or more nouns which are diﬀerent in gender, it is masculine plural:
+When the adjective refers to two or more nouns which are different in gender, it is masculine plural:
 
 Lorenzo, Anna e Claudia sono	Lorenzo, Anna and Claudia are italiani.                                               Italian.
 Sabine e Kurt sono tedeschi.	Sabine and Kurt are German.
@@ -962,7 +962,7 @@ Il computer e la stampante sono	The computer and the printer are new. nuovi.
 Il bagno e la cucina sono piccoli.	The bathroom and the kitchen are small.
 I pantaloni e la camicia sono nuovi. The trousers and the shirt are new.
 
-8  In some cases the adjective can also precede the noun it refers to. When the adjective comes before the noun, the meaning of the noun becomes diﬀerent, as in these examples:
+8  In some cases the adjective can also precede the noun it refers to. When the adjective comes before the noun, the meaning of the noun becomes different, as in these examples:
 20   Unit 3
 
 
@@ -1029,9 +1029,9 @@ buon	(un) buono	(uno) buon’/buona*	(un’) buona	(una)
 * Nowadays the form buona is preferred to buon’.
 
 
-buon libro buon amico buon caﬀè buono studente
+buon libro buon amico buon caffè buono studente
 
-good book good friend good coﬀee good student
+good book good friend good coffee good student
 
 buona idea buona esperienza buona memoria
 
@@ -1039,7 +1039,7 @@ good idea
 good experience good memory
 
 
-Note that when buono comes after the noun, the full form is used: questo libro è buono, il caﬀè è buono, etc.
+Note that when buono comes after the noun, the full form is used: questo libro è buono, il caffè è buono, etc.
 
 12  The adjective grande (big/great), when used before the noun, may change to the invariable form gran or, in some expressions, to grand’; nowadays, the full form, grande, is preferred in most cases:
 
@@ -1065,7 +1065,7 @@ great idea great man
 Note that before plural nouns, grande is regular: grandi musicisti, grandi case, etc.
 Note also that when grande comes after the noun, the full form is always used: quel ﬁlm è grande, la casa è grande, etc.
 
-13  The adjective santo (saint) is another that has diﬀerent forms when used before a noun:
+13  The adjective santo (saint) is another that has different forms when used before a noun:
 
 santo is only used before masculine names starting with s + consonant; san is used before masculine names starting with a consonant (other than
 s + consonant);
@@ -1260,7 +1260,7 @@ Examples:  Queste scarpe sono (rossa/nuove/belli) nuove; Anna e Franco sono (fra
 16  Il treno e l’auto sono (veloci/inquinante/comodo). —————
 17  Paola, Claudia e Anna sono (italiani/belli/simpatiche). ————— 18  Claudio e Patrizia sono (gentile/italiani/contenta). —————
 19  Gianfranco, Piero e Giorgio sono (felice/ottimisti/italiane). —————
-20  I signori e le signore sono (soddisfatti/greco/aﬀollate). —————
+20  I signori e le signore sono (soddisfatti/greco/affollate). —————
 26   Unit 3
 
 Exercise 3
@@ -1344,7 +1344,7 @@ I’m a doctor. We are cousins.
 You are foreigners. Paola and Anna are tall. Claudio is my brother. I’ve got a mobile phone. You have my address. They have an exam. Anna’s got a new guitar.
 
 
-As shown in the examples, it is not usually necessary to use the subject pro-nouns before the verb since the forms for the diﬀerent persons are diﬀerent – sei can only be second person singular (tu), siete can only be second person plural (voi), etc. Even with sono, the context always shows whether it means ‘I am’ or ‘they are’.
+As shown in the examples, it is not usually necessary to use the subject pro-nouns before the verb since the forms for the different persons are different – sei can only be second person singular (tu), siete can only be second person plural (voi), etc. Even with sono, the context always shows whether it means ‘I am’ or ‘they are’.
 The pronoun is only required for emphasis, or to mark a contrast:
 
 
@@ -1433,7 +1433,7 @@ Have you got time(, Professor/Sir)? Mr Neri, are you ready?
 Mr and Mrs Conti, are you Italian?
 
 
-6  There are some spelling mistakes involving essere and avere which are commonly  made  by  learners;  be  careful  to  remember  the  following diﬀerences:
+6  There are some spelling mistakes involving essere and avere which are commonly  made  by  learners;  be  careful  to  remember  the  following differences:
 
 
 è (he/she/it is) ho (I have) hai (you have)
@@ -1964,7 +1964,7 @@ My friends are leaving tomorrow. My sister is sleeping/asleep.
 Every morning we open the windows.
 
 
-11  Many verbs in -ire (e.g. capire (to understand), costruire (to build), ﬁnire (to ﬁnish/to end), preferire (to prefer), pulire (to clean)) follow a slightly diﬀerent  pattern,  adding  -isc-  before  the  singular  endings  and  the  third person plural:
+11  Many verbs in -ire (e.g. capire (to understand), costruire (to build), ﬁnire (to ﬁnish/to end), preferire (to prefer), pulire (to clean)) follow a slightly different  pattern,  adding  -isc-  before  the  singular  endings  and  the  third person plural:
 
 
 Endings -isc-o
@@ -2101,7 +2101,7 @@ I’m going to the cinema. I’m not going out tonight. I’m leaving early tomo
 I can’t manage to close the door. Now you know everything.*
 
 
-* It is important not to confuse sapere and conoscere (paragraph 9). Both mean ‘to know’, but they are not always interchangeable. The basic diﬀerence is that sapere generally means ‘to know/be aware of/to have knowledge of a fact’ (but see also paragraph 17 below), whereas conoscere means ‘to be acquainted/familiar with’, or sometimes ‘to meet/make the acquaintance of’ (e.g. in the expression piacere di conoscerti, pleased to meet you). Thus sapere is never used for people, and conoscere is never followed by a phrase contain-ing a verb:
+* It is important not to confuse sapere and conoscere (paragraph 9). Both mean ‘to know’, but they are not always interchangeable. The basic difference is that sapere generally means ‘to know/be aware of/to have knowledge of a fact’ (but see also paragraph 17 below), whereas conoscere means ‘to be acquainted/familiar with’, or sometimes ‘to meet/make the acquaintance of’ (e.g. in the expression piacere di conoscerti, pleased to meet you). Thus sapere is never used for people, and conoscere is never followed by a phrase contain-ing a verb:
 
 
 Sappiamo già che c’è sciopero domani.
@@ -2240,9 +2240,9 @@ Exercise 4
 Translate into Italian:
 
 1  Are you going out tonight, Mother? 2  What are we doing tomorrow?
-3  Can you [sing.] open that door? 4  Do you [sing.] want a coﬀee?
+3  Can you [sing.] open that door? 4  Do you [sing.] want a coffee?
 5  Can you play the piano, Francesco? 6  What are you [sing.] looking for?
-7  Are you [polite] drinking coﬀee or mineral water, Madam? 8  Do you [sing.] and Jim know my parents?
+7  Are you [polite] drinking coffee or mineral water, Madam? 8  Do you [sing.] and Jim know my parents?
 9  Are you [sing.] well today? 10  What are they building?
 
 
@@ -2254,7 +2254,7 @@ Translate into Italian:
 3  I don’t earn a lot.
 4  Isn’t she giving a party for her birthday? 5  Aren’t you [sing.] working with Giulia?
 6  They’ve not seen Mr Moro for three years. 7  Why do you never go to Florence, Claudio? 8  I can’t manage to shut this window.
-9  Why aren’t you [pl.] drinking coﬀee this morning? 10  Aren’t you [pl.] coming tomorrow?
+9  Why aren’t you [pl.] drinking coffee this morning? 10  Aren’t you [pl.] coming tomorrow?
 UNIT SIX Adverbs
 
 
@@ -2599,7 +2599,7 @@ I see her every day.
 I’m inviting you to the party.
 
 
-3  We saw in Unit 3 that if an adjective refers to two or more nouns that are diﬀerent in gender, it has the masculine plural form, e.g. Laura e Piero sono italiani (Laura and Piero are Italian). The same principle applies to direct object pronouns:
+3  We saw in Unit 3 that if an adjective refers to two or more nouns that are different in gender, it has the masculine plural form, e.g. Laura e Piero sono italiani (Laura and Piero are Italian). The same principle applies to direct object pronouns:
 
 
 ‘Conosci Laura [f] e Piero [m]?’ ‘Sì, li [mp] conosco bene.’
@@ -2635,7 +2635,7 @@ I want to invite you. You can take it.
 I can/know how to do it. I’ve got to translate it.
 
 
-Each pair of sentences has exactly the same meaning – the form used makes no diﬀerence.
+Each pair of sentences has exactly the same meaning – the form used makes no difference.
 
 * Note that verbs in -urre drop the second r as well as the ﬁnal vowel: lo devo tradurre or devo tradurlo.
 54   Unit 7
@@ -2865,7 +2865,7 @@ the square.
 I’ve got a lovely silk shirt.
 
 
-Since there is not a simple set of rules governing prepositions in Italian, what we are going to do is show some typical uses of the common ones listed above. The more you hear and read Italian, the more you will encounter diﬀerent uses of these and other prepositions; the best way of mastering them is to learn them and practise them as you go along.
+Since there is not a simple set of rules governing prepositions in Italian, what we are going to do is show some typical uses of the common ones listed above. The more you hear and read Italian, the more you will encounter different uses of these and other prepositions; the best way of mastering them is to learn them and practise them as you go along.
 
 4  Di is typically used to express:
 
@@ -3073,7 +3073,7 @@ in two hours/two hours’ time
 
 Prepositions of place
 
-12  Here are some examples of the diﬀerent prepositions used to denote place:
+12  Here are some examples of the different prepositions used to denote place:
 
 
 Sono di Ferrara.
@@ -3120,7 +3120,7 @@ Unit 8   63
 
 Prepositions of time
 
-15  Some examples of the diﬀerent prepositions used to denote time:
+15  Some examples of the different prepositions used to denote time:
 
 
 Di domenica non lavoro. Di sera guardo la tv. Donatella arriva alle 7.
@@ -3252,7 +3252,7 @@ da
 20 le colleghe 21 i ministri
 
 in	su
-22 l’albergo	29 il tavolo 23 lo stipendio  30 la sedia 24 la casa	31 lo scaﬀale 25 gli anni	32 le spalle 26 i cassetti	33 i libri
+22 l’albergo	29 il tavolo 23 lo stipendio  30 la sedia 24 la casa	31 lo scaffale 25 gli anni	32 le spalle 26 i cassetti	33 i libri
 27 le camere	34 gli alberi 28 il frigo	35 l’idea
 66   Unit 8
 
@@ -3558,17 +3558,22 @@ Examples:  ——— mi cerca?: chi; ——— fate?: che/cosa/che cosa
 
 1 2 3 4 5 6 7 8 9 10
 
-——— sono quei signori? ——— di loro è tuo cugino? Con ——— uscite stasera? ——— posso fare per te?
+——— sono quei signori? 
+——— di loro è tuo cugino? 
+Con ——— uscite stasera? 
+——— posso fare per te?
 ——— studiate?
 ——— viene con me?
-——— accompagna Luca? ——— vuoi bere?
+——— accompagna Luca? 
+——— vuoi bere?
 Di ——— è questo libro?
 ——— succede?
 
 11 12 13 14 15 16 17 18 19 20
 
 Per ——— lavori?
-——— preferisci? Caﬀè o te? A ——— telefoni?
+——— preferisci? Caffè o te? 
+A ——— telefoni?
 ——— viene alla festa? ——— dici?
 ——— preferisci? Gianni o Piero? ——— leggi?
 Da ——— vai a cena? ——— vuoi fare stasera?
@@ -3751,7 +3756,7 @@ I must write to him/them. Can you phone me?
 Can you tell me when?
 
 
-Each pair of sentences has exactly the same meaning – the form used makes no diﬀerence.
+Each pair of sentences has exactly the same meaning – the form used makes no difference.
 76   Unit 10
 
 Formal form
@@ -3788,8 +3793,8 @@ Example:    Gli scrivo: Non gli scrivo.
 
 1   Le parlo di lavoro. 2   Mi telefoni?
 3   Vi regalo dei libri.
-4   Gli oﬀrite qualcosa?
-5   Gli amici le oﬀrono un gelato.
+4   Gli offrite qualcosa?
+5   Gli amici le offrono un gelato.
 
 6   Ci scrivete?
 7   Ti mando una cartolina. 8   Vi restituisco il libro.
@@ -3805,7 +3810,7 @@ Example:    Li devi comprare: Devi comprarli.
 
 1   Le possiamo scrivere? 2   Ti devo parlare.
 3   Gli voglio regalare una chitarra. 4   Ci puoi telefonare?
-5   Vi devono oﬀrire qualcosa!
+5   Vi devono offrire qualcosa!
 
 6   Mi potete dire tutto.
 7   Le posso parlare, Signora? 8   Non gli dovete scrivere.
@@ -3822,7 +3827,7 @@ parlare con te, devi telefonar—— : le
 
 1  ‘Telefonate a Luisa?’ ‘No, —— scriviamo una lettera.’ 2  Se mi chiedi qualcosa, —— rispondo.
 3  ‘Cosa regali a tuo padre?’ ‘—— regalo una cravatta.’
-4  Se vedi le mie amiche, puoi dir—— che le aspetto per domani? 5  Signora, posso oﬀrir—— un caﬀè?
+4  Se vedi le mie amiche, puoi dir—— che le aspetto per domani? 5  Signora, posso offrir—— un caffè?
 6  ‘Ci portate un regalo, dall’Italia?’ ‘Sì, —— portiamo un panettone.’ 7  ‘Cosa vuoi dir——?’ ‘Vi voglio dire la verità.’
 8  Gianni, —— presento mia sorella.
 9  ‘Quando telefoni ai nonni?’ ‘—— telefono domani sera.’ 10  Professore, —— devo parlare.
@@ -3853,7 +3858,7 @@ UNIT ELEVEN Piacere and similar verbs
 
 
 
-1  Piacere corresponds to ‘to like’, but it is used in a diﬀerent way from its English counterpart. In Italian, the subject of the verb/sentence is the thing or person one likes; the person who likes something is denoted by an indirect object pronoun (see Unit 10):
+1  Piacere corresponds to ‘to like’, but it is used in a different way from its English counterpart. In Italian, the subject of the verb/sentence is the thing or person one likes; the person who likes something is denoted by an indirect object pronoun (see Unit 10):
 
 
 Mi piace lo sport. Ti piace ballare?
@@ -3952,7 +3957,7 @@ My grandparents like sleeping. Franco and Luisa like travelling.
 6  To mark a contrast, the stressed forms of the pronouns (a me, a te, a lui/a lei, a noi, a voi, a loro – see Unit 14) are used instead of the unstressed forms:
 Unit 11   81
 
-A me piace il caﬀè, a te piace il te.         I like coﬀee, you like tea. A lui piacciono i gatti, a lei no.               He likes cats, she doesn’t.
+A me piace il caffè, a te piace il te.         I like coffee, you like tea. A lui piacciono i gatti, a lei no.               He likes cats, she doesn’t.
 A noi piace il calcio, a voi il tennis.	We like football, you like tennis.
 A loro piace nuotare, a noi piace sciare. They like swimming, we like skiing. A me piace questo/questa, a Lei quello/  I like this one, you like that one.
 quella.
@@ -3985,7 +3990,7 @@ Exercise 1
 
 Rewrite the sentences, replacing the words in italics with the correct pronoun.
 
-Example:	A Sara non piace il caﬀè: Non le piace il caﬀè.
+Example:	A Sara non piace il caffè: Non le piace il caffè.
 
 
 1   A Federica non piacciono i carcioﬁ.  6 2   A Giampiero non piace guidare.	7 3   A Massimo piace viaggiare.	8 4   A Tullio e Anna piace il mare.	9 5   Ai miei amici piace ballare.              10
@@ -4035,7 +4040,7 @@ Example:    Maria	le patate: A Maria (non) piacciono le patate.
 2   il professore 3   mia sorella 4   i miei cugini
 5   il primo ministro
 
-il caﬀè senza zucchero le poesie di Leopardi andare al cinema
+il caffè senza zucchero le poesie di Leopardi andare al cinema
 i ﬁlm di Fellini la politica
 
 
@@ -4079,7 +4084,7 @@ The present perfect tense
 
 Use of the present perfect
 
-1  The present perfect (‘passato prossimo’) is one of the two most used past tenses of the indicative in Italian (the other is the imperfect (‘imperfetto’)). The present perfect is often used like the English present perfect (e.g. ‘I have seen it’, ‘She has gone home’) to state that an action has happened in the past, but that its eﬀects are still lasting in the present. However, in Northern Italy and in the language of the media, it is also equivalent to the English simple past (e.g. ‘I saw it’, ‘She went home’), referring to actions which happened in a more  distant  past  and  have  no  immediate  consequences  in  the  present. Indeed, it more often corresponds to the English simple past than to the English present perfect. In other words, in Italian, the diﬀerence between present perfect (‘passato prossimo’) and simple past (‘passato remoto’) is not always marked, and it is always possible to use the former:
+1  The present perfect (‘passato prossimo’) is one of the two most used past tenses of the indicative in Italian (the other is the imperfect (‘imperfetto’)). The present perfect is often used like the English present perfect (e.g. ‘I have seen it’, ‘She has gone home’) to state that an action has happened in the past, but that its effects are still lasting in the present. However, in Northern Italy and in the language of the media, it is also equivalent to the English simple past (e.g. ‘I saw it’, ‘She went home’), referring to actions which happened in a more  distant  past  and  have  no  immediate  consequences  in  the  present. Indeed, it more often corresponds to the English simple past than to the English present perfect. In other words, in Italian, the difference between present perfect (‘passato prossimo’) and simple past (‘passato remoto’) is not always marked, and it is always possible to use the former:
 
 Napoleone è morto il 5 maggio 1821.  Napoleon died on 5 May 1821. L’estate scorsa siamo andati in	Last summer we went to Lake Garda
 vacanza sul lago di Garda.	for our/a holiday.
@@ -4097,7 +4102,7 @@ I stayed/have stayed at home. Anna went out/has gone out.
 Did they go/Have they gone to the swimming pool?
 Unit 12   85
 
-As the examples conﬁrm, the ‘passato prossimo’ may correspond to either the simple past or the present perfect in English. But there are also other diﬀer-ences between the Italian and English structures: there is only one auxiliary verb in English (‘to have’), but in Italian there is a choice of two, avere and essere; when essere is used, the past participle has to agree in gender and number with the subject; ﬁnally, whether to use avere or essere is not usually a free choice. We will look at all these diﬀerences in detail, but ﬁrst we need to look at the forms of the Italian past participle.
+As the examples conﬁrm, the ‘passato prossimo’ may correspond to either the simple past or the present perfect in English. But there are also other differ-ences between the Italian and English structures: there is only one auxiliary verb in English (‘to have’), but in Italian there is a choice of two, avere and essere; when essere is used, the past participle has to agree in gender and number with the subject; ﬁnally, whether to use avere or essere is not usually a free choice. We will look at all these differences in detail, but ﬁrst we need to look at the forms of the Italian past participle.
 
 
 Forms of the past participle
@@ -4152,9 +4157,9 @@ preso	(to take) taken
 reso	(to return/give back) returned/given back rimasto	(to remain/stay) remained/stayed
 risposto	(to answer) answered rotto	(to break) broken
 sceso	(to go down/descend) gone down/descended scritto	(to write) written
-spento	(to turn oﬀ/switch oﬀ) turned oﬀ/switched oﬀ speso	(to spend) spent
+spento	(to turn off/switch off) turned off/switched off speso	(to spend) spent
 successo	(to happen) happened
-tolto	(to take away/oﬀ) taken away/oﬀ visto/veduto**	(to see) seen
+tolto	(to take away/off) taken away/off visto/veduto**	(to see) seen
 venuto	(to come) come vinto	(to win) won vissuto	(to live) lived
 
 
@@ -4537,7 +4542,7 @@ We saw you on television last night, Dr Ranieri.
 2  The rule given above does not apply to indirect object pronouns: with these, the past participle of the verb never changes:
 
 ‘Hai telefonato a Anna e Sara?’	‘Did you phone Anna and Sara?’ ‘Yes, ‘Sì, gli ho telefonato.’                          I phoned them.’
-Quando è venuta Livia, le ho oﬀerto  When Livia came I oﬀered her an ice un gelato.	cream.
+Quando è venuta Livia, le ho offerto  When Livia came I offered her an ice un gelato.	cream.
 Ho parlato con Carla e le ho detto	I spoke to Carla and told her tutto.                                                    everything.
 Non ci hanno scritto.	They didn’t write to us.
 
@@ -4620,7 +4625,7 @@ Complete the sentences with the correct direct or indirect object pronoun, makin
 Examples:  Non ho telefonato a Maria, ——— ho scritt—: le ho scritto; Ho comprato una minigonna rossa e —ho indossat— per la
 festa: l’ho indossata
 
-1  Ho incontrato Lina e —— ho oﬀert— un caﬀè. 
+1  Ho incontrato Lina e —— ho offert— un caffè. 
 2  Cerco Paola e Gianni, —— avete vist—?
 3  Non ho la bicicletta perchè ——ho imprestat— a Filippo. 
 4  Non ho scritto a Paola, —— ho telefonat—.
@@ -4669,7 +4674,7 @@ Translate into Italian.
 6  I sent you [pl.] a postcard – did you receive it?
 7  My grandparents gave me 100 euros, but I’ve already spent it. [Say: ‘spent them’]
 8  I bought two rolls and ate them.
-9  ‘Have you [sing.] switched the light oﬀ?’ ‘Yes, I’ve switched it oﬀ.’ 10  Carla hasn’t been able to help them [f].
+9  ‘Have you [sing.] switched the light off?’ ‘Yes, I’ve switched it off.’ 10  Carla hasn’t been able to help them [f].
 UNIT FOURTEEN
 Direct and indirect object pronouns (3: stressed forms)
 
@@ -4699,20 +4704,20 @@ a loro/a Loro*
 
 
 Chiamo voi, non loro. Vedo lei, ma non vedo lui. Aspetto Francesco, non te. Invito solo te.
-Invito solo Lei, Signor Paoli. A me non piace il caﬀè.
+Invito solo Lei, Signor Paoli. A me non piace il caffè.
 A me sembra giusto. Telefono a te, ma non a loro.
 Billy scrive a noi e non ai suoi genitori.
 Devi rendere i soldi a me, non a mio fratello.
 
 I’m calling/phoning you, not them. I can see her, but I can’t see him. I’m waiting for Francesco, not you. I’m only inviting you.
-I’m only inviting you, Mr Paoli. I don’t like coﬀee.
+I’m only inviting you, Mr Paoli. I don’t like coffee.
 I think it’s fair/It seems fair to me. I’ll phone you, but not them.
 Billy writes to us and not his parents.
 
 You’ve got to give me the money, not my brother.
 100   Unit 14
 
-Note the diﬀerence between the two sentences ‘Non mi piace il caﬀè’ and ‘A me non piace il caﬀè’. The ﬁrst simply states that I don’t like coﬀee, while the second puts the emphasis on the pronoun ‘me’, implying that there are people who do like coﬀee but I am not one of them. The same applies to the sentences ‘Mi sembra giusto’ and ‘A me sembra giusto’: the second sentence stresses the fact that there are other people who don’t think it’s fair.
+Note the difference between the two sentences ‘Non mi piace il caffè’ and ‘A me non piace il caffè’. The ﬁrst simply states that I don’t like coffee, while the second puts the emphasis on the pronoun ‘me’, implying that there are people who do like coffee but I am not one of them. The same applies to the sentences ‘Mi sembra giusto’ and ‘A me sembra giusto’: the second sentence stresses the fact that there are other people who don’t think it’s fair.
 
 3  As the above examples suggest, stressed direct and indirect object pro-nouns cannot be used to refer to objects. When referring to objects, the noun has to be repeated (as is also generally the case in English):
 
@@ -4838,7 +4843,7 @@ UNIT FIFTEEN Relative pronouns
 
 1  The Italian relative pronouns correspond to the English ‘who’, ‘which’, ‘that’, ‘whom’, ‘whose’. They have two forms: invariable (che, cui) and vari-able (il quale [ms], la quale [fs], i quali [mp], le quali [fp]):
 
-Il treno che prendo la mattina è	The train (that) I get in the morning is sempre molto aﬀollato.                      always very crowded.
+Il treno che prendo la mattina è	The train (that) I get in the morning is sempre molto affollato.                      always very crowded.
 La storia che ho letto è strana.	The story (that) I’ve read is strange. La ragazza che/la quale ha tele-	The girl who phoned needs a favour.
 fonato ha bisogno di un favore.
 Gli amici che/i quali sono venuti a	The friends who came to see me are trovarmi sono irlandesi.                     Irish.
@@ -5105,7 +5110,7 @@ the bus arrived.
 When I was at the seaside I went/used to go swimming every day.
 
 
-As you can see from the examples, the Italian imperfect corresponds to sev-eral diﬀerent English forms. We will look at the diﬀerent meanings and uses of this tense, but ﬁrst we will look at its forms.
+As you can see from the examples, the Italian imperfect corresponds to sev-eral different English forms. We will look at the different meanings and uses of this tense, but ﬁrst we will look at its forms.
 
 
 The forms of the imperfect
@@ -5160,7 +5165,7 @@ Unit 16   113
 
 
 Mio nonno parlava molto bene l’italiano.
-Mentre prendevamo il caﬀè è suonato il telefono.
+Mentre prendevamo il caffè è suonato il telefono.
 Quando Carla aveva 5 anni abitava a Roma.
 Sono arrivato quando il treno partiva.
 Mio fratello andava a scuola in autobus.
@@ -5169,7 +5174,7 @@ Quando Maurizio lavorava in quel supermercato lo pagavano pochissimo.
 Mentre Sebastiano leggeva il giornale, io ho ﬁnito i compiti.
 
 My grandfather spoke Italian very well.
-While we were having coﬀee the telephone rang.
+While we were having coffee the telephone rang.
 When Carla was ﬁve she lived in Rome.
 I arrived as the train was leaving.
 
@@ -5305,12 +5310,12 @@ What did you want/were you wanting? Two years ago I was living in Milan. His fat
 
 L’estate scorsa giocavamo sempre a tennis.
 Quando ero in vacanza andavo al cinema tutti i giorni.
-Tutte le mattine a colazione Giulia prendeva solo del caﬀè.
+Tutte le mattine a colazione Giulia prendeva solo del caffè.
 Cenavamo alle otto.
 
 Last summer we played tennis all the time.
 When I was on holiday I went to the cinema every day.
-Every morning Giulia just had coﬀee for breakfast.
+Every morning Giulia just had coffee for breakfast.
 We used to have dinner at eight.
 
 
@@ -5419,7 +5424,7 @@ Unit 16   119
 10  Where did you [sing.] buy those shoes?
 11  I didn’t call you [sing.] because you were asleep.
 12  When you [pl.] were living in London, I was living in Paris. 13  How old was Susanna when she went to university?
-14  While I was watching the television, Anna came in and switched it oﬀ. 15  Paolo and Giulia didn’t come because Paolo was too tired.
+14  While I was watching the television, Anna came in and switched it off. 15  Paolo and Giulia didn’t come because Paolo was too tired.
 UNIT SEVENTEEN The pronouns ne and ci
 
 
@@ -5472,13 +5477,13 @@ Non ho comprato del pane perché ne I didn’t buy any bread because I’ve ho a
 ‘Hai tutti i libri che ti servono?’ ‘No, ‘Have you got all the books you ne ho solo alcuni.’	need?’ ‘No, I’ve only got a few.’
 Quei biscotti sono molto buoni, ne	Those biscuits are very good, I’ll have prendo ancora qualcuno.                     some more.
 
-4  Ne is also used in negative expressions such as non . . . aﬀatto (not . . . at all), non . . . nessuno/nessuna (not . . . anyone), non . . . più (not . . . any more):
+4  Ne is also used in negative expressions such as non . . . affatto (not . . . at all), non . . . nessuno/nessuna (not . . . anyone), non . . . più (not . . . any more):
 
 
-‘Bevi molto caﬀè?’ ‘No, non ne bevo aﬀatto.’
+‘Bevi molto caffè?’ ‘No, non ne bevo affatto.’
 Ho invitato dieci amici, ma non ne è venuto nessuno.
 
-‘Do you drink much coﬀee?’ ‘No, I don’t drink it at all.’
+‘Do you drink much coffee?’ ‘No, I don’t drink it at all.’
 I invited ten friends, but none of them came.
 122   Unit 17
 
@@ -5540,8 +5545,8 @@ ho comprate alcune.’	
 
 7  When  the  quantity  is  expressed  by  a  noun,  the  past  participle  can agree either with the quantity (this is more usual) or with the noun replaced by ne:
 
-‘Quanto caﬀè hai bevuto?’ ‘Ne ho	
-bevuta una tazza [fs].’	 ‘How much coﬀee did you drink?’ ‘Quanto caﬀè [ms] hai bevuto?’ ‘Ne		‘I drank a cup.’
+‘Quanto caffè hai bevuto?’ ‘Ne ho	
+bevuta una tazza [fs].’	 ‘How much coffee did you drink?’ ‘Quanto caffè [ms] hai bevuto?’ ‘Ne		‘I drank a cup.’
 ho bevuto una tazza.’	
 ‘Quanto pane hai mangiato?’ ‘Ne ho   
 mangiata una fetta [fs].’	 ‘How much bread did you eat?’
@@ -5685,7 +5690,7 @@ Unit 17   127
 
 14  Era un argomento interessante e —— abbiamo parlato molto. 15  Il ﬁlm era noioso e —— abbiamo visto solo metà.
 16  Carla parte: —— accompagno alla stazione. 17  Lo zucchero è ﬁnito: —— compri tu?
-18  ‘Vuoi dello zucchero nel caﬀè?’ ‘Sì, —— voglio due cucchiaini.’ 19  Ho comprato tre brioches e —— ho mangiate due.
+18  ‘Vuoi dello zucchero nel caffè?’ ‘Sì, —— voglio due cucchiaini.’ 19  Ho comprato tre brioches e —— ho mangiate due.
 20  ‘Conoscete tutti i componenti del gruppo?’ ‘Sì, —— conosciamo tutti.’
 
 
@@ -6329,7 +6334,7 @@ UNIT TWENTY Reﬂexive pronouns
 
 
 
-1  Reﬂexive pronouns correspond to ‘myself’, ‘yourself’, etc. in phrases like ‘you ﬂatter yourself’, ‘the cat’s licking itself’, ‘the recorder’s switched itself oﬀ’. In such cases, the subject and the object of the verb are the same person or thing:
+1  Reﬂexive pronouns correspond to ‘myself’, ‘yourself’, etc. in phrases like ‘you ﬂatter yourself’, ‘the cat’s licking itself’, ‘the recorder’s switched itself off’. In such cases, the subject and the object of the verb are the same person or thing:
 
 
 Ti guardi sempre allo specchio.
@@ -6346,11 +6351,11 @@ These examples show how the reﬂexive pronouns are the direct objects of the ve
 There are very many verbs which can be used in the reﬂexive form in Italian and which do not correspond to English reﬂexive verbs. Here is a list of some of the most common ones:
 
 
-addormentarsi alzarsi annoiarsi dimenticarsi lavarsi oﬀendersi ricordarsi riposarsi sbagliarsi scusarsi sedersi sentirsi svegliarsi vestirsi
+addormentarsi alzarsi annoiarsi dimenticarsi lavarsi offendersi ricordarsi riposarsi sbagliarsi scusarsi sedersi sentirsi svegliarsi vestirsi
 
 to fall asleep [lit. to send oneself to sleep] to get up [lit. to raise oneself]
 to get/be bored [lit. to bore oneself] to forget [lit. to forget oneself]
-to get washed [lit. to wash oneself] to take oﬀence [lit. to oﬀend oneself] to remember [lit. to recall oneself]
+to get washed [lit. to wash oneself] to take offence [lit. to offend oneself] to remember [lit. to recall oneself]
 to rest [lit. to rest oneself]
 to be wrong/mistaken [lit. to mistake oneself] to apologise [lit. to excuse oneself]
 to sit down [lit. to seat oneself]
@@ -6413,7 +6418,7 @@ other any more.
 6  Reﬂexive pronouns can also be used, in contemporary spoken Italian, as indirect objects. One such use is to stress that the action expressed by the verb
 Unit 20   145
 
-is to the advantage of the subject (cf. English ‘I’m making myself a coﬀee’ [i.e. a coﬀee for myself], ‘They’re going to have themselves some fun’ [i.e. some fun for themselves]):
+is to the advantage of the subject (cf. English ‘I’m making myself a coffee’ [i.e. a coffee for myself], ‘They’re going to have themselves some fun’ [i.e. some fun for themselves]):
 
 
 Mi mangio un panino.
@@ -6444,14 +6449,14 @@ Paolo si è svegliato tardi. Maria si è annoiata.
 Vittorio, a che ora ti sei alzato? Paolo e Francesca si sono sposati.
 
 Claudio e Anna si sono lavati le mani.
-Sabina si è mangiata un panino. Si sono fatti un caﬀè.
+Sabina si è mangiata un panino. Si sono fatti un caffè.
 
 Paolo woke up late. Maria got bored.
 Vittorio, what time did you get up? Paolo and Francesca have got
 married.
 Claudio and Anna washed their hands.
 Sabina ate a sandwich.
-They made (themselves) a coﬀee.
+They made (themselves) a coffee.
 
 
 9  The reﬂexive pronouns, like all unstressed pronouns, can be attached to the inﬁnitive of a verb (mainly after dovere, potere, volere or sapere). In these sentences, when the main verb is in the present perfect (or any other compound tense), the auxiliary is avere, and the past participle does not agree:
@@ -6544,7 +6549,7 @@ Livia e Sara ——— riposano.
 17 18 19 20
 
 Paolo ——— sbaglia. Come ——— chiami? ——— scrivete spesso?
-——— oﬀendono facilmente.
+——— offendono facilmente.
 
 
 
@@ -6561,7 +6566,7 @@ Example:    A che ora ——— sono alzati?: si
 
 9
 
-Paolo ——— è oﬀeso.	10 Anna ——— è arrabbiata.	11 Dove ——— siete conosciuti?	12 ——— sono alzati tardi.	13 Non ——— sei scusato con loro? 14 ——— siamo capiti subito.	15 Carla non ——— è messa il	16
+Paolo ——— è offeso.	10 Anna ——— è arrabbiata.	11 Dove ——— siete conosciuti?	12 ——— sono alzati tardi.	13 Non ——— sei scusato con loro? 14 ——— siamo capiti subito.	15 Carla non ——— è messa il	16
 cappotto.	17
 Il bambino ——— è	18
 addormentato.
@@ -6590,7 +6595,7 @@ Non (tu [m] lavarsi) le mani? (io [f] tagliarsi) i capelli.
 Il treno (fermarsi).
 I miei zii (separarsi). Vittorio non (lamentarsi). Il professore (riposarsi).
 La professoressa (stancarsi). Non (tu [f] arrabbiarsi)?
-(voi [m] oﬀendersi)?
+(voi [m] offendersi)?
 (loro [m] dimenticarsi) di noi!
 148   Unit 20
 
@@ -6686,7 +6691,7 @@ To ﬁnish ﬁnish ﬁnish
 let us ﬁnish ﬁnish ﬁnish
 
 
-In the ﬁrst person plural, the meaning is more that of a suggestion than an order, made to a group of which we are part (cf. the English ‘Let’s have a coﬀee’). The third person singular and plural are only used for the polite form.
+In the ﬁrst person plural, the meaning is more that of a suggestion than an order, made to a group of which we are part (cf. the English ‘Let’s have a coffee’). The third person singular and plural are only used for the polite form.
 
 
 Parlate con i vostri insegnanti. Prendi un analgesico. Partiamo subito.
@@ -7015,7 +7020,7 @@ supermercato.
 14   Signor Rossi, deve portare una foto.
 15   Dovete aiutare i vostri amici. 16   Devi rendere il libro.
 17   Dobbiamo chiedere a Lina. 18   Devi telefonare ai nonni.
-19   Devi bere del caﬀè.
+19   Devi bere del caffè.
 20   Dovete studiare ﬁlosoﬁa.
 UNIT TWENTY-TWO The pronoun si
 
@@ -7227,13 +7232,13 @@ You’d do better to stay at home.
 
 The present conditional in Italian can express wishes or intentions, opinions or advice, requests in polite form, doubts and conjectures:
 
-Prenderei un caﬀè.	I’d like a coﬀee. Potreste andare a piedi.	You could go on foot.
+Prenderei un caffè.	I’d like a coffee. Potreste andare a piedi.	You could go on foot.
 Mi daresti una mano?	Would/could you give me a hand? Sapresti fare questo lavoro?	Would you know how to do that job? Questa potrebbe essere la soluzione.  This could be the solution.
 
 
 The forms of the present conditional
 
-2  The present conditional is formed in the same way as the future, but with diﬀerent endings:
+2  The present conditional is formed in the same way as the future, but with different endings:
 Unit 23   163
 
 
@@ -7412,12 +7417,12 @@ terrei terresti terrebbe terremmo terreste terrebbero
 Rimarrei ancora un po’ con voi, ma devo prendere il treno.
 Verresti al cinema con me?
 
-Vorrei un caﬀè.*
+Vorrei un caffè.*
 Vorrei anche un chilo di mele.*
 
 I would stay with you a bit longer, but I’ve got to get the train.
 Would you come to the cinema with me?
-I’d like a coﬀee.
+I’d like a coffee.
 I’d like a kilo of apples as well.
 
 

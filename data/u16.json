@@ -8,9 +8,8 @@
                 "paragraphs": [
                     {
                         "id": 1,
-                        "content": "The **imperfect** is, together with the **present perfect**, one of the most used past tenses in Italian. It is called ‘imperfect’ because, generally speaking, there is no reference to the **beginning** or **end** of the action it expresses: either the **length of time** the action lasted is not relevant, or the action is seen as the **background** to another action, or two actions took place at the same time and lasted the same **length of time**. Here are some typical examples:",
+                        "content": "The imperfect is, together with the present perfect, one of the most used past tenses in Italian. It is called ‘imperfect’ because, generally speaking, there is no reference to the beginning or end of the action it expresses: either the length of time the action lasted is not relevant, or the action is seen as the background to another action, or two actions took place at the same time and lasted the same length of time. Here are some typical examples:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Mio nonno **lavorava** in India.", "My grandfather used to work in India."],
                                 ["Mia nonna **era** infermiera.", "My grandmother was a nurse."],
@@ -23,7 +22,7 @@
                         }
                     },
                     {
-                        "content": "As you can see from the examples, the Italian **imperfect** corresponds to several different English forms. We will look at the different **meanings** and **uses** of this tense, but first we will look at its **forms**."
+                        "content": "As you can see from the examples, the Italian imperfect corresponds to several different English forms. We will look at the different meanings and uses of this tense, but first we will look at its forms."
                     }
                 ]
             },
@@ -32,7 +31,7 @@
                 "paragraphs": [
                     {
                         "id": 2,
-                        "content": "The forms of the **imperfect** are very regular. Here are the endings for the three conjugations (**-are**, **-ere**, **-ire**):",
+                        "content": "The forms of the imperfect are very regular. Here are the endings for the three conjugations (**-are**, **-ere**, **-ire**):",
                         "table": {
                             "headers": ["", "-are", "-ere", "-ire"],
                             "rows": [
@@ -90,69 +89,130 @@
                     {
                         "content": "Regular verbs ending in **-ire**",
                         "table": {
-                            "headers": ["Dormire (To sleep)", "Italian", "English"],
+                            "headers": ["Partire (To leave)", "Italian", "English"],
                             "rows": [
-                                ["io", "dormivo", "I slept/was sleeping/used to sleep"],
-                                ["tu", "dormivi", "you slept/were sleeping/used to sleep"],
-                                ["lui/lei", "dormiva", "he/she/it slept/was sleeping/used to sleep"],
-                                ["noi", "dormivamo", "we slept/were sleeping/used to sleep"],
-                                ["voi", "dormivate", "you slept/were sleeping/used to sleep"],
-                                ["loro", "dormivano", "they slept/were sleeping/used to sleep"]
+                                ["io", "partivo", "I left/was leaving/used to leave"],
+                                ["tu", "partivi", "you left/were leaving/used to leave"],
+                                ["lui/lei", "partiva", "he/she/it left/was leaving/used to leave"],
+                                ["noi", "partivamo", "we left/were leaving/used to leave"],
+                                ["voi", "partivate", "you left/were leaving/used to leave"],
+                                ["loro", "partivano", "they left/were leaving/used to leave"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "All verbs ending in **-urre** have the following pattern:",
+                        "table": {
+                            "rows": [
+                                ["-ucevo", "traducevo", "I translated/was translating/used to translate"],
+                                ["-ucevi", "traducevi", "you translated/were translating/used to translate"],
+                                ["-uceva", "traduceva", "he/she/it translated/was translating/used to translate"],
+                                ["-ucevamo", "traducevamo", "we translated/were translating/used to translate"],
+                                ["-ucevate", "traducevate", "you translated/were translating/used to translate"],
+                                ["-ucevano", "traducevano", "they translated/were translating/used to translate"]
+                            ]
+                        }
+                    },
+                    {
+                        "table": {
+                            "rows": [
+                                ["Quando ero bambino abitavo a Parma.", "When I was a child I lived in Parma."],
+                                ["Ieri il tempo era bello.", "Yesterday the weather was lovely."],
+                                ["Al concerto c’erano più di 900 persone.", "There were more than 900 people at the concert."],
+                                ["Mia sorella beveva solo acqua minerale, ora beve anche acqua di rubinetto.", "My sister only used to drink mineral water, now she drinks tap water as well."],
+                                ["Cosa dicevi?", "What were you saying?"],
+                                ["Cosa faceva, Signora, quando non lavorava?", "What did you do(, Madam), when you weren’t working/didn’t work?"],
+                                ["L’interprete traduceva, ma nessuno ascoltava.", "The interpreter was translating, but nobody was listening."]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Uses of the Imperfect vs. Present Perfect",
+                "title": "Negative Form",
                 "paragraphs": [
+                    {
+                        "id": 4,
+                        "content": "The negative is formed, as usual, by putting **non** before the verb:",
+                        "table": {
+                            "rows": [
+                                ["Di solito la domenica non uscivo.", "I didn’t usually go out on Sundays."],
+                                ["Quando hai telefonato non facevo niente di speciale.", "When you phoned I wasn’t doing anything special."]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Uses of the Imperfect",
+                "paragraphs": [
+                    {
+                        "id": 5,
+                        "content": "The imperfect is used for descriptions of situations in the past, when it is not necessary (or important) to say how long an action lasted. This generally happens with verbs like essere, sembrare and avere, and with verbs expressing will, desire or intention, possibility or ability; but it can happen with other verbs as well:",
+                        "table": {
+                            "rows": [
+                                ["C’erano molte persone che aspettavano il treno.", "There were a lot of people (who were) waiting for the train."],
+                                ["Ieri sera sembravi molto stanco.", "You looked very tired last night."],
+                                ["Mia nonna era molto alta e aveva i capelli bianchi.", "My grandmother was very tall and had white hair."],
+                                ["Faceva freddo, in montagna?", "Was it cold in the mountains?"],
+                                ["Cosa volevi?", "What did you want/were you wanting?"],
+                                ["Due anni fa abitavo a Milano.", "Two years ago I was living in Milan."],
+                                ["Suo padre era medico.", "His father was a doctor"]
+                            ]
+                        }
+                    }, 
+                    {
+                        "id": 6,
+                        "content": "The imperfect is also used to express actions which were habitual or hap￾pened repeatedly in the past:",
+                        "table": {
+                            "rows": [
+                                ["L’estate scorsa giocavamo sempre a tennis.", "Last summer we played tennis all the time."],
+                                ["Quando ero in vacanza andavo al cinema tutti i giorni.", "When I was on holiday I went to the cinema every day."],
+                                ["Tutte le mattine a colazione Giulia prendeva solo del caffè.", "Every morning Giulia just had coffee for breakfast."],
+                                ["Cenavamo alle otto.", "We used to have dinner at eight."]
+                            ]
+                        }
+                    }, 
                     {
                         "id": 7,
-                        "content": "The difference between the **imperfect** and the **present perfect** is that the **present perfect** is used for **completed actions** with a specific **duration** or a definite **beginning and end**, while the **imperfect** is used for **ongoing**, **habitual**, or **background actions** without a specified endpoint:",
+                        "content": "Since the imperfect is used when it is not relevant how long the action lasted, it is not used when it is stated how many times, or for how long, something happened:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Ieri **lavoravo** alle otto.", "Yesterday I was working at eight."],
-                                ["L’estate scorsa **sono andato** al cinema 25 volte.", "Last summer I went to the cinema 25 times."],
-                                ["**Ha fatto** molto freddo per due giorni.", "It was very cold for two days."],
-                                ["Giulia **ha lavorato** qui da gennaio a giugno.", "Giulia worked here from January to June."],
-                                ["**Ho abitato** a Milano per due anni.", "I lived in Milan for two years."],
-                                ["Ieri **abbiamo lavorato** tutto il giorno.", "Yesterday we worked all day."],
-                                ["Ieri **sono stato** in biblioteca dalle nove alle undici.", "Yesterday I was in the library from nine till 11."]
+                                ["L’estate scorsa sono andato al cinema 25 volte", "Last summer I went to the cinema 25 times."],
+                                ["Ha fatto molto freddo per due giorni.", "It was very cold for two days."],
+                                ["Giulia ha lavorato qui da gennaio a giugno.", "Giulia worked here from January to June."],
+                                ["Ho abitato a Milano per due anni.", "I lived in Milan for two years."],
+                                ["Ieri abbiamo lavorato tutto il giorno.", "Yesterday we worked all day."],
+                                ["Ieri sono stato in biblioteca dalle nove alle undici.", "Yesterday I was in the library from nine till 11."]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Foreground and Background Actions",
-                "paragraphs": [
+                    },
                     {
                         "id": 8,
-                        "content": "When a sentence refers to two or more **events** which happened in the past, it is helpful to think in terms of ‘**foreground**’ and ‘**background**’, as in these two English examples: ‘While I **was doing** the dishes [continuous background], I **heard** [foreground] the doorbell’; ‘I **saw** [foreground] Juve a couple of times when I **was** [continuous background] in Turin’. In Italian, in cases like these, the **imperfect** expresses the **continuous ‘background’ action** against which the ‘**foreground’ action** is seen to occur:",
+                        "content": "When a sentence refers to two or more events which happened in the past, it is helpful to think in terms of ‘foreground’ and ‘background’, as in these two English examples: ‘While I was doing the dishes [continuous background], I heard [foreground] the doorbell’; ‘I saw [foreground] Juve a couple of times when I was [continuous background] in Turin’. In Italian, in cases like these, the imperfect expresses the continuous ‘background’ action against which the ‘foreground’ action is seen to occur:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["Mentre **dormivate** ho preparato la colazione.*", "While you were sleeping/asleep I prepared breakfast."],
-                                ["Mia madre **ha conosciuto** mio padre quando **abitava** a Firenze.", "My mother met my father when she was living in Florence."],
-                                ["Mauro **non ha preso** l’ombrello anche se **pioveva**.", "Mauro didn’t take the umbrella even though it was raining."],
-                                ["Marco **ha telefonato** quando **eravate** al cinema.", "Marco phoned when you were at the cinema."],
-                                ["**Non sono uscita** perché **pioveva**.", "I didn’t go out because it was raining."]
+                                ["Mentre* dormivate ho preparato la colazione.", "While you were sleeping/asleep I prepared breakfast."],
+                                ["Mia madre ha conosciuto mio padre quando abitava a Firenze.", "My mother met my father when she was living in Florence."],
+                                ["Mauro non ha preso l’ombrello anche se pioveva.", "Mauro didn’t take the umbrella even though it was raining."],
+                                ["Marco ha telefonato quando eravate al cinema.", "Marco phoned when you were at the cinema."],
+                                ["Non sono uscita perché pioveva.", "I didn’t go out because it was raining."]
                             ]
                         }
                     },
                     {
-                        "content": "* Note that **mentre** (while), in the past, is always followed by the **imperfect**."
+                        "content": "* Note that **mentre** (while), in the past, is always followed by the imperfect."
                     },
                     {
-                        "content": "If the two events happened at the same time and lasted for the same **length of time**, then both verbs are in the **imperfect**:",
+                        "content": "If the two events happened at the same time and lasted for the same length of time, then both verbs are in the imperfect:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
-                                ["Mentre noi **facevamo** il compito di matematica, Carla **ripassava** filosofia.", "While we were doing our maths homework, Carla was revising philosophy."],
-                                ["Mentre Alessandro **preparava** la cena, Claudia **leggeva** il giornale.", "While Alessandro was preparing dinner, Claudia was reading the newspaper."],
-                                ["Quando io **lavoravo** al supermercato, mia sorella **lavorava** in un cinema.", "When I worked in the supermarket, my sister worked in a cinema."],
-                                ["Il gatto **miagolava** perché **aveva** fame.", "The cat was miaowing because it was hungry."]
+                                ["Mentre noi facevamo il compito di matematica, Carla ripassava filosofia.", "While we were doing our maths homework, Carla was revising philosophy."],
+                                ["Mentre Alessandro preparava la cena, Claudia leggeva il giornale.", "While Alessandro was preparing dinner, Claudia was reading the newspaper."],
+                                ["Quando io lavoravo al supermercato, mia sorella lavorava in un cinema.", "When I worked in the supermarket, my sister worked in a cinema."],
+                                ["Il gatto miagolava perché aveva fame.", "The cat was miaowing because it was hungry."]
                             ]
                         }
                     }
@@ -162,33 +222,92 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Imperfect Tense",
-            "instruction": "Supply the **imperfect** of the verb in brackets.",
+            "title": "Exercise 1",
+            "instruction": "Supply the imperfect of the verb in brackets.",
             "examples": [
-                "Il nonno di Piero (**parlare**) sei lingue.: Il nonno di Piero **parlava** sei lingue.",
-                "Laura (**passare**) sempre l’estate al mare.: Laura **passava** sempre l’estate al mare."
+                "Silvio (lavorare) molto: lavorava"
             ],
             "items": [
-                { "question": "Il nonno di Piero (**parlare**) sei lingue.", "answer": "Il nonno di Piero parlava sei lingue." },
-                { "question": "Laura (**passare**) sempre l’estate al mare.", "answer": "Laura passava sempre l’estate al mare." },
-                { "question": "Che lavoro (**fare**) tua nonna?", "answer": "Che lavoro faceva tua nonna?" },
-                { "question": "Mentre (**io studiare**), Maria (**riposare**).", "answer": "Mentre io studiavo, Maria riposava." },
-                { "question": "Il treno (**partire**) sempre in ritardo.", "answer": "Il treno partiva sempre in ritardo." },
-                { "question": "Dove (**lavorare**) Nicola?", "answer": "Dove lavorava Nicola?" },
-                { "question": "Paolo non (**dire**) mai la verità.", "answer": "Paolo non diceva mai la verità." },
-                { "question": "Ieri (**fare**) freddo.", "answer": "Ieri faceva freddo." },
-                { "question": "Da bambini (**noi abitare**) in campagna.", "answer": "Da bambini noi abitavamo in campagna." },
-                { "question": "(**voi essere**) stanchi ieri sera?", "answer": "Voi eravate stanchi ieri sera?" },
-                { "question": "(**loro andare**) in piscina tutti i giorni.", "answer": "Loro andavano in piscina tutti i giorni." },
-                { "question": "Lei (**essere**) infermiera, Signora?", "answer": "Lei era infermiera, Signora?" },
-                { "question": "Non (**noi uscire**) mai di domenica.", "answer": "Non noi uscivamo mai di domenica." },
-                { "question": "(**tu sapere**) la verità?", "answer": "Tu sapevi la verità?" },
-                { "question": "(**io conoscere**) bene suo cugino.", "answer": "Io conoscevo bene suo cugino." },
-                { "question": "Paolo (**amare**) Francesca.", "answer": "Paolo amava Francesca." },
-                { "question": "(**voi dormire**) ancora?", "answer": "Voi dormivate ancora?" },
-                { "question": "I miei amici (**essere**) studenti.", "answer": "I miei amici erano studenti." },
-                { "question": "(**tu avere**) fame?", "answer": "Tu avevi fame?" },
-                { "question": "(**loro dovere**) partire.", "answer": "Loro dovevano partire." }
+                { 
+                    "question": "Il nonno di Piero (parlare) sei lingue.", 
+                    "answer": "parlava" 
+                },
+                { 
+                    "question": "Laura (passare) sempre l’estate al mare.", 
+                    "answer": "passava" 
+                },
+                { 
+                    "question": "Che lavoro (fare) tua nonna?", 
+                    "answer": "faceva" 
+                },
+                { 
+                    "question": "Mentre (io studiare), Maria (riposare).", 
+                    "answer": "studiavo, riposava" 
+                },
+                { 
+                    "question": "Il treno (partire) sempre in ritardo.", 
+                    "answer": "partiva" 
+                },
+                { 
+                    "question": "Dove (lavorare) Nicola?", 
+                    "answer": "lavorava" 
+                },
+                { 
+                    "question": "Paolo non (dire) mai la verità.", 
+                    "answer": "diceva" 
+                },
+                { 
+                    "question": "Ieri (fare) freddo.", 
+                    "answer": "faceva" 
+                },
+                { 
+                    "question": "Da bambini (noi abitare) in campagna.", 
+                    "answer": "abitavamo" 
+                },
+                { 
+                    "question": "(voi essere) stanchi ieri sera?", 
+                    "answer": "eravate" 
+                },
+                { 
+                    "question": "(loro andare) in piscina tutti i giorni.", 
+                    "answer": "andavano" 
+                },
+                { 
+                    "question": "Lei (essere) infermiera, Signora?", 
+                    "answer": "era" 
+                },
+                { 
+                    "question": "Non (noi uscire) mai di domenica.", 
+                    "answer": "uscivamo" 
+                },
+                { 
+                    "question": "(tu sapere) la verità?", 
+                    "answer": "sapevi" 
+                },
+                { 
+                    "question": "(io conoscere) bene suo cugino.", 
+                    "answer": "conoscevo" 
+                },
+                { 
+                    "question": "Paolo (amare) Francesca.", 
+                    "answer": "amava" 
+                },
+                { 
+                    "question": "(voi dormire) ancora?", 
+                    "answer": "dormivate" 
+                },
+                { 
+                    "question": "I miei amici (essere) studenti.", 
+                    "answer": "erano" 
+                },
+                { 
+                    "question": "(tu avere) fame?", 
+                    "answer": "avevi" 
+                },
+                { 
+                    "question": "(loro dovere) partire.", 
+                    "answer": "dovevano" 
+                }
             ]
         },
         {
@@ -199,87 +318,222 @@
                 "Chi (**essere**) Dante Alighieri?: Chi **era** Dante Alighieri?"
             ],
             "items": [
-                { "question": "Elena, a che ora (**tu partire**) ieri?", "answer": "Elena, a che ora sei partita ieri?" },
-                { "question": "Chi (**essere**) Dante Alighieri?", "answer": "Chi era Dante Alighieri?" },
-                { "question": "Ieri non (**io studiare**) perché (**essere**) stanco.", "answer": "Ieri non ho studiato perché ero stanco." },
-                { "question": "(**tu avere**) paura del buio da bambino?", "answer": "Tu avevi paura del buio da bambino?" },
-                { "question": "(**voi visitare**) Roma l’anno scorso?", "answer": "Voi avete visitato Roma l’anno scorso?" },
-                { "question": "Mentre (**io guardare**) la televisione, tu (**leggere**).", "answer": "Mentre io guardavo la televisione, tu leggevi." },
-                { "question": "Dove (**tu essere**) ieri sera?", "answer": "Dove sei stato ieri sera?" },
-                { "question": "(**noi vivere**) in un piccolo paese da bambini.", "answer": "Noi vivevamo in un piccolo paese da bambini." },
-                { "question": "(**loro comprare**) una casa nuova l’anno scorso?", "answer": "Loro hanno comprato una casa nuova l’anno scorso?" },
-                { "question": "Quando (**io essere**) piccolo, (**giocare**) sempre fuori.", "answer": "Quando io ero piccolo, giocavo sempre fuori." }
+                {
+					"question": "Elena, a che ora (tu partire) ieri?", 
+					"answer": "sei partita"
+				},
+                {
+					"question": "Chi (essere) Dante Alighieri?", 
+					"answer": "era"
+				},
+                {
+					"question": "(io studiare) per due ore.", 
+					"answer": "ho studiato"
+				},
+                {
+					"question": "Di solito (noi mangiare) in mensa.", 
+					"answer": "mangiavamo"
+				},
+                {
+					"question": "Claudia (rimanere) in casa tutto il giorno.", 
+					"answer": "è rimasta"
+				},
+                {
+					"question": "Mia nonna (avere) gli occhi azzurri.", 
+					"answer": "aveva"
+				},
+                {
+					"question": "Nicoletta e Luigina non (sembrare) sorelle.", 
+					"answer": "sembravano"
+				},
+                {
+					"question": "Ieri Andrea (spendere) 150 euro.", 
+					"answer": "ha speso"
+				},
+                {
+					"question": "Signora, dove (andare) in vacanza l’anno scorso?", 
+					"answer": "è andata"
+				},
+                {
+					"question": "I loro amici (essere) sempre allegri.", 
+					"answer": "erano" 
+                }
             ]
         },
         {
-            "title": "Exercise 3: Present Perfect or Imperfect",
-            "instruction": "Supply the correct tense (**present perfect** or **imperfect**) of the verb in brackets.",
+            "title": "Exercise 3",
+            "instruction": "Supply the correct tense (present perfect or imperfect) of the verb in brackets.",
             "examples": [
-                "Ieri non (**piovere**), ma (**fare**) freddo.: Ieri non **ha piovuto**, ma **faceva** freddo.",
-                "Quando (**tu arrivare**), (**io aspettare**) da un’ora.: Quando **sei arrivato**, **aspettavo** da un’ora."
+                " Mentre (noi guardare) la televisione Isabella (ascoltare) la radio: guardavamo, ascoltava"
             ],
             "items": [
-                { "question": "Ieri non (**piovere**), ma (**fare**) freddo.", "answer": "Ieri non ha piovuto, ma faceva freddo." },
-                { "question": "Quando (**tu arrivare**), (**io aspettare**) da un’ora.", "answer": "Quando sei arrivato, aspettavo da un’ora." },
-                { "question": "(**voi essere**) a scuola quando (**io telefonare**).", "answer": "Voi eravate a scuola quando ho telefonato." },
-                { "question": "Anche se (**piovere**), (**io uscire**).", "answer": "Anche se pioveva, sono uscito." },
-                { "question": "Mentre (**noi parlare**), Anna (**arrivare**).", "answer": "Mentre noi parlavamo, Anna è arrivata." }
+                {
+					"question": "Marco (arrivare) tardi perché il treno (essere) in ritardo", 
+					"answer": "è arrivato, era"
+				},
+                {
+					"question": "(io conoscere) Susanna quando (io abitare) a Napoli.", 
+					"answer": "ho conosciuto, abitavo"
+				},
+                {
+					"question": "Quanti anni (tu avere) quando (tu cominciare) a lavorare?", 
+					"answer": "avevi, hai cominciato"
+				},
+                {
+					"question": "Sergio (telefonare) proprio mentre (io fare) il bagno.", 
+					"answer": "ha telefonato, facevo"
+				},
+                {
+					"question": "Anna e Giacomo (venire) a piedi perché l’auto (essere) guasta.", 
+					"answer": "sono venuti, era"
+				},
+                {
+					"question": "Non (loro fare) la spesa perché non (loro sapere) cosa comprare.", 
+					"answer": "hanno fatto, sapevano"
+				},
+                {
+					"question": "Cosa (loro dire) quando (loro vedere) Gianni ieri sera?", 
+					"answer": "hanno detto, hanno visto"
+				},
+                {
+					"question": "Massimo non (venire) alla festa perché (avere) mal di testa.", 
+					"answer": "è venuto, aveva"
+				},
+                {
+					"question": "(noi arrivare) alla stazione proprio mentre il treno (partire).", 
+					"answer": "siamo arrivati or arrivate, partiva"
+				},
+                {
+					"question": "(io imprestare) la bici a Giulia perché la sua (essere) rotta.", 
+					"answer": "ho imprestato, era" 
+                }
             ]
         },
         {
-            "title": "Exercise 4: Supply the Missing Verb",
-            "instruction": "Supply the missing verb in the correct tense (**present perfect** or **imperfect**).",
-            "examples": [
-                "Ieri (**—**) freddo tutto il giorno.: Ieri (**faceva**) freddo tutto il giorno.",
-                "L’anno scorso (**—**) in montagna.: L’anno scorso (**sono andato**) in montagna."
-            ],
+            "title": "Exercise 4",
+            "instruction": "Put the text into a past tense, changing the verbs in italics to either the present perfect or the imperfect.",
+            "examples": [],
             "items": [
-                { "question": "Ieri (**—**) freddo tutto il giorno.", "answer": "Ieri (faceva) freddo tutto il giorno." },
-                { "question": "L’anno scorso (**—**) in montagna.", "answer": "L’anno scorso (sono andato) in montagna." },
-                { "question": "Mentre (**—**) la cena, il telefono (**—**).", "answer": "Mentre (preparavo) la cena, il telefono (ha squillato)." },
-                { "question": "(**—**) molto stanco ieri sera.", "answer": "(Ero) molto stanco ieri sera." },
-                { "question": "(**—**) al cinema ieri?", "answer": "(Sei andato) al cinema ieri?" },
-                { "question": "Lucia (**—**) un’amica mentre (**—**) a casa.", "answer": "Lucia (ha incontrato) un’amica mentre (tornava) a casa." },
-                { "question": "Non (**—**) la tua voce ieri.", "answer": "Non (ho sentito) la tua voce ieri." },
-                { "question": "Non (**—**) alla mia lettera.", "answer": "Non (hai risposto) alla mia lettera." },
-                { "question": "(**—**) un film molto bello l’altra sera.", "answer": "(Ho visto) un film molto bello l’altra sera." },
-                { "question": "Dove (**—**) ieri?", "answer": "Dove (eri) ieri?" },
-                { "question": "(**—**) di studiare alle nove.", "answer": "(Ho finito) di studiare alle nove." },
-                { "question": "Chi (**—**) questa regola?", "answer": "Chi (ha spiegato) questa regola?" },
-                { "question": "Ieri (**—**) contenti.", "answer": "Ieri (eravate) contenti." },
-                { "question": "Chi (**—**) ieri?", "answer": "Chi (ha chiamato) ieri?" },
-                { "question": "(**—**) freddo ieri?", "answer": "(Avevi) freddo ieri?" },
-                { "question": "(**—**) in Italia da tre anni.", "answer": "(Ero) in Italia da tre anni." },
-                { "question": "(**—**) dove abitava Anna?", "answer": "(Sapevi) dove abitava Anna?" },
-                { "question": "Loro (**—**) ieri mattina.", "answer": "Loro (sono partiti) ieri mattina." },
-                { "question": "(**—**) sete?", "answer": "(Avevate) sete?" },
-                { "question": "Non (**—**) a finire il compito.", "answer": "Non (sono riuscito) a finire il compito." },
-                { "question": "Chi (**—**) la porta?", "answer": "Chi (ha aperto) la porta?" }
+                {
+					"question": "Sabato sera in un locale del centro *suona* un gruppo rock che *piace* molto a Massimo, così i miei amici e io *decidiamo* di andare a questo concerto.", 
+					"answer": "suonava, piaceva, abbiamo deciso"
+				},
+                {
+					"question": "*Arriviamo* davanti al locale con molto anticipo: *mancano* tre ore all’inizio, ma *ci sono* già molte persone.", 
+					"answer": "siamo arrivati, mancavano, c’erano"
+				},
+                {
+					"question": "Massimo è molto impaziente.", 
+					"answer": "era"
+				},
+                {
+					"question": " Dopo una mezz’ora, mentre *aspettiamo*, *sentiamo* suonare il cellulare di Massimo e lui *risponde*.", 
+					"answer": "aspettavamo, abbiamo sentito, ha risposto"
+				},
+                {
+					"question": "*Vediamo* che Massimo *è* preoccupato e quando *finisce* di parlare ci *spiega*. ", 
+					"answer": "abbiamo visto, era, ha finito, ha spiegato"
+				},
+                {
+					"question": "*È* suo padre che lo *chiama* perché *ha* bisogno di aiuto: la sua auto *è* guasta e non *sa* come tornare a casa.", 
+					"answer": "era, chiamava, aveva, era, sapeva"
+				},
+                {
+					"question": "Massimo *parte* subito per andare a prenderlo e accompagnarlo a casa anche se *ha* paura di perdere il concerto.", 
+					"answer": "è partito, aveva"
+				},
+                {
+					"question": "Per fortuna, però, Massimo *riesce* a tornare dopo un’ora, proprio mentre *aprono* le porte.", 
+					"answer": "è riuscito, aprivano"
+				}
             ]
         },
         {
-            "title": "Exercise 5: Translate into Italian",
-            "instruction": "Translate the following sentences into Italian, using the appropriate past tense (**present perfect** or **imperfect**).",
-            "examples": [
-                "How long did you [sing.] spend in Bologna?: Quanto tempo **hai passato** a Bologna?",
-                "We went to the cinema last night.: **Siamo andati** al cinema ieri sera."
-            ],
+            "title": "Exercise 5",
+            "instruction": ": Translate into Italian:",
+            "examples": [],
             "items": [
-                { "question": "How long did you [sing.] spend in Bologna?", "answer": "Quanto tempo hai passato a Bologna?" },
-                { "question": "We went to the cinema last night.", "answer": "Siamo andati al cinema ieri sera." },
-                { "question": "You [pl.] seemed happy.", "answer": "Sembravate felici." },
-                { "question": "Gemma’s father was a sailor.", "answer": "Il padre di Gemma era marinaio." },
-                { "question": "Claudia and Monica didn’t come on holiday with us this time.", "answer": "Claudia e Monica non sono venute in vacanza con noi questa volta." },
-                { "question": "My parents usually went out at eight.", "answer": "I miei genitori di solito uscivano alle otto." },
-                { "question": "My father worked in India for three years.", "answer": "Mio padre lavorava in India per tre anni." },
-                { "question": "What time did you [pl.] get the bus yesterday morning?", "answer": "A che ora avete preso l’autobus ieri mattina?" },
-                { "question": "Last year we did gym on Monday mornings.", "answer": "L’anno scorso facevamo ginnastica il lunedì mattina." },
-                { "question": "Where did you [sing.] buy those shoes?", "answer": "Dove hai comprato quelle scarpe?" },
-                { "question": "I didn’t call you [sing.] because you were asleep.", "answer": "Non ti ho chiamato perché dormivi." },
-                { "question": "When you [pl.] were living in London, I was living in Paris.", "answer": "Quando voi vivevate a Londra, io vivevo a Parigi." },
-                { "question": "How old was Susanna when she went to university?", "answer": "Quanti anni aveva Susanna quando è andata all’università?" },
-                { "question": "While I was watching the television, Anna came in and switched it off.", "answer": "Mentre guardavo la televisione, Anna è entrata e l’ha spenta." },
-                { "question": "Paolo and Giulia didn’t come because Paolo was too tired.", "answer": "Paolo e Giulia non sono venuti perché Paolo era troppo stanco." }
+                {
+					"question": "How long did you [sing.] spend in Bologna?", 
+					"answer": "Quanto tempo hai passato a Bologna?"
+				},
+                {
+					"question": "We went to the cinema last night.", 
+					"answer": 
+                        [
+                            "Siamo andati al cinema ieri sera.", 
+                            "Siamo andate al cinema ieri sera."
+                        ]
+				},
+                {
+					"question": "You [pl.] seemed happy.", 
+					"answer": "Sembravate felici."
+				},
+                {
+					"question": "Gemma’s father was a sailor.", 
+					"answer": 
+                        [
+                            "Il padre di Gemma faceva il marinaio.", 
+                            "Il padre di Gemma era marinaio."
+                        ]
+				},
+                {
+					"question": "Claudia and Monica didn’t come on holiday with us this time.", 
+					"answer": "Claudia e Monica non sono venute in vacanza con noi questa volta."
+				},
+                {
+					"question": "My parents usually went out at eight.", 
+					"answer": "I miei genitori di solito uscivano alle otto."
+				},
+                {
+					"question": "My father worked in India for three years.", 
+					"answer": "Mio padre lavorava in India per tre anni."
+				},
+                {
+					"question": "What time did you [pl.] get the bus yesterday morning?", 
+					"answer": "A che ora avete preso l’autobus ieri mattina?"
+				},
+                {
+					"question": "Last year we did gym on Monday mornings.", 
+					"answer": 
+                        [
+                            "L’anno scorso facevamo ginnastica il lunedì mattina.", 
+                            "L’anno scorso facevamo ginnastica di lunedì mattina."
+                        ]
+				},
+                {
+					"question": "Where did you [sing.] buy those shoes?", 
+					"answer": "Dove hai comprato quelle scarpe?"
+				},
+                {
+					"question": "I didn’t call you [sing.] because you were asleep.", 
+					"answer": 
+                        [
+                            "Non ti ho chiamato perché dormivi.",
+                            "Non ti ho chiamata perché dormivi."
+                        ]
+				},
+                {
+					"question": "When you [pl.] were living in London, I was living in Paris.", 
+					"answer": [
+                        "Quando voi abitavate a Londra io abitavo a Parigi.",
+                        "Quando voi vivevate a Londra io abitavo a Parigi.",
+                        "Quando voi abitavate a Londra io vivevo a Parigi.",
+                        "Quando voi vivevate a Londra io vivevo a Parigi."
+                    ]
+				},
+                {
+					"question": "How old was Susanna when she went to university?", 
+					"answer": "Quanti anni aveva Susanna quando è andata all’università?"
+				},
+                {
+					"question": "While I was watching the television, Anna came in and switched it off.", 
+					"answer": "Mentre guardavo la televisione, Anna è entrata e l’ha spenta."
+				},
+                {
+					"question": "Paolo and Giulia didn’t come because Paolo was too tired.", 
+					"answer": "Paolo e Giulia non sono venuti perché Paolo era troppo stanco." 
+                }
             ]
         }
     ]
