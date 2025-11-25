@@ -112,10 +112,10 @@
             "content": "Di is typically used to express:",
             "table": {
               "rows": [
-                ["possession", "La moto di Luca è rossa.", "Luca’s motorbike is red."],
-                ["material", "una giacca di pelle", "a leather jacket"],
-                ["time", "Di sera non esco.", "I don’t go out in the evening(s)."],
-                ["subject", "una lezione di storia", "a history lesson"]
+                ["possession", "La moto ***di*** Luca è rossa.", "Luca***’s*** motorbike is red."],
+                ["material", "una giacca ***di*** pelle", "a leather [***of***] jacket"],
+                ["time", "***Di*** sera non esco.", "I don’t go out ***in the*** evening(s)."],
+                ["subject", "una lezione ***di*** storia", "a history lesson [a lesson ***of*** history]"]
               ]
             }
           },
@@ -123,14 +123,14 @@
             "content": "The most common uses of di are the ones which correspond to the English possessive (’s) and the noun + noun structure:",
             "table": {
               "rows": [
-                ["il libro del professore", "the teacher’s book"],
-                ["la sorella di Monica", "Monica’s sister"],
-                ["il casco di Sebastiano", "Sebastiano’s helmet"],
-                ["la politica del governo", "the government’s policy/government policy"],
-                ["una buca delle lettere", "a letter box"],
-                ["un racconto di fate", "a fairy tale"],
-                ["il professore di scienze", "the science teacher"],
-                ["un panino di formaggio", "a cheese roll"]
+                ["il libro ***del*** professore", "the teacher***’s*** book"],
+                ["la sorella ***di*** Monica", "Monica***’s*** sister"],
+                ["il casco ***di*** Sebastiano", "Sebastiano***’s*** helmet"],
+                ["la politica ***del*** governo", "the government***’s*** policy/government policy"],
+                ["una buca ***delle*** lettere", "a letter box [a box ***of the*** letters]"],
+                ["un racconto ***di*** fate", "a fairy tale [a tale ***of*** farries]"],
+                ["il professore ***di*** scienze", "the science teacher [the teacher ***of*** sciences]"],
+                ["un panino ***di*** formaggio", "a cheese roll [a roll ***of*** cheese] "]
               ]
             }
           },
@@ -138,24 +138,24 @@
             "content": "Di is frequently used in partitive constructions, i.e. to express the English ‘some’ or ‘any’ in such sentences as ‘I’d like some bread’, ‘Have you any pasta?’, ‘We’ve got (some) pasta and (some) olives’:",
             "table": {
               "rows": [
-                ["Devo comprare del pane.", "I’ve got to get (some) bread."],
-                ["Prendo della pasta.", "I’m getting (some) pasta."],
-                ["C’è dell’acqua in frigo.", "There’s (some) water in the fridge."],
-                ["Esco con degli amici.", "I’m going out with (some) friends."],
-                ["Vuoi dei libri in italiano?", "Do you want (some) books in Italian?"],
-                ["Ci sono delle case sulla collina.", "There are (some) houses on the hill."]
+                ["Devo comprare ***del*** pane.", "I’ve got to get (***some***) bread."],
+                ["Prendo ***della*** pasta.", "I’m getting (***some***) pasta."],
+                ["C’è ***dell’***acqua in frigo.", "There’s (***some***) water in the fridge."],
+                ["Esco con ***degli*** amici.", "I’m going out with (***some***) friends."],
+                ["Vuoi ***dei*** libri in italiano?", "Do you want (***some***) books in Italian?"],
+                ["Ci sono ***delle*** case sulla collina.", "There are (***some***) houses on the hill."]
               ]
             }
           },
           {
-            "content": "Di is also used, followed by a verb in the infinitive, after certain verbs like credere (to believe), pensare (to think), dire (to say), sperare (to hope), finire (to finish), smettere (to stop):",
+            "content": "**Di** is also used, followed by a verb in the infinitive, after certain verbs like **credere** (to believe), **pensare** (to think), **dire** (to say), **sperare** (to hope), **finire** (to finish), **smettere** (to stop):",
             "table": {
               "rows": [
-                ["Finisco di leggere il giornale e poi esco.", "I finish reading the paper and then I go out."],
-                ["Paolo pensa di essere intelligente.", "Paolo thinks he is intelligent."],
-                ["Anna crede di riuscire a passare l’esame.", "Anna believes she can pass the exam."],
-                ["La mamma dice di essere stanca.", "Mum says she’s tired."],
-                ["Devo smettere di perdere tempo!", "I must stop wasting time!"]
+                ["Finisco ***di leggere*** il giornale e poi esco.", "I ***finish reading*** the paper and then I go out."],
+                ["Paolo pensa ***di essere*** intelligente.", "Paolo thinks he ***is*** intelligent."],
+                ["Anna crede ***di riuscire*** a passare l’esame.", "Anna believes she ***can*** pass the exam."],
+                ["La mamma dice ***di essere*** stanca.", "Mum says she***’s*** tired."],
+                ["Devo smettere ***di perdere*** tempo!", "I must stop ***wasting*** time!"]
               ]
             }
           }
@@ -166,33 +166,33 @@
         "paragraphs": [
           {
             "id": 8.05,
-            "content": "A is typically used to express:",
+            "content": "**A** is typically used to express:",
             "table": {
               "rows": [
-                ["place", "Abito a Londra.", "I live in London."],
-                ["", "Vado al cinema.", "I’m going to the cinema."],
-                ["", "Sono a casa.", "I’m at home."],
-                ["", "La casa si trova a 100 metri dal mare.", "The house is 100 metres from the sea."],
-                ["time", "Parto alle 17.", "I’m leaving at 17.00."],
-                ["", "Vado in Olanda a luglio.", "I’m going to Holland in July."],
-                ["indirect object", "Diamo il libro a Silvia.", "We’re giving the book to Silvia."],
-                ["", "Scrivete ai vostri genitori?", "Do you write to your parents?"],
-                ["quality", "Vuoi un gelato al limone?", "Do you want a lemon icecream?"],
-                ["means/manner", "La giacca è fatta a mano.", "The jacket’s made by hand."],
-                ["", "Impari tutto a memoria?", "Do you learn everything by heart?"],
-                ["", "Stasera mangiamo patate al vapore.", "We’re having steamed potatoes tonight. [i.e. they’re cooked with steam]"]
+                ["place", "Abito ***a*** Londra.", "I live ***in*** London."],
+                ["", "Vado ***al*** cinema.", "I’m going ***to the*** cinema."],
+                ["", "Sono ***a*** casa.", "I’m ***at*** home."],
+                ["", "La casa si trova ***a*** 100 metri dal mare.", "The house is [***at***] 100 metres from the sea."],
+                ["time", "Parto ***alle*** 17.", "I’m leaving ***at** 17.00."],
+                ["", "Vado in Olanda ***a*** luglio.", "I’m going to Holland ***in*** July."],
+                ["indirect object", "Diamo il libro ***a** Silvia.", "We’re giving the book ***to*** Silvia."],
+                ["", "Scrivete ***ai*** vostri genitori?", "Do you write ***to*** your parents?"],
+                ["quality", "Vuoi un gelato ***al*** limone?", "Do you want a lemon ice cream? [ice cream ***of*** lemon]"],
+                ["means/manner", "La giacca è fatta ***a*** mano.", "The jacket’s made ***by*** hand."],
+                ["", "Impari tutto ***a*** memoria?", "Do you learn everything ***by*** heart?"],
+                ["", "Stasera mangiamo patate ***al*** vapore.", "We’re having steamed potatoes tonight. [i.e. they’re cooked ***with*** steam]"]
               ]
             }
           },
           {
-            "content": "A is also used, followed by a verb in the infinitive, after certain verbs like andare (to go), venire (to come), cominciare (to start/begin), continuare (to continue), riuscire (can/to be able/manage):",
+            "content": "***A*** is also used, followed by a verb in the infinitive, after certain verbs like ***andare*** (to go), ***venire*** (to come), ***cominciare*** (to start/begin), ***continuare*** (to continue), ***riuscire*** (can/to be able/manage):",
             "table": {
               "rows": [
-                ["‘Dove vai?’ ‘Vado a lavorare.’", "‘Where are you going?’ ‘I’m going to work.’"],
-                ["Vieni a studiare in biblioteca?", "Are you coming to work in the library?"],
-                ["Comincio a capire.", "I’m beginning to understand."],
-                ["Paolo continua a parlare.", "Paolo continues/keeps on talking."],
-                ["Non riesco a sentire cosa dice.", "I can’t hear what he’s saying."]
+                ["‘Dove vai?’ ‘Vado ***a lavorare***.’", "‘Where are you going?’ ‘I’m going ***to work***.’"],
+                ["Vieni ***a studiare*** in biblioteca?", "Are you coming to work ***in the library***?"],
+                ["Comincio ***a capire***.", "I’m beginning ***to understand***."],
+                ["Paolo continua ***a parlare***.", "Paolo continues/keeps on ***talking***."],
+                ["Non riesco ***a sentire*** cosa dice.", "I can’t ***hear*** what he’s saying."]
               ]
             }
           }
@@ -203,34 +203,34 @@
         "paragraphs": [
           {
             "id": 8.06,
-            "content": "Da is typically used to express:",
+            "content": "**Da** is typically used to express:",
             "table": {
               "rows": [
-                ["place", "Parto da Milano.", "I’m leaving from Milan."],
-                ["time", "Studio italiano da un mese.", "I have been studying Italian for a month."],
-                ["function", "aperto dalle 9 alle 10", "open (from) 9 to 10 (o’clock)"],
-                ["", "Sono scarpe da tennis.", "They’re tennis shoes."]
+                ["place", "Parto ***da*** Milano.", "I’m leaving ***from*** Milan."],
+                ["time", "Studio italiano ***da*** un mese.", "I have been studying Italian ***for*** a month."],
+                ["function", "aperto ***dalle*** 9 alle 10", "open (***from***) 9 to 10 (o’clock)"],
+                ["", "Sono scarpe ***da*** tennis.", "They’re tennis shoes. [shoes ***for*** tennis]"]
               ]
             }
           },
           {
-            "content": "Da is always used to mean ‘at/at the house of’ a person or people:",
+            "content": "**Da** is always used to mean ‘at/at the house of’ a person or people:",
             "table": {
               "rows": [
-                ["Abiti da tua zia?", "Do you live at your aunt’s?"],
-                ["Lavoro da Anna stasera.", "I’m working at Anna’s tonight."],
-                ["Devo andare dal dentista.", "I have to go to the dentist."]
+                ["Abiti ***da*** tua zia?", "Do you live ***at*** your aunt’s?"],
+                ["Lavoro ***da*** Anna stasera.", "I’m working ***at*** Anna’s tonight."],
+                ["Devo andare ***dal*** dentista.", "I have to go ***to** the dentist."]
               ]
             }
           },
           {
-            "content": "Da is also used followed by an infinitive after molto (a lot), poco (little), niente (nothing), qualcosa (something):",
+            "content": "**Da** is also used followed by an infinitive after **molto** (a lot), **poco** (little), **niente** (nothing), **qualcosa** (something):",
             "table": {
               "rows": [
-                ["Ho molto da fare.", "I’ve got a lot to do."],
-                ["Ha poco da dire.", "He has little/He’s not got much to say."],
-                ["Non c’è niente da bere.", "There’s nothing to drink."],
-                ["Vuoi qualcosa da mangiare?", "Do you want something to eat?"]
+                ["Ho molto ***da*** fare.", "I’ve got a lot ***to*** do."],
+                ["Ha poco ***da*** dire.", "He has little/He’s not got much ***to*** say."],
+                ["Non c’è niente ***da*** bere.", "There’s nothing ***to*** drink."],
+                ["Vuoi qualcosa ***da*** mangiare?", "Do you want something ***to*** eat?"]
               ]
             }
           }
@@ -241,19 +241,19 @@
         "paragraphs": [
           {
             "id": 8.07,
-            "content": "In is typically used to express:",
+            "content": "**In** is typically used to express:",
             "table": {
               "rows": [
-                ["place", "Vivo in campagna.", "I live in the country."],
-                ["", "Abbiamo una casa in Francia.", "We have a house in France."],
-                ["time", "nel 2006", "in 2006"],
-                ["", "nel ventesimo secolo", "in the twentieth century"],
-                ["means", "Andiamo in treno/in auto/in bici.*", "We’re going by train/car/on our bikes."]
+                ["place", "Vivo ***in*** campagna.", "I live in the country."],
+                ["", "Abbiamo una casa ***in*** Francia.", "We have a house in France."],
+                ["time", "***nel*** 2006", "***in [the]*** 2006"],
+                ["", "***nel*** ventesimo secolo", "***in the*** twentieth century"],
+                ["means", "Andiamo ***in*** treno/***in*** auto/***in*** bici.*", "We’re going ***by*** train/car/on our bikes."]
               ]
             }
           },
           {
-            "content": "* NB: in piedi means ‘standing’; ‘on foot’ is a piedi."
+            "content": "* NB: **in piedi** means ‘standing’; ‘on foot’ is **a piedi**."
           }
         ]
       },
@@ -262,16 +262,16 @@
         "paragraphs": [
           {
             "id": 8.08,
-            "content": "Con is typically used to express:",
+            "content": "**Con** is typically used to express:",
             "table": {
               "rows": [
-                ["company", "Vado al cinema con Luca.", "I’m going to the cinema with Luca."],
-                ["", "Parlo con Anna.", "I’m talking to/with Anna."],
-                ["means", "Devo scrivere con una penna rossa.", "I’ve got to write with a red pen."],
-                ["", "Pago con un assegno.", "I’m paying with a cheque/by cheque."],
-                ["manner", "Parla con accento straniero.", "He speaks with a foreign accent."],
-                ["", "Parla con lentezza.", "He speaks slowly."],
-                ["quality", "una signora con i capelli grigi", "a lady with grey hair"]
+                ["company", "Vado al cinema ***con*** Luca.", "I’m going to the cinema ***with*** Luca."],
+                ["", "Parlo ***con*** Anna.", "I’m talking to/***with** Anna."],
+                ["means", "Devo scrivere ***con*** una penna rossa.", "I’ve got to write ***with*** a red pen."],
+                ["", "Pago ***con*** un assegno.", "I’m paying ***with*** a cheque/by cheque."],
+                ["manner", "Parla ***con*** accento straniero.", "He speaks ***with*** a foreign accent."],
+                ["", "Parla ***con*** lentezza.", "He speaks slowly [***with*** slowness]."],
+                ["quality", "una signora ***con*** i capelli grigi", "a lady ***with*** grey hair"]
               ]
             }
           }
@@ -285,14 +285,14 @@
             "content": "Su is typically used to express:",
             "table": {
               "rows": [
-                ["place", "I tuoi libri sono sulla scrivania.", "Your books are on the desk."],
-                ["", "il ponte sullo stretto di Messina", "the bridge over the Strait of Messina"],
-                ["subject", "un libro sul calcio", "a book on/about football"]
+                ["place", "I tuoi libri sono ***sulla*** scrivania.", "Your books are ***on the*** desk."],
+                ["", "il ponte ***sullo*** stretto di Messina", "the bridge ***over the*** Strait of Messina"],
+                ["subject", "un libro ***sul*** calcio", "a book ***on/about*** football"]
               ]
             }
           },
           {
-            "content": "When the preposition su is used with a personal pronoun, the pronoun is also preceded by di: Conto su di lui (I’m counting on him)."
+            "content": "When the preposition su is used with a personal pronoun, the pronoun is also preceded by di: Conto ***su di*** lui (I’m counting on him)."
           }
         ]
       },
@@ -301,16 +301,16 @@
         "paragraphs": [
           {
             "id": 8.10,
-            "content": "Per is typically used to express:",
+            "content": "**Per** is typically used to express:",
             "table": {
               "rows": [
-                ["place", "Partiamo per la montagna.", "We are leaving for the mountains."],
-                ["time", "Esco per 10 minuti.", "I’m going out for 10 minutes."],
-                ["", "Per le 11 sono a casa.", "I’ll be home by/for 11."],
-                ["means", "Mando il file per email.", "I’ll send the file by email."],
-                ["cause", "una multa per eccesso di velocità", "a fine for speeding/speeding fine"],
-                ["aim", "Studio per passare l’esame.", "I’m studying (in order) to pass the exam."],
-                ["price", "per 15 euro", "for 15 euros"]
+                ["place", "Partiamo ***per*** la montagna.", "We are leaving ***for*** the mountains."],
+                ["time", "Esco ***per*** 10 minuti.", "I’m going out ***for*** 10 minutes."],
+                ["", "***Per*** le 11 sono a casa.", "I’ll be home ***by/for*** 11."],
+                ["means", "Mando il file ***per*** email.", "I’ll send the file ***by*** email."],
+                ["cause", "una multa ***per*** eccesso di velocità", "a fine ***for*** speeding/speeding fine"],
+                ["aim", "Studio ***per*** passare l’esame.", "I’m studying ***(in order)*** to pass the exam."],
+                ["price", "***per** 15 euro", "***for*** 15 euros"]
               ]
             }
           }
@@ -321,12 +321,12 @@
         "paragraphs": [
           {
             "id": 8.11,
-            "content": "Tra and fra are typically used to express:",
+            "content": "**Tra** and **fra** are typically used to express:",
             "table": {
               "rows": [
-                ["place", "tra Milano e Torino", "between Milan and Turin"],
-                ["", "fra compagni di classe", "among classmates"],
-                ["time", "fra due ore", "in two hours/two hours’ time"]
+                ["place", "***tra*** Milano e Torino", "***between*** Milan and Turin"],
+                ["", "***fra*** compagni di classe", "***among*** classmates"],
+                ["time", "***fra*** due ore", "***in*** two hours/two hours’ time"]
               ]
             }
           }
@@ -340,50 +340,50 @@
             "content": "Here are some examples of the different prepositions used to denote place:",
             "table": {
               "rows": [
-                ["Sono di Ferrara.", "I am/come from Ferrara."],
-                ["La domenica vado al cinema.", "On Sundays I go to the cinema."],
-                ["Sono a scuola.", "I’m at school."],
-                ["Vengo da Ferrara.", "I’m coming from Ferrara."],
-                ["Abito da mia nonna.", "I live at my granny’s."],
-                ["Luisa è in camera sua.", "Luisa is in her room."],
-                ["Devi camminare sul marciapiedi.", "You have to walk on the pavement."],
-                ["il ponte sull’Arno", "the bridge over the Arno"],
-                ["Partite per Dublino?", "Are you leaving for Dublin?"],
-                ["Novara è fra Torino e Milano.", "Novara is between Turin and Milan."],
-                ["Siamo tra amici.", "We are among friends."]
+                ["Sono ***di*** Ferrara.", "I am/come ***from*** Ferrara."],
+                ["La domenica vado ***al*** cinema.", "On Sundays I go ***to the*** cinema."],
+                ["Sono ***a*** scuola.", "I’m ***at*** school."],
+                ["Vengo ***da*** Ferrara.", "I’m coming ***from*** Ferrara."],
+                ["Abito ***da*** mia nonna.", "I live ***at*** my granny’s."],
+                ["Luisa ***è in*** camera sua.", "Luisa ***is in*** her room."],
+                ["Devi camminare ***sul*** marciapiedi.", "You have to walk ***on the*** pavement."],
+                ["il ponte ***sull’***Arno", "the bridge ***over the*** Arno"],
+                ["Partite ***per*** Dublino?", "Are you leaving ***for*** Dublin?"],
+                ["Novara ***è fra*** Torino e Milano.", "Novara ***is between*** Turin and Milan."],
+                ["Siamo ***tra*** amici.", "We are ***among*** friends."]
               ]
             }
           },
           {
-            "content": "Another preposition used to denote place is lungo (along): lungo il fiume (along the river)."
+            "content": "Another preposition used to denote place is **lungo** (along): **lungo il fiume** (along the river)."
           },
           {
             "id": 8.13,
-            "content": "A is normally used with names of town and villages and with cardinal points:",
+            "content": "**A** is normally used with names of town and villages and with cardinal points:",
             "table": {
               "rows": [
-                ["Vado a Pisa.", "I’m going to Pisa."],
-                ["Abito a Londra.", "I live in London."],
-                ["Passo le vacanze a Cogne.", "I spend my holidays in Cogne."],
-                ["Andiamo a nord.", "We are going north."],
-                ["Cogne è a sud di Aosta.", "Cogne is south of Aosta."]
+                ["Vado ***a*** Pisa.", "I’m going ***to*** Pisa."],
+                ["Abito ***a** Londra.", "I live ***in*** London."],
+                ["Passo le vacanze ***a*** Cogne.", "I spend my holidays ***in*** Cogne."],
+                ["Andiamo ***a*** nord.", "We are going [***to the***] north."],
+                ["Cogne è ***a*** sud di Aosta.", "Cogne is [***to the***] south of Aosta."]
               ]
             }
           },
           {
             "id": 8.14,
-            "content": "In is normally used with names of regions and nations, with geographical areas, and with shops:",
+            "content": "**In** is normally used with names of regions and nations, with geographical areas, and with shops:",
             "table": {
               "rows": [
-                ["Vado in Toscana.", "I’m going to Tuscany."],
-                ["Abito in Inghilterra.", "I live in England."],
-                ["Passo le vacanze in montagna.*", "I spend my holidays in the mountains."],
-                ["Compro il pane in panetteria.", "I buy bread at the bakery/the baker’s."]
+                ["Vado ***in*** Toscana.", "I’m going ***to*** Tuscany."],
+                ["Abito ***in*** Inghilterra.", "I live ***in*** England."],
+                ["Passo le vacanze ***in*** montagna.*", "I spend my holidays ***in*** the mountains."],
+                ["Compro il pane ***in*** panetteria.", "I buy bread ***at*** the bakery/the baker’s."]
               ]
             }
           },
           {
-            "content": "* With mare (sea) the preposition a is used (al mare, ‘at the seaside’)."
+            "content": "* With **mare** (sea) the preposition **a** is used (**al mare**, ‘at the seaside’)."
           }
         ]
       },
@@ -395,50 +395,50 @@
             "content": "Some examples of the different prepositions used to denote time:",
             "table": {
               "rows": [
-                ["Di domenica non lavoro.", "I don’t work on Sundays."],
-                ["Di sera guardo la tv.", "In the evenings I watch TV."],
-                ["Donatella arriva alle 7.", "Donatella will arrive at seven."],
-                ["A Natale rimaniamo a casa.", "At Christmas we stay at home."],
-                ["La scuola finisce a giugno.", "School ends in June."],
-                ["nel 2000", "in 2000"],
-                ["nel diciottesimo secolo", "in the eighteenth century"],
-                ["In autunno piove molto.", "In autumn it rains a lot."]
+                ["***Di*** domenica non lavoro.", "I don’t work ***on*** Sundays."],
+                ["***Di*** sera guardo la tv.", "***In*** the evenings I watch TV."],
+                ["Donatella arriva ***alle*** 7.", "Donatella will arrive ***at*** seven."],
+                ["***A*** Natale rimaniamo a casa.", "***At*** Christmas we stay at home."],
+                ["La scuola finisce ***a*** giugno.", "School ends ***in*** June."],
+                ["***nel*** 2000", "***in [the]*** 2000"],
+                ["***nel*** diciottesimo secolo", "***in the*** eighteenth century"],
+                ["***In*** autunno piove molto.", "***In*** autumn it rains a lot."]
               ]
             }
           },
           {
             "id": 8.16,
-            "content": "Di is used with the days of the week and parts of the day:",
+            "content": "**Di** is used with the days of the week and parts of the day:",
             "table": {
               "rows": [
-                ["Di lunedì andiamo in piscina.", "On Mondays we go to the swimming pool."],
-                ["Di mattina vado a scuola.", "In the morning I go to school."]
+                ["***Di*** lunedì andiamo in piscina.", "***On*** Mondays we go to the swimming pool."],
+                ["***Di*** mattina vado a scuola.", "***In the*** morning I go to school."]
               ]
             }
           },
           {
-            "content": "In these cases, di is always used without the definite article."
+            "content": "In these cases, **di** is always used without the definite article."
           },
           {
             "id": 8.17,
-            "content": "A is used with names of festivities, months and hours of the day:",
+            "content": "**A** is used with names of festivities, months and hours of the day:",
             "table": {
               "rows": [
-                ["A Pasqua Piera va in Italia.", "At Easter Piera is going to Italy."],
-                ["Il museo riapre a marzo.", "The museum reopens/will reopen in March."],
-                ["Il treno parte alle 12.", "The train is leaving at 12."],
-                ["Di solito mangiano a mezzogiorno.", "They normally eat at midday."]
+                ["***A*** Pasqua Piera va in Italia.", "***At*** Easter Piera is going to Italy."],
+                ["Il museo riapre ***a*** marzo.", "The museum reopens/will reopen ***in*** March."],
+                ["Il treno parte ***alle*** 12.", "The train is leaving ***at*** 12."],
+                ["Di solito mangiano ***a*** mezzogiorno.", "They normally eat ***at*** midday."]
               ]
             }
           },
           {
             "id": 8.18,
-            "content": "In is used with years, centuries and seasons:",
+            "content": "**In** is used with years, centuries and seasons:",
             "table": {
               "rows": [
-                ["Sono nato nel 1990.", "I was born in 1990."],
-                ["Studio il turismo nel XIX secolo.", "I’m studying tourism in the nineteenth century."],
-                ["Gli esami sono in primavera.", "The exams are/will be in the spring."]
+                ["Sono nato ***nel*** 1990.", "I was born ***in [the]*** 1990."],
+                ["Studio il turismo ***nel*** XIX secolo.", "I’m studying tourism ***in the*** nineteenth century."],
+                ["Gli esami sono ***in*** primavera.", "The exams are/will be ***in the*** spring."]
               ]
             }
           }
@@ -564,7 +564,7 @@
         {"question": "Carla abita ——— Budapest.", "answer": "a"},
         {"question": "Parigi è ——— Francia.", "answer": "in"},
         {"question": "Mangiate ——— (il) ristorante?", "answer": "al"},
-        {"question": "Torniamo ——— un’ora.", "answer": "fra or tra"},
+        {"question": "Torniamo ——— un’ora.", "answer": ["fra", "tra"]},
         {"question": "Hai molto ——— fare?", "answer": "da"},
         {"question": "Devi scrivere ——— (la) nonna.", "answer": "alla"},
         {"question": "Esco ——— Massimo.", "answer": "con"},
@@ -615,26 +615,86 @@
       "instruction": "Translate into Italian:",
 		"examples": [""],
       "items": [
-        {"question": "I finish working at six.", "answer": "Finisco di lavorare alle 6."},
-        {"question": "Antonio’s leaving for Genoa.", "answer": "Antonio parte per Genova."},
-        {"question": "Gemma was born in 2001.", "answer": "Gemma è nata nel 2001."},
-        {"question": "Fabia never goes out in the evening.", "answer": "Fabia non esce mai di sera."},
-        {"question": "Mr and Mrs Bancroft live in the country, in an old villa.", "answer": "I Signori Bancroft abitano in campagna, in una vecchia villa."},
-        {"question": "The library’s behind the gym.", "answer": "La biblioteca è dietro la palestra."},
-        {"question": "You [sing.] can’t go out without me!", "answer": "Non puoi uscire senza di me!"},
-        {"question": "Do you [pl.] live far from the school?", "answer": "Abitate lontano dalla scuola?"},
-        {"question": "Isabella’s aunt lives in Greve, in Tuscany.", "answer": "La zia di Isabella vive a Greve, in Toscana."},
-        {"question": "She’s got a leather skirt.", "answer": "Ha una gonna di pelle."},
-        {"question": "Angus is from Edinburgh, in Scotland.", "answer": "Angus è di Edimburgo, in Scozia."},
-        {"question": "You have to turn right after the church(, Madam).", "answer": "Deve girare a destra dopo la chiesa(, Signora)."},
-        {"question": "We’re eating at a pizzeria tonight.", "answer": "Stasera mangiamo in pizzeria."},
-        {"question": "These flowers are for your [sing.] mother.", "answer": "Questi fiori sono per tua madre."},
-        {"question": "At Christmas we’re going skiing in the mountains.", "answer": "A or per Natale andiamo a sciare in montagna."},
-        {"question": "I live near the prison.", "answer": "Abito vicino alla prigione."},
-        {"question": "Margaret’s been living in Turin for five years.", "answer": "Margaret vive a Torino da cinque anni."},
-        {"question": "The train for Aosta leaves from platform 7.", "answer": "Il treno per Aosta parte dal binario 7."},
-        {"question": "We’re giving Luisa a CD of Russian music.", "answer": "Regaliamo or diamo a Luisa un CD di musica russa."},
-        {"question": "I always buy the bread at Belli’s.", "answer": "Compro sempre il pane da Belli."}
+        {
+          "question": "I finish working at six.", 
+          "answer": "Finisco di lavorare alle sei."
+        },
+        {
+          "question": "Antonio’s leaving for Genoa.", 
+          "answer": "Antonio parte per Genova."
+        },
+        {
+          "question": "Gemma was born in 2001.", 
+          "answer": "Gemma è nata nel 2001."
+        },
+        {
+          "question": "Fabia never goes out in the evening.", 
+          "answer": "Fabia non esce mai di sera."
+        },
+        {
+          "question": "Mr and Mrs Bancroft live in the country, in an old villa.", 
+          "answer": "I Signori Bancroft abitano in campagna, in una vecchia villa."
+        },
+        {
+          "question": "The library’s behind the gym.", 
+          "answer": "La biblioteca è dietro la palestra."
+        },
+        {
+          "question": "You [sing.] can’t go out without me!", 
+          "answer": "Non puoi uscire senza di me!"
+        },
+        {
+          "question": "Do you [pl.] live far from the school?", 
+          "answer": "Abitate lontano dalla scuola?"
+        },
+        {
+          "question": "Isabella’s aunt lives in Greve, in Tuscany.", 
+          "answer": "La zia di Isabella vive a Greve, in Toscana."
+        },
+        {
+          "question": "She’s got a leather skirt.", 
+          "answer": "Ha una gonna di pelle."
+        },
+        {
+          "question": "Angus is from Edinburgh, 
+          in Scotland.", "answer": "Angus è di Edimburgo, in Scozia."
+        },
+        {
+          "question": "You have to turn right after the church(, Madam).", 
+          "answer": "Deve girare a destra dopo la chiesa, Signora."
+        },
+        {
+          "question": "We’re eating at a pizzeria tonight.", 
+          "answer": "Stasera mangiamo in pizzeria."
+        },
+        {
+          "question": "These flowers are for your [sing.] mother.", 
+          "answer": "Questi fiori sono per tua madre."
+        },
+        {
+          "question": "At Christmas we’re going skiing in the mountains.", 
+          "answer": ["A Natale andiamo a sciare in montagna.", "Per Natale andiamo a sciare in montagna."]
+        },
+        {
+          "question": "I live near the prison.", 
+          "answer": "Abito vicino alla prigione."
+        },
+        {
+          "question": "Margaret’s been living in Turin for five years.",
+          "answer": "Margaret vive a Torino da cinque anni."
+        },
+        {
+          "question": "The train for Aosta leaves from platform 7.", 
+          "answer": "Il treno per Aosta parte dal binario 7."
+        },
+        {
+          "question": "We’re giving Luisa a CD of Russian music.", 
+          "answer": ["Regaliamo a Luisa un CD di musica russa.", "Diamo a Luisa un CD di musica russa."]
+        },
+        {
+          "question": "I always buy the bread at Belli’s.", 
+          "answer": "Compro sempre il pane da Belli."
+        }
       ]
     }
   ]
