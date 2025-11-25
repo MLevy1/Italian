@@ -602,7 +602,7 @@
         {"question": "Vai a scuola ——— autobus?", "answer": "in"},
         {"question": "Bardonecchia è ——— montagna.", "answer": "in"},
         {"question": "Prendo un gelato ——— (la) fragola.", "answer": "alla"},
-        {"question": "Cosa fate ——— Natale?", "answer": "a or per"},
+        {"question": "Cosa fate ——— Natale?", "answer": ["a", "per"]},
         {"question": "Piero va ——— (il) supermercato.", "answer": "al"},
         {"question": "Il padre ——— (la) mia amica è avvocato.", "answer": "della"},
         {"question": "——— pizzeria c’è sempre molta gente.", "answer": "In"},
