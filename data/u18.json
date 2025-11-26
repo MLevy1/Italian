@@ -7,7 +7,7 @@
                 "title": "Use of the Future Tense",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 18.01,
                         "content": "The future tense is, of course, used to refer to events which will happen in the future, as in the following examples:",
                         "table": {
                             "rows": [
@@ -18,7 +18,7 @@
                         }
                     },
                     {
-                        "id": 2,
+                        "id": 18.02,
                         "content": "The future is also used to express probability, or a guess:",
                         "table": {
                             "rows": [
@@ -30,7 +30,7 @@
                         }
                     },
                     {
-                        "id": 3,
+                        "id": 18.03,
                         "content": "The future can also correspond to the English present progressive (‘I’m going to . . .’ etc.):",
                         "table": {
                             "rows": [
@@ -41,7 +41,7 @@
                         }
                     },
                     {
-                        "id": 4,
+                        "id": 18.04,
                         "content": "In general, the future tense is used less in Italian than in English, and it is often possible, when talking about something which we are almost sure will happen, to use the present:",
                         "table": {
                             "rows": [
@@ -52,7 +52,7 @@
                         }
                     },
                     {
-                        "id": 5,
+                        "id": 18.05,
                         "content": "However, in certain cases Italian uses the future where English uses the present. Take this English sentence: ‘When/If I earn/am earning good money, I’ll buy a car.’ Here, ‘when’ and ‘if’ actually refer to an action *in the future*; in cases like this, Italian normally uses the future tense:",
                         "table": {
                             "rows": [
@@ -67,7 +67,7 @@
                 "title": "The forms of the future indicative",
                 "paragraphs": [
                     {
-                        "id": 6,
+                        "id": 18.06,
                         "content": "The future tense is formed by adding to the stem of the verb the following endings, which are the same for all three conjugations (**-are**, **-ere**, **-ire**):",
                         "table": {
                             "headers": ["", "-are", "-ere", "-ire"],
@@ -134,7 +134,7 @@
                         }
                     },
                     {
-                        "id": 7,
+                        "id": 18.07,
                         "content": "Verbs ending in **-care** and **-gare** add **h** before the endings of the future in order to keep the hard sound of **c** and **g**:",
                         "table":{
                             "headers": ["Cercare",  "Pagare"],
@@ -158,7 +158,7 @@
                         }
                     },
                     {
-                        "id": 8,
+                        "id": 18.08,
                         "content": "Verbs ending in **-ciare** and **-giare** drop **-i** in the future:",
                         "table":{
                             "headers": ["Cominciare", "Mangiare"],
@@ -187,7 +187,7 @@
                 "title": "Future of some irregular verbs",
                 "paragraphs": [
                     {
-                        "id": 9,
+                        "id": 18.09,
                         "content": "Essere and avere are irregular:",
                         "table":{
                             "headers":["Essere", "Avere"],
@@ -211,7 +211,7 @@
                         }
                     },
                     {
-                        "id": 10,
+                        "id": 18.10,
                         "content": "**Dare**, **fare** and **stare** follow the same pattern as **essere**:",
                         "table": {
                             "headers": ["Dare", "Fare", "Sare"],
@@ -236,7 +236,7 @@
                         }
                     },
                     {
-                        "id": 11,
+                        "id": 18.11,
                         "content": "**Andare**, **cadere** (to fall), **dovere**, **potere**, **sapere**, **vedere** and **vivere** follow the same pattern as **avere**:",
                         "table":{
                             "headers": ["Andare", "Cadere", "Dovere", "Potere", "Sapere", "Vedere", "Vivere"],
@@ -264,7 +264,7 @@
                         }
                     },
                     {
-                        "id": 12,
+                        "id": 18.12,
                         "content": "A third group of irregular verbs, comprising **bere**, **rimanere**, **venire**, **volere**, and **tenere** (to keep/hold), have the following pattern:",
                         "table": {
                             "headers": ["", "Bere", "Rimanere", "Venire", "Volere", "Tenere"],
@@ -291,7 +291,7 @@
                         }
                     },
                     {
-                        "id": 13,
+                        "id": 18.13,
                         "content": "All verbs ending in **-urre** have the following pattern:",
                         "table": {
                             "headers": ["Tradurre (To translate)", "Italian", "English"],
@@ -319,7 +319,7 @@
                 "title": "Negative Form",
                 "paragraphs": [
                     {
-                        "id": 14,
+                        "id": 18.14,
                         "content": "As usual, the negative is formed by putting **non** before the verb:",
                         "table": {
                             "rows": [

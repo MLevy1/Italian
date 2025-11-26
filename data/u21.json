@@ -7,7 +7,7 @@
                 "title": "Use of the Imperative",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 21.01,
                         "content": "The **imperative** is used, in Italian as in English, to express **orders**, **commands**, or **strong requests**:",
                         "table": {
                             "rows": [
@@ -37,7 +37,7 @@
                 "title": "Forms of the Imperative",
                 "paragraphs": [
                     {
-                        "id": 2,
+                        "id": 21.02,
                         "content": "Regular verbs in **-are**, **-ere**, and **-ire** are conjugated as follows:",
                         "table": {
                             "headers": ["", "Parlare (To speak)", "Prendere (To take/get)", "Partire (To leave)"],
@@ -76,7 +76,7 @@
                         }
                     },
                     {
-                        "id": 3,
+                        "id": 21.03,
                         "content": "Verbs ending in -care and -gare keep the hard sound of c and g by adding h before the endings of the third person singular (Lei) and the first and third persons plural (noi and Loro):",
                         "table":{
                             "headers":["Cercare", "Pagare"],
@@ -99,7 +99,7 @@
                         }
                     },
                     {
-                        "id": 4,
+                        "id": 21.04,
                         "content": "Verbs ending in -iare have only one -i in the second person singular and the first and third persons plural:",
                         "table":{
                             "headers":["Cominciare", "Mangiare"],
@@ -127,7 +127,7 @@
                 "title": "Forms of some irregular verbs",
                 "paragraphs": [
                     {
-                        "id": 5,
+                        "id": 21.05,
                         "content": "Essere and avere are irregular in the imperative:",
                         "table":{
                             "headers":[
@@ -153,7 +153,7 @@
                         }
                     },
                     {
-                        "id": 6,
+                        "id": 21.06,
                         "content": "There are other verbs with irregular imperatives. Here are some of the most common:",
                         "table":{
                             "headers":["Dare", "Dire", "Fare"],
@@ -206,7 +206,7 @@
                         }
                     },
                     {
-                        "id": 7,
+                        "id": 21.07,
                         "content": "All verbs ending in -urre have the following pattern:",
                         "table":{
                             "headers":["", "Tradurre"],
@@ -235,7 +235,7 @@
                 "paragraphs": 
                 [
                     {
-                        "id": 8,
+                        "id": 21.08,
                         "content": "We have already seen the forms used for the polite form. Care must be taken not to confuse imperative and present polite and familiar forms. Compare:",
                         "table":{
                             "headers":["", "", "Imperative", "Present"],
@@ -278,7 +278,7 @@
                 "paragraphs": 
                 [
                     {
-                        "id": 9,
+                        "id": 21.09,
                         "content": "For the second person singular, the negative is formed with the infinitive of the verb preceded by non. For the other persons, the usual rule applies and non precedes the form of the imperative. As an example, here is the negative conjugation of parlare:",                        "table":{
                             "rows":[
                                 ["(tu)", "non parlare"],
@@ -305,7 +305,7 @@
                 "title": "Position of unstressed pronouns",
                 "paragraphs": [
                     {
-                        "id": 10,
+                        "id": 21.10,
                         "content": "When the imperative is used in an affirmative sentence with an unstressed pronoun (direct object, indirect object, reflexive, ne, ci), the pronoun is always attached to the verb if it is in a second person form (tu or voi) or the first person plural form (noi):",
                         "table": {
                             "rows": [
@@ -344,7 +344,7 @@
                         }
                     },
                     {
-                        "id": 11,
+                        "id": 21.11,
                         "content": "In the **polite form** (**third person singular and plural**, **Lei** and **Loro**), the pronouns are **always placed before the verb**:",
                         "table": {
                             "rows": [

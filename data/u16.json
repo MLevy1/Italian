@@ -7,7 +7,7 @@
                 "title": "Introduction to the Imperfect Tense",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 16.01,
                         "content": "The imperfect is, together with the present perfect, one of the most used past tenses in Italian. It is called ‘imperfect’ because, generally speaking, there is no reference to the beginning or end of the action it expresses: either the length of time the action lasted is not relevant, or the action is seen as the background to another action, or two actions took place at the same time and lasted the same length of time. Here are some typical examples:",
                         "table": {
                             "rows": [
@@ -30,7 +30,7 @@
                 "title": "The Forms of the Imperfect",
                 "paragraphs": [
                     {
-                        "id": 2,
+                        "id": 16.02,
                         "content": "The forms of the imperfect are very regular. Here are the endings for the three conjugations (**-are**, **-ere**, **-ire**):",
                         "table": {
                             "headers": ["", "-are", "-ere", "-ire"],

@@ -42,7 +42,7 @@
                         }
                     },
                     {
-                        "id": 2,
+                        "id": 20.02,
                         "content": "The forms of the reflexive pronouns are as follows:",
                         "table": {
                             "headers": ["Person", "Reflexive Pronoun"],
@@ -75,7 +75,7 @@
                         "content": "As can be seen from the examples, reflexive pronouns are always placed before the verb."
                     },
                     {
-                        "id": 3,
+                        "id": 20.03,
                         "content": "The negative is formed, as usual, by placing non before the pronoun:",
                         "table": {
                             "rows":[
@@ -85,7 +85,7 @@
                         }
                     },
                     {
-                        "id": 4,
+                        "id": 20.04,
                         "content": "For the formal form, the pronoun si (third person singular and plural) is used. In the plural, however, the pronoun vi is most frequently used:",
                         "table": {
                             "rows":[
@@ -96,7 +96,7 @@
                         }
                     },
                     {
-                        "id": 5,
+                        "id": 20.05,
                         "content": "The plural forms of the reflexive pronouns (ci, vi, si) are also used as reciprocal pronouns, corresponding to the English ‘each other’:",
                         "table": {
                             "rows":[
@@ -107,7 +107,7 @@
                         }
                     },
                     {
-                        "id": 6,
+                        "id": 20.06,
                         "content": "Reflexive pronouns can also be used, in contemporary spoken Italian, as indirect objects. One such use is to stress that the action expressed by the verb is to the advantage of the subject (cf. English ‘I’m making myself a coffee’ [i.e. a coffee for myself], ‘They’re going to have themselves some fun’ [i.e. some fun for themselves]):",
                         "table": {
                             "rows":[
@@ -118,7 +118,7 @@
                         }
                     },
                     {
-                        "id": 7,
+                        "id": 20.07,
                         "content": " Another common use of the Italian reflexive pronoun occurs in cases like the following, where English would use a possessive adjective (‘my’, ‘your’, etc.) rather than a reflexive pronoun:",
                         "table": {
                             "rows":[
@@ -129,7 +129,7 @@
                         }
                     },
                     {
-                        "id": 8,
+                        "id": 20.08,
                         "content": "In compound tenses like the present perfect, reflexive verbs always take the auxiliary **essere**, and the past participle agrees in gender and number with the subject:",
                         "table": {
                             "rows": [
@@ -145,7 +145,7 @@
                         }
                     },
                     {
-                        "id": 9,
+                        "id": 20.09,
                         "content": "The reflexive pronouns, like all unstressed pronouns, can be attached to the infinitive of a verb (mainly after **dovere**, **potere**, **volere**, or **sapere**). In these sentences, when the main verb is in the present perfect (or any other compound tense), the auxiliary is **avere**, and the past participle does not agree:",
                         "table": {
                             "rows": [
@@ -172,7 +172,7 @@
                 "title": "Stressed Forms",
                 "paragraphs": [
                     {
-                        "id": 10,
+                        "id": 20.10,
                         "content": "The reflexive pronouns also have stressed forms which are used, like the stressed forms of other pronouns, for emphasis and after a preposition. These forms are often reinforced by the adjective **stesso**:",
                         "table": {
                             "headers": ["Person", "Stressed Reflexive Pronoun", "With stesso"],
