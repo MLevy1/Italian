@@ -4,13 +4,12 @@
         "title": "Reflexive Pronouns",
         "sections": [
             {
-                "title": "Introduction to Reflexive Pronouns",
+                "title": "Reflexive Pronouns",
                 "paragraphs": [
                     {
-                        "id": 1,
-                        "content": "**Reflexive pronouns** correspond to ‘myself’, ‘yourself’, etc. in phrases like ‘you flatter yourself’, ‘the cat’s licking itself’, ‘the recorder’s switched itself off’. In such cases, the **subject** and the **object** of the verb are the same person or thing:",
+                        "id": 20.01,
+                        "content": "Reflexive pronouns correspond to ‘myself’, ‘yourself’, etc. in phrases like ‘you flatter yourself’, ‘the cat’s licking itself’, ‘the recorder’s switched itself off’. In such cases, the subject and the object of the verb are the same person or thing:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["**Ti** guardi sempre allo specchio.", "You always look at yourself in the mirror."],
                                 ["**Mi** lavo.", "I get washed. [lit. I wash myself]"],
@@ -19,12 +18,11 @@
                         }
                     },
                     {
-                        "content": "These examples show how the **reflexive pronouns** are the **direct objects** of the verbs **lavare**, **guardare**, and **vestire** and denote the same person as the **subject**."
+                        "content": "These examples show how the reflexive pronouns are the direct objects of the verbs **lavare**, **guardare**, and **vestire** and denote the same person as the **subject**."
                     },
                     {
                         "content": "There are very many verbs which can be used in the **reflexive form** in Italian and which do not correspond to English reflexive verbs. Here is a list of some of the most common ones:",
                         "table": {
-                            "headers": ["Italian Verb", "English Translation"],
                             "rows": [
                                 ["addormentarsi", "to fall asleep [lit. to send oneself to sleep]"],
                                 ["alzarsi", "to get up [lit. to raise oneself]"],
@@ -42,24 +40,31 @@
                                 ["vestirsi", "to get dressed [lit. to dress oneself]"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Forms of Reflexive Pronouns",
-                "paragraphs": [
+                    },
                     {
                         "id": 2,
-                        "content": "The forms of the **reflexive pronouns** are as follows:",
+                        "content": "The forms of the reflexive pronouns are as follows:",
                         "table": {
                             "headers": ["Person", "Reflexive Pronoun"],
                             "rows": [
-                                ["io", "mi"],
-                                ["tu", "ti"],
-                                ["lui/lei", "si*"],
-                                ["noi", "ci"],
-                                ["voi", "vi"],
-                                ["loro", "si*"]
+                                ["mi", "myself"],
+                                ["ti", "yourself"],
+                                ["si", "himself/herself/itself"],
+                                ["ci", "ourselves"],
+                                ["vi", "yourselves"],
+                                ["si", "themselves"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table": {
+                            "rows":[
+                                ["A che ora ti alzi, la mattina?", "What time do you get up in the morning?"],
+                                ["Paolo si* sveglia sempre tardi.", "Paolo always wakes up late."],
+                                ["Maria si* annoia.", "Maria is bored."],
+                                ["I tuoi amici si* sbagliano: il concerto non è stasera.", "Your friends are wrong: the concert is not tonight."],
+                                ["Le mie amiche si* divertono.", "My friends are enjoying themselves"]
                             ]
                         }
                     },
@@ -67,59 +72,82 @@
                         "content": "* Note that the third person singular and plural pronoun **si** is the same."
                     },
                     {
-                        "content": "Examples with **lavarsi** (to wash oneself):",
+                        "content": "As can be seen from the examples, reflexive pronouns are always placed before the verb."
+                    },
+                    {
+                        "id": 3,
+                        "content": "The negative is formed, as usual, by placing non before the pronoun:",
                         "table": {
-                            "headers": ["Lavarsi (To wash oneself)", "Italian", "English"],
-                            "rows": [
-                                ["io", "mi lavo", "I wash myself"],
-                                ["tu", "ti lavi", "you wash yourself"],
-                                ["lui/lei", "si lava", "he/she washes himself/herself"],
-                                ["noi", "ci laviamo", "we wash ourselves"],
-                                ["voi", "vi lavate", "you wash yourselves"],
-                                ["loro", "si lavano", "they wash themselves"]
+                            "rows":[
+                                ["Lorenzo non si annoia mai.", "Lorenzo never gets/is never bored."],
+                                ["Non ti diverti?", "Aren’t you enjoying yourself?"]
                             ]
                         }
                     },
                     {
-                        "content": "Examples with **incontrarsi** (to meet each other, reciprocal):",
+                        "id": 4,
+                        "content": "For the formal form, the pronoun si (third person singular and plural) is used. In the plural, however, the pronoun vi is most frequently used:",
                         "table": {
-                            "headers": ["Incontrarsi (To meet each other)", "Italian", "English"],
-                            "rows": [
-                                ["noi", "ci incontriamo", "we meet each other"],
-                                ["voi", "vi incontrate", "you meet each other"],
-                                ["loro", "si incontrano", "they meet each other"]
+                            "rows":[
+                                ["Come si sente, Signora?", "How are you feeling, Madam?"],
+                                ["Vi divertite, Signori Rasi?", "Are you enjoying yourselves Mr and Mrs Rasi?"],
+                                ["Si divertono, Signori Rasi?", "Are you enjoying yourselves Mr and Mrs Rasi?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Reflexive Verbs in Compound Tenses",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 5,
+                        "content": "The plural forms of the reflexive pronouns (ci, vi, si) are also used as reciprocal pronouns, corresponding to the English ‘each other’:",
+                        "table": {
+                            "rows":[
+                                ["Paolo e io non ci sopportiamo.", "Paolo and I can’t stand each other."],
+                                ["Perché vi guardate?", "Why are you looking at each other?"],
+                                ["Alfredo e Pia non si parlano più.", "Alfredo and Pia don’t talk to each other any more."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "content": "Reflexive pronouns can also be used, in contemporary spoken Italian, as indirect objects. One such use is to stress that the action expressed by the verb is to the advantage of the subject (cf. English ‘I’m making myself a coffee’ [i.e. a coffee for myself], ‘They’re going to have themselves some fun’ [i.e. some fun for themselves]):",
+                        "table": {
+                            "rows":[
+                                ["Mi mangio un panino.", "I’m going to eat a sandwich."],
+                                ["Perché non ci facciamo una partita a carte?", "Why don’t we have a game of cards?"],
+                                ["Paolo si mangia sempre tutti i biscotti.", "Paolo always eats all the biscuits."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "content": " Another common use of the Italian reflexive pronoun occurs in cases like the following, where English would use a possessive adjective (‘my’, ‘your’, etc.) rather than a reflexive pronoun:",
+                        "table": {
+                            "rows":[
+                                ["Mi lavo le mani.", "I wash my hands."],
+                                ["Ti metti il cappotto?", "Are you going to put your coat on?"],
+                                ["Anna si lava i capelli tutti i giorni.", "Anna washes her hair every day."]
+                            ]
+                        }
+                    },
                     {
                         "id": 8,
-                        "content": "In **compound tenses** like the **present perfect**, reflexive verbs always take the auxiliary **essere**, and the **past participle** agrees in **gender** and **number** with the subject:",
+                        "content": "In compound tenses like the present perfect, reflexive verbs always take the auxiliary **essere**, and the past participle agrees in gender and number with the subject:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Mi sono lavata** le mani. [female speaker]", "I washed my hands."],
-                                ["**Ci siamo alzati** presto.", "We got up early."],
-                                ["Vittorio, a che ora **ti sei alzato**?", "Vittorio, what time did you get up?"],
-                                ["Paolo e Francesca **si sono sposati**.", "Paolo and Francesca have got married."],
-                                ["Claudio e Anna **si sono lavati** le mani.", "Claudio and Anna washed their hands."]
+                                ["Paolo si ***è*** svegliat***o*** tardi.", "Paolo woke up late."],
+                                ["Maria si ***è*** annoiat***a***", "Maria got bored."],
+                                ["Vittorio, a che ora ***ti*** sei alzat***o***?", "Vittorio, what time did you get up?"],
+                                ["Paolo e Francesca si ***sono*** sposat***i***.", "Paolo and Francesca have got married."],
+                                ["Claudio e Anna si ***sono*** lavat***i*** le mani.", "Claudio and Anna washed their hands."],
+                                ["Sabina si ***è*** mangiat***a*** un panino.", "Sabina ate a sandwich."],
+                                ["Si ***sono*** fatt***i*** un caffè", "They made (themselves) a coffee."]
+
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Reflexive Pronouns with Infinitives",
-                "paragraphs": [
+                    },
                     {
                         "id": 9,
-                        "content": "The **reflexive pronouns**, like all **unstressed pronouns**, can be **attached** to the **infinitive** of a verb (mainly after **dovere**, **potere**, **volere**, or **sapere**). In these sentences, when the main verb is in the **present perfect** (or any other compound tense), the **auxiliary** is **avere**, and the **past participle** does **not agree**:",
+                        "content": "The reflexive pronouns, like all unstressed pronouns, can be attached to the infinitive of a verb (mainly after **dovere**, **potere**, **volere**, or **sapere**). In these sentences, when the main verb is in the present perfect (or any other compound tense), the auxiliary is **avere**, and the past participle does not agree:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Devo **alzarmi** presto.", "I’ve got to get up early."],
                                 ["Mio fratello non vuole **lavarsi**.", "My brother doesn’t want to wash."],
@@ -129,12 +157,12 @@
                         }
                     },
                     {
-                        "content": "However, when the **reflexive pronoun** is **not attached** to the infinitive, the **auxiliary verb** must be **essere**, and the **past participle** does **agree**:",
+                        "content": "However, when the reflexive pronoun is not attached to the infinitive, the auxiliary verb must be **essere**, and the past participle does agree:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Mi sono dovuto** alzare presto.", "I had to get up early."],
-                                ["Paolo e Francesca **si sono voluti** sposare.", "Paolo and Francesca wanted to get married."]
+                                ["Paolo e Francesca **si sono voluti** sposare.", "Paolo and Francesca wanted to get married."],
+                                ["Non ci siamo potuti lavare.", "We couldn’t wash."],
+                                ["Vi siete dovuti fermare per la notte?", "Did you have to stop for the night?"]
                             ]
                         }
                     }
@@ -145,33 +173,31 @@
                 "paragraphs": [
                     {
                         "id": 10,
-                        "content": "The **reflexive pronouns** also have **stressed forms** which are used, like the stressed forms of other pronouns, for **emphasis** and after a **preposition**. These forms are often reinforced by the adjective **stesso**:",
+                        "content": "The reflexive pronouns also have stressed forms which are used, like the stressed forms of other pronouns, for emphasis and after a preposition. These forms are often reinforced by the adjective **stesso**:",
                         "table": {
                             "headers": ["Person", "Stressed Reflexive Pronoun", "With stesso"],
                             "rows": [
-                                ["io", "me", "me stesso/stessa"],
-                                ["tu", "te", "te stesso/stessa"],
-                                ["lui/lei", "sé*", "sé stesso/stessa"],
-                                ["noi", "noi", "noi stessi/stesse"],
-                                ["voi", "voi", "voi stessi/stesse"],
-                                ["loro", "sé*", "sé stessi/stesse"]
+                                ["me or me stesso/stessa", "myself"],
+                                ["te or te stesso/stessa", "yourself"],
+                                ["sé or se* stesso/stessa", "himself/herself/itself"],
+                                ["noi or noi stessi/stesse", "ourselves"],
+                                ["voi or voi stessi/stesse", "yourselves"],
+                                ["sé or se* stessi/stesse", "themselves"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table": {
+                            "rows": [
+                                ["Franca ama solo sé/se* stessa.", "Franca only loves herself"],
+                                ["Pensi solo a te/te stesso!", "You only think of yourself!"],
+                                ["Quei due sono davvero noiosi: parlano solo di sè/se* stessi.", "Those two are really boring: they only talk about themselves."]
                             ]
                         }
                     },
                     {
                         "content": "* Note that **sé** does not have an accent when it is used with **stesso**."
-                    },
-                    {
-                        "content": "Examples:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["Parlo di **me stesso**.", "I’m talking about myself."],
-                                ["Anna ha fiducia in **sé stessa**.", "Anna has confidence in herself."],
-                                ["Guardati allo specchio, **te stesso**!", "Look at yourself in the mirror!"],
-                                ["Pensano solo a **sé stessi**.", "They only think about themselves."]
-                            ]
-                        }
                     }
                 ]
             }
@@ -179,73 +205,367 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Insert Reflexive/Reciprocal Pronouns",
-            "instruction": "Insert the correct **reflexive** or **reciprocal pronoun** in the blank spaces.",
+            "title": "Exercise 1",
+            "instruction": "Insert the correct reflexive or reciprocal pronoun in the blank spaces.",
             "examples": [
-                "Quando **—** sposano?: Quando **si** sposano?",
-                "Dove **—** siedo?: Dove **mi** siedo?"
+                "A che ora ——— alzi?: ti"
             ],
             "items": [
-                { "question": "Quando **—** sposano?", "answer": "Quando si sposano?" },
-                { "question": "Dove **—** siedo?", "answer": "Dove mi siedo?" },
-                { "question": "Nina non **—** veste mai di rosso.", "answer": "Nina non si veste mai di rosso." },
-                { "question": "Come **—** sentite?", "answer": "Come vi sentite?" },
-                { "question": "Nina e Bart **—** amano.", "answer": "Nina e Bart si amano." },
-                { "question": "Dove **—** incontriamo?", "answer": "Dove ci incontriamo?" },
-                { "question": "**—** lavo le mani.", "answer": "Mi lavo le mani." },
-                { "question": "Marina **—** guarda allo specchio.", "answer": "Marina si guarda allo specchio." },
-                { "question": "Silvano non **—** annoia mai.", "answer": "Silvano non si annoia mai." },
-                { "question": "Carlo e Luca non **—** conoscono.", "answer": "Carlo e Luca non si conoscono." },
-                { "question": "Come **—** vestite?", "answer": "Come vi vestite?" },
-                { "question": "Non **—** diverti?", "answer": "Non ti diverti?" },
-                { "question": "**—** prendiamo un gelato?", "answer": "Ci prendiamo un gelato?" },
-                { "question": "Signora, **—** sente bene?", "answer": "Signora, si sente bene?" },
-                { "question": "Non **—** ricordate di me?", "answer": "Non vi ricordate di me?" },
-                { "question": "Livia e Sara **—** riposano.", "answer": "Livia e Sara si riposano." },
-                { "question": "Paolo **—** sbaglia.", "answer": "Paolo si sbaglia." },
-                { "question": "Come **—** chiami?", "answer": "Come ti chiami?" },
-                { "question": "**—** scrivete spesso?", "answer": "Vi scrivete spesso?" },
-                { "question": "**—** offendono facilmente.", "answer": "Si offendono facilmente." }
+                {
+					"question": "Quando **—** sposano?",
+					"answer": "si"
+				},
+                {
+					"question": "Dove **—** siedo?",
+					"answer": "mi"
+				},
+                {
+					"question": "Nina non **—** veste mai di rosso.",
+					"answer": "si"
+				},
+                {
+					"question": "Come **—** sentite?",
+					"answer": "vi"
+				},
+                {
+					"question": "Nina e Bart **—** amano.",
+					"answer": "si"
+				},
+                {
+					"question": "Dove **—** incontriamo?",
+					"answer": "ci"
+				},
+                {
+					"question": "**—** lavo le mani.",
+					"answer": "mi"
+				},
+                {
+					"question": "Marina **—** guarda allo specchio.",
+					"answer": "si"
+				},
+                {
+					"question": "Silvano non **—** annoia mai.",
+					"answer": "si"
+				},
+                {
+					"question": "Carlo e Luca non **—** conoscono.",
+					"answer": "si"
+				},
+                {
+					"question": "Come **—** vestite?",
+					"answer": "vi"
+				},
+                {
+					"question": "Non **—** diverti?",
+					"answer": "ti"
+				},
+                {
+					"question": "**—** prendiamo un gelato?",
+					"answer": "ci"
+				},
+                {
+					"question": "Signora, **—** sente bene?",
+					"answer": "si"
+				},
+                {
+					"question": "Non **—** ricordate di me?",
+					"answer": "vi"
+				},
+                {
+					"question": "Livia e Sara **—** riposano.",
+					"answer": "si"
+				},
+                {
+					"question": "Paolo **—** sbaglia.",
+					"answer": "si"
+				},
+                {
+					"question": "Come **—** chiami?",
+					"answer": "ti"
+				},
+                {
+					"question": "**—** scrivete spesso?",
+					"answer": "vi"
+				},
+                {
+					"question": "**—** offendono facilmente.",
+					"answer": "si"
+				}
             ]
         },
         {
-            "title": "Exercise 2: Insert Reflexive/Reciprocal Pronouns",
-            "instruction": "Insert the correct **reflexive** or **reciprocal pronoun** in the blank spaces (past context).",
+            "title": "Exercise 2",
+            "instruction": "Insert the correct reflexive/reciprocal pronouns in the blank spaces.",
             "examples": [
-                "Ieri **—** sono alzati presto.: Ieri **si** sono alzati presto.",
-                "Anna **—** è lavata prima di uscire.: Anna **si** è lavata prima di uscire."
+                "A che ora ——— sono alzati?: si"
             ],
             "items": [
-                { "question": "Ieri **—** sono alzati presto.", "answer": "Ieri si sono alzati presto." },
-                { "question": "Anna **—** è lavata prima di uscire.", "answer": "Anna si è lavata prima di uscire." },
-                { "question": "Loro **—** sono sposati l’anno scorso.", "answer": "Loro si sono sposati l’anno scorso." },
-                { "question": "Non **—** sei divertito alla festa?", "answer": "Non ti sei divertito alla festa?" },
-                { "question": "Noi **—** siamo incontrati al parco.", "answer": "Noi ci siamo incontrati al parco." },
-                { "question": "Carlo **—** è vestito di nero ieri.", "answer": "Carlo si è vestito di nero ieri." },
-                { "question": "Voi **—** siete riposati dopo il viaggio?", "answer": "Voi vi siete riposati dopo il viaggio?" },
-                { "question": "Marina e Luca **—** sono scritti una lettera.", "answer": "Marina e Luca si sono scritti una lettera." },
-                { "question": "Non **—** si è annoiata durante il film.", "answer": "Non si è annoiata durante il film." },
-                { "question": "Loro **—** sono conosciuti al concerto.", "answer": "Loro si sono conosciuti al concerto." }
+                {
+                    "question": "Paolo ——— è offeso.",
+                    "answer": "si"
+                },
+                {
+                    "question": "Anna ——— è arrabbiata.",
+                    "answer": "si"
+				},
+				{
+					"question": "Dove ——— siete conosciuti?",
+					"answer": "vi"
+				},
+				{
+					"question": "——— sono alzati tardi.",
+					"answer": "si"
+				},
+				{
+					"question": "Non ——— sei scusato con loro?",
+					"answer": "ti"
+				},
+				{
+					"question": "——— siamo capiti subito.",
+					"answer": "ci"
+				},
+				{
+					"question": "Carla non ——— è messa il cappotto.",
+					"answer": "si"
+				},
+				{
+					"question": "Il bambino ——— è addormentato.",
+					"answer": "si"
+				},
+				{
+					"question": "Silvana e io ——— siamo viste ieri.",
+					"answer": "ci"
+				},
+				{
+					"question": "——— sono mangiato un panino.",
+					"answer": "mi"
+				},
+				{
+					"question": "——— siete vestiti molto bene.",
+					"answer": "vi"
+				},
+				{
+					"question": "Non ——— siamo capiti.",
+					"answer": "ci"
+				},
+				{
+					"question": "Daniela e Pino ——— odiano.",
+					"answer": "si"
+				},
+				{
+					"question": "Quanta acqua ——— sei bevuto?",
+					"answer": "ti"
+				},
+				{
+					"question": "——— sono tagliata un dito.",
+					"answer": "mi"
+				},
+				{
+					"question": "Perché ——— sei messo il golf?",
+					"answer": "ti"
+				},
+				{
+					"question": "——— facciamo una passeggiata?",
+					"answer": "ci"
+				},
+				{
+					"question": "Sergio non ——— è ancora svegliato.",
+					"answer": "si"
+				},
+				{
+					"question": "——— sono sentita male.",
+					"answer": "mi"
+				},
+				{
+					"question": "——— siete annoiati alla festa?",
+					"answer": "vi"
+
+				}
             ]
         },
         {
-            "title": "Exercise 3: Present Perfect of Reflexive Verbs",
-            "instruction": "Put the verbs into the **present perfect** tense.",
+            "title": "Exercise 3",
+            "instruction": "Put the verbs into the present perfect:",
             "examples": [
-                "Paolo (**offendersi**).: Paolo **si è offeso**.",
-                "Anna (**arrabbiarsi**).: Anna **si è arrabbiata**."
+                "(tu [f] alzarsi) tardi: ti sei alzata"
             ],
             "items": [
-                { "question": "Paolo (**offendersi**).", "answer": "Paolo si è offeso." },
-                { "question": "Anna (**arrabbiarsi**).", "answer": "Anna si è arrabbiata." },
-                { "question": "Noi (**alzarci**) presto oggi.", "answer": "Noi ci siamo alzati presto oggi." },
-                { "question": "Tu [m] (**lavarti**) le mani?", "answer": "Tu ti sei lavato le mani?" },
-                { "question": "Loro (**sposarsi**) l’anno scorso.", "answer": "Loro si sono sposati l’anno scorso." },
-                { "question": "Voi (**divertirvi**) alla festa?", "answer": "Voi vi siete divertiti alla festa?" },
-                { "question": "Marina (**guardarsi**) allo specchio.", "answer": "Marina si è guardata allo specchio." },
-                { "question": "Carlo e Luca (**incontrarsi**) ieri.", "answer": "Carlo e Luca si sono incontrati ieri." },
-                { "question": "Silvano (**annoarsi**) durante la lezione.", "answer": "Silvano si è annoiato durante la lezione." },
-                { "question": "Signora, (**sentirsi**) bene?", "answer": "Signora, si è sentita bene?" }
+				{
+					"question": "Antonio e Lia (sposarsi).",
+					"answer": "si sono sposati"
+				},
+				{
+					"question": "(tu [m] sbagliarsi)",
+					"answer": "ti sei sbagliato"
+				},
+				{
+					"question": "(voi [f] ricordare) il suo compleanno?",
+					"answer": "vi siete ricordate"
+				},
+				{
+					"question": "Claudia (farsi) male.",
+					"answer": "si è fatta"
+				},
+				{
+					"question": "(loro [m] incontrarsi) allo stadio.",
+					"answer": "si sono incontrati"
+				},
+				{
+					"question": "(tu [m] perdersi)?",
+					"answer": "ti sei perso"
+				},
+				{
+					"question": "Signora, non (divertirsi)?",
+					"answer": "si è divertita"
+				},
+				{
+					"question": "(noi [m] bersi) un litro di acqua.",
+					"answer": "ci siamo bevuti"
+				},
+				{
+					"question": "Non (io [m] annoiarsi).",
+					"answer": "mi sono annoiato"
+				},
+				{
+					"question": "(noi [f] alzarsi) presto.",
+					"answer": "ci siamo alzate"
+				},
+				{
+					"question": "Non (tu [m] lavarsi) le mani?",
+					"answer": "ti sei lavato"
+				},
+				{
+					"question": "(io [f] tagliarsi) i capelli.",
+					"answer": "mi sono tagliata"
+				},
+				{
+					"question": "Il treno (fermarsi).",
+					"answer": "si è fermato"
+				},
+				{
+					"question": "I miei zii (separarsi).",
+					"answer": "si sono separati"
+				},
+				{
+					"question": "Vittorio non (lamentarsi).",
+					"answer": "si è lamentato"
+				},
+				{
+					"question": "Il professore (riposarsi).",
+					"answer": "si è riposato"
+				},
+				{
+					"question": "La professoressa (stancarsi).",
+					"answer": "si è stancata"
+				},
+				{
+					"question": "Non (tu [f] arrabbiarsi)?",
+					"answer": "ti sei arrabbiata"
+				},
+				{
+					"question": "(voi [m] offendersi)?",
+					"answer": "vi siete offesi"
+				},
+				{
+					"question": "(loro [m] dimenticarsi) di noi!",
+					"answer": "si sono dimenticati"
+                }
+            ]
+        },
+        {
+            "title": "Exercise 4",
+            "instruction": "Rewrite the sentences, moving the pronoun and changing the auxiliary.",
+            "examples": [
+                "Abbiamo dovuto alzarci [m]: Ci siamo dovuti alzare."
+            ],
+            "items": [
+				{
+					"question": "Non ho potuto lavarmi [f].",
+					"answer": "Non mi sono potuta lavare."
+				},
+				{
+					"question": "Sandra e Roberto hanno voluto sposarsi.",
+					"answer": "Sandra e Roberto si sono voluti sposare."
+				},
+				{
+					"question": "Abbiamo dovuto scusarci [m].",
+					"answer": "Ci siamo dovuti scusare."
+				},
+				{
+					"question": "Luigi ha dovuto alzarsi alle sei.",
+					"answer": "Luigi si è dovuto alzare alle sei."
+				},
+				{
+					"question": "Gianni non ha voluto mettersi il berretto.",
+					"answer": "Gianni non si è voluto mettere il berretto."
+				},
+				{
+					"question": "Hai potuto curarti [m]?",
+					"answer": "Ti sei potuto curare?"
+				},
+				{
+					"question": "Avete potuto riposarvi [m]?",
+					"answer": "Vi siete potuti riposare?"
+				},
+				{
+					"question": "Ho dovuto fermarmi [f].",
+					"answer": "Mi sono dovuta fermare."
+				},
+				{
+					"question": "Perché hai voluto tingerti i capelli [m]?",
+					"answer": "Perché ti sei voluto tingere i capelli?"
+				},
+				{
+					"question": "Non abbiamo potuto spiegarci [m].",
+					"answer": "Non ci siamo potuti spiegare."
+                }
+            ]
+        },
+        {
+            "title": "Exercise 5",
+            "instruction": "Translate into Italian, using reflexive/reciprocal pronouns.",
+            "examples": [],
+            "items": [
+				{
+					"question": "Are you [pl.] enjoying yourselves?",
+					"answer": "Vi divertite?"
+				},
+				{
+					"question": "Have you [f] washed your hands?",
+					"answer": "Ti sei lavata le mani?"
+				},
+				{
+					"question": "How are you feeling, Madam?",
+					"answer": "Come si sente, Signora?"
+				},
+				{
+					"question": "You [pl.] are wrong.",
+					"answer": "Vi sbagliate."
+				},
+				{
+					"question": "Where did you [fp] meet?",
+					"answer": ["Dove vi siete conosciute?", "Dove vi siete incontrate?"]
+				},
+				{
+					"question": "Why don’t you [sing.] sit down?",
+					"answer": "Perché non ti siedi?"
+				},
+				{
+					"question": "Paolo always talks about himself.",
+					"answer": ["Paolo parla sempre di se stesso.", "Paolo parla sempre di sè stesso."]
+				},
+				{
+					"question": "Franca washed her hair.",
+					"answer": "Franca si è lavata i capelli."
+				},
+				{
+					"question": "Carlo apologised.",
+					"answer": "Carlo si è scusato."
+				},
+				{
+					"question": "I [f] got dressed.",
+					"answer": "Mi sono vestita."
+                }             
             ]
         }
     ]

@@ -1,94 +1,90 @@
 {
     "unitNumber": 18,
     "text": {
-        "title": "Future Tense",
+        "title": "The Future Tense",
         "sections": [
             {
                 "title": "Use of the Future Tense",
                 "paragraphs": [
                     {
                         "id": 1,
-                        "content": "The **future tense** is, of course, used to refer to events which **will happen in the future**, as in the following examples:",
+                        "content": "The future tense is, of course, used to refer to events which will happen in the future, as in the following examples:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Venerdì **andremo** in piscina.", "On Friday we will go to the swimming pool."],
-                                ["Non so quando **partirò**.", "I don’t know when I will leave."],
-                                ["**Verrà** anche l’anno prossimo, Signora?", "Will you come/be coming again next year(, Madam?)"]
+                                ["Venerdì ***andremo*** in piscina.", "On Friday we will go to the swimming pool."],
+                                ["Non so quando ***partirò***.", "I don’t know when I will leave."],
+                                ["***Verrà*** anche l’anno prossimo, Signora?", "Will you come/be coming again next year(, Madam?)"]
                             ]
                         }
                     },
                     {
                         "id": 2,
-                        "content": "The **future** is also used to express **probability**, or a **guess**:",
+                        "content": "The future is also used to express probability, or a guess:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Anna non risponde: **sarà** fuori.", "Anna’s not answering: she must/she’ll be out."],
-                                ["**Saranno** le 5.", "It’s probably/It’ll be about 5 o’clock."],
-                                ["La madre di Pietro **avrà** 30 anni.", "Pietro’s mother must be around 30."],
-                                ["Chi **sarà**?", "Who can that be?"]
+                                ["Anna non risponde: ***sarà*** fuori.", "Anna’s not answering: she must/she’ll be out."],
+                                ["***Saranno*** le 5.", "It’s probably/It’ll be about 5 o’clock."],
+                                ["La madre di Pietro ***avrà*** 30 anni.", "Pietro’s mother must be around 30."],
+                                ["Chi ***sarà***?", "Who can that be?"]
                             ]
                         }
                     },
                     {
                         "id": 3,
-                        "content": "The **future** can also correspond to the English **present progressive** (‘I’m going to . . .’ etc.):",
+                        "content": "The future can also correspond to the English present progressive (‘I’m going to . . .’ etc.):",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Gli parlerò** presto.", "I’m going to talk/I’ll be talking to them soon."],
-                                ["**Porterò** i miei CD.", "I’m going to bring/I’ll be bringing my CDs."],
-                                ["**Gli direte** la verità?", "Are you going to tell him the truth?"]
+                                ["Gli ***parlerò*** presto.", "I’m going to talk/I’ll be talking to them soon."],
+                                ["***Porterò*** i miei CD.", "I’m going to bring/I’ll be bringing my CDs."],
+                                ["Gli ***direte*** la verità?", "Are you going to tell him the truth?"]
                             ]
                         }
                     },
                     {
                         "id": 4,
-                        "content": "In general, the **future tense** is used **less in Italian** than in English, and it is often possible, when talking about something which we are almost sure will happen, to use the **present**:",
+                        "content": "In general, the future tense is used less in Italian than in English, and it is often possible, when talking about something which we are almost sure will happen, to use the present:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["**Partono** domani.", "They are leaving tomorrow."],
-                                ["**Viene** anche l’anno prossimo.", "He/she is coming again next year."]
+                                ["**Viene** anche l’anno prossimo.", "He/she is coming again next year."],
+                                ["L’anno prossimo sono all’università.", "Next year I’ll be at university"]
                             ]
                         }
                     },
                     {
                         "id": 5,
-                        "content": "However, in certain cases Italian uses the **future** where English uses the **present**. Take this English sentence: ‘When/If I earn/am earning good money, I’ll buy a car.’ Here, ‘when’ and ‘if’ actually refer to an action in the **future**; in cases like this, Italian normally uses the **future tense**:",
+                        "content": "However, in certain cases Italian uses the future where English uses the present. Take this English sentence: ‘When/If I earn/am earning good money, I’ll buy a car.’ Here, ‘when’ and ‘if’ actually refer to an action *in the future*; in cases like this, Italian normally uses the future tense:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Quando **guadagnerò** bene, **comprerò** una macchina.", "When I earn good money, I’ll buy a car."],
-                                ["Se **avrò** tempo, **ti visiterò**.", "If I have time, I’ll visit you."]
+                                ["Se guadagnerò bene, comprerò una macchina.", "If I earn/am earning good money, I’ll buy a car."],
+                                ["Quando arriverà, le mostreremo il centro commerciale.", "When she arrives, we’ll show her the shopping mall."]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "The Forms of the Future",
+                "title": "The forms of the future indicative",
                 "paragraphs": [
                     {
                         "id": 6,
-                        "content": "The **future tense** is formed by adding to the stem of the verb the following endings, which are the same for all three conjugations (**-are**, **-ere**, **-ire**):",
+                        "content": "The future tense is formed by adding to the stem of the verb the following endings, which are the same for all three conjugations (**-are**, **-ere**, **-ire**):",
                         "table": {
-                            "headers": ["", "Ending"],
+                            "headers": ["", "-are", "-ere", "-ire"],
                             "rows": [
-                                ["(io)", "-ò"],
-                                ["(tu)", "-ai"],
-                                ["(lui/lei)", "-à"],
-                                ["(noi)", "-emo"],
-                                ["(voi)", "-ete"],
-                                ["(loro)", "-anno"]
+                                ["(io)", "-erò", "-erò", "-irò"],
+                                ["(tu)", "-erai", "-erai", "-irai"],
+                                ["(lui/lei)", "-erà", "-erà", "-irà"],
+                                ["(noi)", "-eremo", "-eremo", "-iremo"],
+                                ["(voi)", "-erete", "-erete", "-irete"],
+                                ["(loro)", "-eranno", "-eranno", "-iranno"]
                             ]
                         }
                     },
                     {
                         "content": "Regular verbs ending in **-are**",
                         "table": {
-                            "headers": ["Parlare (To speak)", "Italian", "English"],
+                            "headers": ["Parlare (To speak)", "", ""],
                             "rows": [
                                 ["io", "parlerò", "I will speak"],
                                 ["tu", "parlerai", "you will speak"],
@@ -102,7 +98,7 @@
                     {
                         "content": "Regular verbs ending in **-ere**",
                         "table": {
-                            "headers": ["Vendere (To sell)", "Italian", "English"],
+                            "headers": ["Vendere (To sell)", "", ""],
                             "rows": [
                                 ["io", "venderò", "I will sell"],
                                 ["tu", "venderai", "you will sell"],
@@ -116,7 +112,7 @@
                     {
                         "content": "Regular verbs ending in **-ire**",
                         "table": {
-                            "headers": ["Partire (To leave)", "Italian", "English"],
+                            "headers": ["Partire (To leave)", "", ""],
                             "rows": [
                                 ["io", "partirò", "I will leave"],
                                 ["tu", "partirai", "you will leave"],
@@ -126,67 +122,165 @@
                                 ["loro", "partiranno", "they will leave"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Irregular Verbs: Group 1",
-                "paragraphs": [
+                    },
                     {
-                        "id": 10,
-                        "content": "Some verbs, such as **andare**, **avere**, **dovere**, **essere**, **fare**, **potere**, **sapere**, and **vedere**, lose the vowel of their stem (e.g. **and-**, **av-**, etc.):",
-                        "table": {
-                            "headers": ["Andare", "Avere", "Dovere", "Essere", "Fare", "Potere", "Sapere", "Vedere"],
+                        "table":{
                             "rows": [
-                                ["andrò", "avrò", "dovrò", "sarò", "farò", "potrò", "saprò", "vedrò"],
-                                ["andrai", "avrai", "dovrai", "sarai", "farai", "potrai", "saprai", "vedrai"],
-                                ["andrà", "avrà", "dovrà", "sarà", "farà", "potrà", "saprà", "vedrà"],
-                                ["andremo", "avremo", "dovremo", "saremo", "faremo", "potremo", "sapremo", "vedremo"],
-                                ["andrete", "avrete", "dovrete", "sarete", "farete", "potrete", "saprete", "vedrete"],
-                                ["andranno", "avranno", "dovranno", "saranno", "faranno", "potranno", "sapranno", "vedranno"]
+                                ["Dopo un mese in Italia, ***parlerai*** meglio italiano.", "After a month in Italy, you’ll speak Italian better"],
+                                ["***Prenderò*** il treno delle 8.", "I’ll get the eight o’clock train."],
+                                ["***Partiranno*** domani mattina presto.","They will leave early tomorrow morning."],
+                                ["Domenica prossima ***finirò*** di lavorare verso le 5.", "Next Sunday I’ll finish work at about five."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "content": "Verbs ending in **-care** and **-gare** add **h** before the endings of the future in order to keep the hard sound of **c** and **g**:",
+                        "table":{
+                            "headers": ["Cercare",  "Pagare"],
+                            "rows": [
+                                ["cercherò", "pagherò"],
+                                ["cercherai", "pagherai"],
+                                ["cercherà", "pagherà"],
+                                ["cercheremo", "pagheremo"],
+                                ["cercherete", "pagherete"],
+                                ["cercheranno", "pagheranno"]
                             ]
                         }
                     },
                     {
                         "content": "Examples:",
-                        "table": {
-                            "headers": ["Italian", "English"],
+                        "table":{
                             "rows": [
-                                ["Domani **andrò** in città.", "Tomorrow I will go to town."],
-                                ["**Avremo** una casa nuova.", "We will have a new house."],
-                                ["Non **dovrai** venire.", "You won’t have to come."],
-                                ["**Sarò** in biblioteca.", "I’ll be in the library."],
-                                ["Cosa **farete** l’anno prossimo?", "What are you going to do next year?"],
-                                ["Non **potrò** venire.", "I won’t be able to come."],
-                                ["Non **sapremo** niente fino a domani.", "We won’t know anything until tomorrow."],
-                                ["**Vedrai** che tutto andrà bene.", "You’ll see that everything will be fine."]
+                                ["Quando arriveremo a Roma ***cercheremo*** un albergo economico.", "When we arrive in Rome we’ll look for a cheap hotel."],
+                                ["Mio padre ***pagherà*** tutte le spese.", "My father will pay all the expenses."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "content": "Verbs ending in **-ciare** and **-giare** drop **-i** in the future:",
+                        "table":{
+                            "headers": ["Cominciare", "Mangiare"],
+                            "rows": [
+                                ["comin***ce***rò", "man***ge***rò"],
+                                ["comin***ce***rai", "man***ge***rai"],
+                                ["comin***ce***rà", "man***ge***rà"],
+                                ["comin***ce***remo", "man***ge***remo"],
+                                ["comin***ce***rete", "man***ge***rete"],
+                                ["comin***ce***ranno", "man***ge***ranno"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["***Comincerò*** a lavorare venerdì prossimo", "I’ll start work(ing) next Friday"],
+                                ["***Mangerai*** in mensa?", "Will you eat/be eating in the canteen?"]
                             ]
                         }
                     }
                 ]
             },
             {
-                "title": "Irregular Verbs: Group 2",
+                "title": "Future of some irregular verbs",
                 "paragraphs": [
+                    {
+                        "id": 9,
+                        "content": "Essere and avere are irregular:",
+                        "table":{
+                            "headers":["Essere", "Avere"],
+                            "rows":[
+                                ["sarò", "avrò"],
+                                ["sarai", "avrai"],
+                                ["sarà", "avrà"],
+                                ["saremo", "avremo"],
+                                ["sarete", "avrete"],
+                                ["saranno", "avranno"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Se domenica sarà bello lavoreremo in giardino.", "If the weather is good on Sunday, we’ll work in the garden."],
+                                ["Se avrò tempo ti aiuterò.", "If I’ve got time, I’ll help you."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "content": "**Dare**, **fare** and **stare** follow the same pattern as **essere**:",
+                        "table": {
+                            "headers": ["Dare", "Fare", "Sare"],
+                            "rows": [
+                                ["darò", "farò", "starò"],
+                                ["darai", "farai", "starai"],
+                                ["darà", "farà", "starà"],
+                                ["daremo", "faremo", "staremo"],
+                                ["darete", "farete", "starete"],
+                                ["daranno", "faranno", "staranno"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Mia sorella ***darà*** una festa per il suo compleanno.", "My sister will give/is giving a party for her birthday."],
+                                ["Cosa ***farai*** dopo l’università?", "What will you do/are you doing after university?"],
+                                ["Domani ***starai*** meglio.", "You’ll feel better tomorrow"]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "content": "**Andare**, **cadere** (to fall), **dovere**, **potere**, **sapere**, **vedere** and **vivere** follow the same pattern as **avere**:",
+                        "table":{
+                            "headers": ["Andare", "Cadere", "Dovere", "Potere", "Sapere", "Vedere", "Vivere"],
+                            "rows":[
+                                ["andrò", "cadrò", "dovrò", "potrò", "saprò", "vedrò", "vivrò"],
+                                ["andrai", "cadrai", "dovrai", "potrai", "saprai", "vedrai", "vivrai"],
+                                ["andrà", "cadrà", "dovrà", "potrà", "saprà", "vedrà", "vivrà"],
+                                ["andremo", "cadremo", "dovremo", "potremo", "sapremo", "vedremo", "vivremo"],
+                                ["andrete", "cadrete", "dovrete", "potrete", "saprete", "vedrete", "vivrete"],
+                                ["andranno", "cadranno", "dovranno", "potranno", "sapranno", "vedranno", "vivranno"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows": [
+                                ["***Andremo*** alla festa solo se ci inviteranno.", "We’ll only go to the party if they invite us."],
+                                ["Il governo è impopolare e ***cadrà*** presto.", "The government is unpopular and will soon fall."],
+                                ["Credo che ***dovrò*** partire presto.", "I think I’ll have to leave early."],
+                                ["Non so se ***potrò*** venire.", "I don’t know whether I’ll be able to come."],
+                                ["Non ***sapremo*** mai la verità.", "We will never know the truth."],
+                                ["Quando ***vedrai*** i tuoi amici?", "When will you/are you going to see your friends?"]
+                            ]
+                        }
+                    },
                     {
                         "id": 12,
                         "content": "A third group of irregular verbs, comprising **bere**, **rimanere**, **venire**, **volere**, and **tenere** (to keep/hold), have the following pattern:",
                         "table": {
-                            "headers": ["Bere", "Rimanere", "Venire", "Volere", "Tenere"],
+                            "headers": ["", "Bere", "Rimanere", "Venire", "Volere", "Tenere"],
                             "rows": [
-                                ["berrò", "rimarrò", "verrò", "vorrò", "terrò"],
-                                ["berrai", "rimarrai", "verrai", "vorrai", "terrai"],
-                                ["berrà", "rimarrà", "verrà", "vorrà", "terrà"],
-                                ["berremo", "rimarremo", "verremo", "vorremo", "terremo"],
-                                ["berrete", "rimarrete", "verrete", "vorrete", "terrete"],
-                                ["berranno", "rimarranno", "verranno", "vorranno", "terranno"]
+                                ["-rrò", "berrò", "rimarrò", "verrò", "vorrò", "terrò"],
+                                ["-rrai", "berrai", "rimarrai", "verrai", "vorrai", "terrai"],
+                                ["-rrà", "berrà", "rimarrà", "verrà", "vorrà", "terrà"],
+                                ["-rremo", "berremo", "rimarremo", "verremo", "vorremo", "terremo"],
+                                ["-rrete", "berrete", "rimarrete", "verrete", "vorrete", "terrete"],
+                                ["-rranno", "berranno", "rimarranno", "verranno", "vorranno", "terranno"]
                             ]
                         }
                     },
                     {
                         "content": "Examples:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Sono sicuro che mio fratello non **berrà** mai quella tisana.", "I’m sure my brother will never drink that herbal tea."],
                                 ["Quanto tempo **rimarrete** in Italia, Signori Boi?", "How long will you/are you going to stay in Italy, Mrs and Mr Boi?"],
@@ -195,12 +289,7 @@
                                 ["Dove **terrai** la bici?", "Where are you going to keep the bike?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Irregular Verbs: Group 3",
-                "paragraphs": [
+                    },
                     {
                         "id": 13,
                         "content": "All verbs ending in **-urre** have the following pattern:",
@@ -219,10 +308,8 @@
                     {
                         "content": "Examples:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Carlo non parla tedesco, ma un interprete **tradurrà** tutto per lui.", "Carlo doesn’t speak German, but an interpreter is going to/will translate everything for him."],
-                                ["**Produrrò** un nuovo film l’anno prossimo.", "I will produce a new film next year."]
+                                ["Carlo non parla tedesco, ma un interprete **tradurrà** tutto per lui.", "Carlo doesn’t speak German, but an interpreter is going to/will translate everything for him."]
                             ]
                         }
                     }
@@ -233,9 +320,8 @@
                 "paragraphs": [
                     {
                         "id": 14,
-                        "content": "As usual, the **negative** is formed by putting **non** before the verb:",
+                        "content": "As usual, the negative is formed by putting **non** before the verb:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["**Non andrò** alla festa.", "I’m not going to the party."],
                                 ["**Non rimarremo** molto.", "We won’t stay long."],
@@ -249,102 +335,259 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Supply Future Tense",
-            "instruction": "Supply the **future tense** of the verb in brackets.",
+            "title": "Exercise 1",
+            "instruction": "Supply the future tense of the verb in brackets.",
             "examples": [
-                "I miei amici (**arrivare**) domani.: I miei amici **arriveranno** domani.",
-                "Quando (**voi parlare**) con Maria?: Quando **parlerete** con Maria?"
+                "Non (io partire) tanto presto: partirò"
             ],
             "items": [
-                { "question": "I miei amici (**arrivare**) domani.", "answer": "I miei amici arriveranno domani." },
-                { "question": "Quando (**voi parlare**) con Maria?", "answer": "Quando parlerete con Maria?" },
-                { "question": "(**lui telefonare**) domani.", "answer": "Lui telefonerà domani." },
-                { "question": "Gli (**tu dire**) tutto?", "answer": "Gli dirai tutto?" },
-                { "question": "Domani (**io scrivere**) ai nonni.", "answer": "Domani scriverò ai nonni." },
-                { "question": "Domenica (**io dormire**) fino a tardi.", "answer": "Domenica dormirò fino a tardi." },
-                { "question": "(**noi cominciare**) a lavorare domani.", "answer": "Noi cominceremo a lavorare domani." },
-                { "question": "Quando (**tu finire**) il compito?", "answer": "Quando finirai il compito?" },
-                { "question": "Stasera (**io prendere**) l’auto.", "answer": "Stasera prenderò l’auto." },
-                { "question": "Mi (**tu chiamare**)?", "answer": "Mi chiamerai?" },
-                { "question": "Dove (**voi abitare**)?", "answer": "Dove abiterete?" },
-                { "question": "(**loro portare**) il dolce.", "answer": "Loro porteranno il dolce." },
-                { "question": "Cosa le (**voi dire**)?", "answer": "Cosa le direte?" },
-                { "question": "Chi (**tradurre**) dal tedesco?", "answer": "Chi tradurrà dal tedesco?" },
-                { "question": "Domani (**noi pagare**) l’affitto.", "answer": "Domani pagheremo l’affitto." },
-                { "question": "(**tu mangiare**) con noi?", "answer": "Tu mangerai con noi?" },
-                { "question": "Mi (**Lei scrivere**), Signora?", "answer": "Mi scriverà, Signora?" },
-                { "question": "Paul (**cercare**) casa a Torino.", "answer": "Paul cercherà casa a Torino." },
-                { "question": "Che treno (**loro prendere**)?", "answer": "Che treno prenderanno?" },
-                { "question": "Chi (**pagare**)?", "answer": "Chi pagherà?" }
+                {
+					"question": "I miei amici (**arrivare**) domani.",
+					"answer": "arriveranno"
+				},
+                {
+					"question": "Quando (**voi parlare**) con Maria?",
+					"answer": "parlerete"
+				},
+                {
+					"question": "(**lui telefonare**) domani.",
+					"answer": "telefonerà"
+				},
+                {
+					"question": "Gli (**tu dire**) tutto?",
+					"answer": "dirai"
+				},
+                {
+					"question": "Domani (**io scrivere**) ai nonni.",
+					"answer": "scriverò"
+				},
+                {
+					"question": "Domenica (**io dormire**) fino a tardi.",
+					"answer": "dormirò"
+				},
+                {
+					"question": "(**noi cominciare**) a lavorare domani.",
+					"answer": "cominceremo"
+				},
+                {
+					"question": "Quando (**tu finire**) il compito?",
+					"answer": "finirai"
+				},
+                {
+					"question": "Stasera (**io prendere**) l’auto.",
+					"answer": "prenderò"
+				},
+                {
+					"question": "Mi (**tu chiamare**)?",
+					"answer": "chiamerai"
+				},
+                {
+					"question": "Dove (**voi abitare**)?",
+					"answer": "abiterete?"
+				},
+                {
+					"question": "(**loro portare**) il dolce.",
+					"answer": "porteranno"
+				},
+                {
+					"question": "Cosa le (**voi dire**)?",
+					"answer": "direte"
+				},
+                {
+					"question": "Chi (**tradurre**) dal tedesco?",
+					"answer": "tradurrà?"
+				},
+                {
+					"question": "Domani (**noi pagare**) l’affitto.",
+					"answer": "pagheremo"
+				},
+                {
+					"question": "(**tu mangiare**) con noi?",
+					"answer": "mangerai"
+				},
+                {
+					"question": "Mi (**Lei scrivere**), Signora?",
+					"answer": "scriverà"
+				},
+                {
+					"question": "Paul (**cercare**) casa a Torino.",
+					"answer": "cercherà"
+				},
+                {
+					"question": "Che treno (**loro prendere**)?",
+					"answer": "prenderanno"
+				},
+                {
+					"question": "Chi (**pagare**)?",
+					"answer": "pagherà" 
+                }
             ]
         },
         {
-            "title": "Exercise 2: Supply Future Tense",
-            "instruction": "Supply the **future tense** of the verb in brackets.",
+            "title": "Exercise 2",
+            "instruction": "Supply the future tense of the verb in brackets.",
             "examples": [
-                "(**io andare**) in vacanza.: **Andrò** in vacanza.",
-                "(**noi essere**) contenti di vedervi.: **Saremo** contenti di vedervi."
+                "Non (io dovere) andare a scuola: dovrò"
             ],
             "items": [
-                { "question": "(**io andare**) in vacanza.", "answer": "Andrò in vacanza." },
-                { "question": "(**noi essere**) contenti di vedervi.", "answer": "Saremo contenti di vedervi." },
-                { "question": "Quanto tempo (**tu rimanere**) a Roma?", "answer": "Quanto tempo rimarrai a Roma?" },
-                { "question": "(**io venire**) appena (**io potere**).", "answer": "Verrò appena potrò." },
-                { "question": "(**Lei dovere**) partire, Signora?", "answer": "Dovrà partire, Signora?" },
-                { "question": "(**lei venire**) quando (**lei volere**).", "answer": "Verrà quando vorrà." },
-                { "question": "Domani non (**noi avere**) tempo.", "answer": "Domani non avremo tempo." },
-                { "question": "Non so se (**io potere**) uscire.", "answer": "Non so se potrò uscire." },
-                { "question": "Quando (**tu vedere**) Anna?", "answer": "Quando vedrai Anna?" },
-                { "question": "(**voi fare**) una festa?", "answer": "Farete una festa?" },
-                { "question": "Non (**loro stare**) a casa mia.", "answer": "Non staranno a casa mia." },
-                { "question": "(**io bere**) solo acqua.", "answer": "Berrò solo acqua." },
-                { "question": "(**tu tenere**) il gatto?", "answer": "Terrai il gatto?" },
-                { "question": "Chi (**sapere**) la verità?", "answer": "Chi saprà la verità?" },
-                { "question": "Non (**io dovere**) lavorare domani.", "answer": "Non dovrò lavorare domani." }
+                {
+					"question": "(**io andare**) in vacanza.",
+					"answer": "andrò"
+				},
+                {
+					"question": "(**noi essere**) contenti di vedervi.",
+					"answer": "saremo"
+				},
+                {
+					"question": "Quanto tempo (**tu rimanere**) a Roma?",
+					"answer": "rimarrai"
+				},
+                {
+					"question": "(**io venire**) appena (**io potere**).",
+					"answer": "verrò,  potrò "
+				},
+                {
+					"question": "(**Lei dovere**) partire, Signora?",
+					"answer": "dovrà"
+				},
+                {
+					"question": "(**lei venire**) quando (**lei volere**).",
+					"answer": "verrà, vorrà."
+				},
+                {
+					"question": "Domani non (**noi avere**) tempo.",
+					"answer": "avremo"
+				},
+                {
+					"question": "Non so se (**io potere**) uscire.",
+					"answer": "potrò"
+				},
+                {
+					"question": "Quando (**tu vedere**) Anna?",
+					"answer": "vedrai"
+				},
+                {
+					"question": "(**voi fare**) una festa?",
+					"answer": "farete"
+				},
+                {
+					"question": "Non (**loro stare**) a casa mia.",
+					"answer": "staranno"
+				},
+                {
+					"question": "Non lo (lui sapere) mai.",
+					"answer": "saprà"
+				},
+                {
+					"question": "Gli (tu fare) un regalo?",
+					"answer": "farai"
+				},
+                {
+					"question": "(voi essere) a casa tutto il giorno?",
+					"answer": "sarete"
+				},
+                {
+					"question": "(voi dovere) lavorare domani?",
+					"answer": "dovrete"
+				},
+                {
+					"question": "Non (io andare) più in quel bar.",
+					"answer": "andrò"
+				},
+                {
+					"question": " Quando (tu sapere) il risultato?",
+					"answer": "saprai"
+				},
+                {
+					"question": "Quando (tu venire), Maria?",
+					"answer": "verrai"
+				},
+                {
+					"question": "Cosa (voi fare) domenica?",
+					"answer": "farete"
+				},
+                {
+					"question": "(loro tenere) il cane in giardino.",
+					"answer": "terranno" 
+                }
             ]
         },
         {
-            "title": "Exercise 3: Supply Future Tense",
-            "instruction": "Supply the **future tense** of the verb in brackets to complete the following text: Tomorrow I’m going to Florence. I leave at 6.15 to catch the train to Florence. I arrive in Florence around lunchtime and Lorenzo comes to pick me up at the station. First we go to his house where I leave my luggage, then we go to lunch at Ernestina’s. In the afternoon we see Carlo who takes us to see his new house. We return to Lorenzo’s house quite early because some friends are coming for dinner and we have to prepare. After dinner we go out, but even if we stay out late, it’s not a problem because we can sleep in the next morning.",
-            "examples": [
-                "Tomorrow I (**—**) to Florence.: Tomorrow I (**andrò**) to Florence.",
-                "I (**—**) at 6.15 to catch the train to Florence.: I (**partirò**) at 6.15 to catch the train to Florence."
-            ],
+            "title": "Exercise 3",
+            "instruction": "Change the verbs in italics into the future.",
+            "examples": [],
             "items": [
-                { "question": "I (**—**) at 6.15 to catch the train to Florence.", "answer": "Partirò at 6.15 to catch the train to Florence." },
-                { "question": "I (**—**) in Florence around lunchtime.", "answer": "Arriverò in Florence around lunchtime." },
-                { "question": "Lorenzo (**—**) to pick me up at the station.", "answer": "Verrà to pick me up at the station." },
-                { "question": "First we (**—**) to his house.", "answer": "Andremo to his house." },
-                { "question": "I (**—**) my luggage.", "answer": "Lascero my luggage." },
-                { "question": "Then we (**—**) to lunch at Ernestina’s.", "answer": "Andremo to lunch at Ernestina’s." },
-                { "question": "In the afternoon we (**—**) Carlo.", "answer": "Vedremo Carlo." },
-                { "question": "Who (**—**) us to see his new house.", "answer": "Porterà us to see his new house." },
-                { "question": "We (**—**) to Lorenzo’s house quite early.", "answer": "Torneremo to Lorenzo’s house quite early." },
-                { "question": "Some friends (**—**) for dinner.", "answer": "Verranno for dinner." },
-                { "question": "We (**—**) to prepare.", "answer": "Dovremo to prepare." },
-                { "question": "After dinner we (**—**).", "answer": "Usciremo." },
-                { "question": "Even if we (**—**) late.", "answer": "Faremo late." },
-                { "question": "We (**—**) sleep in the next morning.", "answer": "Potranno sleep in the next morning." }
+                {
+					"question": "Domani mattina ***esco*** di casa presto: ***devo*** prendere il treno per Firenze alle 6.15.",
+					"answer": "uscirò, dovrò"
+				},
+                {
+					"question": "***Arrivo*** a Firenze verso ora di pranzo e Lorenzo ***viene*** a prendermi alla stazione. ",
+					"answer": "arriverò, verrà"
+				},
+                {
+					"question": "Prima ***andiamo*** a casa sua dove ***lascio*** i bagagli e poi ***andiamo*** insieme a pranzo da Ernestina.",
+					"answer": "andremo, lascerò, andremo"
+				},
+                {
+					"question": "Nel pomeriggio ***vediamo*** Carlo che ci ***porta*** a vedere la sua nuova casa.",
+					"answer": "vedremo, porterà"
+				},
+                {
+					"question": "***Torniamo*** a casa di Lorenzo abbastanza presto perché ***vengono*** degli amici a cena e ***dobbiamo*** preparare.",
+					"answer": "torneremo, verranno, dovremo" 
+                },
+                {
+					"question": "Dopo cena ***usciamo***, ma, anche se ***facciamo*** tardi, non ***è*** un problema perché ***possiamo*** dormire la mattina dopo.",
+					"answer": "usciremo, faremo, sarà, potremo" 
+                }
             ]
         },
         {
-            "title": "Exercise 4: Translate into Italian",
-            "instruction": "Translate the following sentences into Italian, using the **future tense**.",
-            "examples": [
-                "Who **will be able** to help me?: Chi **potrà** aiutarmi?",
-                "Next summer we’ll do an Italian course.: La prossima estate **faremo** un corso di italiano."
-            ],
+            "title": "Exercise 4",
+            "instruction": "Translate into Italian",
+            "examples": [],
             "items": [
-                { "question": "Who will be able to help me?", "answer": "Chi potrà aiutarmi?" },
-                { "question": "Next summer we’ll do an Italian course.", "answer": "La prossima estate faremo un corso di italiano." },
-                { "question": "Will you [sing.] read all these books?", "answer": "Leggerai tutti questi libri?" },
-                { "question": "I won’t go to the library tomorrow.", "answer": "Non andrò in biblioteca domani." },
-                { "question": "When will you arrive, Signora Pasini?", "answer": "Quando arriverà, Signora Pasini?" },
-                { "question": "On Sunday, they’ll go out.", "answer": "Domenica usciranno." },
-                { "question": "What will you [sing.] do?", "answer": "Cosa farai?" },
-                { "question": "It’ll be about ten o’clock.", "answer": "Saranno circa le dieci." },
-                { "question": "Will you [sing.] bring your CDs for the party?", "answer": "Porterai i tuoi CD per la festa?" },
-                { "question": "Won’t you [pl.] come to the cinema with us?", "answer": "Non verrete al cinema con noi?" }
+                {
+					"question": "Who will be able to help me?",
+					"answer": "Chi potrà aiutarmi?"
+				},
+                {
+					"question": "Next summer we’ll do an Italian course.",
+					"answer": "La prossima estate faremo un corso di italiano."
+				},
+                {
+					"question": "Will you [sing.] read all these books?",
+					"answer": "Leggerai tutti questi libri?"
+				},
+                {
+					"question": "I won’t go to the library tomorrow.",
+					"answer": "Non andrò in biblioteca domani."
+				},
+                {
+					"question": "When will you arrive, Signora Pasini?",
+					"answer": "Quando arriverà, Signora Pasini?"
+				},
+                {
+					"question": "On Sunday, they’ll go out.",
+					"answer": "Domenica usciranno."
+				},
+                {
+					"question": "What will you [sing.] do?",
+					"answer": "Cosa farai?"
+				},
+                {
+					"question": "It’ll be about ten o’clock.",
+					"answer": "Saranno circa le dieci."
+				},
+                {
+					"question": "Will you [sing.] bring your CDs for the party?",
+					"answer": "Porterai i tuoi CD per la festa?"
+				},
+                {
+					"question": "Won’t you [pl.] come to the cinema with us?",
+					"answer": "Non verrete al cinema con noi?" 
+                }
             ]
         }
     ]
