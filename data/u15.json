@@ -7,7 +7,7 @@
                 "title": "Introduction to Relative Pronouns",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 15.01,
                         "content": "The Italian relative pronouns correspond to the English ‘who’, ‘which’, ‘that’, ‘whom’, ‘whose’. They have two forms: invariable (**che**, **cui**) and variable (**il quale** [ms], **la quale** [fs], **i quali** [mp], **le quali** [fp]):",
                         "table": {
                             "rows": [
@@ -30,7 +30,7 @@
                 "title": "The Invariable Form: Che",
                 "paragraphs": [
                     {
-                        "id": 2,
+                        "id": 15.02,
                         "content": "The invariable form **che** is used for masculine, feminine, singular, and plural nouns; it can be either a subject or a direct object:",
                         "table": {
                             "rows": [
@@ -50,7 +50,7 @@
                 "title": "The Invariable Form: Cui",
                 "paragraphs": [
                     {
-                        "id": 3,
+                        "id": 15.03,
                         "content": "When a preposition is needed before the invariable relative pronoun (e.g. if it stands for an indirect object), the form used is **cui**:",
                         "table": {
                             "rows": [
@@ -77,7 +77,7 @@
                 "title": "The Variable Forms: Il Quale, La Quale, I Quali, Le Quali",
                 "paragraphs": [
                     {
-                        "id": 4,
+                        "id": 15.04,
                         "content": "The **variable forms** **il quale** [ms], **la quale** [fs], **i quali** [mp], **le quali** [fp] are used as **subject**, **indirect object**, and – very rarely – as **direct object**. They must agree in gender and number with the noun they replace:",
                         "table": {
                             "rows": [
@@ -100,7 +100,7 @@
                 "title": "Relative Pronouns with Place Prepositions",
                 "paragraphs": [
                     {
-                        "id": 5,
+                        "id": 15.05,
                         "content": "When a relative pronoun is preceded by **in** or **a**, and these denote place, it is often replaced, in contemporary Italian, by the adverb **dove**. **Da dove** or **di dove** can be used when the **relative pronoun** is preceded by the preposition **da**:",
                         "table": {
                             "rows": [
@@ -117,7 +117,7 @@
                 "title": "Relative Pronouns with Demonstratives",
                 "paragraphs": [
                     {
-                        "id": 6,
+                        "id": 15.06,
                         "content": "The relative pronouns (both variable and invariable) can be used in conjunction with the demonstrative pronouns **colui** and **quello**."
                     },
                     {
@@ -162,7 +162,7 @@
                 "title": "The Pronoun Chi",
                 "paragraphs": [
                     {
-                        "id": 7,
+                        "id": 15.07,
                         "content": "When referring to people, the pronoun **chi** (who, anyone who, the person/people who) is often used instead of the more formal ‘double relative’ (**colui**/**colei**/**coloro che**, **colui il quale**, etc.). **Chi** is always used with the verb in the third person singular; past participles and adjectives are always in the masculine singular:",
                         "table": {
                             "rows": [

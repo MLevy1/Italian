@@ -47,7 +47,7 @@
                     {
                         "content": "Regular verbs ending in **-are**",
                         "table": {
-                            "headers": ["Parlare (To speak)", "Italian", "English"],
+                            "headers": ["Parlare (To speak)", "", ""],
                             "rows": [
                                 ["io", "parlavo", "I spoke/was speaking/used to speak"],
                                 ["tu", "parlavi", "you spoke/were speaking/used to speak"],
@@ -61,7 +61,7 @@
                     {
                         "content": "Regular verbs ending in **-ere**",
                         "table": {
-                            "headers": ["Prendere (To take/get)", "Italian", "English"],
+                            "headers": ["Prendere (To take/get)", "", ""],
                             "rows": [
                                 ["io", "prendevo", "I took/was taking/used to take"],
                                 ["tu", "prendevi", "you took/were taking/used to take"],
@@ -75,7 +75,7 @@
                     {
                         "content": "The verb **avere**",
                         "table": {
-                            "headers": ["Avere (To have)", "Italian", "English"],
+                            "headers": ["Avere (To have)", "", ""],
                             "rows": [
                                 ["io", "avevo", "I had/was having/used to have"],
                                 ["tu", "avevi", "you had/were having/used to have"],
@@ -89,7 +89,7 @@
                     {
                         "content": "Regular verbs ending in **-ire**",
                         "table": {
-                            "headers": ["Partire (To leave)", "Italian", "English"],
+                            "headers": ["Partire (To leave)", "", ""],
                             "rows": [
                                 ["io", "partivo", "I left/was leaving/used to leave"],
                                 ["tu", "partivi", "you left/were leaving/used to leave"],
@@ -100,6 +100,66 @@
                             ]
                         }
                     },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Mio nonno parlava molto bene l’italiano.", "My grandfather spoke Italian very well."],
+                                ["Mentre prendevamo il caffè è suonato il telefono.", "While we were having coffee the telephone rang."],
+                                ["Quando Carla aveva 5 anni abitava a Roma.", "When Carla was five she lived in Rome."],
+                                ["Sono arrivato quando il treno partiva.", "I arrived as the train was leaving."],
+                                ["Mio fratello andava a scuola in autobus.", "My brother used to go to school by bus."],
+                                ["Di solito Gianni e sua sorella andavano al cinema insieme.", "Usually Gianni and his sister went to the cinema together."],
+                                ["Quando Maurizio lavorava in quel supermercato lo pagavano pochissimo.", "When Maurizio worked in that supermarket they paid him very little."],
+                                ["Mentre Sebastiano leggeva il giornale, io ho finito i compiti.", "While Sebastiano was reading the paper I finished my homework."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 16.03,
+                        "content": "Not many verbs are irregular in the imperfect. Essere is one:",
+                        "table":{
+                            "rows":[
+                                ["ero", "I was/used to be"], 
+                                ["eri", "you were/used to be"], 
+                                ["era", "he/she/it was/used to be"], 
+                                ["eravamo", "we were/used to be"], 
+                                ["eravate", "you were/used to be"], 
+                                ["erano", "they were/used to be"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Like the present, the imperfect of essere can be used with the pronoun ci (see Unit 4): c’era (there was), c’erano (there were)."
+                    },
+                    {
+                        "content": "Other irregular verbs are bere, dire and fare:",
+                        "table":{
+                            "rows":[
+                                ["bevevo", "I drank/was drinking/used to drink"], 
+                                ["bevevi", "you drank/were drinking/used to drink"], 
+                                ["beveva", "he/she/it drank/was drinking/used to drink"], 
+                                ["bevevamo", "we drank/were drinking/used to drink"], 
+                                ["bevevate", "you drank/were drinking/used to drink"], 
+                                ["bevevano", "they drank/were drinking/used to drink"], 
+                                [""],
+                                ["dicevo", "I said/was saying/used to say"], 
+                                ["dicevi", "you said/were saying/used to say"], 
+                                ["diceva", "he/she/it said/was saying/used to say"], 
+                                ["dicevamo", "we said/were saying/used to say"], 
+                                ["dicevate", "you said/were saying/used to say"], 
+                                ["dicevano", "they said/were saying/used to say"], 
+                                [""],
+                                ["facevo", "I did/was doing/used to do"], 
+                                ["facevi", "you did/were doing/used to do"], 
+                                ["faceva", "he/she/it did/was doing/used to do"], 
+                                ["facevamo", "we did/were doing/used to do"], 
+                                ["facevate", "you did/were doing/used to do"],
+                                ["facevano", "they did/were doing/used to do"]
+                            ]
+                        }
+                    },
+                    {},
                     {
                         "content": "All verbs ending in **-urre** have the following pattern:",
                         "table": {
@@ -132,7 +192,7 @@
                 "title": "Negative Form",
                 "paragraphs": [
                     {
-                        "id": 4,
+                        "id": 16.04,
                         "content": "The negative is formed, as usual, by putting **non** before the verb:",
                         "table": {
                             "rows": [
@@ -147,7 +207,7 @@
                 "title": "Uses of the Imperfect",
                 "paragraphs": [
                     {
-                        "id": 5,
+                        "id": 16.05,
                         "content": "The imperfect is used for descriptions of situations in the past, when it is not necessary (or important) to say how long an action lasted. This generally happens with verbs like essere, sembrare and avere, and with verbs expressing will, desire or intention, possibility or ability; but it can happen with other verbs as well:",
                         "table": {
                             "rows": [
@@ -162,7 +222,7 @@
                         }
                     }, 
                     {
-                        "id": 6,
+                        "id": 16.06,
                         "content": "The imperfect is also used to express actions which were habitual or hap￾pened repeatedly in the past:",
                         "table": {
                             "rows": [
@@ -174,7 +234,7 @@
                         }
                     }, 
                     {
-                        "id": 7,
+                        "id": 16.07,
                         "content": "Since the imperfect is used when it is not relevant how long the action lasted, it is not used when it is stated how many times, or for how long, something happened:",
                         "table": {
                             "rows": [
@@ -188,10 +248,9 @@
                         }
                     },
                     {
-                        "id": 8,
+                        "id": 16.08,
                         "content": "When a sentence refers to two or more events which happened in the past, it is helpful to think in terms of ‘foreground’ and ‘background’, as in these two English examples: ‘While I was doing the dishes [continuous background], I heard [foreground] the doorbell’; ‘I saw [foreground] Juve a couple of times when I was [continuous background] in Turin’. In Italian, in cases like these, the imperfect expresses the continuous ‘background’ action against which the ‘foreground’ action is seen to occur:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Mentre* dormivate ho preparato la colazione.", "While you were sleeping/asleep I prepared breakfast."],
                                 ["Mia madre ha conosciuto mio padre quando abitava a Firenze.", "My mother met my father when she was living in Florence."],
@@ -207,7 +266,6 @@
                     {
                         "content": "If the two events happened at the same time and lasted for the same length of time, then both verbs are in the imperfect:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Mentre noi facevamo il compito di matematica, Carla ripassava filosofia.", "While we were doing our maths homework, Carla was revising philosophy."],
                                 ["Mentre Alessandro preparava la cena, Claudia leggeva il giornale.", "While Alessandro was preparing dinner, Claudia was reading the newspaper."],

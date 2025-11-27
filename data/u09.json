@@ -8,12 +8,11 @@
                 "paragraphs": [
                     {
                         "content": "In this unit we will look at the most common ways of asking questions in Italian. We have already seen (Units 4 and 5) that the order of the words in the sentence does not change in the interrogative form; now we need to look at some Italian ‘question words’."
-                    }
-                ]
-            },
-            {
-                "title": "1. Chi?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.01,
+                        "content": "Chi?"
+                    },
                     {
                         "content": "**Chi** means ‘who/whom’, or sometimes ‘which of’, and is only used to refer to people. **Chi** is invariable – that is, the same form is used for masculine and feminine, singular and plural:",
                         "table": {
@@ -44,12 +43,11 @@
                                 ["**Chi di voi (Signori) è italian*****o***?", "Which of you (gentlemen) is Italian?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "2. Che cosa? Cosa? Che?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.02,
+                        "content": "Che cosa? Cosa? Che?"
+                    },
                     {
                         "content": "All three mean ‘what’ and are used when referring to objects. **Che cosa?**, **Cosa?** and **Che?** are invariable in gender and number:",
                         "table": {
@@ -76,12 +74,11 @@
                                 ["**Che auto compra tuo padre?**", "What (make of) car is your father going to buy?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "3. Come?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.03,
+                        "content": "Come?"
+                    },
                     {
                         "content": "**Come** means ‘how’:",
                         "table": {
@@ -94,12 +91,11 @@
                     },
                     {
                         "content": "**Come** can sometimes mean ‘what’, as in **Come dici**? (What did you say?), **Com’è Edimburgo/il nuovo professore?** (What’s Edinburgh/the new teacher like?)."
-                    }
-                ]
-            },
-            {
-                "title": "4. Dove?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.04,
+                        "content": "Dove?"
+                    },
                     {
                         "content": "**Dove** means ‘where’:",
                         "table": {
@@ -110,12 +106,11 @@
                                 ["**Dov’è il mio libro?**", "Where is my book?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "5. Quando?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.05,
+                        "content": "Quando?"
+                    },
                     {
                         "content": "Quando means ‘when’:",
                         "table": {
@@ -126,12 +121,11 @@
                                 ["**Quando è lo sciopero dei treni?**", "When’s the rail/train strike?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "6. Perché?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.06,
+                        "content": "Perché"
+                    },
                     {
                         "content": "**Perché** means ‘why’:",
                         "table": {
@@ -150,12 +144,11 @@
                                 ["**Come mai siete in ritardo?**", "How come you are late?"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "7. Quanto?",
-                "paragraphs": [
+                    },
+                    {
+                        "id": 9.07,
+                        "content": "Quanto?"
+                    },
                     {
                         "content": "**Quanto** means ‘how much’ when referring to quantity, and ‘how long’, ‘how far’, ‘how tall’, etc. when it refers to time, distance, height, etc.:",
                         "table": {
@@ -181,13 +174,11 @@
                                 ["**‘Dobbiamo comprare del pane.’ ‘Quant*****o*****?’**", "‘We must get (some) bread.’ ‘How much?’"]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "8. Quale?",
-                "paragraphs": [
+                    },
                     {
+                        "id": 9.08,
+                        "content": "Quale?"
+                    },{
                         "content": "**Quale** means ‘which’ (or sometimes ‘what’). It is used either as an adjective or as a pronoun, and therefore agrees with the noun it refers to: **qual*****e***, ‘which (one)’, **qual*****i***, ‘which (ones)’. The use of **quale** rather than **che** usually implies that there is a choice, as for example if there are some books lying on the table: **Quale libro leggi?** ‘Which book are you reading?’:",
                         "table": {
                             "rows": [
@@ -202,13 +193,9 @@
                     },
                     {
                         "content": "*** Qual** (without an apostrophe) is used before the forms of **essere** starting with a vowel; used in this way, it sometimes means ‘what’ rather than ‘which’."
-                    }
-                ]
-            },
-            {
-                "title": "9. Shortened Forms",
-                "paragraphs": [
+                    },
                     {
+                        "id": 9.09,
                         "content": "As is seen in some of the examples in paragraphs 2, 3, 4 and 7, **cosa, che cosa, come, dove** and **quanto** can also be shortened before the forms of essere starting with a vowel, becoming **cos’, che cos’, com’, dov’** and **quant’** (all with an apostrophe):",
                         "table": {
                             "rows": [
