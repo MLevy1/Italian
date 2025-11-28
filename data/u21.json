@@ -8,7 +8,7 @@
                 "paragraphs": [
                     {
                         "id": 21.01,
-                        "content": "The **imperative** is used, in Italian as in English, to express **orders**, **commands**, or **strong requests**:",
+                        "content": "The imperative is used, in Italian as in English, to express orders, commands, or strong requests:",
                         "table": {
                             "rows": [
                                 ["**Guarda**!", "Look!"],
@@ -21,7 +21,7 @@
                         }
                     },
                     {
-                        "content": "As well as orders and requests, the **imperative** can also be used to express **wishes**, **invitations**, **encouragement**, and **advice**:",
+                        "content": "As well as orders and requests, the imperative can also be used to express wishes, invitations, encouragement, and advice:",
                         "table": {
                             "rows": [
                                 ["**Passa** delle buone vacanze.", "Have a good holiday."],
@@ -51,7 +51,7 @@
                         }
                     },
                     {
-                        "content": "Some verbs ending in **-ire** add **-isc-**, as in the **present indicative** (see Unit 5):",
+                        "content": "Some verbs ending in **-ire** add **-isc-**, as in the present indicative (see Unit 5):",
                         "table": {
                             "headers": ["Finire (To finish)", "Italian", "English"],
                             "rows": [
@@ -318,7 +318,7 @@
                         }
                     },
                     {
-                        "content": "Note that when an **unstressed pronoun** is used with the forms **da’**, **fa’**, **di’**, **sta’**, and **va’**, the first consonant of the pronoun (except **gli**) is **doubled**:",
+                        "content": "Note that when an unstressed pronoun is used with the forms **da’**, **fa’**, **di’**, **sta’**, and **va’**, the first consonant of the pronoun (except **gli**) is doubled:",
                         "table": {
                             "rows": [
                                 ["Se sai la verità, **dilla**!", "If you know the truth, tell it!"],
@@ -333,7 +333,7 @@
                         }
                     },
                     {
-                        "content": "In **negative sentences**, there is an **extra option**: the pronoun can be placed **before the verb** (and after **non**):",
+                        "content": "In negative sentences, there is an extra option: the pronoun can be placed before the verb (and after **non**):",
                         "table": {
                             "rows": [
                                 ["**Non lo prendere**! or **Non prenderlo**!", "Don’t take it!"],
@@ -345,7 +345,7 @@
                     },
                     {
                         "id": 21.11,
-                        "content": "In the **polite form** (**third person singular and plural**, **Lei** and **Loro**), the pronouns are **always placed before the verb**:",
+                        "content": "In the polite form (third person singular and plural, **Lei** and **Loro**), the pronouns are always placed before the verb**:",
                         "table": {
                             "rows": [
                                 ["Quel libro è per Lei: **lo prenda**.", "That book is for you: take it."],
@@ -362,7 +362,7 @@
     "exercises": [
         {
             "title": "Exercise 1",
-            "instruction": "Supply the **imperative** of the verb in brackets.",
+            "instruction": "Supply the imperative of the verb in brackets.",
             "examples": [
                 "(tu pagare) il conto: paga"
             ],
