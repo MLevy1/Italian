@@ -130,9 +130,7 @@
                         "id": 21.05,
                         "content": "Essere and avere are irregular in the imperative:",
                         "table":{
-                            "headers":[
-                                ["Essere", "Avere"]
-                            ],
+                            "headers":["Essere", "Avere"],
                             "rows":[
                                 ["sii", "abbi"],
                                 ["sia", "abbia"],
