@@ -7,7 +7,7 @@
                 "title": "Use of the Present Conditional",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 23.01,
                         "content": "The **present conditional** expresses an action which depends on a **condition**, as in this English example: ‘If I could, I would go at once.’ In this example, the condition is expressed with ‘if’ (i.e., ‘on condition that’). The present conditional is often used even when the condition is not actually mentioned, as in: ‘I’m sure she would love a night out.’ Basically, the use of the Italian **present conditional** is similar to the English."
                     },
                     {
@@ -32,83 +32,265 @@
                 "title": "Forms of the Present Conditional",
                 "paragraphs": [
                     {
-                        "id": 2,
+                        "id": 23.02,
                         "content": "The **present conditional** is formed in the same way as the **future**, but with different endings:",
                         "table": {
-                            "headers": ["", "Parlare (-are, To speak)", "Prendere (-ere, To take/get)", "Partire (-ire, To leave)"],
+                            "headers": ["", "-are", "-ere", "-ire"],
                             "rows": [
-                                ["io", "parlerei", "prenderei", "partirei"],
-                                ["tu", "parleresti", "prenderesti", "partiresti"],
-                                ["lui/lei", "parlerebbe", "prenderebbe", "partirebbe"],
-                                ["noi", "parleremmo*", "prenderemmo*", "partiremmo*"],
-                                ["voi", "parlereste", "prendereste", "partireste"],
-                                ["loro", "parlerebbero", "prenderebbero", "partirebbero"]
+                                ["(io)", "-erei", "-erei", "-irei"],
+                                ["(tu)", "-eresti", "-eresti", "-iresti"], 
+                                ["(lui/lei)", "-erebbe", "-erebbe", "-irebbe"], 
+                                ["(noi)", "-eremmo*", "-eremmo*", "-iremmo*"],
+                                ["(voi)", "-ereste", "-ereste", "-ireste"], 
+                                ["(loro)", "-erebbero", "-erebbero", "-irebbero"]
                             ]
                         }
                     },
                     {
-                        "content": "* Note that the **noi** form is identical to the **future**."
+                        "content": "* Be sure not to confuse the spelling of these endings (all with -emmo) with the corresponding ones of the future (all with -emo)."
                     },
                     {
-                        "content": "Some verbs, such as **andare**, **avere**, **dovere**, **essere**, **fare**, **potere**, **sapere**, **stare**, **venire**, **vedere**, and **volere**, lose the vowel of their stem (e.g., **and-**, **av-**, etc.):",
-                        "table": {
-                            "headers": ["Andare", "Avere", "Dovere", "Essere", "Fare", "Potere", "Sapere", "Stare", "Venire", "Vedere", "Volere"],
-                            "rows": [
-                                ["andrei", "avrei", "dovrei", "sarei", "farei", "potrei", "saprei", "starei", "verrei", "vedrei", "vorrei"],
-                                ["andresti", "avresti", "dovresti", "saresti", "faresti", "potresti", "sapresti", "staresti", "verresti", "vedresti", "vorresti"],
-                                ["andrebbe", "avrebbe", "dovrebbe", "sarebbe", "farebbe", "potrebbe", "saprebbe", "starebbe", "verrebbe", "vedrebbe", "vorrebbe"],
-                                ["andremmo", "avremmo", "dovremmo", "saremmo", "faremmo", "potremmo", "sapremmo", "staremmo", "verremmo", "vedremmo", "vorremmo"],
-                                ["andreste", "avreste", "dovreste", "sareste", "fareste", "potreste", "sapreste", "stareste", "verreste", "vedreste", "vorreste"],
-                                ["andrebbero", "avrebbero", "dovrebbero", "sarebbero", "farebbero", "potrebbero", "saprebbero", "starebbero", "verrebbero", "vedrebbero", "vorrebbero"]
+                        "content": "Regular verbs ending in -are are conjugated as follows:",
+                        "table":{
+                            "headers":["Parlare", "To speak"], 
+                            "rows":[
+                                ["parlerei", "I would speak"], 
+                                ["parleresti", "you would speak"], 
+                                ["parlerebbe", "he/she/it would speak"], 
+                                ["parleremmo", "we would speak"], 
+                                ["parlereste", "you would speak"], 
+                                ["parlerebbero", "they would speak"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Regular verbs ending in -ere are conjugated as follows:",
+                        "table":{
+                            "headers":["Prendere", "To take/get"], 
+                            "rows":[
+                                ["prenderei", "I would take"], 
+                                ["prenderesti", "you would take"], 
+                                ["prenderebbe", "he/she/it would take"], 
+                                ["prenderemmo", "we would take"], 
+                                ["prendereste", "you would take"], 
+                                ["prenderebbero", "they would take"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Regular verbs ending in -ire are conjugated as follows:",
+                        "table":{
+                            "headers":["Finire", "To finish"], 
+                            "rows":[
+                                ["finirei", "I would finish"], 
+                                ["finiresti", "you would finish"], 
+                                ["finirebbe", "he/she/it would finish"], 
+                                ["finiremmo", "we would finish"], 
+                                ["finireste", "you would finish"], 
+                                ["finirebbero", "they would finish"]                             
                             ]
                         }
                     },
                     {
                         "content": "Examples:",
-                        "table": {
-                            "headers": ["Italian", "English"],
-                            "rows": [
-                                ["**Darei** una festa.", "I would give a party."],
-                                ["**Mi faresti** un favore?", "Would you do me a favour?"],
-                                ["Al posto tuo **starei** tranquillo.", "I wouldn’t worry if I were you. [lit. in your place I’d be calm]"],
-                                ["Quando **andreste** in vacanza?", "When would you go on holiday?"],
-                                ["Domenica **dovrei** lavorare.", "On Sunday I ought to work."],
-                                ["**Potresti** aiutarmi!!", "You could help me!! [i.e., why aren’t you helping me?]"],
-                                ["**Vorrei** un caffè.", "I would like a coffee."],
-                                ["**Verresti** con me?", "Would you come with me?"]
+                        "table":{
+                            "rows":[
+                                ["Con Marco parleresti italiano.", "With Marco you would speak Italian."], 
+                                ["Scriverei una cartolina alla zia.", "I would write a postcard to my aunt."], 
+                                ["Finiremmo questo lavoro prima di partire.", "We’d finish this job before leaving."]
+                            ]
+                        }
+
+                    },
+                    {
+                        "id": 23.03,
+                        "content": "Verbs ending in -care and -gare add h before the endings of the present conditional in order to keep the hard sound of c and g:",
+                        "table":{
+                            "headers":["Cercare", "Pagare"], 
+                            "rows":[
+                                ["cercherei", "pagherei"], 
+                                ["cercheresti", "pagheresti"], 
+                                ["cercherebbe", "pagherebbe"], 
+                                ["cercheremmo", "pagheremmo"], 
+                                ["cerchereste", "paghereste"], 
+                                ["cercherebbero", "pagherebbero"]
                             ]
                         }
                     },
                     {
-                        "content": "* The **present conditional** of **volere** is often used to express **wishes** and **requests** in a **polite form**, corresponding to the English ‘would like’."
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Al suo posto, cercherei un altro lavoro.", "If I were him [lit. in his place], I’d look for another job."], 
+                                ["La Signora pagherebbe il conto.", "The lady would pay the bill."]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 23.04,
+                        "content": "Verbs ending in -ciare and -giare drop -i in the present conditional:",
+                        "table":{
+                            "headers":["Cominciare", "Mangiare"], 
+                            "rows":[
+                                ["comincerei", "mangerei"], 
+                                ["cominceresti", "mangeresti"], 
+                                ["comincerebbe", "mangerebbe"], 
+                                ["cominceremmo", "mangeremmo"], 
+                                ["comincereste", "mangereste"], 
+                                ["comincerebbero", "mangerebbero"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "",
+                        "table":{
+                            "rows":[
+                                ["Senza di lui, non cominceremmo la riunione.", "We wouldn’t start the meeting without him."], 
+                                ["Mangeresti la carne di canguro?!", "Would you eat kangaroo meat?!"]
+                            ]
+                        }
                     }
                 ]
             },
             {
-                "title": "Verbs Ending in -urre",
-                "paragraphs": [
+                "title": "Present conditional of some irregular verbs",
+                "paragraphs":[
                     {
-                        "id": 9,
+                        "content": "Irregular verbs are grouped in the same way as for the future tense:"
+                    },
+                    {
+                        "id": 23.05,
+                        "content": "Essere and avere are irregular:",
+                        "table":{
+                            "headers":["Essere", "Avere"], 
+                            "rows":[
+                                ["sarei", "avrei"], 
+                                ["saresti", "avresti"], 
+                                ["sarebbe", "avrebbe"], 
+                                ["saremmo", "avremmo"], 
+                                ["sareste", "avreste"], 
+                                ["sarebbero", "avrebbero"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Sarei contenta di rivedere Carlo.", "I would be happy to see Carlo again."], 
+                                ["Avresti un minuto per me?", "Could you spare me a minute? [lit. would you have a minute for me?]"]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 23.06,
+                        "content": "Dare, fare and stare follow the same pattern as essere:",
+                        "table":{
+                            "headers":["Dare", "Fare", "Stare"], 
+                            "rows":[
+                                ["darei", "farei", "starei"], 
+                                ["daresti", "faresti", "staresti"], 
+                                ["darebbe", "farebbe", "starebbe"], 
+                                ["daremmo", "faremmo", "staremmo"], 
+                                ["dareste", "fareste", "stareste"], 
+                                ["darebbero", "farebbero", "starebbero"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Darei una festa.", "I would give a party."], 
+                                ["Mi faresti un favore?", "Would you do me a favour?"], 
+                                ["Al posto tuo starei tranquillo.", "I wouldn’t worry if I were you. [lit. in your place I’d be calm]"] 
+                            ]
+                        }
+                    },
+                    {
+                        "id": 23.07,
+                        "content": "Andare, cadere, dovere, potere, sapere, vedere and vivere follow the same pattern as avere:",
+                        "table":{
+                            "rows":[
+                                ["andrei", "cadrei", "dovrei", "potrei"], 
+                                ["andresti", "cadresti", "dovresti", "potresti"], 
+                                ["andrebbe", "cadrebbe", "dovrebbe", "potrebbe"], 
+                                ["andremmo", "cadremmo", "dovremmo", "potremmo"], 
+                                ["andreste", "cadreste", "dovreste", "potreste"], 
+                                ["andrebbero", "cadrebbero", "dovrebbero", "potrebbero"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "",
+                        "table":{
+                            "rows":[
+                                ["saprei", "vedrei", "vivrei"], 
+                                ["sapresti", "vedresti", "vivresti"], 
+                                ["saprebbe", "vedrebbe", "vivrebbe"], 
+                                ["sapremmo", "vedremmo", "vivremmo"], 
+                                ["sapreste", "vedreste", "vivreste"], 
+                                ["saprebbero", "vedrebbero", "vivrebbero"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Quando andreste in vacanza?", "When would you go on holiday?"], 
+                                ["Domenica dovrei lavorare.", "On Sunday I ought to work."], 
+                                ["Potresti aiutarmi!!", "You could help me!! [i.e. why aren’t you helping me?]"]
+                            ]
+                        }
+                    },
+                    {
+                        "id": 23.08,
+                        "content": "A third group of irregular verbs, comprising bere, rimanere, venire, volere and tenere, have the following pattern:",
+                        "table":{
+                            "rows":[
+                                ["-rrei", "berrei", "rimarrei", "verrei", "vorrei", "terrei"], 
+                                ["-rresti", "berresti", "rimarresti", "verresti", "vorresti", "terresti"], 
+                                ["-rrebbe", "berrebbe", "rimarrebbe", "verrebbe", "vorrebbe", "terrebbe"], 
+                                ["-rremmo", "berremmo", "rimarremmo", "verremmo", "vorremmo", "terremmo"], 
+                                ["-rreste", "berreste", "rimarreste", "verreste", "vorreste", "terreste"], 
+                                ["-rrebbero", "berrebbero", "rimarrebbero", "verrebbero", "vorrebbero", "terrebbero"]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "Examples:",
+                        "table":{
+                            "rows":[
+                                ["Rimarrei ancora un po’ con voi, ma devo prendere il treno.", "I would stay with you a bit longer, but I’ve got to get the train."],
+                                ["Verresti al cinema con me?", "Would you come to the cinema with me?"],
+                                ["Vorrei un caffè.*", "I’d like a coffee."],
+                                ["Vorrei anche un chilo di mele.*", "I’d like a kilo of apples as well."]
+                            ]
+                        }
+                    },
+                    {
+                        "content": "* The present conditional of volere is often used to expresses wishes and requests in a polite form, corresponding to the English ‘would like’."
+                    },
+                    {
+                        "id": 23.09,
                         "content": "All verbs ending in **-urre** have the following pattern:",
                         "table": {
-                            "headers": ["Produrre (To produce)", "Italian", "English"],
                             "rows": [
-                                ["io", "produrrei", "I would produce"],
-                                ["tu", "produrresti", "you would produce"],
-                                ["lui/lei", "produrrebbe", "he/she would produce"],
-                                ["noi", "produrremmo", "we would produce"],
-                                ["voi", "produrreste", "you would produce"],
-                                ["loro", "produrrebbero", "they would produce"]
+                                ["-urrei", "tradurrei"], 
+                                ["-urresti", "tradurresti"], 
+                                ["-urrebbe", "tradurrebbe"], 
+                                ["-urremmo", "tradurremmo"], 
+                                ["-urreste", "tradurreste"], 
+                                ["-urrebbero", "tradurrebbero"]
                             ]
                         }
                     },
                     {
                         "content": "Examples:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Produrrei** un film se avessi i soldi.", "I would produce a film if I had the money."],
-                                ["**Tradurresti** questo testo per me?", "Would you translate this text for me?"]
+                                ["L’interprete tradurrebbe tutto per te.", "The interpreter would translate everything for you."]
                             ]
                         }
                     }
@@ -118,14 +300,13 @@
                 "title": "Negative Form",
                 "paragraphs": [
                     {
-                        "id": 10,
-                        "content": "The **negative** is formed by putting **non** before the verb:",
+                        "id": 23.10,
+                        "content": "The negative is formed by putting **non** before the verb:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Non parlerei** con lui.", "I wouldn’t speak with him."],
-                                ["**Non potreste** venire domani.", "You couldn’t come tomorrow."],
-                                ["**Non vorrei** disturbarti.", "I wouldn’t want to disturb you."]
+                                ["Non capiresti nulla.", "You wouldn’t understand a thing."], 
+                                ["Non vorremmo partire.", "We wouldn’t want to leave."], 
+                                ["Non tradurrei così.", "I wouldn’t translate (it) like that."]
                             ]
                         }
                     }
@@ -135,11 +316,10 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Supply Present Conditional",
-            "instruction": "Supply the **present conditional** of the verb in brackets.",
+            "title": "Exercise 1",
+            "instruction": "Supply the present conditional of the verb in brackets.",
             "examples": [
-                "(**tu leggere**) quel libro di nuovo?!: **Leggeresti** quel libro di nuovo?!",
-                "(**io potere**) aiutarvi.: **Potrei** aiutarvi."
+                "Stasera non (io uscire): uscirei"
             ],
             "items": [
                 { "question": "(**tu leggere**) quel libro di nuovo?!", "answer": "Leggeresti quel libro di nuovo?!" },
@@ -165,11 +345,10 @@
             ]
         },
         {
-            "title": "Exercise 2: Rewrite with Present Conditional",
+            "title": "Exercise 2",
             "instruction": "Rewrite the sentences, changing the italicised verbs into the **present conditional**.",
             "examples": [
-                "**Voglio** due panini.: **Vorrei** due panini.",
-                "**Dovete** studiare di più.: **Dovreste** studiare di più."
+                "Veniamo volentieri: Verremmo volentieri."
             ],
             "items": [
                 { "question": "**Voglio** due panini.", "answer": "Vorrei due panini." },
@@ -185,12 +364,9 @@
             ]
         },
         {
-            "title": "Exercise 3: Translate with Present Conditional",
+            "title": "Exercise 3",
             "instruction": "Translate into Italian, using the **present conditional**.",
-            "examples": [
-                "Paola could help me.: Paola **potrebbe** aiutarmi.",
-                "We would gladly come.: **Verremmo** volentieri."
-            ],
+            "examples": [],
             "items": [
                 { "question": "Paola could help me.", "answer": "Paola potrebbe aiutarmi." },
                 { "question": "We would gladly come.", "answer": "Verremmo volentieri." },

@@ -27,7 +27,6 @@
           {
             "content": "The pronoun is only required for emphasis, or to mark a contrast:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Sono** medico.", "I’m a doctor."],
                 ["**Siamo** cugini.", "We are cousins."],
@@ -78,7 +77,6 @@
           {
             "content": "**Lui**, **lei** and **loro** are only used to refer to persons. In referring to objects, Italian normally avoids using the obsolete forms **esso**, **essa**, **essi**, **esse**, and omits the pronoun altogether:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Lui** è **Paolo**, **lei** è **Anna**.", "He is Paolo, she is Anna."],
                 ["‘Cos’è?’ ‘È una chiave.’", "‘What is it?’ ‘It’s a key.’"],
@@ -96,7 +94,6 @@
             "id": "4.03",
             "content": "The **interrogative** is formed by adding a question mark at the end of the sentence:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Sei** pronto?", "Are you ready?"],
                 ["**Siete** stranieri?", "Are you foreigners?"],
@@ -115,7 +112,6 @@
             "id": "4.04",
             "content": "The **negative** is formed by putting **non** (i.e. ‘not’) before the verb:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Claudio** **non** è **mio fratello**.", "Claudio is not my brother."],
                 ["**Non** **siamo** italiani.", "We’re not Italian."],
@@ -136,7 +132,6 @@
             "id": "4.05",
             "content": "In Italian there is a **formal** way of addressing people which is used with people we do not know, or when some degree of formality is required. When the **formal** form is required, the pronoun used for the **singular**, for both men and women, is **Lei** (**third person singular**); the pronoun used for the **plural** is normally **Voi**, but in situations when a high degree of formality is required **Loro** can be used:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Lei** è molto gentile, **Signore**.", "You’re very kind(, Sir)."],
                 ["**Lei** **non** è troppo alta, **Signora**!", "You’re not too tall(, Madam)!"],
@@ -147,17 +142,12 @@
                 ["(**Signori Conti**, **Loro** **sono** italiani?)", "Mr and Mrs Conti, are you Italian?"]
               ]
             }
-          }
-        ]
-      },
-      {
-        "title": "Spelling",
-        "paragraphs": [
+          },
           {
             "id": "4.06",
             "content": "There are some spelling mistakes involving **essere** and **avere** which are commonly made by learners; be careful to remember the following differences:",
             "table": {
-              "headers": ["Correct", "Incorrect", "English"],
+              "headers": ["Correct", "Incorrect", ""],
               "rows": [
                 ["**è**", "e", "he/she/it is"],
                 ["**ho**", "o", "I have"],
@@ -176,7 +166,6 @@
             "id": "4.07",
             "content": "The verbs **essere** and **avere** are normally used as the verbs ‘**to be**’ and ‘**to have**’ are used in English. **Essere** is usually followed by an **adjective** or a **noun**:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Siete** studenti?", "Are you students?"],
                 ["**Daniela** è medico.", "Daniela is a doctor."],
@@ -189,7 +178,6 @@
           {
             "content": "**Avere** is normally followed by a **noun** (or a **noun** accompanied by an **adjective**):",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Hai** il libro?", "Have you got the book?"],
                 ["**Non** **ho** tempo.", "I haven’t time."],
@@ -203,7 +191,6 @@
             "id": "4.08",
             "content": "The verb **avere**, followed by a **noun**, is also used in a number of **idiomatic expressions** which correspond to English expressions using ‘**to be**’ followed by an **adjective** or an **adverbial phrase**:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**avere caldo**", "to be hot"],
                 ["**avere fame**", "to be hungry"],
@@ -220,7 +207,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Abbiamo** fame.", "We are hungry."],
                 ["**Avete** ragione!", "You’re right!"],
@@ -234,7 +220,6 @@
             "id": "4.09",
             "content": "**Avere** is also used in Italian to express age:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Francesca** **ha** 17 anni.", "Francesca is 17 (years old)."],
                 ["**Il figlio** di **Gianni** **ha** un anno.", "Gianni’s son is one."],
@@ -251,7 +236,6 @@
             "id": "4.10",
             "content": "The verb **essere** is used in the expressions **c’è** (**there is**) followed by a **singular noun**, and **ci sono** (**there are**) followed by a **plural noun**:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**C’è** una lettera per te.", "There’s a letter for you."],
                 ["**C’è** poco tempo.", "There’s little/not much time."],
@@ -266,7 +250,6 @@
             "id": "4.11",
             "content": "Note that **c’è** and **ci sono** are not usually emphatic. So, in the English sentences in paragraph 4.10, the voice stress does not fall on ‘**there**’, but on the **noun** that follows it (i.e. on ‘**letter**’, ‘**little/plenty of time**’, ‘**problem**’, etc.). Thus **c’è** and **ci sono** sometimes do not correspond to ‘**there is**’ or ‘**there are**’, as in the following examples:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**C’è** **Luisa** al telefono. [i.e. she has just rung]", "Luisa’s on the phone. [not: There’s Luisa on the phone.]"],
                 ["**Ci sono** **i tuoi amici** che ti aspettano. [i.e. they have just arrived]", "Your friends are waiting for you. [not: There are your friends waiting for you.]"]
@@ -277,7 +260,6 @@
             "id": "4.12",
             "content": "The **interrogative** is formed by simply adding a question mark at the end of the sentence, or with a ‘**question word**’ (see Unit 9):",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**C’è** **il Professor Gatti**?", "Is Professor Gatti there/anywhere/around? [i.e. I’d like to see/talk to Professor Gatti.]"],
                 ["**C’è** molto traffico?", "Is there a lot of traffic?"],
@@ -289,11 +271,13 @@
             "id": "4.13",
             "content": "The **negative** is formed by placing **non** before **c’è** or **ci sono**:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Non** **c’è** tempo.", "There is no time."],
                 ["Domani **non** **c’è** lezione.", "There is no class tomorrow."],
-                ["**Non** **ci sono** clienti.", "There aren’t any customers."]
+                ["**Non** **ci sono** clienti.", "There aren’t any customers."],
+                ["Non c’è tempo?", "Is there no time?"],
+                ["Non ci sono clienti?", "Aren’t there any customers?"],
+                ["Non c’è nessuno.*", "There is nobody.*"]
               ]
             }
           },
@@ -302,7 +286,16 @@
           },
           {
             "id": "4.14",
-            "content": "Note that in **negative** sentences giving general information, it is more usual to use the **plural** **non ci sono** than the **singular** **non c’è**."
+            "content": "Note that in **negative** sentences giving general information, it is more usual to use the **plural** **non ci sono** than the **singular** **non c’è**.",
+            "table":{
+                "rows":[
+                    ["Non ci sono farmacie.", "There isn’t a/is no pharmacy."],
+                    ["", "There aren’t any/are no pharmacies."],
+                    ["Non ci sono scuole.", "There isn’t a/is no school."],
+                    ["", "There aren’t any/are no schools."],
+                    ["Non ci sono artisti nella mia famiglia.", "There aren’t any/are no artists in my family."]
+                ]
+            }
           }
         ]
       }

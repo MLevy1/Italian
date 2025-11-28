@@ -82,12 +82,7 @@
                                 ]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Other Adverbs",
-                "paragraphs": [
+                    },
                     {
                         "id": 6.02,
                         "content": "In Italian there are also many adverbs which do not end in -mente. * Note that with non ... ancora and non ... mai, non is always placed before the verb and ancora/mai after it. Here are some:",
@@ -277,12 +272,10 @@
                                 ]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Adverbs Qualifying Verbs, Adjectives, or Other Adverbs",
-                "paragraphs": [
+                    },
+                    {
+                        "content": "* Note that with non . . . ancora and non . . . mai, non is always placed before the verb and ancora/mai after it"
+                    },
                     {
                         "id": 6.03,
                         "content": "Adverbs can qualify verbs, adjectives or even other adverbs:",
@@ -302,12 +295,7 @@
                                 ]
                             ]
                         }
-                    }
-                ]
-            },
-            {
-                "title": "Adverbs and Adjectives of Quantity",
-                "paragraphs": [
+                    },
                     {
                         "id": 6.04,
                         "content": "Some words denoting quantity can be used both as adverbs and as adjectives: **molto/tanto** (a lot (of)/very/many), **troppo** (too much/too many) and **poco** (few/little/not much/not very). When used as adverbs they are invariable, but when used as adjectives they agree in gender and number with the noun they refer to:",
@@ -504,97 +492,6 @@
                             ]
                         }
                     },
-
-                    {
-
-                        "content": "Additional vocabulary:",
-                        "table": {
-                            "rows": [
-                                [
-                                    " dolcemente",
-                                    " sweetly"
-                                ],
-                                [
-                                    " tranquillamente",
-                                    " calmly"
-                                ],
-                                [
-                                    " allegramente",
-                                    " cheerfully"
-                                ],
-                                [
-                                    " irregolarmente",
-                                    " irregularly"
-                                ],
-                                [
-                                    " probabilmente",
-                                    " probably"
-                                ],
-                                [
-                                    " chiaramente",
-                                    " clearly"
-                                ],
-                                [
-                                    " facilmente",
-                                    " easily"
-                                ],
-                                [
-                                    " velocemente",
-                                    " quickly"
-                                ],
-                                [
-                                    " attentamente",
-                                    " carefully"
-                                ],
-                                [
-                                    " leggermente",
-                                    " lightly"
-                                ],
-                                [
-                                    " senza esitazione",
-                                    " unhesitatingly"
-                                ],
-                                [
-                                    " con prudenza",
-                                    " cautiously"
-                                ],
-                                [
-                                    " in maniera brusca",
-                                    " bluntly"
-                                ],
-                                [
-                                    " con coraggio",
-                                    " courageously"
-                                ],
-                                [
-                                    " soldi",
-                                    " money"
-                                ],
-                                [
-                                    " formaggio",
-                                    " cheese"
-                                ],
-                                [
-                                    " capire",
-                                    " to understand"
-                                ],
-                                [
-                                    " agire",
-                                    " to act"
-                                ],
-                                [
-                                    " esprimere",
-                                    " to express"
-                                ],
-                                [
-                                    " pigro",
-                                    " lazy"
-                                ]
-                            ]
-                        }
-                    },
-
-
                     {
                         "content": "Another adverbial expression that is sometimes used is **in modo/in maniera** (i.e. ‘in a way’) followed by an adjective; the adjective is masculine when used with **modo** and feminine when used with **maniera**:",
                         "table": {
@@ -628,13 +525,9 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Adjectives to Adverbs",
+            "title": "Exercise 1",
             "instruction": "Change the adjectives into adverbs.",
-            "examples": [
-                "lenta: lentamente",
-                "rapida: rapidamente",
-                "gentile: gentilmente"
-            ],
+            "examples": ["lento: lentamente"],
             "items": [
                 {
                     "question": "dolce",
@@ -699,11 +592,11 @@
             ]
         },
         {
-            "title": "Exercise 2: Molto/Tanto, Troppo, Poco",
+            "title": "Exercise 2",
             "instruction": "Supply the correct form of molto/tanto, troppo, or poco (adverbs or adjectives).",
             "examples": [
-                "Claudia mangia (molto) dolci: molto",
-                "Monica ha (poco) amici: pochi"
+                "Anna è (molto) alta: molto",
+                "Ho (molto) sete: molta"
             ],
             "items": [
                 {
@@ -789,11 +682,11 @@
             ]
         },
         {
-            "title": "Exercise 3: Replace with Italian Expressions",
+            "title": "Exercise 3",
             "instruction": "Replace the words in English with the appropriate expression from the list: a volte, di sicuro, con pazienza, senza esitazione, in modo nervoso, in tempo, con semplicità, di solito, con prudenza, a poco a poco, in maniera brusca, con coraggio.",
             "examples": [
-                "Dobbiamo agire (cautiously): con prudenza",
-                "Andrea spiega tutto (patiently): con pazienza"
+                "(sometimes) non voglio giocare a pallone: a volte",
+                "Laura veste (simply): con semplicità"
             ],
             "items": [
                 {
@@ -839,12 +732,9 @@
             ]
         },
         {
-            "title": "Exercise 4: Translate into Italian",
+            "title": "Exercise 4",
             "instruction": "Translate the following sentences into Italian.",
-            "examples": [
-                "Sometimes I eat in the canteen: A volte mangio in mensa.",
-                "The swimming pool is quite big: La piscina è abbastanza grande."
-            ],
+            "examples": [],
             "items": [
                 {
                     "question": "Sometimes I eat in the canteen.",

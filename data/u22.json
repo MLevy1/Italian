@@ -1,10 +1,10 @@
 {
     "unitNumber": 22,
     "text": {
-        "title": "Pronoun Si",
+        "title": "The Pronoun Si",
         "sections": [
             {
-                "title": "Introduction to the Pronoun Si",
+                "title": "",
                 "paragraphs": [
                     {
                         "content": "The pronoun **si** is used as an **impersonal subject**, either in sentences without a specified subject or in sentences with a **passive meaning**. In both cases, it is always placed **before the verb**."
@@ -15,10 +15,9 @@
                 "title": "Si in Sentences Where the Subject is Not Specified",
                 "paragraphs": [
                     {
-                        "id": 1,
+                        "id": 22.01,
                         "content": "**Si** is used as an **impersonal subject** in sentences where the subject is not specified. It corresponds to the English ‘one’ or ‘you’ (as in ‘One never knows/You never know what’s just round the corner’), or ‘they’, meaning a number of unspecified people (as in ‘They eat kangaroo in Australia’). When **si** is used in this way, the verb is always in the **third person singular**:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["**Si esce** da questa porta.", "You go out by this door."],
                                 ["‘Sono stato al mare.’ ‘**Si vede**: sei abbronzato!’", "‘I’ve been at the seaside.’ ‘It shows [lit. one sees]: you’ve got a tan!’"],
@@ -33,14 +32,15 @@
                         "content": "As the examples suggest, **si** is often used for **rules** or **general advice**."
                     },
                     {
-                        "id": 2,
+                        "id": 22.02,
                         "content": "With verbs like **essere**, **diventare**, **sembrare**, etc., followed by a **noun** or an **adjective**, **si** requires the noun to be **plural** (even though the verb is always singular), and the adjective to be **masculine plural**:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Si è** più **felici** con gli **amici**.", "One is happier with friends."],
-                                ["**Si diventa vecchi** troppo presto.", "One becomes old too quickly."],
-                                ["A volte **si sembra stanchi** senza motivo.", "Sometimes one seems tired for no reason."]
+                                ["Quando si è studenti si è poveri.", "When one is a student, one is poor."], 
+                                ["Se si mangia troppo si diventa grassi.", "If you eat too much you get fat."],
+                                ["Quando si è malati si rimane a casa.", "When you are ill you stay at home."], 
+                                ["Quando si è giovani si è ottimisti.", "When one is young one is an optimist."], 
+                                ["Se si veste in nero si sembra magri.", "If you dress in black you look slim"]
                             ]
                         }
                     }
@@ -50,14 +50,29 @@
                 "title": "Si in Sentences with a Passive Meaning",
                 "paragraphs": [
                     {
-                        "id": 3,
-                        "content": "**Si** is also used in sentences with a **passive meaning**, where the verb is in the **third person singular** (or **plural** if the subject is plural):",
+                        "id": 22.03,
+                        "content": "Si is also used as an impersonal subject in sentences which have a passive meaning, like this one: ‘In Nuova Zelanda si parla inglese.’ The correspond￾ing sentence in English would have either a passive verb (‘English is spoken in New Zealand’) or an impersonal one (‘One speaks/They speak English in New Zealand’)."
+                    },
+                    {
+                        "content": "In this type of sentence, the verb can be in either the third person singular or the third person plural. The singular is used if the noun that accompanies the verb is singular:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["**Si vendono** giornali all’edicola.", "Newspapers are sold at the newsstand."],
-                                ["**Si parla** inglese in questo negozio.", "English is spoken in this shop."],
-                                ["**Si mangia** bene in quel ristorante.", "You eat well/Good food is eaten in that restaurant."]
+                                ["Il biglietto [sing.] si prende all’ingresso.", "The ticket is obtained/You get your ticket at the door."], 
+                                ["Il sale [sing.] si compra in tabaccheria.", "Salt is bought/You buy salt at the tobacconist’s."], 
+                                ["Al mercato si vende la frutta [sing.] migliore.", "The best fruit is sold at the market."], 
+                                ["Si deve lavare l’insalata [sing.] prima di mangiarla.", "Lettuce should be washed before you eat it/You should wash lettuce before eating it."], 
+                                ["In biblioteca si può leggere il giornale [sing.].", "In the library you can read the paper/ The paper can be read in the library."]
+                            ]
+                        }
+                    },{
+                        "content": "The plural is used when the noun that accompanies the verb is plural:",
+                        "table":{
+                            "rows":[
+                                ["Anche le cartoline [pl.] si comprano in tabaccheria.", "Postcards are also bought/You also buy postcards at the tobacconist’s."], 
+                                ["I lamponi [pl.] si mangiano in estate.", "Raspberries are eaten in summer."], 
+                                ["In vacanza si fanno molte fotografie [pl.].", "A lot of pictures are taken on holiday/ On holiday you take a lot of pictures."], 
+                                ["Si devono comprare i biglietti [pl.] in anticipo.", "Tickets should be purchased in advance."], 
+                                ["In quel Cine Club si possono vedere molti film [pl.].", "A lot of films can be seen/You can see a lot of films at that cine club."]
                             ]
                         }
                     }
@@ -67,10 +82,9 @@
                 "title": "Negative Form",
                 "paragraphs": [
                     {
-                        "id": 4,
+                        "id": 22.04,
                         "content": "The **negative** is formed by putting **non** before the pronoun **si**:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["**Non si fuma** in aereo.", "There’s no smoking [lit. one does not smoke] in planes."],
                                 ["**Non si devono aprire** le finestre.", "The windows mustn’t be opened/One mustn’t open the windows."]
@@ -83,23 +97,21 @@
                 "title": "Si Used with the Auxiliary Essere",
                 "paragraphs": [
                     {
-                        "id": 5,
+                        "id": 22.05,
                         "content": "When **si** occurs with a verb in the **present perfect** (or any **compound tense**), the **auxiliary** is **essere**; the **past participle** must therefore agree with the **subject** of the passive verb:",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
                                 ["Su questo argomento **si sono scritti** molti **libri**.", "Many books have been written on this subject."],
                                 ["In Piemonte **si è sempre prodotto** del buon **vino**.", "In Piedmont good wine has always been produced/they have always produced good wine."],
-                                ["In questa scuola **si sono sempre cominciate** le **lezioni** alle 8.", "In this school lessons have always (been) started at eight o’clock."]
+                                ["In questa scuola **si sono sempre cominciate** le **lezioni** alle 8.", "In this school lessons have always (been) started at eight o’clock."],
+                                ["Quando si è finita l’università si cerca lavoro.", "When university has been finished/When you have finished university, you look for a job."]
                             ]
                         }
                     },
                     {
                         "content": "The same applies when **si** is not used in a **passive function**, but purely as an **impersonal subject** (‘one’, ‘you’, ‘they’, etc.):",
                         "table": {
-                            "headers": ["Italian", "English"],
                             "rows": [
-                                ["Quando **si è finita** l’università **si cerca** lavoro.", "When university has been finished/When you have finished university, you look for a job."],
                                 ["Quando **non si è riusciti** a risolvere un problema, **non si è soddisfatti**.", "When one hasn’t managed to solve a problem, one is dissatisfied."],
                                 ["Dopo che **si è stati malati**, **si è** sempre **deboli**.", "You’re always weak when you’ve been ill."]
                             ]
@@ -111,14 +123,14 @@
                 "title": "Si Used with Reflexive Verbs",
                 "paragraphs": [
                     {
-                        "id": 6,
+                        "id": 22.06,
                         "content": "When **si** is used with a **reflexive verb**, the **reflexive** or **reciprocal pronoun** is **ci**, not **si**; the resulting form is thus **ci si**:",
                         "table": {
                             "headers": ["Italian", "English"],
                             "rows": [
                                 ["A volte in vacanza **ci si annoia**.", "Sometimes you get bored on holiday."],
                                 ["Se in vacanza **ci si è annoiati**, **si è contenti** di tornare a scuola.", "If you’ve been bored in the holidays, you’re glad to go back to school."],
-                                ["In Italia **ci si alza** presto la mattina.", "In Italy you get up early in the morning."]
+                                ["Quando ci si alza presto la giornata sembra troppo lunga!", "When you get up early, the day seems too long!"]
                             ]
                         }
                     }
@@ -128,67 +140,67 @@
     },
     "exercises": [
         {
-            "title": "Exercise 1: Complete Sentences with Impersonal Si",
+            "title": "Exercise 1",
             "instruction": "Complete the sentences with the correct form of the verb in brackets using the **impersonal 'si' construction**.",
             "examples": [
                 "**Si** (**fare**) attenzione quando **si** (**attraversare**) la strada.: **Si fa** attenzione quando **si attraversa** la strada.",
                 "In Svizzera **si** (**parlare**) tre lingue.: In Svizzera **si parlano** tre lingue."
             ],
             "items": [
-                { "question": "**Si** (**fare**) attenzione quando **si** (**attraversare**) la strada.", "answer": "Si fa attenzione quando si attraversa la strada." },
-                { "question": "In Svizzera **si** (**parlare**) tre lingue.", "answer": "In Svizzera si parlano tre lingue." },
-                { "question": "Di domenica **non si** (**lavorare**).", "answer": "Di domenica non si lavora." },
-                { "question": "Negli uffici pubblici **non si** (**fumare**).", "answer": "Negli uffici pubblici non si fuma." },
-                { "question": "**Si** (**dovere**) aiutare gli anziani.", "answer": "Si deve aiutare gli anziani." },
-                { "question": "In quella discoteca **non si** (**entrare**) con le scarpe da ginnastica.", "answer": "In quella discoteca non si entra con le scarpe da ginnastica." },
-                { "question": "Certi segreti **non si** (**potere**) mantenere.", "answer": "Certi segreti non si possono mantenere." },
-                { "question": "Per entrare nel centro della città **si** (**pagare**) un pedaggio.", "answer": "Per entrare nel centro della città si paga un pedaggio." },
-                { "question": "In quel bosco **si** (**trovare**) molti funghi.", "answer": "In quel bosco si trovano molti funghi." },
-                { "question": "Al mercato **si** (**comprare**) la verdura più fresca.", "answer": "Al mercato si compra la verdura più fresca." }
+                { "question": "**Si** (**fare**) attenzione quando **si** (**attraversare**) la strada.", "answer": "fa, attraversa" },
+                { "question": "In Svizzera **si** (**parlare**) tre lingue.", "answer": "parlano" },
+                { "question": "Di domenica **non si** (**lavorare**).", "answer": "lavora" },
+                { "question": "Negli uffici pubblici **non si** (**fumare**).", "answer": "fuma" },
+                { "question": "**Si** (**dovere**) aiutare gli anziani.", "answer": "devono" },
+                { "question": "In quella discoteca **non si** (**entrare**) con le scarpe da ginnastica.", "answer": "entra" },
+                { "question": "Certi segreti **non si** (**potere**) mantenere.", "answer": "possono" },
+                { "question": "Per entrare nel centro della città **si** (**pagare**) un pedaggio.", "answer": "paga" },
+                { "question": "In quel bosco **si** (**trovare**) molti funghi.", "answer": "trovano" },
+                { "question": "Al mercato **si** (**comprare**) la verdura più fresca.", "answer": "compra" }
             ]
         },
         {
-            "title": "Exercise 2: Rewrite with Impersonal Si and Adjectives/Nouns",
+            "title": "Exercise 2",
             "instruction": "Rewrite the sentences with the correct form of the verbs and the adjectives or nouns in brackets.",
             "examples": [
                 "Quando **si** (**avere**) freddo, (**lavorare**) male.: Quando **si ha** freddo, **si lavora** male.",
                 "Quando **si** (**avere**) la febbre, **si** (**restare**) a casa.: Quando **si ha** la febbre, **si resta** a casa."
             ],
             "items": [
-                { "question": "Quando **si** (**avere**) freddo, (**lavorare**) male.", "answer": "Quando si ha freddo, si lavora male." },
-                { "question": "Quando **si** (**avere**) la febbre, **si** (**restare**) a casa.", "answer": "Quando si ha la febbre, si resta a casa." },
-                { "question": "Quando **si** (**cominciare**) a studiare una lingua, **si** (**fare**) degli sbagli.", "answer": "Quando si comincia a studiare una lingua, si fanno degli sbagli." },
-                { "question": "Quando **si** (**guidare**) **non si** (**usare**) il cellulare.", "answer": "Quando si guida non si usa il cellulare." },
-                { "question": "Quando **si** (**avere**) fame **si** (**mangiare**).", "answer": "Quando si ha fame si mangia." },
-                { "question": "Quando **si** (**essere stanco**) **si** (**fare**) molti sbagli.", "answer": "Quando si è stanchi si fanno molti sbagli." },
-                { "question": "Quando **si** (**essere avvocato**) **si** (**conoscere**) la legge.", "answer": "Quando si è avvocati si conosce la legge." },
-                { "question": "Quando **si** (**essere malato**) **non si** (**lavorare**).", "answer": "Quando si è malati non si lavora." },
-                { "question": "Quando **si** (**essere fortunato**) **si** (**vincere**).", "answer": "Quando si è fortunati si vince." },
-                { "question": "Quando **si** (**mangiare**) troppi dolci, **si** (**ingrassare**).", "answer": "Quando si mangiano troppi dolci, si ingrassa." }
+                { "question": "Quando si (avere) freddo, (lavorare) male.", "answer": "Quando si ha freddo, si lavora male." },
+                { "question": "Quando si (avere) la febbre, si (restare) a casa.", "answer": "Quando si ha la febbre, si resta a casa." },
+                { "question": "Quando si (cominciare) a studiare una lingua, si (fare) degli sbagli.", "answer": "Quando si comincia a studiare una lingua, si fanno degli sbagli." },
+                { "question": "Quando si (guidare) non si (usare) il cellulare.", "answer": "Quando si guida non si usa il cellulare." },
+                { "question": "Quando si (avere) fame si (mangiare).", "answer": "Quando si ha fame si mangia." },
+                { "question": "Quando si (essere stanco) si (fare) molti sbagli.", "answer": "Quando si è stanchi si fanno molti sbagli." },
+                { "question": "Quando si (essere avvocato) si (conoscere) la legge.", "answer": "Quando si è avvocati si conosce la legge." },
+                { "question": "Quando non si (avere) soldi, non si (fare) spese inutili.", "answer": "Quando non si hanno soldi, non si fanno spese inutili." },
+                { "question": "Quando si (avere) tanti amici si (essere fortunato).", "answer": " Quando si hanno tanti amici si è fortunati." },
+                { "question": "Quando si (mangiare) troppi dolci, si (ingrassare).", "answer": "Quando si mangiano troppi dolci, si ingrassa." }
             ]
         },
         {
-            "title": "Exercise 3: Change to Impersonal Si",
+            "title": "Exercise 3",
             "instruction": "Change the sentences into **impersonal form** by using the pronoun **si**.",
             "examples": [
                 "**Non devi** mettere i piedi sulla scrivania.: **Non si deve** mettere i piedi sulla scrivania.",
                 "La mattina **devi** fare colazione.: La mattina **si deve** fare colazione."
             ],
             "items": [
-                { "question": "**Non devi** mettere i piedi sulla scrivania.", "answer": "Non si deve mettere i piedi sulla scrivania." },
-                { "question": "La mattina **devi** fare colazione.", "answer": "La mattina si deve fare colazione." },
-                { "question": "Dopo pranzo **devi** lavare i piatti.", "answer": "Dopo pranzo si devono lavare i piatti." },
-                { "question": "**Non devi** parlare con gli sconosciuti.", "answer": "Non si deve parlare con gli sconosciuti." },
-                { "question": "**Non devi** andare in bicicletta sul marciapiedi.", "answer": "Non si deve andare in bicicletta sul marciapiedi." },
-                { "question": "**Non devi** mangiare durante le lezioni.", "answer": "Non si deve mangiare durante le lezioni." },
-                { "question": "**Non devi** guardarti tanto allo specchio.", "answer": "Non ci si deve guardare tanto allo specchio." },
-                { "question": "In biblioteca **devi** parlare a bassa voce.", "answer": "In biblioteca si deve parlare a bassa voce." },
-                { "question": "**Non devi** guardare la televisione tutto il giorno.", "answer": "Non si deve guardare la televisione tutto il giorno." },
-                { "question": "Il giorno prima degli esami **devi** studiare.", "answer": "Il giorno prima degli esami si deve studiare." }
+                { "question": "Non devi mettere i piedi sulla scrivania.", "answer": "Non si mettono i piedi sulla scrivania." },
+                { "question": "La mattina devi fare colazione.", "answer": "La mattina si deve fare colazione." },
+                { "question": "Dopo pranzo devi lavare i piatti.", "answer": "Dopo pranzo si devono lavare i piatti." },
+                { "question": "Non devi parlare con gli sconosciuti.", "answer": "Non si parla con gli sconosciuti." },
+                { "question": "Non devi andare in bicicletta sul marciapiedi.", "answer": "Non si va in bicicletta sul marciapiedi." },
+                { "question": "Non devi mangiare durante le lezioni.", "answer": "Non si mangia durante le lezioni." },
+                { "question": "Non devi guardarti tanto allo specchio.", "answer": "Non ci si guarda tanto allo specchio." },
+                { "question": "In biblioteca devi parlare a bassa voce.", "answer": "In biblioteca si parla a bassa voce." },
+                { "question": "Non devi guardare la televisione tutto il giorno.", "answer": "Non si guarda la televisione tutto il giorno." },
+                { "question": "Il giorno prima degli esami devi studiare.", "answer": "Il giorno prima degli esami si studia." }
             ]
         },
         {
-            "title": "Exercise 4: Change to Impersonal Si (Past Tense)",
+            "title": "Exercise 4",
             "instruction": "Change the sentences into **impersonal form** by using the pronoun **si** in the **past tense**.",
             "examples": [
                 "Dopo che **hai fatto** il bagno in mare, **fai** la doccia.: Dopo che **ci si è fatto** il bagno in mare, **si è fatta** la doccia.",

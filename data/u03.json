@@ -14,7 +14,6 @@
             "id": "3.02",
             "content": "Adjectives ending in **-o** have four different forms:",
             "table": {
-              "headers": null,
               "rows": [
                 ["**-o** for the masculine singular", "italiano"],
                 ["**-a** for feminine singular", "italiana"],
@@ -26,7 +25,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**l’arbitro** [ms] **italiano**", "the Italian referee"],
                 ["**gli arbitri** [mp] **italiani**", "the Italian referees"],
@@ -43,7 +41,6 @@
             "id": "3.03",
             "content": "Adjectives ending in **-e** have only two forms:",
             "table": {
-              "headers": null,
               "rows": [
                 ["**-e** masculine singular", "francese"],
                 ["**-i** masculine plural", "francesi"],
@@ -55,7 +52,6 @@
           {
             "content": "With adjectives ending in **-e** there is thus no difference between the **masculine** and **feminine** form:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**l’arbitro** [ms] **francese**", "the French referee"],
                 ["**gli arbitri** [mp] **francesi**", "the French referees"],
@@ -72,7 +68,6 @@
             "id": "3.04",
             "content": "Some adjectives end in **-a**, like the following:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**ottimista**", "optimistic"],
                 ["**pacifista**", "pacifist"],
@@ -85,7 +80,6 @@
           {
             "content": "These adjectives have three forms: **-a** for the **masculine** and **feminine singular** (**ottimista**), **-i** for the **masculine plural** (**ottimisti**) and **-e** for the **feminine plural** (**ottimiste**). There is thus only one form for the **masculine** and **feminine singular**:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**il corteo** [ms] **pacifista**", "the pacifist rally"],
                 ["**l’idea** [fs] **pacifista**", "the pacifist idea"],
@@ -105,7 +99,6 @@
             "id": "3.05",
             "content": "There are also some invariable adjectives, e.g. **blu** (dark blue), **rosa** (pink), **dispari** (odd), **pari** (even), which do not change:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**il vestito rosa**", "the pink garment/dress/suit"],
                 ["**la penna blu**", "the blue pen"],
@@ -136,7 +129,6 @@
             "id": "3.07",
             "content": "As can be seen in the examples, the adjective normally comes after the noun it refers to and (unless it is **invariable**) it must agree in **gender** and **number** with the noun. It must also agree in **gender** and **number** with the noun even where it is separated from it by another word, such as a verb:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**Lorenzo** è **italiano**.", "Lorenzo is Italian."],
                 ["**Lorenzo** e **Vittorio** sono **italiani**.", "Lorenzo and Vittorio are Italian."],
@@ -362,7 +354,6 @@
           {
             "content": "",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**La tua casa** è grande, ma **la loro** è piccola.", "Your house is big, but theirs is small."],
                 ["**I tuoi CD** sono qui, **i nostri** sono lì.", "Your CDs are here, ours are there."]
@@ -373,7 +364,6 @@
             "id": "3.17",
             "content": "As we shall see (Unit 4, paragraph 5), in Italian there is a form used to address people formally. In the formal way of addressing people, the **possessive adjectives** and **pronouns** used are **Suo** for the **singular**, and **Vostro** (or **Loro** if a higher degree of formality is required) for the **plural**:",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**La Sua auto** è pronta, **Signora Ferrero**.", "Your car’s ready, Mrs Ferrero."],
                 ["Ecco **i Suoi libri**, **Signore**.", "Here are your books(, Sir)."],
@@ -385,7 +375,6 @@
           {
             "content": "Pronouns",
             "table": {
-              "headers": ["Italian", "English"],
               "rows": [
                 ["**La loro auto** è in strada, ma **la Sua** è in garage, **Signora**.", "Their car’s in the street, but yours is in the garage(, Madam)."],
                 ["**Professore**, questi libri sono **i Suoi**.", "These books are yours(, Professor/Sir)."]
@@ -399,7 +388,17 @@
         "paragraphs": [
           {
             "id": "3.18",
-            "content": "**Questo** and **quello** are also used as **demonstrative pronouns** (**this** (one), **that** (one), **these** (ones), **those** (ones)). But note that when **quello** is used as a **demonstrative pronoun**, its endings are not modelled on the **definite article** (cf. paragraph 3.10), but are the same as those of **questo** (i.e. **quello** [ms], **quella** [fs], **quelli** [mp], **quelle** [fp]):"
+            "content": "**Questo** and **quello** are also used as **demonstrative pronouns** (**this** (one), **that** (one), **these** (ones), **those** (ones)). But note that when **quello** is used as a **demonstrative pronoun**, its endings are not modelled on the **definite article** (cf. paragraph 3.10), but are the same as those of **questo** (i.e. **quello** [ms], **quella** [fs], **quelli** [mp], **quelle** [fp]):",
+            "table":{
+                "rows":[
+                    ["Questa è Anna.", "This is Anna."], 
+                    ["Questa è la tua stanza e quella è la mia.", "This is my room and that one’s yours."], 
+                    ["Questi sono gli esercizi.", "These are the exercises."], 
+                    ["Quello è il nuovo computer.", "That is the new computer."], 
+                    ["Quelle sono le Alpi.", "Those are the Alps."], 
+                    ["Questi biscotti sono buoni, ma preferisco quelli.", "These biscuits are nice, but I prefer those."]
+                ]
+            }
           }
         ]
       }
