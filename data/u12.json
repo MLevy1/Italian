@@ -375,7 +375,7 @@
                 {"question": "Chi ti (scrivere) quella lettera?", "answer": "ha scritto"},
                 {"question": "(noi giocare) a pallone tutto il pomeriggio.", "answer": "abbiamo giocato"},
                 {"question": "Federica (cominciare) il nuovo lavoro.", "answer": "ha cominciato"},
-                {"question": "Lorenzo non (volere) uscire.", "answer": "non ha voluto"},
+                {"question": "Lorenzo non (volere) uscire.", "answer": "ha voluto"},
                 {"question": "Dove (tu mettere) i libri?", "answer": "hai messo"},
                 {"question": "(tu potere) parlare col professore?", "answer": "hai potuto"},
                 {"question": "(voi avere) tempo per fare tutto?", "answer": "avete avuto"},
