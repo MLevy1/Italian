@@ -137,7 +137,7 @@
                 { "question": "**La zia è partita** e **— ho accompagnat—** alla stazione.", "answer": "l'ho accompagnata" },
                 { "question": "**Ho visto** delle belle scarpe e **— ho comprat—**.", "answer": "le ho comprate" },
                 { "question": "Lara **ha aperto** le finestre, ma Luca **— ha chius—**.", "answer": "le ha chiuse" },
-                { "question": "Mi **hanno regalato** dei biscotti e **— ho mangiat—** tutti.", "answer": "ho mangiati" },
+                { "question": "Mi **hanno regalato** dei biscotti e **— ho mangiat—** tutti.", "answer": "li ho mangiati" },
                 { "question": "Luisa, **non hai sentito** che Claudio **— ha chiamat—**?", "answer": "ti ha chiamata" },
                 { "question": "Gaetano **ha preso** il giornale e **— ha lett—**.", "answer": "l'ha letto" },
                 { "question": "‘Vi **hanno invitati** alla festa?’ ‘No, **non — hanno invitat—**.’", "answer": "ci hanno invitati" },
