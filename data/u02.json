@@ -10,7 +10,7 @@
                         "id": 2.01,
                         "content": "In Italian the definite article (English ‘the’) has different forms, depending on the gender (masculine/feminine) and number (singular/plural) of the following word, and on the letter (or sound) with which the following word begins. Here are the forms:",
                         "table": {
-                            "headers":["Singular", "Plural"],
+                            "headers":["", "Singular", "Plural"],
                             "rows":[
                                 ["Feminine", "la", "le"],
                                 ["", "l''", "le"],
