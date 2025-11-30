@@ -1,0 +1,55 @@
+{
+    "unitNumber": 25,
+    "text": {
+        "title": "How to Read Effectively",
+        "sections": [
+            {
+                "title": "How to Read Effectively",
+                "paragraphs": [
+                    {
+                        "content": " Reading is a complex skill. In our first languages, we employ a variety of micro-skills to help us read. For example, we might skim a particular passage in order to understand the general idea, or gist. Or we might scan through multiple pages of a train timetable looking for a particular time or place."
+					},
+					{
+						"content": "While these micro-skills are second nature when reading in our first languages, when it comes to reading in a foreign language, research suggests that we often abandon most of these reading skills. In a foreign language we usually start at the beginning of a text and try to understand every single word. Inevitably, we come across unknown or difficult words and quickly get frustrated with our lack of understanding."
+					},
+					{
+						"content": "One of the main benefits of reading in a foreign language is that you gain exposure to large amounts of words and expressions used naturally. This kind of reading for pleasure in order to learn a language is generally known as ‘extensive reading’. It is very different from reading a textbook in which dialogues or texts are meant to be read in detail with the aim of understanding every word. That kind of reading to reach specific learning aims or do tasks is referred to as ‘intensive reading’. To put it another way, the intensive reading in textbooks usually helps you with grammar rules and specific vocabulary, whereas reading stories extensively helps show you natural language in use."
+					},
+					{
+						"content": "While you may have started your language learning journey using only textbooks, Short Stories in Italian for Beginners will now provide you with opportunities to learn more about natural Italian language in use. Here are a few suggestions to keep in mind when reading the stories in this book in order to learn the most from them:",
+						"list": [
+							"Enjoyment and a sense of achievement when reading is vitally important. Enjoying what you read keeps you coming back for more. The best way to enjoy reading stories and feel a sense of achievement is by reading each story from beginning to end. Consequently, reaching the end of a story is the most important thing. It is actually more important than understanding every word in it!",
+							"The more you read, the more you learn. By reading longer texts for enjoyment, you will quickly build up an innate understanding of how. Italian works. But remember: In order to take full advantage of the benefits of extensive reading, you have to actually read a large enough volume in the first place! Reading a couple of pages here and there may teach you a few new words, but won’t be enough to make a real impact on the overall level of your Italian.",
+							"You must accept that you won’t understand everything you read in a story. This is probably the most important point of all! Always remember that it is completely normal that you do not understand all the words or sentences. It doesn’t mean that your language level is flawed or that you are not doing well. It means you’re engaged in the process of learning. So, what should you do when you don’t understand a word? Here are a few steps:"
+						]
+					},
+					{
+						"content": "1. Look at the word and see if it is familiar in any way. Remember to look for vocabulary elements from your first language that may be familiar. Take a guess – you might surprise yourself!"
+					},
+					{
+						"content": "2. Re-read the sentence that contains the unknown word several times. Use the context of that sentence, and the rest of the story, to try to guess what the unknown word might mean."
+					},
+					{
+						"content": "3. Think about whether or not the word might be a different form of a word you know. For example, you might encounter a verb that you know, but it has been conjugated in a different or unfamiliar way:",
+						"table":{
+							"rows": [
+								["parlare – to speak", "(loro) hanno parlato – (they) have spoken", "(lui) ha parlato – (he) has spoken"]
+							]
+						
+						},
+						"content": "You may not be familiar with the particular form used, but ask yourself: Can I still understand the gist of what’ s going on? Usually, if you have managed to recognize the main verb, that is enough. Instead of getting frustrated, simply notice how the verb is being used, and carry on reading. Recognizing different forms of words will come intuitively over time."
+					},
+					{
+						"content": "4. Make a note of the unknown word in a notebook and check the meaning later. You will encounter more and more new words as you read through the stories in order. You can review these words over time to make them part of your active vocabulary. If you simply must know the meaning of a bolded word, you can look it up in the glossary list at the back of the book or use a dictionary. However, this should be your last resort."
+					},
+					{
+					
+						"content": "These suggestions are designed to train you to handle reading in Italian independently and without help. The more you can develop this skill, the better you’ll be able to read. Remember: learning to be comfortable with the ambiguity you may encounter while reading a foreign language is the most powerful skill that will help you become an independent and resilient learner of Italian!"
+					
+					}
+					
+                ]
+            }
+        ]
+    }
+}
