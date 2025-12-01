@@ -1,0 +1,38 @@
+{
+    "unitNumber": 42,
+    "text": {
+        "title": "",
+        "sections": [
+            {
+                "title": "",
+                "paragraphs": [
+                    {
+                        "content": ""
+                    },
+                    {
+                        "content": "Vocabolario",
+                        "table":{
+                            "rows": [
+                                ["", ""]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "title": "Domande a risposta multipla",
+            "instruction": "Seleziona una sola risposta per ogni domanda.",
+            "examples": [],
+            "items": [
+                { "question": "", "answer": "a" },
+                { "question": "", "answer": "a" },
+                { "question": "", "answer": "a" },
+                { "question": "", "answer": "a" },
+                { "question": "", "answer": "a" }
+            ]
+        }
+    ]
+}
