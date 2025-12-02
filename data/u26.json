@@ -142,16 +142,16 @@
                                 ["zaino", "rucksack"],
                                 ["prepararsi", "to get ready"],
                                 ["castani", "brown"],
-                                ["onico", "athletic"],
+                                ["tonico", "athletic"],
                                 ["elettricista", "electrician"],
-                                ["mprenditrice", "entrepreneur"],
+                                ["imprenditrice", "entrepreneur"],
                                 ["fantascienza", "science fiction"],
                                 ["mazzetta di banconote", "a wad of cash"],
                                 ["risparmiare", "to save (money)"],
                                 ["Saranno molto utili!", "(The money) will be very useful!"],
                                 ["colazione", "breakfast"],
                                 ["ansiosa", "anxious"],
-                                ["impatica", "nice, friendly"],
+                                ["simpatica", "nice, friendly"],
                                 ["coda", "queue"],
                                 ["affetto", "tenderness, affection"],
                                 ["controlli", "security checks"],
@@ -170,10 +170,10 @@
             "examples": [],
             "items": [
                 { "question": "I fratelli Daniele e Giulia vivono ____. a. nella stessa casa a Londra b. in case diverse a Londra c. nella stessa casa a Roma d. in case diverse a Roma", "answer": "a" },
-                { "question": "I loro genitori ____. a. sanno l’italiano però non lo parlano con i loro figli b. parlano l’italiano e lo praticano con i loro figli c. non parlano italiano d. non vivono a Londra", "answer": "a" },
-                { "question": "Il padre, Arturo, dà loro un regalo per il viaggio. Che cos’è? a. una macchina b. un libro di fantasia c. un libro di fantascienza d. soldi", "answer": "a" },
-                { "question": "Nel tragitto verso l’aeroporto, Giulia è ____. a. triste b. contenta c. ansiosa d. spaventata ", "answer": "a" },
-                { "question": "Nella coda in aeroporto ____. a. c’è molta gente giovane b. ci sono molti uomini d’affari c. c’è davvero poca gente d. ci sono molti bambini", "answer": "a" }
+                { "question": "I loro genitori ____. a. sanno l’italiano però non lo parlano con i loro figli b. parlano l’italiano e lo praticano con i loro figli c. non parlano italiano d. non vivono a Londra", "answer": "b" },
+                { "question": "Il padre, Arturo, dà loro un regalo per il viaggio. Che cos’è? a. una macchina b. un libro di fantasia c. un libro di fantascienza d. soldi", "answer": "d" },
+                { "question": "Nel tragitto verso l’aeroporto, Giulia è ____. a. triste b. contenta c. ansiosa d. spaventata ", "answer": "c" },
+                { "question": "Nella coda in aeroporto ____. a. c’è molta gente giovane b. ci sono molti uomini d’affari c. c’è davvero poca gente d. ci sono molti bambini", "answer": "b" }
             ]
         }
     ]

@@ -143,9 +143,9 @@
             "items": [
                 { "question": "Il cavaliere Lars ____. a. conosce il cammino b. non conosce il cammino c. chiede la strada a un passante d. ha una mappa", "answer": "a" },
                 { "question": "Il gruppo in viaggio è formato da ____. a. tre guardie e Lars b. due guardie e Lars c. una guardia e Lars d. Lars e il suo cane", "answer": "a" },
-                { "question": "Nel Bosco Silenzioso ____. a. non accadde mai nulla b. c’è stata una battaglia tra i due fratelli c. c’è stata una guerra sconosciuta d. sono state combattute molte battaglie", "answer": "a" },
-                { "question": "La fonte del Bosco Silenzioso ____. a. esiste ancora b. non è mai esistita c. adesso è un lago d. adesso è un pozzo", "answer": "a" },
-                { "question": "All’uscita del Bosco Silenzioso ____. a. c’è un altro bosco b. c’è il mare c. ritornano al regno del re Andur d. vedono il regno del fratello del re Andur", "answer": "a" }
+                { "question": "Nel Bosco Silenzioso ____. a. non accadde mai nulla b. c’è stata una battaglia tra i due fratelli c. c’è stata una guerra sconosciuta d. sono state combattute molte battaglie", "answer": "b" },
+                { "question": "La fonte del Bosco Silenzioso ____. a. esiste ancora b. non è mai esistita c. adesso è un lago d. adesso è un pozzo", "answer": "c" },
+                { "question": "All’uscita del Bosco Silenzioso ____. a. c’è un altro bosco b. c’è il mare c. ritornano al regno del re Andur d. vedono il regno del fratello del re Andur", "answer": "d" }
             ]
         }
     ]

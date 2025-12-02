@@ -39,11 +39,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Thoric è ____. a. un esploratore b. un cacciatore c. il capo d. un contadino", "answer": "a" },
+                { "question": "Thoric è ____. a. un esploratore b. un cacciatore c. il capo d. un contadino", "answer": "b" },
                 { "question": "Niels è ____. a. un esploratore b. un cacciatore c. il capo d. un contadino", "answer": "a" },
-                { "question": "Eskol è ____. a. il capo esploratore b. un sacerdote c. un contadino d. il capo del villaggio", "answer": "a" },
-                { "question": "Il piccolo villaggio di Asglor ____. a. non ha bisogno di cibo b. ha bisogno di più cibo d’estate c. ha bisogno di più cibo d’inverno d. ha bisogno di più cacciatori", "answer": "a" },
-                { "question": "Niels pensa che la riunione è su ____. a. la carenza di cibo b. i progetti di Niels c. i progetti per la caccia di Thoric d. i progetti di capo Eskol", "answer": "a" }
+                { "question": "Eskol è ____. a. il capo esploratore b. un sacerdote c. un contadino d. il capo del villaggio", "answer": "d" },
+                { "question": "Il piccolo villaggio di Asglor ____. a. non ha bisogno di cibo b. ha bisogno di più cibo d’estate c. ha bisogno di più cibo d’inverno d. ha bisogno di più cacciatori", "answer": "c" },
+                { "question": "Niels pensa che la riunione è su ____. a. la carenza di cibo b. i progetti di Niels c. i progetti per la caccia di Thoric d. i progetti di capo Eskol", "answer": "d" }
             ]
         }
     ]

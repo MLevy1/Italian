@@ -231,11 +231,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Quando Daniele guarda l’orologio sono ____  a. le 10:15  b. le 10:00  c. le 11:00  d. le 12:15", "answer": "a" },
-                { "question": "Il corriere del camion lavora ____.  a. all’hotel  b. al ristorante La Pizza Pazza  c. solo come corriere  d. per un altro ristorante", "answer": "a" },
-                { "question": "Dentro il camion Daniele incontra ____.  a. un uomo giovane  b. una donna giovane  c. un altro corriere  d. un uomo anziano", "answer": "a" },
-                { "question": "La persona viaggia nel camion perché ____.  a. vuole lavorare al ristorante La Pizza Pazza  b. vuole lavorare come corriere  c. va a cercare suo padre  d. va a cercare suo figlio", "answer": "a" },
-                { "question": "Il figlio dell’uomo si chiama ____.  a. Daniele  b. Armando  c. Giulia  d. Mario", "answer": "a" }
+                { "question": "Quando Daniele guarda l’orologio sono ____  a. le 10:15  b. le 10:00  c. le 11:00  d. le 12:15", "answer": "b" },
+                { "question": "Il corriere del camion lavora ____.  a. all’hotel  b. al ristorante La Pizza Pazza  c. solo come corriere  d. per un altro ristorante", "answer": "c" },
+                { "question": "Dentro il camion Daniele incontra ____.  a. un uomo giovane  b. una donna giovane  c. un altro corriere  d. un uomo anziano", "answer": "d" },
+                { "question": "La persona viaggia nel camion perché ____.  a. vuole lavorare al ristorante La Pizza Pazza  b. vuole lavorare come corriere  c. va a cercare suo padre  d. va a cercare suo figlio", "answer": "d" },
+                { "question": "Il figlio dell’uomo si chiama ____.  a. Daniele  b. Armando  c. Giulia  d. Mario", "answer": "b" }
             ]
         }
     ]

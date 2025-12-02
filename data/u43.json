@@ -49,11 +49,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Alla spedizione prendono parte ____. a. 30 vichinghi b. 60 vichinghi c. 75 vichinghi d. 85 vichinghi", "answer": "a" },
-                { "question": "Nella spedizione ci sono ____. a. 2 barche b. 3 barche c. 4 barche d. 5 barche", "answer": "a" },
-                { "question": "A metà del viaggio le barche ____. a. vengono attaccate da altri vichinghi b. non riescono a rimanere insieme c. iniziano a imbarcare acqua d. incontrano una tempesta", "answer": "a" },
+                { "question": "Alla spedizione prendono parte ____. a. 30 vichinghi b. 60 vichinghi c. 75 vichinghi d. 85 vichinghi", "answer": "c" },
+                { "question": "Nella spedizione ci sono ____. a. 2 barche b. 3 barche c. 4 barche d. 5 barche", "answer": "b" },
+                { "question": "A metà del viaggio le barche ____. a. vengono attaccate da altri vichinghi b. non riescono a rimanere insieme c. iniziano a imbarcare acqua d. incontrano una tempesta", "answer": "d" },
                 { "question": "Chi è il primo a vedere gli uccelli? a. Thoric b. Niels c. Capo Eskol d. Il padre di Niels", "answer": "a" },
-                { "question": "Qual è il progetto dei vichinghi? a. esplorare la terra, andare a caccia, coltivare il cibo b. coltivare il cibo, andare a caccia, esplorare la terra c. andare a caccia, coltivare il cibo, esplorare la terra d. andare a caccia, esplorare la terra, coltivare il cibo", "answer": "a" }
+                { "question": "Qual è il progetto dei vichinghi? a. esplorare la terra, andare a caccia, coltivare il cibo b. coltivare il cibo, andare a caccia, esplorare la terra c. andare a caccia, coltivare il cibo, esplorare la terra d. andare a caccia, esplorare la terra, coltivare il cibo", "answer": "d" }
             ]
         }
     ]

@@ -132,11 +132,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "La prima volta che Silvia entra nella casa trova ____. a. Giorgio b. suo padre  c. molte persone riunite d. la creatura", "answer": "a" },
+                { "question": "La prima volta che Silvia entra nella casa trova ____. a. Giorgio b. suo padre  c. molte persone riunite d. la creatura", "answer": "c" },
                 { "question": "Le persone nella casa decidono ____. a. di uscire a cercare Giorgio b. di chiamare Giorgio per telefono c. di cercarlo nel bosco d. di tornare al villaggio", "answer": "a" },
-                { "question": "Quando Silvia si ferma a pensare vicino al lago ____. a. vede qualcosa di strano nell’acqua b. incontra suo padre c. vede la creatura d. la lasciano sola", "answer": "a" },
+                { "question": "Quando Silvia si ferma a pensare vicino al lago ____. a. vede qualcosa di strano nell’acqua b. incontra suo padre c. vede la creatura d. la lasciano sola", "answer": "d" },
                 { "question": "Al ritorno nella casa ____. a. sente un rumore in cucina b. la chiamano per telefono c. Claudia e Veronica entrano nella casa d. si addormenta", "answer": "a" },
-                { "question": "La creatura era ____. a. sua madre b. Giorgio c. suo padre d. un orso", "answer": "a" }
+                { "question": "La creatura era ____. a. sua madre b. Giorgio c. suo padre d. un orso", "answer": "c" }
             ]
         }
     ]

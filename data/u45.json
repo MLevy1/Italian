@@ -47,10 +47,10 @@
             "examples": [],
             "items": [
                 { "question": "Laura lavora come ____. a. assistente amministrativa b. direttrice c. pilota d. venditrice", "answer": "a" },
-                { "question": "Lei ____. a. è una donna giovane b. è una donna di altezza media c. è una donna anziana d. non è descritta nella storia ", "answer": "a" },
-                { "question": "I suoi due migliori amici si chiamano ____. a. Nicola e Vanessa b. Alfredo e Vanessa c. Nicola ed Elvira d. Nicola e Alfredo ", "answer": "a" },
-                { "question": "I suoi amici pensano ____. a. che dovrebbe cercare un altro lavoro b. che lavora poco c. che lavora molto d. che potrebbe essere un’impiegata migliore", "answer": "a" },
-                { "question": "Laura decide di ____. a. andare a Firenze per cercare aiuto b. chiamare i suoi amici c. usare la sua nuova abilità d. ascoltare persone che non conosce", "answer": "a" }
+                { "question": "Lei ____. a. è una donna giovane b. è una donna di altezza media c. è una donna anziana d. non è descritta nella storia ", "answer": "b" },
+                { "question": "I suoi due migliori amici si chiamano ____. a. Nicola e Vanessa b. Alfredo e Vanessa c. Nicola ed Elvira d. Nicola e Alfredo ", "answer": "c" },
+                { "question": "I suoi amici pensano ____. a. che dovrebbe cercare un altro lavoro b. che lavora poco c. che lavora molto d. che potrebbe essere un’impiegata migliore", "answer": "c" },
+                { "question": "Laura decide di ____. a. andare a Firenze per cercare aiuto b. chiamare i suoi amici c. usare la sua nuova abilità d. ascoltare persone che non conosce", "answer": "c" }
             ]
         }
     ]

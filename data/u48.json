@@ -48,11 +48,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "C’è una guerra tra ____. a. Aldin e l’Imperatore Valior b. i Terrestri e il marito di Kira c. i Terrestri e i Kalkiani d. Kira e l’Imperatore Valior", "answer": "a" },
-                { "question": "L’Imperatore è in assemblea con ____. a. Aldin e i Kalkiani b. i suoi ministri c. Kira e suo marito d. la bambina e Aldin", "answer": "a" },
-                { "question": "La donna, Kira, dice all’Imperatore che ____. a. c’è una bambina a casa sua b. c’è una capsula nella sua fattoria c. suo marito è morto in guerra d. Aldin deve andare a casa sua", "answer": "a" },
-                { "question": "All’inizio, la bambina ____. a. parla ad Aldin del suo mondo b. non vuole parlare perché è timida c. piange tanto d. non può parlare perché è priva di sensi", "answer": "a" },
-                { "question": "Kira offre ad Aldin ____. a. una bibita fresca b. un caffè c. un tè d. una torta", "answer": "a" }
+                { "question": "C’è una guerra tra ____. a. Aldin e l’Imperatore Valior b. i Terrestri e il marito di Kira c. i Terrestri e i Kalkiani d. Kira e l’Imperatore Valior", "answer": "c" },
+                { "question": "L’Imperatore è in assemblea con ____. a. Aldin e i Kalkiani b. i suoi ministri c. Kira e suo marito d. la bambina e Aldin", "answer": "b" },
+                { "question": "La donna, Kira, dice all’Imperatore che ____. a. c’è una bambina a casa sua b. c’è una capsula nella sua fattoria c. suo marito è morto in guerra d. Aldin deve andare a casa sua", "answer": "b" },
+                { "question": "All’inizio, la bambina ____. a. parla ad Aldin del suo mondo b. non vuole parlare perché è timida c. piange tanto d. non può parlare perché è priva di sensi", "answer": "d" },
+                { "question": "Kira offre ad Aldin ____. a. una bibita fresca b. un caffè c. un tè d. una torta", "answer": "d" }
             ]
         }
     ]

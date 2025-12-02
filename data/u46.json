@@ -48,10 +48,11 @@
             "examples": [],
             "items": [
                 { "question": "Laura passeggia ____. a. in Piazza di Spagna b. per le periferie di Roma c. in un negozio di Roma d. fuori Roma", "answer": "a" },
-                { "question": "Laura decide poi di andare ____. a. a casa sua b. in ufficio c. nelle periferie d. a fare un giro a Roma", "answer": "a" },
-                { "question": "Antonio è uno dei direttori dell’azienda e ____. a. vuole acquistare l’azienda b. chiede a Laura di uscire con lui c. mente su un progetto d. pensa che gli impiegati meritino più soldi", "answer": "a" },
-                { "question": "Laura lascia sulla scrivania del suo capo ____. a. dei soldi e una lettera b. una lettera e un documento c. un documento d. dei soldi", "answer": "a" },
-                { "question": "Laura pensa che per smettere di essere invisibile deve ____. a. toccare di nuovo l’oggetto b. rompere l’oggetto v. portare l’oggetto lontano da lì d. parlare con Antonio", "answer": "a" }            ]
+                { "question": "Laura decide poi di andare ____. a. a casa sua b. in ufficio c. nelle periferie d. a fare un giro a Roma", "answer": "b" },
+                { "question": "Antonio è uno dei direttori dell’azienda e ____. a. vuole acquistare l’azienda b. chiede a Laura di uscire con lui c. mente su un progetto d. pensa che gli impiegati meritino più soldi", "answer": "c" },
+                { "question": "Laura lascia sulla scrivania del suo capo ____. a. dei soldi e una lettera b. una lettera e un documento c. un documento d. dei soldi", "answer": "c" },
+                { "question": "Laura pensa che per smettere di essere invisibile deve ____. a. toccare di nuovo l’oggetto b. rompere l’oggetto v. portare l’oggetto lontano da lì d. parlare con Antonio", "answer": "d" }            
+            ]
         }
     ]
 }

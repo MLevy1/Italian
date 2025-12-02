@@ -166,11 +166,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Silvia e Giorgio sono ____. a. a Torino b. in Emilia-Romagna c. in Toscana d. in Sicilia", "answer": "a" },
+                { "question": "Silvia e Giorgio sono ____. a. a Torino b. in Emilia-Romagna c. in Toscana d. in Sicilia", "answer": "b" },
                 { "question": "I due fanno un’escursione ____. a. su un monte b. su una spiaggia c. in un piccolo villaggio d. in città", "answer": "a" },
-                { "question": "Durante il cammino, incontrano ____. a. un paesino b. una città c. una tenda d. una casa", "answer": "a" },
-                { "question": "Quando vedono la barca nel lago ____. a. ci si siedono sopra b. ci si addormentano sopra c. la usano per scaldarsi d. la usano per arrivare al centro del lago", "answer": "a" },
-                { "question": "Quando sono dentro la casa, sentono un rumore che proviene ____. a. dalla barca b. dalla cucina c. dal soggiorno d. dal bosco", "answer": "a" }
+                { "question": "Durante il cammino, incontrano ____. a. un paesino b. una città c. una tenda d. una casa", "answer": "d" },
+                { "question": "Quando vedono la barca nel lago ____. a. ci si siedono sopra b. ci si addormentano sopra c. la usano per scaldarsi d. la usano per arrivare al centro del lago", "answer": "d" },
+                { "question": "Quando sono dentro la casa, sentono un rumore che proviene ____. a. dalla barca b. dalla cucina c. dal soggiorno d. dal bosco", "answer": "b" }
             ]
         }
     ]

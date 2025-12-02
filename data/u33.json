@@ -113,11 +113,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Il cavaliere è vestito di ____. a. rosso e nero b. bianco e nero c. azzurro e nero d. bianco e rosso", "answer": "a" },
-                { "question": "Il cavaliere compra ____. a. una pozione di forza b. due pozioni di forza c. una pozione per avere l’oro d. due pozioni per avere l’oro", "answer": "a" },
-                { "question": "All’entrata del castello, Lars parla con ____. a. il re b. un venditore arrabbiato c. il fratello del re d. una guardia", "answer": "a" },
-                { "question": "Il gruppo porta con sé ____. a. delle armi b. delle pozioni costose c. un carico d’oro d. delle guardie", "answer": "a" },
-                { "question": "Il viaggio ha come destinazione ____. a. un regno sconosciuto b. il regno del fratello di Andur c. il bosco del regno d. la piazza del regno", "answer": "a" }
+                { "question": "Il cavaliere è vestito di ____. a. rosso e nero b. bianco e nero c. azzurro e nero d. bianco e rosso", "answer": "b" },
+                { "question": "Il cavaliere compra ____. a. una pozione di forza b. due pozioni di forza c. una pozione per avere l’oro d. due pozioni per avere l’oro", "answer": "b" },
+                { "question": "All’entrata del castello, Lars parla con ____. a. il re b. un venditore arrabbiato c. il fratello del re d. una guardia", "answer": "d" },
+                { "question": "Il gruppo porta con sé ____. a. delle armi b. delle pozioni costose c. un carico d’oro d. delle guardie", "answer": "c" },
+                { "question": "Il viaggio ha come destinazione ____. a. un regno sconosciuto b. il regno del fratello di Andur c. il bosco del regno d. la piazza del regno", "answer": "b" }
             ]
         }
     ]

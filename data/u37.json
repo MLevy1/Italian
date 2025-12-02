@@ -121,11 +121,12 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "L’uomo robusto si chiama ____. a. Carlo b. Petar c. Filip d. non si sa ", "answer": "a" },
-                { "question": "Il potere dell’orologio permette di ____. a. viaggiare tra le diverse epoche b. viaggiare solo nel XVII secolo c. viaggiare solo nel XXI secolo d. trovare dei tesori ", "answer": "a" },
-                { "question": "Petar ritorna alla sua epoca ____. a. con Carlo b. con Susanna c. con Carlo e Susanna d. da solo ", "answer": "a" },
+                { "question": "L’uomo robusto si chiama ____. a. Carlo b. Petar c. Filip d. non si sa ", "answer": "b" },
+                { "question": "Il potere dell’orologio permette di ____. a. viaggiare tra le diverse epoche b. viaggiare solo nel XVII secolo c. viaggiare solo nel XXI secolo d. trovare dei tesori ", "answer": "b" },
+                { "question": "Petar ritorna alla sua epoca ____. a. con Carlo b. con Susanna c. con Carlo e Susanna d. da solo ", "answer": "c" },
                 { "question": "Petar vuole ____. a. aiuto per vincere contro le barche della Repubblica di Venezia b. scappare con le barche veneziane c. rimanere a vivere con Carlo e Susanna d. conquistare nuovi tesori", "answer": "a" },
-                { "question": "Filip dice a Carlo e Susanna che ____. a. devono rimanere nella sua epoca b. devono rubare l’orologio c. devono aiutarli nella battaglia contro le barche veneziane d. devono allearsi con Petar", "answer": "a" }            ]
+                { "question": "Filip dice a Carlo e Susanna che ____. a. devono rimanere nella sua epoca b. devono rubare l’orologio c. devono aiutarli nella battaglia contro le barche veneziane d. devono allearsi con Petar", "answer": "b" }            
+            ]
         }
     ]
 }

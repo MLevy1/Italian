@@ -88,11 +88,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Dopo aver lasciato la fattoria, Aldin va ____. a. in un ristorante b. alla capsula c. a palazzo d. a casa sua", "answer": "a" },
+                { "question": "Dopo aver lasciato la fattoria, Aldin va ____. a. in un ristorante b. alla capsula c. a palazzo d. a casa sua", "answer": "c" },
                 { "question": "Aldin scopre che Valior, l’Imperatore ____. a. non dice la verità b. vuole la pace c. dice sempre la verità d. è amico dell’Imperatore kalkiano", "answer": "a" },
                 { "question": "Aldin programma di ____. a. riconsegnare la bambina b. rimanere con la bambina c. uccidere la bambina d. non fare nulla", "answer": "a" },
-                { "question": "Maha vuole ____. a. andare a casa b. rimanere sulla Terra c. parlare con i suoi genitori d. vivere nella fattoria di Kira", "answer": "a" },
-                { "question": "Quando Aldin parla con l’Imperatore kalkiano, chiede ____. a. dei soldi b. la pace c. un lavoro d. la possibilità di rimanere su Kalkia", "answer": "a" }
+                { "question": "Maha vuole ____. a. andare a casa b. rimanere sulla Terra c. parlare con i suoi genitori d. vivere nella fattoria di Kira", "answer": "b" },
+                { "question": "Quando Aldin parla con l’Imperatore kalkiano, chiede ____. a. dei soldi b. la pace c. un lavoro d. la possibilità di rimanere su Kalkia", "answer": "b" }
             ]
         }
     ]

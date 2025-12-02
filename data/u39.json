@@ -42,11 +42,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Arturo è un ____. a. uomo molto giovane b. uomo di mezza età c. uomo di età avanzata d. ragazzo giovane", "answer": "a" },
-                { "question": "Arturo parla con Davide per la prima volta ____. a. in Via del Corso b. a Villa Borghese c. all’aeroporto d. in un garage", "answer": "a" },
+                { "question": "Arturo è un ____. a. uomo molto giovane b. uomo di mezza età c. uomo di età avanzata d. ragazzo giovane", "answer": "c" },
+                { "question": "Arturo parla con Davide per la prima volta ____. a. in Via del Corso b. a Villa Borghese c. all’aeroporto d. in un garage", "answer": "b" },
                 { "question": "Nella foto di Arturo c’è ____. a. uno scrigno b. un garage c. una collana d. una città", "answer": "a" },
-                { "question": "Davide porta Arturo ____. a. all’aeroporto b. a prendere un taxi c. a Catania d. in un garage", "answer": "a" },
-                { "question": "Dopo aver parlato con Davide, Arturo va a ____. a. Roma b. Capri c. Catania d. Caserta", "answer": "a" }
+                { "question": "Davide porta Arturo ____. a. all’aeroporto b. a prendere un taxi c. a Catania d. in un garage", "answer": "d" },
+                { "question": "Dopo aver parlato con Davide, Arturo va a ____. a. Roma b. Capri c. Catania d. Caserta", "answer": "c" }
             ]
         }
     ]

@@ -125,11 +125,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "La prima persona del regno che parla con loro è ____. a. il re b. la regina c. un contadino d. una contadina", "answer": "a" },
-                { "question": "La piazza del regno di Arthuren ____. a. non assomiglia a quella del regno di Andur b. è simile a quella del regno di Andur c. è chiusa d. ha una fontana magica", "answer": "a" },
-                { "question": "Lars e il re Arthuren ____. a. litigano b. non si conoscono c. si conoscono d. contano l’oro", "answer": "a" },
-                { "question": "Lars tira fuori ____. a. una spada b. 1 pozione di forza c. 2 pozioni di forza d. tutti gli oggetti sopra ", "answer": "a" },
-                { "question": "Il segreto è ____. a. il regno di Arthuren non ha più acqua magica b. Andur attaccherà Arthuren c. Lars è il re Arthuren d. l’oro è falso", "answer": "a" }            
+                { "question": "La prima persona del regno che parla con loro è ____. a. il re b. la regina c. un contadino d. una contadina", "answer": "c" },
+                { "question": "La piazza del regno di Arthuren ____. a. non assomiglia a quella del regno di Andur b. è simile a quella del regno di Andur c. è chiusa d. ha una fontana magica", "answer": "b" },
+                { "question": "Lars e il re Arthuren ____. a. litigano b. non si conoscono c. si conoscono d. contano l’oro", "answer": "c" },
+                { "question": "Lars tira fuori ____. a. una spada b. 1 pozione di forza c. 2 pozioni di forza d. tutti gli oggetti sopra ", "answer": "c" },
+                { "question": "Il segreto è ____. a. il regno di Arthuren non ha più acqua magica b. Andur attaccherà Arthuren c. Lars è il re Arthuren d. l’oro è falso", "answer": "a" }
             ]
         }
     ]

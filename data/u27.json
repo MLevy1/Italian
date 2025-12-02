@@ -193,7 +193,7 @@
                                 ["Piacere di conoscerti!", "Nice to meet you!"],
                                 ["con una faccia sorridente", "with a smile on his face"],
                                 ["d’estate", "in summer"],
-                                ["rattoria", "a restaurant, usually family-run, that serves traditional dishes"],
+                                ["trattoria", "a restaurant, usually family-run, that serves traditional dishes"],
                                 ["camicia", "shirt"],
                                 ["Ti chiamo col cellulare!", "I’ll call you on my mobile!"],
                                 ["avere tanto sonno", "to feel very sleepy"],
@@ -207,8 +207,8 @@
                                 ["cabina telefonica", "a phonebox"],
                                 ["ridere a voce alta", "to laugh out loud"],
                                 ["vergogna", "shame"],
-                                ["quillare", "to ring"],
-                                ["pegnere la luce", "to switch off the light"],
+                                ["squillare", "to ring"],
+                                ["spegnere la luce", "to switch off the light"],
                                 ["Che giornata da pazzi!", "What a crazy day!"]
                             ]
                         }
@@ -223,11 +223,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Armando è ____. a. un impiegato dell’aeroporto b. un amico dei genitori c. un amico di Giulia d. un amico di Daniele", "answer": "y" },
-                { "question": "A Roma fa ____.  a. freddo  b. caldo  c. non fa né freddo né caldo  d. non si sa", "answer": "y" },
-                { "question": "Lasciato l’aeroporto si dirigono verso ____.  a. un ristorante  b. l’appartamento di Armando  c. il loro nuovo appartamento  d. Civitavecchia", "answer": "y" },
-                { "question": "Daniele non può chiamare sua sorella perché ____.  a. non ricorda il suo numero  b. non ha soldi  c. non trova una cabina telefonica  d. ha dimenticato il suo cellulare", "answer": "y" },
-                { "question": "Quella notte Daniele dorme ____.  a. in un albergo a Roma  b. sull’autobus  c. in un albergo a Civitavecchia  d. non dorme", "answer": "y" }
+                { "question": "Armando è ____. a. un impiegato dell’aeroporto b. un amico dei genitori c. un amico di Giulia d. un amico di Daniele", "answer": "d" },
+                { "question": "A Roma fa ____.  a. freddo  b. caldo  c. non fa né freddo né caldo  d. non si sa", "answer": "b" },
+                { "question": "Lasciato l’aeroporto si dirigono verso ____.  a. un ristorante  b. l’appartamento di Armando  c. il loro nuovo appartamento  d. Civitavecchia", "answer": "b" },
+                { "question": "Daniele non può chiamare sua sorella perché ____.  a. non ricorda il suo numero  b. non ha soldi  c. non trova una cabina telefonica  d. ha dimenticato il suo cellulare", "answer": "a" },
+                { "question": "Quella notte Daniele dorme ____.  a. in un albergo a Roma  b. sull’autobus  c. in un albergo a Civitavecchia  d. non dorme", "answer": "c" }
             ]
         }
      ]

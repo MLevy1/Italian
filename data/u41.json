@@ -56,11 +56,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Per ultimo Arturo va a ____. a. Roma b. Genova c. Perugia d. Catania", "answer": "a" },
-                { "question": "Arturo parla con il tassista ____. a. della famiglia del tassista b. della famiglia di Arturo c. dell’Acquario di Genova d. del suo viaggio", "answer": "a" },
-                { "question": "Alfonso, la terza persona, vive ____. a. vicino a un parco b. su una barca c. in un paesino d. vicino al porto", "answer": "a" },
-                { "question": "Lo scrigno contiene ____. a. una lettera b. una lettera e qualcos’altro c. una lettera dai genitori dei ragazzi d. soldi", "answer": "a" },
-                { "question": "Davide, Lucia e Alfonso sono ____. a. cugini b. fratelli c. amici d. bambini", "answer": "a" }            ]
+                { "question": "Per ultimo Arturo va a ____. a. Roma b. Genova c. Perugia d. Catania", "answer": "b" },
+                { "question": "Arturo parla con il tassista ____. a. della famiglia del tassista b. della famiglia di Arturo c. dell’Acquario di Genova d. del suo viaggio", "answer": "c" },
+                { "question": "Alfonso, la terza persona, vive ____. a. vicino a un parco b. su una barca c. in un paesino d. vicino al porto", "answer": "d" },
+                { "question": "Lo scrigno contiene ____. a. una lettera b. una lettera e qualcos’altro c. una lettera dai genitori dei ragazzi d. soldi", "answer": "b" },
+                { "question": "Davide, Lucia e Alfonso sono ____. a. cugini b. fratelli c. amici d. bambini", "answer": "b" }            ]
         }
     ]
 }

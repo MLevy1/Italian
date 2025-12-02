@@ -172,7 +172,7 @@
                                 ["pochissime volte", "very rarely"],
                                 ["portone", "main door, front door"],
                                 ["portiera", "receptionist"],
-                                ["alire in ascensore", "to take the lift"],
+                                ["salire in ascensore", "to take the lift"],
                                 ["al terzo piano", "on the third floor"],
                                 ["Tirare fuori", "la chiave to take out a key"],
                                 ["Dove potrebbero essere?", "Where could they be?"],
@@ -197,10 +197,10 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "L’uomo anziano e Daniele vanno prima ____.  a. nell’appartamento di Armando  b. in una cabina telefonica  c. al ristorante La Pizza Pazza  d. all’aeroporto", "answer": "a" },
-                { "question": "All’inizio nell’appartamento di Armando ____.  a. ci sono solo Giulia e Armando  b. c’è solo Giulia  c. c’è solo Armando  d. non c’è nessuno", "answer": "a" },
+                { "question": "L’uomo anziano e Daniele vanno prima ____.  a. nell’appartamento di Armando  b. in una cabina telefonica  c. al ristorante La Pizza Pazza  d. all’aeroporto", "answer": "c" },
+                { "question": "All’inizio nell’appartamento di Armando ____.  a. ci sono solo Giulia e Armando  b. c’è solo Giulia  c. c’è solo Armando  d. non c’è nessuno", "answer": "d" },
                 { "question": "Quando Daniele entra nell’appartamento di Armando ____.  a. ricarica la batteria del suo cellulare  b. prepara la cena  c. chiama Armando  d. chiama i suoi genitori", "answer": "a" },
-                { "question": "Daniele chiama ____.  a. i suoi genitori  b. Armando  c. Giulia  d. il corriere", "answer": "a" },
+                { "question": "Daniele chiama ____.  a. i suoi genitori  b. Armando  c. Giulia  d. il corriere", "answer": "c" },
                 { "question": "Giulia vuole andare ____.  a. al ristorante La Pizza Pazza  b. alla trattoria di piatti tipici  c. a Londra  d. a Civitavecchia", "answer": "a" }
             ]
         }

@@ -43,11 +43,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Il pirata di nome Filip è ____. a. il cugino di Petar b. il figlio di Petar c. il secondo in comando d. nessuno in particolare", "answer": "a" },
-                { "question": "Filip dice a Carlo che ____. a. deve combattere b. deve rubare l’orologio c. deve andarsene senza Susanna d. vuole andare a Venezia", "answer": "a" },
-                { "question": "Quando Carlo chiede a Petar l’orologio ____. a. Petar glielo dà subito b. Petar non glielo dà c. Susanna si avvicina e lo ruba d. Petar cade e l’orologio si rompe", "answer": "a" },
-                { "question": "A Venezia vanno ____. a. Carlo e Susanna b. Petar e Carlo c. Petar e Filip d. tutti e quattro", "answer": "a" },
-                { "question": "Carlo riparerà l’orologio di Petar a condizione che lui____. a. torni nel XVII secolo b. distrugga l’orologio c. gli regali la sua nave pirata d. gli faccia tenere l’orologio", "answer": "a" }
+                { "question": "Il pirata di nome Filip è ____. a. il cugino di Petar b. il figlio di Petar c. il secondo in comando d. nessuno in particolare", "answer": "c" },
+                { "question": "Filip dice a Carlo che ____. a. deve combattere b. deve rubare l’orologio c. deve andarsene senza Susanna d. vuole andare a Venezia", "answer": "b" },
+                { "question": "Quando Carlo chiede a Petar l’orologio ____. a. Petar glielo dà subito b. Petar non glielo dà c. Susanna si avvicina e lo ruba d. Petar cade e l’orologio si rompe", "answer": "b" },
+                { "question": "A Venezia vanno ____. a. Carlo e Susanna b. Petar e Carlo c. Petar e Filip d. tutti e quattro", "answer": "d" },
+                { "question": "Carlo riparerà l’orologio di Petar a condizione che lui____. a. torni nel XVII secolo b. distrugga l’orologio c. gli regali la sua nave pirata d. gli faccia tenere l’orologio", "answer": "b" }
             ]
         }
     ]

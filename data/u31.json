@@ -162,11 +162,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Silvia crede che la creatura ____. a. sia reale b. sia uno scherzo c. sia Giorgio d. che sia reale però non ne è sicura", "answer": "a" },
-                { "question": "Giorgio vede: a. un edificio di pietra b. un ponte c. una macchina d. una grotta", "answer": "a" },
-                { "question": "Silvia dorme ____. a. nel bosco b. sulla barca del lago c. su un letto nella casa d. al paese", "answer": "a" },
+                { "question": "Silvia crede che la creatura ____. a. sia reale b. sia uno scherzo c. sia Giorgio d. che sia reale però non ne è sicura", "answer": "b" },
+                { "question": "Giorgio vede: a. un edificio di pietra b. un ponte c. una macchina d. una grotta", "answer": "d" },
+                { "question": "Silvia dorme ____. a. nel bosco b. sulla barca del lago c. su un letto nella casa d. al paese", "answer": "c" },
                 { "question": "Al risveglio Silvia ____. a. va in un paese b. va alla grotta c. chiama i genitori di Giorgio d. chiama i suoi genitori", "answer": "a" },
-                { "question": "Al ritorno al lago, Silvia vede ____. a. la casa bruciata b. una luce nella casa c. la creatura nella casa d. Giorgio nella casa", "answer": "a" }
+                { "question": "Al ritorno al lago, Silvia vede ____. a. la casa bruciata b. una luce nella casa c. la creatura nella casa d. Giorgio nella casa", "answer": "b" }
             ]
         }
     ]

@@ -43,10 +43,10 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "L’uomo che ha detto al capo Eskol delle terre a ovest era ____. a. il padre di Eskol b. il padre di Thoric c. il padre di Niels d. il capo del villaggio", "answer": "a" },
-                { "question": "Mentre esplorano le nuove terre incontrano ____. a. animali vichinghi b. un gruppo di vichinghi c. un gruppo di nativi d. una fattoria", "answer": "a" },
-                { "question": "Si formano due gruppi di vichinghi perché ____. a. hanno fame b. vogliono combattere c. vogliono fare cose diverse d. la rotta cambia", "answer": "a" },
-                { "question": "Il capo Eskol decide ____. a. di tornare al villaggio dei nativi b. di continuare l’esplorazione c. di rimanere nella nuova terra d. di combattere i nativi", "answer": "a" },
+                { "question": "L’uomo che ha detto al capo Eskol delle terre a ovest era ____. a. il padre di Eskol b. il padre di Thoric c. il padre di Niels d. il capo del villaggio", "answer": "c" },
+                { "question": "Mentre esplorano le nuove terre incontrano ____. a. animali vichinghi b. un gruppo di vichinghi c. un gruppo di nativi d. una fattoria", "answer": "c" },
+                { "question": "Si formano due gruppi di vichinghi perché ____. a. hanno fame b. vogliono combattere c. vogliono fare cose diverse d. la rotta cambia", "answer": "d" },
+                { "question": "Il capo Eskol decide ____. a. di tornare al villaggio dei nativi b. di continuare l’esplorazione c. di rimanere nella nuova terra d. di combattere i nativi", "answer": "c" },
                 { "question": "La terra oggi si chiama ____. a. Norvegia b. America del Nord c. Il Regno Unito d. America del Sud", "answer": "a" }
             ]
         }

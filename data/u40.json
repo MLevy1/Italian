@@ -63,10 +63,10 @@
             "examples": [],
             "items": [
                 { "question": "La casa di Lucia è ____. a. grande e bella b. piccola ma bella c. di medie dimensioni d. grande ma brutta ", "answer": "a" },
-                { "question": "Il maggiordomo si chiama ____. a. Davide b. Arturo c. Carlo d. Giulio ", "answer": "a" },
-                { "question": "Lucia si ricorda il numero quando Arturo ____. a. gliene parla b. le fa vedere la foto dello scrigno c. le parla di uno scrigno d. le parla di una collana ", "answer": "a" },
-                { "question": "Lucia ____. a. non capisce che succede b. sa cosa vuole Arturo c. non permette ad Arturo di divertirsi d. non riesce ad aiutare Arturo", "answer": "a" },
-                { "question": "Dopo aver salutato Lucia, Arturo ____. a. va a Roma b. va a Catania c. si riposa d. va a Genova", "answer": "a" }
+                { "question": "Il maggiordomo si chiama ____. a. Davide b. Arturo c. Carlo d. Giulio ", "answer": "d" },
+                { "question": "Lucia si ricorda il numero quando Arturo ____. a. gliene parla b. le fa vedere la foto dello scrigno c. le parla di uno scrigno d. le parla di una collana ", "answer": "b" },
+                { "question": "Lucia ____. a. non capisce che succede b. sa cosa vuole Arturo c. non permette ad Arturo di divertirsi d. non riesce ad aiutare Arturo", "answer": "d" },
+                { "question": "Dopo aver salutato Lucia, Arturo ____. a. va a Roma b. va a Catania c. si riposa d. va a Genova", "answer": "d" }
             ]
         }
     ]

@@ -48,11 +48,11 @@
             "instruction": "Seleziona una sola risposta per ogni domanda.",
             "examples": [],
             "items": [
-                { "question": "Al parco Laura sente parlare ____. a. il suo capo e suo marito b. il suo capo e Nicola c. suo marito ed Elvira d. Nicola ed Elvira", "answer": "a" },
-                { "question": "I suoi amici vogliono ____. a. tornare a casa b. trovare lo strano oggetto c. chiamare la polizia d. chiamare Andrea", "answer": "a" },
-                { "question": "Laura vuole ____. a. lanciare via l’oggetto b. trovare la palla prima dei suoi amici c. nascondersi tra gli alberi d. ascoltare la polizia", "answer": "a" },
-                { "question": "Laura tocca di nuovo l’oggetto e ____. a. torna ad essere visibile b. rimane invisibile c. si spaventa d. non succede nulla", "answer": "a" },
-                { "question": "Alla fine Laura decide di ____. a. raccontare la sua storia b. raccontare la sua storia il giorno dopo c. non raccontare la sua storia d. ignorare tutti", "answer": "a" }
+                { "question": "Al parco Laura sente parlare ____. a. il suo capo e suo marito b. il suo capo e Nicola c. suo marito ed Elvira d. Nicola ed Elvira", "answer": "d" },
+                { "question": "I suoi amici vogliono ____. a. tornare a casa b. trovare lo strano oggetto c. chiamare la polizia d. chiamare Andrea", "answer": "d" },
+                { "question": "Laura vuole ____. a. lanciare via l’oggetto b. trovare la palla prima dei suoi amici c. nascondersi tra gli alberi d. ascoltare la polizia", "answer": "c" },
+                { "question": "Laura tocca di nuovo l’oggetto e ____. a. torna ad essere visibile b. rimane invisibile c. si spaventa d. non succede nulla", "answer": "c" },
+                { "question": "Alla fine Laura decide di ____. a. raccontare la sua storia b. raccontare la sua storia il giorno dopo c. non raccontare la sua storia d. ignorare tutti", "answer": "b" }
             ]
         }
     ]
