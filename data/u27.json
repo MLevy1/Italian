@@ -40,7 +40,10 @@
                         "content": "–Sì, lo è, però è molto simpatica."
                     },
                     {
-                        "content": "Poco dopo prendiamo un taxi per andare al nostro nuovo appartamento. Il taxi dall’aeroporto al centro di Roma costa €48,50. È giugno e fa molto caldo. Il sole in Italia è sempre molto caldo, soprattutto d’estate! Arriviamo a casa di Armando all’ora di pranzo. Lui ci aiuta con gli zaini. Abbiamo molta fame."
+                        "content": "Poco dopo prendiamo un taxi per andare al nostro nuovo appartamento. Il taxi dall’aeroporto al centro di Roma costa €48,50. È giugno e fa molto caldo. Il sole in Italia è sempre molto caldo, soprattutto d’estate!"
+                    },
+                    {
+                        "content": "Arriviamo a casa di Armando all’ora di pranzo. Lui ci aiuta con gli zaini. Abbiamo molta fame."
                     },
                     {
                         "content": "–Armando, abbiamo fame. Dove possiamo mangiare qualcosa?"
@@ -118,7 +121,10 @@
                         "content": "–Cosa? Siamo a Civitavecchia? Oh, no! Com’è possibile?"
                     },
                     {
-                        "content": "Prendo il cellulare dalla tasca e provo a chiamare mia sorella. Accidenti! Il cellulare è scarico e non posso accenderlo! Scendo dall’autobus. Sono a Civitavecchia e Roma è molto lontana. Non ci posso credere! Mi sono addormentato sull’autobus e sono arrivato fino a Civitavecchia! Adesso che faccio? Cammino per le strade di Civitavecchia. Cerco una cabina telefonica. Chiedo a una signora."
+                        "content": "Prendo il cellulare dalla tasca e provo a chiamare mia sorella. Accidenti! Il cellulare è scarico e non posso accenderlo! Scendo dall’autobus. Sono a Civitavecchia e Roma è molto lontana. Non ci posso credere! Mi sono addormentato sull’autobus e sono arrivato fino a Civitavecchia! Adesso che faccio?"
+                    },
+                    {
+                        "content": "Cammino per le strade di Civitavecchia. Cerco una cabina telefonica. Chiedo a una signora."
                     },
                     {
                         "content": "–Mi scusi, signora. Dove posso trovare una cabina telefonica?"
@@ -133,7 +139,10 @@
                         "content": "–Di niente. Buon pomeriggio."
                     },
                     {
-                        "content": "Sono le cinque del pomeriggio e mia sorella non sa dove sono. Scommetto che sarà molto preoccupata! Entro nella cabina telefonica. Oh, no! Non mi ricordo il numero di telefono di Giulia! Che faccio adesso? Ho trovato un telefono, però non ho il suo numero. Vado a cercare un ristorante. Ho molta fame e adesso voglio mangiare. Penserò dopo a cosa fare! Entro in un ristorante e il cameriere mi si avvicina."
+                        "content": "Sono le cinque del pomeriggio e mia sorella non sa dove sono. Scommetto che sarà molto preoccupata! Entro nella cabina telefonica. Oh, no! Non mi ricordo il numero di telefono di Giulia! Che faccio adesso? Ho trovato un telefono, però non ho il suo numero. Vado a cercare un ristorante. Ho molta fame e adesso voglio mangiare. Penserò dopo a cosa fare!"
+                    },
+                    {
+                        "content": "Entro in un ristorante e il cameriere mi si avvicina."
                     },
                     {
                         "content": "–Salve!"
@@ -151,7 +160,13 @@
                         "content": "–Mi scusi? Ha detto una pizza? Non sono sicuro d’aver capito bene."
                     },
                     {
-                        "content": "Comincio a ridere a voce alta. Diverse persone nel ristorante mi guardano ma non mi interessa. Indico la pizza sul menù. Il cameriere capisce e finalmente mangio qualcosa. Dopo aver finito di mangiare, provo un po’ di vergogna. Non avrei dovuto ridere così forte, però è troppo divertente quello che mi sta succedendo! Volevamo andare a mangiare una pizza ed eccomi … a mangiare una pizza … a Civitavecchia! E mia sorella non sa dove sono. Che posso fare adesso? Non ricordo il numero di mia sorella a memoria … Ah, sì, lo so! Chiamerò a Londra! Torno alla cabina telefonica e digito il numero di telefono della casa dei miei genitori a Londra. Squilla quattro volte e finalmente risponde mia madre."
+                        "content": "Comincio a ridere a voce alta. Diverse persone nel ristorante mi guardano ma non mi interessa. Indico la pizza sul menù. Il cameriere capisce e finalmente mangio qualcosa."
+                    },
+                    {
+                        "content": "Dopo aver finito di mangiare, provo un po’ di vergogna. Non avrei dovuto ridere così forte, però è troppo divertente quello che mi sta succedendo! Volevamo andare a mangiare una pizza ed eccomi … a mangiare una pizza … a Civitavecchia! E mia sorella non sa dove sono. Che posso fare adesso? Non ricordo il numero di mia sorella a memoria … Ah, sì, lo so! Chiamerò a Londra!"
+                    },
+                    {
+                        "content": "Torno alla cabina telefonica e digito il numero di telefono della casa dei miei genitori a Londra. Squilla quattro volte e finalmente risponde mia madre."
                     },
                     {
                         "content": "–Ciao, tesoro! Come stai? Come va a Roma?"
