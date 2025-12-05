@@ -152,7 +152,7 @@
                 "Non ho telefonato a Maria, ——— ho scritt—: le ho scritto", "Ho comprato una minigonna rossa e —ho indossat— per la festa: l’ho indossata"
             ],
             "items": [
-                { "question": "Ho incontrato Lina e —— ho offert— un caffè.", "answer": "ho offerto" },
+                { "question": "Ho incontrato Lina e —— ho offert— un caffè.", "answer": "le ho offerto" },
                 { "question": "Cerco Paola e Gianni, —— avete vist—?", "answer": "li avete visti" },
                 { "question": "Non ho la bicicletta perché — ho imprestat— a Filippo.", "answer": "l'ho imprestata" },
                 { "question": "Non ho scritto a Paola, — ho telefonat—.", "answer": "le ho telefonato" },
