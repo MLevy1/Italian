@@ -132,7 +132,7 @@
         {
             "title": "Exercise 2: Negative Sentences",
             "instruction": "Change the sentences into the negative.",
-            "examples": ["*Le* parlo di lavoro.: *Non le* parlo di lavoro.", "*Mi* telefoni?: *Non mi* telefoni?"],
+            "examples": ["Gli scrivo: Non gli scrivo."],
             "items": [
                 { "question": "*Le* parlo di lavoro.", "answer": "Non le parlo di lavoro." },
                 { "question": "*Mi* telefoni?", "answer": "Non mi telefoni?" },
@@ -166,15 +166,15 @@
         {
             "title": "Exercise 4: Complete with Indirect Object Pronouns",
             "instruction": "Complete the sentences with the correct indirect object pronoun.",
-            "examples": ["Scrivo una lettera *a Carla*: *le*.", "Devo parlare *a Marco*: *gli*."],
+            "examples": ["Mauro ha molti amici e —— telefona spesso: gli", "Livia vuole parlare con te, devi telefonar—— : le"],
             "items": [
-                { "question": "Scrivo una lettera ____.", "answer": "le" },
-                { "question": "Devo parlare ____.", "answer": "gli" },
-                { "question": "Offro un caffè ____.", "answer": "gli" },
-                { "question": "Racconto una storia ____.", "answer": "gli" },
-                { "question": "Regalo un libro ____.", "answer": "le" },
-                { "question": "Scriviamo una mail ____.", "answer": "gli" },
-                { "question": "Telefono ____ domani.", "answer": "gli" },
+                { "question": "‘Telefonate a Luisa?’ ‘No, ____  scriviamo una lettera.’", "answer": "le" },
+                { "question": "Se mi chiedi qualcosa, ____ rispondo.", "answer": "ti" },
+                { "question": "‘Cosa regali a tuo padre?’ ‘____ regalo una cravatta.’", "answer": "gli" },
+                { "question": "Se vedi le mie amiche, puoi dir ____ che le aspetto per domani?", "answer": "gli" },
+                { "question": "Signora, posso offrir ____ un caffè?", "answer": "le" },
+                { "question": "‘Ci portate un regalo, dall’Italia?’ ‘Sì, ____ portiamo un panettone.’", "answer": "vi" },
+                { "question": "‘Cosa vuoi dir____?’ ‘Vi voglio dire la verità.’", "answer": "ci" },
                 { "question": "Gianni, ____ presento mia sorella.", "answer": "ti" },
                 { "question": "‘Quando telefoni ai nonni?’ ‘____ telefono domani sera.’", "answer": "gli" },
                 { "question": "Professore, ____ devo parlare.", "answer": "Le" },
