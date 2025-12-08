@@ -145,7 +145,6 @@
     { q: "I’m widowed (man)", a: "sono vedovo" }, 
     { q: "I’m widowed (woman)", a: "sono vedova" }, 
     { q: "Do you have any children?", a: "ha figli?" }, 
-    { q: "I have... children.", a: "ho … figli" }, 
     { q: "I don’t have any children.", a: "non ho figli" }, 
     { q: "This is my... (man / m object)", a: "questo è il mio" }, 
     { q: "This is my... (man / f object)", a: "questo la mia" }, 
@@ -223,9 +222,9 @@
     { q: "worried", a: "preoccupato" }, 
     { q: "afraid", a: "spaventato" }, 
     { q: "bored", a: "annoiato" }, 
-    { q: "I feel...", a: "mi sento…" }, 
-    { q: "He/She feels...", a: "si sente…" }, 
-    { q: "They feel...", a: "si sentono…" }, 
+    { q: "I feel...", a: "mi sento" }, 
+    { q: "He/She feels...", a: "si sente" }, 
+    { q: "They feel...", a: "si sentono" }, 
     { q: "well", a: "bene" }, 
     { q: "unwell", a: "malato" }, 
     { q: "better", a: "meglio" }, 
@@ -261,7 +260,6 @@
     { q: "firefighter", a: "il pompiere" }, 
     { q: "fisherman", a: "il pescatore" }, 
     { q: "IT worker", a: "il tecnico" }, 
-    { q: "joiner", a: "il falegname" }, 
     { q: "journalist (male)", a: "il giornalista" }, 
     { q: "journalist (female)", a: "la giornalista" }, 
     { q: "lawyer", a: "l’avvocato" }, 
@@ -3296,7 +3294,8 @@
   function checkAnswer() {
     if (!currentCard) return;
     const userAnswer = answerInput.value.trim();
-    const isCorrect = userAnswer.toLowerCase() === currentCard.a.toLowerCase();
+    const checker = currentCard.a.trim();
+    const isCorrect = userAnswer.toLowerCase() === checker.toLowerCase();
 
     if (isCorrect) {
       feedbackEl.innerHTML = `<span class="text-success">Correct! "${currentCard.a}"</span>`;
