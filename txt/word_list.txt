@@ -1,0 +1,3295 @@
+blue; azzurro	
+red; rosso
+yellow; giallo
+green; verde
+white; bianco
+black; nero
+Hello.; Ciao
+Hi!; Ciao!
+Pleased to meet you.; Piacere
+Good morning/ afternoon.; Buongiorno
+Yes.; Si
+No.; No
+I don’t know.; Non lo so
+Please.; Per favore
+Yes, please.; Si, grazie
+Good evening.; Buonasera
+Good night.; Buonanotte
+See you soon.; A presto
+See you tomorrow.; A domani
+Thank you.; Grazie
+No, thanks.; No, grazie
+Excuse me.; Mi scusi
+Sorry?; Scusi?
+See you on Saturday.; A sabato
+Goodbye.; Arrivederci
+Bye!; Cia!
+Have a good day/ evening!; Buona giornata / serata!
+I’m sorry.; Mi dispiace
+OK!; Va bene!
+You’re welcome.; Prego
+I don’t understand.; Non capisco
+How old are you?; Quanti anni ha?
+When is your birthday?; Quand’è il suo compleanno?
+I’m … years old.; Ho…
+My birthday is on…; Il mio compleanno è…
+I was born in...; Sono nato il…
+I’m older/younger than…; Sono più grande / giovane di…
+Where are you from?; Di dov’è?
+Where do you live?; Dove vive?
+I’m from...; Vengo da…
+...the UK.; il Regno Unito
+I live in...; Vivo a…
+I’m...; Sono…
+Scottish; scozzese
+English; inglese
+Irish; irlandese
+Welsh; gallese
+British; britannico
+Are you married?; È sposato? / È sposata?
+Are you single?; È single?
+I’m married (man); Sono sposato
+I’m married (woman); Sono sposata
+I have a partner.; Ho un compagno / una compagna
+I’m single.; Sono single
+I’m divorced (man); Sono divorziato
+I’m divorced (woman); Sono divorziata
+I’m widowed (man); Sono vedovo
+I’m widowed (woman); Sono vedova
+Do you have any children?; Ha figli?
+I have... children.; Ho … figli
+I don’t have any children.; Non ho figli
+This is my...; Questo / Questa è il mio / la mia...
+These are my...; Questi sono i miei / le mie…
+husband; il marito
+wife; la moglie
+boyfriend; il fidanzato
+girlfriend; la fidanzata
+partner; il compagno / la compagna
+fiancé/fiancée; il fidanzato / la fidanzata
+son; il figlio
+daughter; la figlia
+parents; i genitori
+father; il padre
+mother; la madre
+brother; il fratello
+sister; la sorella
+grandfather; il nonno
+grandmother; la nonna
+grandson/nephew; il nipote
+granddaughter/niece; la nipote
+father-in-law; il suocero
+mother-in-law; la suocera
+daughter-in-law; la nuora
+son-in-law; il genero
+brother-in-law; il cognato
+sister-in-law; la cognata
+stepfather; il patrigno
+stepmother; la matrigna
+stepson; il figliastro
+stepdaughter; la figliastra
+uncle; lo zio
+aunt; la zia
+cousin; il cugino / la cugina
+extended family; la famiglia allargata
+friend; l’amico m / l’amica f
+colleague; il / la collega
+baby; il bebè
+child; il bambino / la bambina
+teenager; l’adolescente m / l’adolescente f
+How are you?; Come sta?
+How’s it going?; Come va?
+How is he/she?; Come sta?
+How are they?; Come stanno?
+Very well, thanks, and you?; Bene grazie Lei?
+Fine, thanks Bene, grazie.; Great! Benissimo!
+So-so.; Così e così
+Not bad, thanks.; Non male, grazie
+Could be worse.; Potrebbe andare peggio
+I’m tired.; Sono stanco
+I’m fine.; Sto bene
+I’m hungry/thirsty.; Ho fame / sete
+I’m full.; Sono pieno
+I’m cold/warm.; Ho freddo / caldo
+I am...; Io sono…
+He/She is...; Lui / Lei è…
+They are...; Loro sono…
+happy; felice
+excited; emozionato
+calm; calmo
+surprised; sorpreso
+annoyed; irritato
+angry; arrabbiato
+sad; triste
+worried; preoccupato
+afraid; spaventato
+bored; annoiato
+I feel...; Mi sento…
+He/She feels...; Si sente…
+They feel...; Si sentono…
+well; bene
+unwell; malato
+better; meglio
+worse; peggio
+Where do you work?; Dove lavora?
+What do you do?; Che fa nella vita?
+What’s your occupation?; Che lavoro fa?
+Do you work/study?; Lavora / Studia?
+I’m self-employed.; Sono un lavoratore autonomo
+I’m unemployed.; Sono disoccupato
+I’m at university.; Vado all’università
+I’m retired.; Sono in pensione
+I’m travelling.; Sto viaggiando
+I work from home.; Lavoro da casa
+I work part-/full-time.; Lavoro a tempo parziale / pieno
+I work as a/an...; Lavoro come…
+I’m a/an...; Sono un / una…
+builder; il costruttore
+chef; lo chef
+civil servant; il funzionario pubblico /la funzionaria pubblica
+cleaner; l’addetto alle pulizie m / l’addetta alle pulizie f
+dentist; il dentista / la dentista
+doctor; il dottore
+driver; l’autista m / l’autista f
+electrician; l’elettricista m
+engineer; l’ingegnere m
+farmer; il contadino / la contadina
+firefighter; il pompiere
+fisherman; il pescatore
+IT worker; il tecnico / informatico
+joiner; il falegname
+journalist; il giornalista / la giornalista
+lawyer; l’avvocato m
+mechanic; il meccanico
+nurse; l’infermiere m / l’infermiera f
+office worker; l’impiegato m / l’impiegata f
+plumber; l’idraulico m
+police officer; il poliziotto / la poliziotta
+postal worker; l’impiegato delle poste m / l’impiegata delle poste f
+sailor; il marinaio
+salesperson; il venditore / la venditrice
+scientist; lo scienziato / la scienziata
+soldier; il soldato
+teacher; il professore / la professoressa
+vet; il veterinario / la veterinaria
+waiter; il cameriere
+waitress; la cameriera
+I work at/in...; Lavoro a…
+business; l’impresa
+company; la società
+construction site; il cantiere
+factory; la fabbrica
+government; il governo
+hospital; l’ospedale m
+hotel; l’albergo m
+office; l’ufficio m
+restaurant; il ristorante
+school; la scuola
+shop; il negozio
+morning; la mattina
+afternoon; il pomeriggio
+evening; la sera 
+night; la notte
+midday; il mezzogiorno
+midnight; la mezzanotte
+What time is it?; Che ora è?
+It’s nine o’clock.; Sono le nove
+It’s ten past nine.; Sono le nove e dieci
+It’s quarter past nine.; Sono le nove e un quarto
+It’s 25 past nine.; Sono le nove e venticinque
+It’s half past nine.; Sono le nove e mezza
+It’s 20 to ten.; Sono le dieci meno venti
+It’s quarter to ten.; Sono le dieci meno un quarto
+It’s five to ten.; Sono le dieci meno cinque
+It’s 10 a.m.; Sono le dieci di mattina
+It’s 5 p.m.; Sono le cinque di pomeriggio
+It’s 17:30.; Sono le diciassette e trenta
+When...?; Quando…?
+...in 60 seconds/ two minutes.;...tra 60 secondi / due minuti
+...in an hour.;...tra un’ora
+...in quarter of an hour.;...tra un quarto d’ora
+...in half an hour.;...tra mezz’ora
+today; oggi
+tonight; stasera
+tomorrow; domani
+yesterday; ieri
+the day after tomorrow; dopodomani
+the day before yesterday; l’altro ieri
+early; in anticipo / presto
+late; tardi
+soon; presto
+later; più tardi
+now; ora
+Monday; lunedì
+Tuesday; martedì
+Wednesday; mercoledì
+Thursday; giovedì
+Friday; venerdì
+Saturday; sabato
+Sunday; domenica
+January; gennaio
+February; febbraio
+March; marzo
+April; aprile
+May; maggio
+June; giugno
+July; luglio
+August; agosto
+September; settembre
+October; ottobre
+November; novembre
+December; dicembre
+day; il giorno
+weekend; il fine settimana
+week; la settimana
+fortnight; due settimane
+quarter; il trimestre
+month; il mese
+year; l’anno m
+decade; il decennio
+daily; giornaliero
+weekly; settimanale
+fortnightly; bimensile
+monthly; mensile
+yearly; annuale
+on Mondays; di lunedì
+every Sunday; ogni domenica
+last Thursday; giovedì scorso
+next Friday; venerdì prossimo
+the week before/after; la settimana prima / dopo
+in February; a febbraio
+in 2018; nel 2018
+in the ’80s; negli anni ’80
+spring; la primavera
+summer; l’estate f
+autumn; l’autunno m
+winter; l’inverno m
+in spring/winter; in primavera / inverno
+weather; il tempo
+How’s the weather?; Che tempo fa?
+What’s the forecast for today/tomorrow?; Quali sono le previsioni metereologiche per oggi / domani?
+How warm/cold is it?; Quanto è caldo / freddo?
+Is it going to rain?; Sta per piovere?
+What a lovely day!; Che bella giornata!
+What awful weather!; Che brutto tempo!
+It’s raining/windy/foggy.; È piovoso / ventoso / nebbioso
+It’s sunny.; C’è il sole
+It’s cloudy.; È nuvoloso
+It’s misty.; C’è foschia
+It’s freezing.; C’è il gelo
+It’s snowing.; Nevica
+It’s stormy.; C’è la bufera
+It’s changeable.; È mutevole
+It is...; È…
+nice; bello
+horrible; brutto
+hot; caldo
+warm; tiepido
+cool; fresco
+wet; bagnato
+humid; umido
+mild; mite
+temperature; la temperatura
+sun; il sole
+rain; la pioggia
+snow; la neve
+hail; la grandine
+ice; il ghiaccio
+wind; il vento
+gale; il vento forte
+mist; la foschia
+fog; la nebbia
+numbers; i numeri
+thunder; il tuono
+lightning; il fulmine
+thunderstorm; il temporale
+cloud; la nuvola
+1; uno 
+2; due 
+3; tre
+4; quattro
+5; cinque 
+6; sei
+7; sette 
+8; otto 
+9; nove
+10; dieci 
+11; undici 
+12; dodici 
+13; tredici
+14; quattordici
+15; quindici
+16; sedici
+17; diciassette
+18; diciotto
+19; diciannove
+20; venti
+30; trenta
+40; quaranta
+50; cinquanta
+60; sessanta
+70; settanta
+80; ottanta
+90; novanta
+100; cento
+1 000; mille
+1 000 000; un milione
+transport; mezzi di trasporto
+helicopter; l’elicottero m
+rotor; il rotore
+blade; la pala
+cockpit; la cabina di pilotaggio
+nose; la prua
+tail; la coda
+street; la strada
+commuter; il pendolare
+driver; l’autista m / l’autista f
+passenger; il passeggero
+pedestrian; il pedone
+traffic; il traffico
+traffic jam; l’ingorgo stradale m
+rush hour; l’ora di punta f
+public transport; il trasporto pubblico
+taxi; il taxi
+taxi rank; la stazione dei taxi
+road sign; la segnaletica stradale
+directions; le direzioni stradali
+route; l’itinerario m
+to walk; camminare
+to drive; guidare
+to return; ritornare
+to cross; attraversare
+to turn; girare
+to commute; fare il pendolare
+to take a taxi; prendere un taxi
+map; la mappa
+ticket; il biglietto
+timetable; l’orario m
+car; la macchina
+people carrier; il monovolume
+caravan; il caravan
+motorhome; il camper
+passenger seat; il sedile passeggero
+driver’s seat; il posto di guida
+back seat; il sedile posteriore
+child seat; il seggiolino per bambini
+roof rack; il portapacchi
+sunroof; il tettuccio apribile
+automatic (car); la (macchina) automatica
+electric (car); la (macchina) elettrica
+hybrid (car); la (macchina) ibrida
+engine; il motore
+battery; la batteria
+brake; i freni
+accelerator; l’acceleratore m
+boot; il portabagagli
+roof; il tettuccio
+window; il finestrino
+wheel; la ruota
+door; la portiera
+air conditioning; l’aria condizionata f
+clutch; la frizione
+cruise control; la regolazione automatica della velocità
+exhaust (pipe); il tubo di scappamento
+fuel tank; il serbatoio del carburante
+gearbox; il cambio
+transmission; la trasmissione
+wing; l’ala f
+tyre; il pneumatico
+bonnet; il cofano
+windscreen wiper; il tergicristallo
+windscreen; il parabrezza
+Breathalyser; l’etilometro m
+to start the engine; accendere il motore
+to brake; frenare
+to overtake; sorpassare
+to park; parcheggiare
+to reverse; fare retromarcia
+to slow down; rallentare
+to speed up; accelerare
+to stop; fermarsi
+wing mirror; lo specchietto laterale
+headlight; il fanale anteriore
+bumper; il paraurti
+number plate; il numero di targa
+indicator; la freccia
+dashboard; il cruscotto
+fuel gauge; l’indicatore del carburante m
+gearstick; il cambio
+glove compartment; il vano portaoggetti
+handbrake; il freno a mano
+headrest; il poggiatesta
+ignition; l’accensione f
+rearview mirror; lo specchietto retrovisore
+sat nav; il navigatore
+seatbelt; la cintura di sicurezza
+speedometer; il tachimetro
+steering wheel; il volante
+driving; guidare
+single-track road; la strada a una sola corsia
+corner; la curva
+exit; l’uscita f
+slip road; la rampa d’accesso
+layby; la piazzola di sosta
+speed limit; il limite di velocità
+diversion; la deviazione stradale
+driving licence; la patente
+car registration document; il documento di immatricolazione della macchina
+car insurance; l’assicurazione stradale f
+car hire/rental; l’autonoleggio m
+unleaded petrol; la benzina senza piombo
+diesel; il diesel
+roadworks; i lavori stradali
+accessible parking space; il parcheggio accessibile
+bridge; il ponte
+car park; il parcheggio
+car wash; l’autolavaggio m
+fuel pump; la pompa di benzina
+junction; il bivio
+kerb; il cordolo
+lane; la corsia
+level crossing; il passaggio a livello
+motorway; l’autostrada f
+parking meter; il parchimetro
+parking space; il parcheggio
+pavement; il marciapiede
+petrol station; il benzinaio
+pothole; la buca
+road; la strada
+roundabout; la rotonda
+speed camera; l’autovelox m
+toll point; il casello autostradale
+traffic cone; il cono di traffico
+traffic lights; il semaforo
+traffic warden; l’ausiliare del traffico m / l’ausiliare del traffico f
+tunnel; il tunnel
+zebra crossing; le strisce pedonali
+car trouble; problemi con la macchina
+accident; l’incidente m
+breakdown; il guasto
+collision; la collisione
+flat tyre; la ruota bucata
+to break down; avere un guasto
+to have an accident; avere un incidente
+to have a flat tyre; avere una ruota bucata
+to change a tyre; cambiare la ruota
+to tow; trascinare a rimorchio
+airbag; l’airbag m
+antifreeze; l’antigelo m
+emergency phone; il telefono d’emergenza
+garage; l’autofficina f
+hi-viz vest; il giubbotto ad alta visibilità
+jack; il martinetto
+jump leads; i cavi di avviamento
+mechanic; il meccanico
+snow chains; le catene da neve
+spare wheel; la ruota di scorta
+tow truck; il carro attrezzi
+warning triangle; il triangolo di segnalazione
+bus; l’autobus
+bus route; l’itinerario degli autobus m
+bus lane; la corsia preferenziale
+bus stop; la fermata dell’autobus
+bus station; la stazione degli autobus
+bus pass; l’abbonamento dell’autobus m
+fare; la tariffa
+full/half fare; il biglietto a prezzo pieno / a metà prezzo
+concession; il biglietto agevolato
+wheelchair access; l’accesso per sedia a rotelle m
+shuttle bus; l’autobus navetta m
+school bus; lo scuolabus
+tour bus; l’autobus turistico m
+to catch the bus; prendere l’autobus
+bus; l’autobus m
+bus shelter; la fermata dell’autobus
+coach; il pullman
+minibus; il minibus
+tram; il tram
+trolley bus; il filobus
+bicycle; la bicicletta
+cyclist; il / la ciclista
+mountain bike; la mountain bike
+road bike; la bicicletta da strada
+bike stand; il cavalletto
+bell; il campanello
+bike lock; il lucchetto per bici
+bicycle brake; il freno
+handlebars; il manubrio
+gears; le marce
+crossbar; il tubo orizzontale
+bike rack; la rastrelliera per bici
+child seat; il seggiolino per bambini
+cycle lane; la pista ciclabile
+puncture repair kit; il kit di riparazione per le forature
+front light; la luce anteriore
+helmet; il casco 
+saddle; il sellino
+frame; il telaio
+pedal; il pedale
+cycling shorts; i pantaloncini da ciclismo
+to get a puncture; bucare
+to cycle; pedalare
+to go for a bike ride; andare a fare un giro in bicicletta
+pump; la pompa per bicicletta
+reflector; il catarifrangente
+chain; la catena
+tyre; il pneumatico
+wheel; la ruota
+motorbike; la motocicletta
+motorcyclist; il / la motociclista
+moped; il motorino
+scooter; lo scooter
+fuel tank; il serbatoio del carburante
+handlebars; il manubrio
+headlight; il fanale anteriore
+mudguard; il parafango
+exhaust pipe; il tubo di scappamento
+kickstand; il cavalletto
+boots; gli stivali
+crash helmet; il casco protettivo
+helmet cam; la videocamera da casco
+leather gloves; i guanti di pelle
+leather jacket; la giacca di pelle
+motorbike; la moto
+rail travel; la ferrovia
+rail network; la rete ferroviaria
+high-speed train; il treno ad alta velocità
+passenger train; il treno passeggeri
+freight train; il treno merci
+sleeper; il vagone letto
+line; la linea
+metro station; la stazione di metropolitana
+left luggage; il deposito bagagli
+railcard; l’abbonamento ferroviario m
+single ticket; il biglietto di sola andata
+return ticket; il biglietto di andata e ritorno
+e-ticket; il biglietto elettronico
+first-class; di prima classe
+quiet coach; la carrozza silenziosa
+seat reservation; il posto prenotato
+to change trains; cambiare treno
+to validate a ticket; obliterare un biglietto
+carriage; la carrozza
+couchette; la cuccetta
+departure board; il tabellone delle partenze
+guard; la guardia
+light railway; la metropolitana leggera
+locomotive; la locomotiva
+luggage rack; il ripiano portabagagli
+metro; la metropolitana
+platform; il binario
+porter; il facchino
+restaurant car; il vagone ristorante
+refreshments trolley; il carrello
+signal box; la cabina di manovra
+sliding doors; le porte scorrevoli
+ticket barrier; il tornello
+ticket machine; la biglietteria automatica
+ticket office; la biglietteria
+track; il binario
+train; il treno
+train station; la stazione ferroviaria
+validation machine; l’obliteratrice f
+air travel; trasporto aereo
+aeroplane; l’aeroplano m
+wing; l’ala f
+fuselage; la fusoliera
+engine; il motore
+airline; la linea aerea
+terminal; il terminal
+Arrivals/Departures; gli arrivi / le partenze
+security; il controllo di sicurezza
+passport control; il controllo passaporti
+customs; la dogana
+cabin crew; l’equipaggio m
+business class; la business class
+economy class; l’economy class f
+aisle; il corridoio
+tray table; il tavolino
+overhead locker; la cappelliera
+seatbelt; la cintura di sicurezza
+hold; la stiva
+hold luggage; il bagaglio che ha passato il controllo di sicurezza
+excess baggage; il bagaglio in eccesso
+hand/cabin baggage; il bagaglio a mano
+connecting flight; la coincidenza
+jetlag; il jetlag
+to check in (online); effettuare il check-in (online)
+aeroplane; l’aeroplano m
+airport; l’aeroporto m
+baggage reclaim; il ritiro bagagli
+boarding card; la carta d’imbarco
+cabin; la cabina
+check-in desk; il check-in
+cockpit; la cabina di pilotaggio
+departure board; il tabellone delle partenze
+duty-free shop; il duty free
+holdall; la borsa da viaggio
+luggage trolley; il carrello portabagagli
+passport; il passaporto
+pilot; il pilota / la pilota
+runway; la pista
+suitcase; la valigia
+ferry and boat travel; muoversi per traghetto e nave
+ferry crossing; la traversata in traghetto
+ferry terminal; il terminal dei traghetti
+car deck; il ponte garage
+deck; il ponte
+lifeboat; la scialuppa di salvataggio
+stern; la poppa general
+anchor; l’ancora f
+buoy; la boa
+gangway; la passerella
+bow; la prua
+porthole; l’oblò m
+funnel; il fumaiolo
+pier; il pontile
+port; il porto
+canal; il canale
+lock; la chiusa
+harbour; il porto
+jetty; il molo
+lifebuoy; il salvagente
+coastguard; la guardia costiera
+captain; il capitano
+crew l’equipaggio m; to board
+salire a bordo di; to sail navigare
+to dock; entrare in porto
+lifejacket; il giubbotto di salvataggio
+marina; il porticciolo
+mooring; l’ormeggio m
+canal boat; la chiatta
+canoe; la canoa
+ferry; il traghetto
+inflatable dinghy; il canotto
+kayak; il kayak
+liner; il transatlantico
+rowing boat; la barca a remi
+sailing boat; la barca a vela
+yacht; lo yacht
+in the home; a casa
+block of flats; il condominio
+roof; il tetto
+balcony; il balcone
+window; la finestra
+villa; la villa
+townhouse; la casa in città
+building; il palazzo
+address; l’indirizzo m
+suburb; il sobborgo
+district; il quartiere
+estate agent; l’agente immobiliare m
+apartment block; il condominio
+bungalow; il bungalow
+landlord; il proprietario
+landlady; la proprietaria
+tenant; l’affittuario m
+neighbour; il vicino di casa / la vicina di casa
+mortgage; il mutuo
+rent; l’affitto m
+detached house; il villino
+farmhouse; la fattoria
+holiday let; la casa vacanza
+to rent; affittare
+to own; possedere
+to live; vivere
+to move house; cambiare casa
+to build a house; costruire una casa
+semi-detached house; la casa bifamiliare
+studio flat; il monolocale
+the house; la casa
+room; la stanza
+cellar; la cantina
+attic; la mansarda
+ceiling; il soffitto
+wall; il muro
+floor; il pavimento
+battery; la batteria
+plug; la spina
+boiler; la caldaia
+ceiling fan; il ventilatore da soffitto
+extension cable; la prolunga
+fusebox; il quadro elettrico
+adaptor; l’adattatore m
+socket; la presa
+electricity; l’elettricità f
+air conditioning; l’aria condizionata f
+central heating; il riscaldamento centralizzato
+satellite dish; l’antenna parabolica f
+porch; il portico
+heater; la stufa
+light bulb; la lampadina
+meter; il contatore
+radiator; il termosifone
+back door; la porta sul retro
+French windows; la porta finestra
+balcony; il balcone
+skylight; il lucernario
+power cut; il blackout
+to fix; riparare
+to decorate; dipingere
+to renovate; ristrutturare
+security alarm; l’allarme di sicurezza m
+smoke alarm; il rilevatore di fumo
+thermostat; il termostato
+wood-burning stove; la stufa a legna
+gate; il cancello
+shutter; la serranda
+window; la finestra
+roof; il tetto
+chimney; il comignolo
+aerial; l’antenna f
+gutter; la grondaia
+drainpipe; il tubo di scarico
+gable; il timpano
+front door; la porta d’ingresso
+garage; il garage
+driveway; il viale
+doorway; l’entrata f
+corridor; il corridoio
+hallway; l’ingresso m
+landing; il pianerottolo
+stairwell; la tromba delle scale
+staircase; la scala
+lift; l’ascensore m
+doormat; lo zerbino
+key; la chiave
+to buzz somebody in; far entrare qualcuno
+to wipe one’s feet; pulirsi le scarpe
+to hang one’s jacket up; appendere la giacca
+doorbell; il campanello
+intercom; il citofono
+letterbox; la cassetta della posta
+the lounge; il salotto
+carpet; il tappeto
+floorboard; l’asse del pavimento f
+suite; la suite
+sofa bed; il divano letto
+table lamp; la lampada da tavolo
+bookcase; la libreria
+curtains; le tende
+display cabinet; l’armadio espositivo m
+wall light; la luce a muro
+TV; il televisore
+fireplace; il camino
+home entertainment system; l’home theater m
+cable TV; la televisione via cavo
+satellite TV; la televisione satellitare
+smart TV; la smart TV
+DVD / Blu-ray player; il lettore DVD / Blu-ray
+radio; la radio
+remote control; il telecomando
+coffee table; il tavolino
+sofa; il divano
+picture; il quadro
+TV on demand; la TV on demand
+to relax; rilassarsi
+to sit down; sedersi
+to watch TV; guardare la televisione
+sideboard; la credenza
+TV stand; il porta TV
+Venetian blind; la tenda veneziana
+ornament; il soprammobile
+shelves; lo scaffale
+armchair; la poltrona
+footstool; il poggiapiedi
+rug; il tappeto
+cushion; il cuscino
+the kitchen; la cucina
+electric cooker; il fornello elettrico
+gas cooker; il fornello a gas
+cooker hood; la cappa
+kettle; il bollitore
+to cook; cucinare
+to wash up; lavare i piatti
+to clean the worktops; pulire il ripiano della cucina
+to put away the groceries; sistemare la spesa
+aluminium foil; la carta d’alluminio
+bin bag; il sacco della spazzatura
+kitchen utensils; baking tray la teglia
+cafetière; la caffettiera
+casserole dish; la casseruola
+chopping board; il tagliere
+bread bin; il portapane
+clingfilm; la pellicola
+coffee pot; la macchina da caffè
+colander; lo scolapasta
+corkscrew; il cavatappi
+food processor; il frullatore
+kitchen roll; la carta da cucina
+pedal bin; la pattumiera a pedale
+frying pan; la padella
+grater; la grattugia
+hand mixer; il frullatore
+herb chopper; la mezzaluna
+ladle; il mestolo
+masher; lo schiacciapatate
+measuring jug; il recipiente graduato
+mixing bowl; la scodella
+pasta machine; la macchina per la pasta
+the kitchen sink; il lavello
+oven; il forno
+hob; il piano cottura
+microwave; il microonde
+spotlight; il faretto
+peeler; il pelapatate
+rolling pin; il mattarello
+saucepan; la pentola
+sieve; il colino
+spatula; la spatola
+fridge-freezer; il frigorifero con congelatore
+cupboard; la credenza
+tap; il rubinetto
+draining board; lo scolapiatti
+tin opener; l’apriscatole m
+toaster; il tostapane
+whisk; la frusta
+wok; il wok
+wooden spoon; il cucchiaio di legno
+drawer; il cassetto
+worktop; il ripiano
+tiles; le piastrelle
+the dining room; la sala da pranzo
+dining table; la tavola
+place mat; la tovaglietta
+coaster; il sottobicchiere
+gravy boat; la salsiera
+napkin; il tovagliolo
+bowl; l’insalatiera f
+champagne flute; il flute da spumante
+cup and saucer; la tazza e il piattino
+crockery; le stoviglie
+cutlery; le posate
+glassware; la cristalleria
+pepper mill; il macinapepe
+salad bowl; l’insalatiera f
+knife and fork; il coltello e la forchetta
+plate; il piatto
+spoon; il cucchiaio
+to set the table; apparecchiare
+to dine; cenare
+to clear the table; sparecchiare
+salt cellar; la saliera
+serving dish; il piatto da portata
+teaspoon; il cucchiaino
+tumbler; il bicchiere
+wine glass; il calice da vino
+the bedroom; la stanza da letto
+single bed; il letto singolo
+double bed; il letto matrimoniale
+master bedroom; la camera da letto
+spare bedroom; la camera degli ospiti
+en-suite bathroom; il bagno privato
+nursery; la stanza dei bambini
+bedding; la biancheria da letto
+to go to bed; andare a letto
+to sleep; dormire
+to wake up; svegliarsi
+to make the bed; fare il letto
+to change the sheets; cambiare le lenzuola
+blanket; la coperta
+bunk beds; i letti a castello
+clock radio; la radiosveglia
+bedroom mirror; lo specchio
+chest of drawers; la cassettiera
+bed; il letto
+wardrobe; l’armadio m
+coat hanger; la gruccia
+dressing table; il comò
+hairdryer; l’asciugacapelli m
+duvet; il piumone
+curtains; le tende
+armchair; la poltrona
+bedside lamp; l’abat-jour m
+laundry basket; il cesto della biancheria
+quilt; la trapunta
+sheets; le lenzuola
+rug; il tappeto
+pillow; il cuscino
+mattress; il materasso
+bedside table; il comodino
+the bathroom; il bagno
+shower curtain; la tenda da doccia
+toilet seat; il sedile del gabinetto
+toiletries; gli articoli per l’igiene personale
+general; bath mat
+il tappetino da bagno; bath towel l’asciugamano da bagno m
+face cloth; l’asciugamano per il viso m
+bathroom mirror; lo specchio
+wash-hand basin; il lavandino
+shower; la doccia
+toilet; il gabinetto
+drain; lo scarico
+to shower; fare la doccia
+to have a bath; farsi un bagno
+hand towel; l’asciugamano per le mani m
+shower puff; la spugna per la doccia
+soap; il sapone
+towel rail; il portasciugamani
+tap; il rubinetto
+cabinet; l’armadietto m
+to wash one’s hands; lavarsi le mani
+to brush one’s teeth; lavarsi i denti
+to go to the toilet; andare al gabinetto
+sponge; la spugna
+toilet brush; lo scopino del water
+toilet roll; il rotolo di carta igienica
+bidet; il bidè
+shower screen; lo schermo doccia
+bath; la vasca da bagno
+the garden; il giardino
+tree; l’albero m
+soil; il terreno
+grass; l’erba f
+plant; la pianta
+weed; l’erbaccia f
+decking; il pavimento in legno
+garden fork; il rastrello
+garden hose; il tubo da giardino
+gardening gloves; i guanti da giardinaggio
+garden shed; il capanno da giardino
+greenhouse; la serra
+flowerbed; l’aiuola f
+compost; il concime
+allotment; il lotto di terreno
+gardener; il giardiniere
+hoe; la zappa
+lawnmower; il tagliaerba
+parasol; il parasole
+plant pot; il vaso
+pruners; le cesoie da giardiniere
+spade; la vanga
+to weed; rimuovere le erbacce
+to water; annaffiare
+to grow; coltivare
+to plant; piantare
+trowel; la paletta da giardiniere
+watering can; l’annaffiatoio m
+weedkiller; il diserbante
+Wellington boots; gli stivali di gomma
+wheelbarrow; la carriola
+windowbox; la fioriera
+trellis; il traliccio
+lawn; il prato
+shrub; il cespuglio
+gate; il cancello
+fence; lo steccato
+birdbox; la casetta per gli uccelli
+garden furniture; l’arredamento da giardino m
+path; il sentiero
+flowers; i fiori
+patio; il patio
+flowerpot; il vaso da fiori
+housework; le faccende di casa
+utility room; il ripostiglio
+household appliances; gli elettrodomestici
+chores; le faccende
+wastepaper basket; il cestino della spazzatura
+basin; la bacinella
+bleach; la candeggina
+disinfectant; il disinfettante
+dishwasher tablet; la pastiglia per la lavastoviglie
+laundry detergent; il detersivo per il bucato
+washing-up liquid; il detersivo per i piatti
+to sweep the floor; spazzare il pavimento
+to do the laundry; fare il bucato
+to hoover passare; l’aspirapolvere
+to tidy up; mettere a posto
+to clean; pulire
+to take out the bin; portare fuori la spazzatura
+brush; la scopa
+bucket; il secchio
+cloth; lo straccio
+clothes horse; lo stendino
+clothes pegs; le mollette da bucato
+dishwasher; la lavastoviglie
+dustbin; il bidone della spazzatura
+dustpan; la paletta per la spazzatura
+iron; il ferro da stiro
+ironing board; la tavola da stiro
+mop; il mocio
+rubber gloves; i guanti di gomma
+scourer; la spugna
+tea towel; lo strofinaccio
+tumble drier; l’asciugatrice f
+vacuum cleaner; l’aspirapolvere f
+washing line; il filo del bucato
+washing machine; la lavatrice
+at the shops; nei negozi
+basket; il cestino
+banana; la banana
+bread; il pane
+vegetable oil; l’olio vegetale m
+shop; il negozio
+shopping centre; il centro commerciale
+supermarket; il supermercato
+market; il mercato
+shop assistant; il commesso / la commessa
+cash; i contanti
+change; il resto
+gift voucher; il buono acquisto
+PIN; il pin
+exchange; il cambio
+refund; il rimborso
+voucher; il buono
+contactless; contactless
+to browse; curiosare
+to buy; acquistare
+to pay; pagare
+to shop (online); fare compere (online)
+to do the shopping / go shopping; andare a fare shopping
+banknotes; le banconote
+card reader; il lettore carte di credito
+coins; le monete
+debit/credit card; la carta di debito / credito
+paper bag; la busta di carta
+plastic bag; la busta di plastica
+receipt; la ricevuta
+reusable shopping bag; la busta riciclabile
+till point; la cassa
+supermarket; al supermercato
+groceries; le cibarie
+aisle; il corridoio
+delicatessen; il negozio di gastronomia
+ready meal; il cibo pronto
+bottle; la bottiglia
+box; la scatola
+basket; il cestino
+biscuits; i biscotti
+couscous; il couscous
+herbs; le erbe aromatiche
+honey; il miele
+icing sugar; lo zucchero a velo
+carton; la confezione
+jar; il vasetto
+multipack; confezione multipla f
+packet; il pacchetto
+tin; il barattolo
+tinned; in scatola
+scales; la bilancia
+instant coffee; il caffè solubile
+jam; la marmellata
+ketchup; il ketchup
+marmalade; la marmellata di agrumi
+fresh; fresco
+frozen; congelato
+dairy; ricavato dal latte
+low-fat; a basso contenuto di grassi
+low-calorie; a basso contenuto calorico
+trolley; il carrello
+mayonnaise; la maionese
+noodles; i noodles
+olive oil; l’olio di oliva m
+pasta; la pasta
+pepper; il pepe
+rice; il riso
+salt; il sale
+chocolate; la cioccolata
+crisps; le patatine fritte
+beer; la birra
+fizzy drink; la bevanda gassata
+spices; le spezie
+sugar; lo zucchero
+teabags; le bustine di tè
+nuts; la frutta secca
+olives; le olive
+fruit juice; il succo di frutta
+spirits; i superalcolici
+vegetable oil; l’olio vegetale m
+vinegar; l’aceto m
+popcorn; i popcorn
+sweets; le caramelle
+still/sparkling water; l’acqua liscia / gassata f
+wine; il vino
+market; al mercato
+marketplace; il mercato
+traditional production; la produzione tradizionale
+flea market; il mercatino
+indoor market; il mercato coperto
+farmer’s market; il mercato degli agricoltori
+stall; la bancarella
+trader; il commerciante
+produce; i prodotti
+local; locale
+organic; biologico
+seasonal; stagionale
+home-made; casereccio
+fruit and vegetables; frutta e verdura
+grocer; il fruttivendolo
+juice; il succo
+leaf; la foglia
+peel; la buccia
+pip; il seme
+rind; la scorza
+seed; il seme
+fruit; apple
+la mela; apricot l’albicocca f
+banana; la banana
+blackberry; la mora
+segment; lo spicchio
+skin; la buccia
+stone; il nocciolo
+raw; crudo
+fresh; fresco
+rotten; marcio
+seedless; senza semi
+blueberry; il mirtillo
+cherry; la ciliegia
+fig; il fico
+grape; l’uva f
+ripe; maturo
+unripe; acerbo
+to chop; sminuzzare
+to dice; tagliare a dadini
+to grate; grattugiare
+to juice; spremere
+to peel; sbucciare
+grapefruit; il pompelmo
+kiwi fruit; il kiwi
+lemon; il limone
+mango; il mango
+melon; il melone
+nectarine; la pescanoce
+orange; l’arancia f
+passion fruit; il frutto della passione
+artichoke; il carciofo
+asparagus; l’asparago m
+aubergine; la melanzana
+broad beans; le fave
+broccoli; il broccolo
+cabbage; il cavolo
+carrot; la carota
+cauliflower; il cavolfiore
+peach; la pesca
+pear; la pera
+pineapple; l’ananas m
+plum; la susina
+celery; il sedano
+chilli; il peperoncino
+courgette; la zucchina
+cucumber; il cetriolo
+garlic; l’aglio m
+green beans; i fagiolini
+leek; il porro
+mushroom; il fungo
+raspberry; il lampone
+redcurrant; il ribes rosso
+strawberry; la fragola
+watermelon; l’anguria f
+onion; la cipolla
+peas; i piselli
+potato; la patata
+radicchio; il radicchio
+red pepper; il peperone rosso
+spinach; gli spinaci
+squash; la zucca
+tomato; il pomodoro
+fishmonger’s; dal pescivendolo
+fishmonger; il pescivendolo
+(fish)bone; la lisca
+fillet; il filetto
+filleted; fatto a filetti
+roe; le uova di pesce
+anchovy; l’acciuga f
+cod; il merluzzo
+herring; l’aringa f
+lemon sole; la sogliola
+clam; la vongola
+crab; il granchio
+crayfish; il gambero d’acqua dolce
+scales; le squame
+shellfish; il crostaceo
+shell; il guscio
+freshwater; d’acqua dolce
+saltwater; di mare
+mackerel; lo sgombro
+salmon; il salmone
+salt cod; la baccalà
+sardine; la sardina
+lobster; l’aragosta f
+mussel; la cozza
+octopus; il polipo
+farmed; di allevamento
+wild; selvatico
+salted; salato
+smoked; affumicato
+deboned; spinato
+sea bass; la spigola
+sea bream; l’orata f
+trout; la trota
+tuna; il tonno
+oyster; l’ostrica f
+prawn; il gambero
+scallop; la capasanta
+sea urchin; il riccio
+shrimp; il gamberetto
+squid; il calamaro
+butcher; il macellaio
+meat; la carne
+red meat; la carne rossa
+white meat; la carne bianca
+cold meats; gli affettati
+beef; il manzo
+pork; il maiale
+lamb; l’agnello m
+poultry; il pollame
+duck; l’anatra f
+goose; l’oca f
+turkey; il tacchino
+game; la cacciagione
+veal; la carne di vitello
+venison; la carne di cervo
+offal; le frattaglie
+cooked; cucinato
+raw; crudo
+roasted; arrostito
+organic; biologico
+free-range; ruspante
+beefburger; l’hamburger m
+chicken breast; il petto di pollo
+chop; la costoletta
+(cured) sausage; il salame
+ham; il prosciutto
+hog roast; la porchetta
+joint; il tocco di carne
+mince; la carne tritata
+mortadella; la mortadella
+pancetta; la pancetta
+sausage; la salsiccia
+steak; la bistecca
+bakery and patisserie; panetteria e pasticceria
+baker; il fornaio
+bread il pane; wholemeal bread il pane integrale
+loaf; la pagnotta
+slice; la fetta
+crust; la crosta
+flour; la farina
+gluten-free; senza glutine
+to bake; cuocere al forno
+almond biscuits; i biscotti di mandorle
+amaretti biscuits; gli amaretti
+bread rolls; i panini
+cake; la torta
+ciabatta; la ciabatta
+croissant; il cornetto
+custard-filled croissant; il cornetto alla crema
+doughnut; la bomba
+éclair; il bignè
+focaccia; la focaccia
+lattice-top pie; la crostata
+panettone; il panettone
+cheese shop; il negozio di formaggi
+cheese; il formaggio
+blue cheese; il formaggio erborinato
+sheep’s-milk cheese; il formaggio di pecora
+cow’s-milk cheese; il formaggio di mucca
+cream cheese; il formaggio spalmabile
+smoked cheese; il formaggio affumicato
+hard cheese; il formaggio a pasta dura
+burrata; la burrata
+caciocavallo; il caciocavallo
+caciotta; la caciotta
+Emmenthal; l’emmental m
+fontina; la fontina
+goat’s cheese; il formaggio di capra
+gorgonzola; il gorgonzola
+mascarpone; il mascarpone
+mozzarella; la mozzarella
+Parmesan; il parmigiano
+pecorino; il pecorino
+provolone; il provolone
+ricotta; la ricotta
+scamorza; la scamorza
+taleggio; il taleggio
+egg white; l’albume m
+egg yolk; il tuorlo
+UHT milk; il latte a lunga conservazione
+whole milk; il latte intero
+semi-skimmed milk; il latte parzialmente scremato
+skimmed milk; il latte scremato
+double cream; la panna intera
+single cream; la panna semigrassa
+pasteurized pastorizzato; unpasteurized non pastorizzato
+free-range; di gallina ruspante
+dairy-free; senza lattosio
+butter; il burro
+cream; la panna
+eggs; le uova
+margarine; la margarina
+milk; il latte
+yoghurt; lo yogurt
+pharmacist; il farmacista
+prescription; la ricetta
+cold; il raffreddore
+diarrhoea; la diarrea
+antiseptic cream; la crema antisettica
+bandage; la fasciatura
+capsule; la capsula
+condom; il preservativo
+antiperspirant; l’antitraspirante m
+conditioner; il balsamo
+mouthwash; il collutorio
+hay fever; la febbre da fieno
+asthma; l’asma f
+headache; il mal di testa
+sore throat/stomach; il mal di gola / stomaco
+cough mixture; lo sciroppo per la tosse
+drops; le gocce
+insect repellent; l’insettifugo m
+lozenge; la losanga
+razor; il rasoio
+sanitary towel; l’assorbente m
+shampoo; lo shampoo
+antihistamine; l’antistaminico m
+antiseptic; l’antisettico m
+decongestant; il decongestionante
+painkiller; l’antidolorifico m
+medicine; la medicina
+plaster; il cerotto
+suntan lotion; la crema solare
+tablet/pill; la pastiglia
+shaving foam; la schiuma da barba
+shower gel; il bagnoschiuma
+soap; il sapone
+tampon; l’assorbente interno m
+blusher; il fard
+comb; il pettine
+eyeliner; l’eye liner m
+eyeshadow; l’ombretto m
+toothbrush; lo spazzolino da denti
+foundation; il fondotinta
+hairbrush; la spazzola per capelli
+hairspray; lo spray per capelli
+lip balm; il burro cacao
+toothpaste; il dentifricio
+lipstick; il rossetto
+mascara; il mascara
+nail varnish; lo smalto per le unghie
+powder; la terra
+baby goods; prodotti per bambini
+sterilizer; lo sterilizzatore
+disposable nappy; il pannolino usa e getta
+nappy sacks; i sacchetti per pannolini
+teething gel; il gel dentizione
+nappy rash; l’eritema da pannolino f
+colic; la colica
+to sterilize; sterilizzare
+to be teething; mettere i denti
+to breast-feed; allattare
+babygro®/sleepsuit; la tutina
+bib; il bavaglino
+baby food; gli omogeneizzati
+baby lotion; la crema per bambini
+baby’s bottle; il biberon
+changing bag; la borsa per il cambio
+baby bath; la vaschetta per il bagnetto
+baby seat; il sedile per bambini
+baby walker; il girello
+cot; il lettino
+bootees; le scarpine
+mittens; le muffole
+cotton bud; il cotton fioc
+cotton wool; l’ovatta f
+formula milk; il latte in polvere
+nappy; il pannolino
+dummy; il ciuccio
+highchair; il seggiolone
+mobile; la giostrina
+Moses basket; la culla di vimini
+snowsuit; il pagliaccetto
+vest; la canottiera
+nappy cream; la crema per eritema / da pannolino
+rusk; il biscotto
+talcum powder; il borotalco
+wet wipes; le salviette / umidificate
+pram; la carrozzina
+pushchair; il passeggino
+teething ring; l’anello da dentizione m
+travel cot; il lettino da viaggio
+broadsheet; il giornale
+tabloid; il giornale scandalistico
+kiosk; il chiosco
+book; il libro
+cigar; il sigaro
+cigarette; la sigaretta
+comic book; il libro di fumetti
+confectionery; i dolciumi
+envelope; la busta
+stationery; la cartoleria
+tickets; i biglietti
+tobacconist; la tabaccheria
+greetings card; il biglietto d’auguri
+magazine; la rivista
+map; la mappa
+newspaper; il giornale
+notebook; il taccuino
+pen; la penna
+vendor; il venditore
+daily; giornaliero
+weekly; settimanale
+pencil; la matita
+postcard; la cartolina
+puzzle book; il libro di enigmistica
+scratch card; il gratta e vinci
+stamp; il francobollo
+tobacco; il tabacco
+department store; grande magazzino
+floor; il piano
+escalator; la scala mobile
+lift; l’ascensore m
+toilets; la toilette
+counter; il bancone
+department; il reparto
+menswear; l’abbigliamento uomo m
+womenswear; l’abbigliamento donna m
+sportswear; l’abbigliamento sportivo m
+swimwear; i costumi da bagno
+brand; la marca
+designer; di marca
+luxury; di lusso
+sale; i saldi
+accessories; gli accessori
+cosmetics; i cosmetici
+fashion; la moda
+food and drink; cibo e bevande
+footwear; le calzature
+furniture; i mobili
+kitchenware; gli utensili da cucina
+leather goods; gli articoli in pelle
+lighting; l’illuminazione f
+lingerie; la biancheria intima
+soft furnishings; i tessuti d’arredo
+toys; i giocattoli
+clothing and footwear; vestiti e scarpe
+fitting room; il camerino
+clothes/clothing; gli abiti
+shoes/footwear; le calzature
+underwear; l’abbigliamento intimo m
+wallet; il portafoglio
+purse; il borsellino
+jewellery; i gioielli
+bikini; il bikini
+blouse; la camicetta
+boxer shorts; i boxer
+bra; il reggiseno
+cardigan; il cardigan
+coat; il cappotto
+umbrella; l’ombrello m
+casual; casual
+smart; elegante
+wool; la lana
+denim; il denim
+cotton; il cotone
+polyester; il poliestere
+dress; l’abito m
+dressing gown; la vestaglia
+jacket; la giacca
+jeans; i jeans
+jogging bottoms; la tuta da ginnastica
+jumper; il maglione
+leather; la pelle
+silk; la seta
+size (clothing); la taglia
+size (shoe); il numero
+petite; petite
+plus-size; taglie forti
+to try on; provare
+leggings; i pantacollant
+pants; le mutande
+pyjamas; il pigiama
+shirt; la camicia
+shorts; i calzoncini
+skirt; la gonna
+socks; i calzini
+sweatshirt; la felpa
+swimsuit; il costume da bagno
+baseball cap; il berretto con visiera
+belt; la cinta
+bracelet; il bracciale
+boots; gli stivali
+high heels; i tacchi alti
+(three-piece) suit; l’abito (a tre pezzi) m
+tie; la cravatta
+tights; il collant
+earrings; gli orecchini mpl
+gloves; i guanti
+handbag; la borsa
+lace-up shoes; le scarpe stringate
+sandals; i sandali
+trousers; i pantaloni
+T-shirt; la T-shirt
+waterproof jacket; la giacca impermeabile
+necklace; la collana
+scarf; la sciarpa
+woolly hat; il cappello di lana
+slippers; le pantofole
+trainers; le scarpe da ginnastica
+diy store; ferramenta
+tool; l’utensile m
+tool box; la cassetta degli attrezzi
+power tool; l’utensile elettrico m
+electricity; l’elettricità f
+joinery; la carpenteria
+home improvements; il fai da te
+painting; l’imbiancatura f
+plumbing; la piombatura
+to do DIY; faire il fai da te
+chisel; lo scalpello
+electric drill; il trapano elettrico
+hammer; il martello
+nails; i chiodi
+nuts and bolts; i dadi e bulloni
+paint; la vernice
+paintbrush; il pennello
+paint roller; il rullo per verniciare
+pliers; le pinze
+saw; la sega
+screwdriver; il cacciavite
+screws; le viti
+spanner; il chiave inglese
+spirit level; la livella
+stepladder; la scala a libretto
+tiles; le mattonelle
+wallpaper; la carta da parati
+wrench; la chiave
+antique shop; l’antiquariato m
+barber’s; il barbiere
+beauty salon; il salone di bellezza
+bookshop; la libreria
+boutique; la boutique
+car showroom; l’autosalone m
+deli; la pizzicheria
+electronics store; il negozio di elettronica
+estate agency; l’agenzia immobiliare f
+florist’s; il fioraio
+furniture store; il negozio di mobili
+garden centre; il vivaio
+hairdresser’s; il parrucchiere
+health food shop; il negozio di alimenti naturali
+jeweller’s shop; l’orefice m
+optician’s; l’ottico m
+pet shop; il negozio di animali
+phone shop; il negozio di telefoni
+record shop; il negozio di musica
+shoe shop; il negozio di scarpe
+shopping mall; il centro commerciale
+toyshop; il negozio di giocattoli
+travel agency; l’agenzia viaggi f
+wine shop; l’enoteca f
+day-to-day; espressioni di vita quotidiana
+coffee with milk; il caffè e latte
+handle; l’ansa f
+cup; la tazza
+saucer; il piattino
+to wake up; svegliarsi
+to get dressed; vestirsi
+to eat; mangiare
+to drink; bere
+to arrive; arrivare
+to leave; partire
+to study; studiare
+to work; lavorare
+to meet friends; incontrare gli amici
+to go home; andare a casa
+to go to bed; andare a letto
+breakfast; la colazione
+bread and butter; pane con burro
+cappuccino; il cappuccino
+coffee; il caffè
+bread rolls; i panini
+butter; il burro
+cereal; i cereali
+to have breakfast; fare colazione
+espresso; l’espresso m
+hot chocolate; la cioccolata calda
+chocolate spread; la cioccolata da spalmare
+crispbread; la fetta biscottata
+croissant; il cornetto
+to skip breakfast; saltare la colazione
+orange juice; il succo d’arancia
+tea; il tè
+fruit salad; la macedonia
+jam; la marmellata
+muesli; il muesli
+main meals; i pasti principali
+lunch; il pranzo
+dinner; la cena
+courses; le portate
+assorted cold meats and cheeses; gli affettati e formaggi misti
+cream soup; la vellutata
+fish soup; la zuppa di pesce
+lasagne; le lasagne
+grilled sea bream; l’orata alla griglia f
+meatballs in tomato sauce; le polpette al sugo
+meat roulade; il rollè m
+recipe; la ricetta
+aperitif; l’aperitivo m
+after-dinner drink; il digestivo
+deep-fried rice balls; gli arancini
+fried courgette flowers; i fiori di zucca in pastella
+pasta; la pasta
+risotto; il risotto
+pork cutlet; la costoletta di maiale
+roast chicken; il pollo al forno
+sliced beef; la fettina di manzo
+to have lunch; pranzare
+to have dinner; cenare
+to eat out; mangiare fuori
+mixed seafood; il piatto misto di mare
+smoked salmon; il salmone affumicato
+soup; la zuppa
+tortellini; i tortellini
+sliced veal in tuna sauce; il vitello tonnato
+sirloin steak; la bistecca
+veal wrapped in Parma ham and sage; il saltinbocca
+chips; le patatine fritte
+green salad; l’insalata verde f
+mixed salad; l’insalata mista f
+apple cake; la torta di mele
+chocolate mousse; la mousse al cioccolato
+custard tart with pine nuts; la torta della nonna
+roast potatoes; le patate arrosto
+spinach with lemon and olive oil; gli spinaci all’agro
+fruit tart; la crostatina alla frutta
+ice cream; il gelato
+pannacotta; la panna cotta
+stir-fried chicory; la cicoria ripassata in padella
+parfait; il semifreddo
+profiteroles; i profiteroles
+tiramisu; il tiramisù
+set menu; il menù fisso
+daily specials; le specialità del giorno
+service charge; il coperto
+tip; la mancia
+vegetarian; vegetariano
+vegan; vegetaliano
+gluten-free; senza glutine
+dairy-free; senza lattosio
+to reserve a table; prenotare un tavolo
+to order; ordinare
+to ask for the bill; chiedere il conto
+to be served; essere servito
+bar; il bancone
+bill; il conto
+bread basket; il cestino del pane
+chair; la sedia
+cheese knife; il coltello da formaggio
+table setting; side plate il piattino
+butter knife; il coltello da burro
+dessert fork; la forchetta da dolce
+dessert spoon; il cucchiaio da dolce
+water glass; il bicchiere per l’acqua
+fish knife; il coltello da pesce
+jug of water; la caraffa d’acqua
+menu; il menù
+salt and pepper; il sale e il pepe
+steak knife; il coltello da carne
+white wine glass; il bicchiere da vino bianco
+napkin; il tovagliolo
+fork; la forchetta
+soup bowl; il piatto fondo
+table; il tavolo
+tablecloth; la tovaglia
+toothpicks; gli stuzzicadenti
+vinegar and oil; l’aceto e l’olio m
+waiter/waitress; il cameriere / la cameriera
+dinner plate; il piatto piano
+knife; il coltello
+soup spoon; il cucchiaio da minestra
+red wine glass; il bicchiere da vino rosso
+fast food; il fast food
+fast-food chain; la catena di fast food
+food stall; il banco
+vendor; il venditore / la venditrice
+drive-thru; il drive-in
+an order to go/ a takeaway; un ordine a portar via
+delivery charge; le spese di spedizione
+delivery man/woman; l’addetto alle consegne m / l’addetta alle consegne f
+to place an order; ordinare
+to collect an order; prendere un’ordinazione
+to phone in an order; ordinare per telefono
+burger; l’hamburger m
+fries; le patatine fritte
+hot dog; l’hot dog m
+omelette; l’omelette f
+pancakes; le crêpes
+panini; il panino
+pizza; la pizza
+sushi; il sushi
+toasted sandwich; il toast
+communication and it; la comunicazione e l’informatica
+post; il messaggio
+social media; i social media
+email; l’email f
+email address; l’indirizzo email m
+internet; il internet
+WiFi; il wi-fi
+website; il sito web
+link; il link
+icon; l’icona f
+mouse; il mouse
+mouse mat; il tappetino mouse
+keyboard; la tastiera
+app; l’applicazione f
+data; i dati
+mobile phone; il (telefono) cellulare
+landline; il telefono fisso
+phone call; la telefonata
+text message; il messaggio SMS
+phone signal; il segnale telefonico
+voice mail; la segreteria telefonica
+touchscreen; lo schermo tattile
+screen; il monitor
+button; il tasto
+battery; la batteria
+cable; il cavo
+to make a phone call; fare una telefonata
+to leave a voice mail; lasciare un messaggio in segreteria
+to post (online); postare
+to download/upload; scaricare / caricare
+to charge your phone; ricaricare il telefono
+to switch on/off; accendere / spegnere
+to click on; cliccare su
+charger; il caricabatterie
+computer; il computer
+SIM card; la SIM
+smartphone; lo smartphone
+tablet; il tablet
+wireless router; il router senza fili
+education; l’istruzione
+nursery school; la scuola materna
+primary school; la scuola elementare
+secondary school; la scuola secondaria di primo e di secondo grado
+college; l’università f
+university; l’università f
+headteacher; il preside
+teacher; il professore / la professoressa
+janitor; il bidello / la bidella
+pupil; l’alunno m / l’alunna f
+classroom; la classe
+timetable; l’orario m
+lesson; la lezione
+lecture; la lezione
+tutorial; la lezione
+assignment; l’assegnazione f
+homework; i compiti
+exam; l’esame m
+degree; la laurea
+undergraduate; l’universitario m / l’universitaria f
+postgraduate; il postlaureato / la postlaureata
+canteen; la mensa
+assembly hall; l’aula magna f
+playing field; il campo da gioco
+halls of residence; gli alloggi per studenti universitari
+matriculation card; la carta di immatricolazione
+student union; l’associazione studentesca f
+to learn; imparare
+to read; leggere
+to write; scrivere
+to teach; insegnare
+to revise; rivedere
+to sit an exam; sostenere un esame
+to graduate; laurearsi
+to study; studiare
+colouring pencils; le matite colorate
+eraser; la gomma da cancellare
+exercise book; il quaderno
+paper; la carta
+cafeteria; la caffetteria
+campus; il campus
+pen; la penna
+pencil; la matita
+pencil case; l’astuccio m
+ruler; il righello
+lecture hall; l’aula f
+lecturer; il docente
+schoolbag; lo zaino
+sharpener; il temperamatite
+textbook; il libro di testo
+whiteboard; la lavagna bianca
+library; la biblioteca
+student; lo studente / la studentessa
+the office; l’ufficio
+manager; il direttore / la direttrice
+staff; il personale
+colleague; il collega / la collega
+client; il cliente
+human resources; le risorse umane
+accounts; la contabilità
+figures; le cifre
+spreadsheet; il foglio elettronico
+presentation; la presentazione
+report; la relazione
+meeting; la riunione
+conference call; la teleconferenza
+video conference; la videoconferenza
+ink cartridge; la cartuccia d’inchiostro
+inbox; la posta in arrivo
+file; il file
+attachment; l’allegato m
+username; il nome utente
+password; la password
+to log on/off; connettersi / disconnettersi
+to type; battere (a macchina)
+to give a presentation; fare una presentazione
+to hold a meeting; organizzare una riunione
+calculator; la calcolatrice
+desk; la scrivania
+desk lamp; la lampada da tavolo
+filing cabinet; lo schedario
+folder; la cartella
+hole punch; la perforatrice
+in/out tray; la vaschetta porta– corrispondenza
+laptop; il portatile
+notepad; il taccuino
+paper clip; la graffetta
+photocopier; la fotocopiatrice
+printer; la stampante
+ring binder; il raccoglitore ad anelli
+scanner; lo scanner
+scissors; le forbici
+stapler; la spillatrice
+sticky notes; i Post-it
+sticky tape; lo scotch
+swivel chair; la sedia girevole
+telephone; il telefono
+USB stick; la chiavetta USB
+branch; la filiale
+cashier; il cassiere / la cassiera
+online banking; i servizi bancari online
+bank account; il conto bancario
+current account; il conto corrente
+savings account; il libretto di risparmio
+account number; il numero di conto
+bank statement; l’estratto conto m
+bank balance; il saldo bancario
+overdraft; lo scoperto
+bank transfer; il bonifico bancario
+chequebook; il blocchetto degli assegni
+currency; la moneta
+loan; il prestito
+mortgage; il mutuo
+interest; l’interesse m
+to borrow; prendere in prestito
+to repay; ripagare
+to withdraw; prelevare
+to change money; cambiare dei soldi
+ATM; lo sportello bancomat
+banknotes; le banconote
+bureau de change; l’ufficio di cambio m
+debit/credit card; la carta di debito / credito
+exchange rate; il tasso di cambio
+safety deposit box; la cassetta di sicurezza
+the post office; l’ufficio postale
+address; l’indirizzo m
+first-class; la posta prioritaria
+second-class; la posta ordinaria
+postal van; il furgone della posta
+courier; il corriere
+mail; la posta
+airmail; la posta aerea
+to post imbucare; to send inviare
+box; la scatola
+envelope; la busta
+letter; la lettera
+package; il pacco
+padded envelope; la busta imbottita
+postal worker; l’impiegato postale m / l’impiegata postale f
+postbox; la buca delle lettere
+postcard; la cartolina
+stamp; il francobollo
+in town; in città
+café; il bar
+cathedral; la cattedrale
+church; la chiesa
+conference centre; il centro conferenze
+courthouse; il tribunale
+fire station; la caserma dei vigili del fuoco
+fountain; la fontana
+hospital; l’ospedale m
+hotel; l’albergo m
+laundrette; la lavanderia
+library; la biblioteca
+mosque; la moschea
+office block; gli uffici
+park; il parco
+playground; il parco giochi
+police station; il commissariato
+synagogue; la sinagoga
+town hall; il municipio
+leisure; il tempo libero
+tent; la tenda
+guy rope; la corda da campeggio
+flysheet; il telone esterno
+groundsheet; il telone impermeabile
+tent peg; il picchetto da tenda
+spare time; il tempo libero
+activity; le attività
+hobby; l’hobby m
+pastime; il passatempo
+holiday; la vacanza
+keen; entusiasta
+fun; divertente
+boring; noioso
+to be interested in; essere interessato a
+to pass the time; passare il tempo
+to relax; rilassarsi
+to enjoy oneself; divertirsi
+to get bored; annoiarsi
+cooking; la cucina
+DIY; il fai da te
+gaming; giocare ai videogiochi
+gardening; il giardinaggio
+jogging; il jogging
+listening to music; ascoltare la musica
+reading; la lettura
+shopping; fare shopping
+sports; lo sport
+travelling; il viaggio
+walking; il camminare
+watching TV/films; guardare la TV / i film
+sightseeing; visite turistiche
+tourist; il turista
+tourist attraction; l’attrazione turistica f
+excursion; l’escursione f
+nature reserve; la riserva naturale
+historic site; il sito storico
+audio guide; l’audio-guida f
+guided tour; la visita guidata
+to visit; visitare
+to see; vedere
+art gallery; la galleria d’arte
+camera; la macchinetta fotografica
+castle; il castello
+cathedral; la cattedrale
+city map; la mappa della città
+gardens; i giardini
+guidebook; la guida
+monument; il monumento
+museum; il museo
+sightseeing bus; l’autobus turistico m
+tour guide; la guida turistica
+tourist office; l’ufficio turistico m
+evenings out; serate fuori
+a drink; un drink
+nightlife; la vita notturna
+party; la festa
+show; lo spettacolo
+film; il film
+festival; il festival
+box office; la biglietteria
+to socialize; socializzare
+to order food/drinks; ordinare da mangiare / da bere
+to see a show; vedere uno spettacolo
+to watch a film; guardare un film
+to go dancing; andare a ballare
+to enjoy oneself; divertirsi
+ballet; la danza classica
+bar; il locale
+carnival; il carnevale
+casino; il casinò
+cinema; il cinema
+comedy show; lo spettacolo comico
+concert; il concerto
+funfair; il luna park
+musical; il musical
+nightclub; il night
+opera; l’opera f
+restaurant; il ristorante
+theatre; il teatro
+bed and breakfast; il bed and breakfast
+full board; la pensione completa
+half board; la mezza pensione
+room service; il servizio in camera
+wake-up call; la sveglia
+room number; il numero di camera
+per person per night; per persona per notte
+to check in; fare il check in
+to check out; fare il check out
+to order room service; ordinare il servizio in camera
+corridor; il corridoio
+“do not disturb” sign; il cartellino “non disturbare”
+double room; la camera doppia
+key card; la tessera magnetica
+minibar; il minibar
+porter; il facchino
+reception; la reception
+receptionist; il receptionist
+safe; la cassaforte
+single room; la camera singola
+toiletries; gli articoli da toilette
+twin room; la camera doppia con letti singoli
+camping; il camping
+campsite; il campeggio
+pitch; il campo
+electricity hook-up; il cavo di allacciamento elettrico
+toilet/shower block; i servizi igienici
+camper; il campeggiatore / la campeggiatrice
+caravanner; il roulottista
+to camp; accamparsi
+to pitch a tent; montare una tenda
+to take down a tent; smontare una tenda
+to go caravanning; andare in roulotte
+air bed; il materassino
+barbecue; la griglia
+camping stove; il fornello da campeggio
+caravan; il caravan
+cool box; il frigo portatile
+fold-up chair; la sedia pieghevole
+matches; i fiammiferi
+motorhome; il camper
+picnic blanket; la coperta da picnic
+sleeping bag; il sacco a pelo
+tent; la tenda
+torch; la torcia
+the beach; la spiaggia
+“No swimming.”; “Divieto di balneazione.”
+bathing zone; la zona di balneazione
+lifeguard station; la postazione del bagnino
+suntan; l’abbronzatura f
+to sunbathe; prendere il sole
+to swim; nuotare
+sand; la sabbia
+sea; il mare
+beach ball; il pallone da spiaggia
+beach hut; la cabina da spiaggia
+bikini; il bikini
+bucket and spade; il secchiello e la paletta
+deckchair; la sdraio
+flip-flops; le ciabatte infradito
+waves; le onde
+parasol; l’ombrellone m
+flippers; le pinne
+promenade; il lungomare
+sandcastle; il castello di sabbia
+seashells; le conchiglie
+seaweed; l’alga marina f
+snorkel; il boccaglio
+sunbed; il lettino da spiaggia
+beach towel; l’asciugamano da mare m
+sunglasses; gli occhiali da sole
+sunhat; il cappello da sole
+suntan lotion; la crema solare
+swimming trunks; il costume da bagno
+swimsuit; il costume da bagno
+windbreak; il paravento
+music; la musica
+DJ; il DJ
+CD; il CD
+vinyl record; il disco in vinile
+microphone; il microfono
+song; la canzone
+band; il gruppo
+singer-songwriter; il cantautore
+live music; la musica dal vivo
+gig; il concerto
+pop; il pop
+rock; il rock
+Bluetooth® speaker; l’altoparlante Bluetooth® m
+earphones; gli auricolari
+hip-hop; la musica hip-hop
+rap; il rap
+classical music; la musica classica
+folk music; la musica popolare
+to play an instrument; suonare uno strumento
+headphones; le cuffie
+soundbar; il sistema SoundBar
+to sing; cantare
+to listen to music; ascoltare la musica
+to go to gigs; andare ai concerti
+to stream music; ascoltare musica in streaming
+speakers; gli altoparlanti
+turntable; il giradischi
+accordion; la fisarmonica
+acoustic guitar; la chitarra acustica
+bass drum; la grancassa
+bass guitar; il basso
+cello; il violoncello
+clarinet; il clarinetto
+cymbals; i piatti
+double bass; il contrabbasso
+electric guitar; la chitarra elettrica
+flute; il flauto
+harp; l’arpa f
+keyboard; la tastiera
+mouth organ; l’armonica a bocca f
+piano; il pianoforte
+saxophone; il sassofono
+snare drum; il tamburo rullante
+trombone; il trombone
+trumpet; la tromba
+tuba; la tuba
+choir; il coro
+conductor; il direttore d’orchestra 
+violin; il violino
+musician; il musicista / la musicista
+orchestra; l’orchestra f
+xylophone; lo xilofono
+sheet music; lo spartito
+singer; il cantante / la cantante
+photography; fotografia
+photographer; il fotografo
+photo; la foto
+photo album; l’album di foto m
+close-up; il primo piano
+selfie; il selfie
+selfie stick; il bastone per i selfie
+to take a photo/selfie; fare una foto / un selfie
+to upload a photo; caricare una foto
+to zoom; in zumare
+camera lens; la lente
+compact camera; la macchina fotografica compatta
+drone; il drone
+DSLR camera; la macchina fotografica DSLR
+SD card; la scheda SD
+tripod; il treppiede
+games; i giochi
+player; il giocatore
+charades; il gioco dei mimi
+hide and seek; il nascondino
+skittles; i birilli
+solitaire; il solitario
+poker; il poker
+hand (in cards); la mano
+video game; il videogioco
+games console; la console
+game controller; il controller
+joystick; il joystick
+virtual reality headset; il visore per la realtà virtuale
+to play; giocare
+to roll the dice; tirare i dadi
+to win; vincere
+to lose; perdere
+to play tag; giocare ad acchiapparella
+backgammon; il tric-trac
+board game; il gioco da tavolo
+bowling; il bowling
+cards; le carte
+chess; gli scacchi
+counters; i segnalini
+crossword; il cruciverba
+darts; le freccette
+dice; i dadi
+dominoes; il domino
+draughts; la dama
+jigsaw puzzle; il puzzle
+arts and crafts; arti e mestieri
+handicrafts; l’artigianato m
+craft fair; la fiera dell’artigianato
+cardboard; il cartone
+glue; la colla
+collage; il collage
+embroidery; il ricamo
+art materials; canvas la tela
+easel; il cavalletto
+ink; l’inchiostro m
+oil paint; la pittura a olio
+artist; l’artista m
+dressmaker; il sarto / la sarta
+amateur; dilettante
+to paint; dipingere
+jewellery-making; la gioielleria
+model-making; il modellismo
+paintbrush; il pennello
+palette; la tavolozza
+paper; la carta
+pastels; i pastelli
+to sketch; fare uno schizzo
+to sew; cucire
+to knit; fare la maglia
+to be creative; essere creativo
+pottery; la ceramica
+woodwork; la carpenteria
+pen; la penna
+pencil; la matita
+sketchpad; l’album per schizzi m
+watercolours; gli acquerelli
+ball of wool; il gomitolo di lana
+buttons; i bottoni
+crochet hook; l’uncinetto m
+fabric; il tessuto
+fabric scissors; le forbici da tessuto
+knitting needles; i ferri da maglia
+needle and thread; l’ago e il filo m
+pins; gli spilli
+safety pin; la spilla da balia
+sewing basket; il cestino del cucito
+sewing machine; la macchina da cucire
+tape measure; il metro a nastro
+sport; lo sport
+football pitch; il campo da calcio
+penalty box; l’area di rigore f
+centre circle; il cerchio di centrocampo
+goal; la porta
+tournament; il torneo
+competition; la competizione
+league; la lega
+champion; il campione / la campionessa
+competitor; il concorrente / la concorrente
+teammate; il compagno di squadra /
+la compagna; di squadra
+coach; l’allenatore m / l’allenatrice f
+manager; il manager
+match; la partita
+points; i punti
+to coach; allenare
+to compete; competere
+to score; segnare
+to win; vincere
+to lose; perdere
+to draw; pareggiare
+leisure centre; il centro sportivo
+medal; la medaglia
+official; l’arbitro m
+podium; il podio
+referee; l’arbitro m
+scoreboard; il tabellone segnapunti
+spectators; gli spettatori
+sportsperson; lo sportivo / la sportiva
+stadium; lo stadio
+stands; le tribune
+team; la squadra sportiva
+trophy; il trofeo
+wellbeing; il benessere
+gym; la palestra
+gym membership; l’iscrizione in palestra m
+personal trainer; il personal trainer
+exercise class; la lezione di ginnastica
+changing room; lo spogliatoio
+cross trainer; il cross trainer
+dumbbells; i manubri
+exercise bike; la cyclette
+Pilates; il Pilates
+yoga; lo yoga
+press-ups; le flessioni
+sit-ups; gli addominali
+running; la corsa
+gym ball; la palla da ginnastica
+kettle bell; il kettlebell
+locker; l’armadietto m
+rowing machine; il vogatore
+walking; il camminare
+to exercise; fare esercizio
+to keep fit; mantenersi in forma
+to go for a run; andare a correre
+to go to the gym; andare in palestra
+showers; le docce
+skipping rope; la corda
+treadmill; il tapis roulant
+weightlifting bench; la panca
+football; il calcio
+defender; il difensore
+striker; l’attaccante m
+substitute; la riserva
+kick-off; il calcio d’inizio
+half-time; l’intervallo m
+full-time; la fine della partita
+extra time; i tempi supplementari
+injury time; i minuti di recupero
+free kick; il calcio di punizione
+header; il colpo di testa
+save; la parata
+foul; il rigore
+tackle; il contrasto
+offside; il fuori gioco
+penalty kick; il calcio di rigore
+penalty box; l’area di rigore f
+to play football; giocare a calcio
+to kick; calciare
+to tackle; contrastare
+to pass the ball; passare la palla
+to score a goal; fare gol
+assistant referee; il guardalinee
+football; il pallone da calcio
+football boots; gli scarpini da calcio
+football match; la partita di calcio
+football pitch; il campo da calcio
+football player; il calciatore
+goal; la porta
+goalkeeper; il portiere
+goalkeeper’s gloves; i guanti da portiere
+shin pads; i parastinchi
+whistle; il fischietto
+yellow/red card; il cartellino giallo / rosso
+rugby; il rugby
+rugby league/union; il rugby a tredici / quindici
+forward; l’avanti m
+back; il tre quarti
+try; la meta
+conversion; la trasformazione
+penalty kick; il calcio di rigore
+drop goal; il goal di rimbalzo
+tackle; il placcaggio
+pass; il passaggio
+to play rugby; giocare a rugby
+to tackle; placcare
+to score a try; segnare una meta
+rugby; il rugby
+rugby ball; il pallone da rugby
+rugby field; il campo di rugby
+(rugby) goalposts; i pali di porta
+rugby player; il rugbista
+scrum; la mischia
+basketball; la pallacanestro
+wheelchair basketball; la pallacanestro in carrozzina
+slam dunk; la schiacciata
+free throw; il tiro libero
+to play basketball; giocare a pallacanestro
+to catch; prendere
+to throw; tirare
+to dribble; palleggiare
+to block; bloccare
+to mark a player; marcare un giocatore
+basket; il canestro
+basketball; la palla da pallacanestro
+basketball court; il campo da pallacanestro
+basketball game; la partita di pallacanestro
+basketball player; il giocatore di pallacanestro
+basketball shoes; le scarpe da pallacanestro
+racket sports; gli sport di racchetta
+ace; l’ace m
+serve; il servizio
+backhand; il rovescio
+forehand; il dritto
+fault; il fallo
+badminton; il badminton
+squash; lo squash
+net; la rete
+rally; il palleggio
+singles; il singolo
+doubles; il doppio
+top seed; il numero uno
+badminton racket; la racchetta da badminton
+squash ball; la pallina da squash
+to play tennis; giocare a tennis
+to play badminton; giocare a badminton
+to hit; colpire
+to serve; servire
+to break someone’s serve; strappare il servizio
+shuttlecock; il volano
+squash racket; la racchetta da squash
+ball boy/girl; il raccattapalle / la raccattapalle
+line judge; il giudice di linea
+tennis; il tennis
+tennis ball; la pallina da tennis
+tennis court; il campo da tennis
+tennis player; il tennista
+tennis racket; la racchetta da tennis
+umpire; l’arbitro m
+umpire’s chair; la sedia dell’arbitro
+water sports; gli sport acquatici
+swimming; il nuoto
+breaststroke; la rana
+backstroke; il dorso
+front crawl; lo stile libero
+butterfly; il delfino
+lane; la corsia
+length; la vasca
+swimming lesson; la lezione di nuoto
+swimmer; il nuotatore / la nuotatrice
+diver; il tuffatore
+diving; il tuffo
+angling; la pesca
+angler; il pescatore
+surfer; il surfista / la surfista
+to swim; nuotare
+to dive; tuffarsi
+to surf; fare surf
+to paddle; pagaiare
+to row; remare
+to fish; pescare
+to sail; navigare
+armbands; i braccioli
+diving board; il trampolino
+flippers; le pinne
+bodyboarding; il bodyboard
+canoeing; andare in canoa
+jet ski; la moto d’acqua
+kayaking; andare in kayak
+lifejacket; il giubbotto di salvataggio
+goggles; gli occhialini
+lifeguard; il bagnino / la bagnina
+swimming cap; la cuffia
+oars; i remi
+paddle; la pagaia
+paddleboarding; il paddle
+scuba diving; l’immersione subacquea f
+snorkelling; lo snorkelling
+swimming pool; la piscina
+swimming trunks; il costume da bagno
+swimsuit; il costume da bagno
+surfboard; la tavola da surf
+surfing; il fare surf
+waterskiing; lo sci d’acqua
+wetsuit; la muta
+windsurfing; il windsurf
+winter sports; gli sport invernali
+skier; lo sciatore / la sciatrice
+ski resort; la stazione sciistica
+ski lift; l’impianto di risalita m
+ski instructor; l’istruttore di sci m / l’istruttrice di sci f
+skiing lesson; la lezione di sci
+mountain rescue service; il servizio di soccorso alpino
+first-aid kit; il kit di pronto soccorso
+snow; la neve
+powder; la neve farinosa
+ice; il ghiaccio
+crampons; i ramponi
+ice axe; la piccozza da ghiaccio
+avalanche; la valanga
+avalanche warning; l’avviso di valanghe m
+carabiner clip; il moschettone
+to ski (off-piste); sciare (fuori pista)
+ice skates; i pattini da ghiaccio
+ice skating; il pattinaggio su ghiaccio
+to snowboard; fare snowboard
+to go mountain climbing; fare alpinismo
+to go sledging; andare in slitta
+to go skating; andare a pattinare
+rope; la cima
+sledge; la slitta
+piste; la pista
+salopettes; la salopette
+ski boots; gli scarponi da sci
+ski gloves; i guanti da sci
+ski goggles; la maschera da sci
+ski helmet; il casco da sci
+ski jacket; la giacca da sci
+ski poles; i bastoncini da sci
+skis gli sci; ski suit
+la tuta da sci; snowboard
+lo snowboard; snowboarding boots gli scarponi da snowboard
+combat sports; gli sport da combattimento
+fight; la lotta
+boxer; il pugile
+fighter; il lottatore
+opponent; l’avversario m
+featherweight; il peso piuma
+heavyweight; il peso massimo
+boxing gloves; i guanti da boxe
+boxing ring; il ring
+punch; il pugno
+knockout; il fuori combattimento
+martial arts; le arti marziali
+to box; fare il pugilato
+to wrestle; fare wrestling
+boxing shoes; le scarpe da boxe
+headguard; il paratesta
+to punch; dare un pugno
+to kick; dare un calcio
+to strike; colpire
+to spar; allenarsi
+to knock out; mettere fuori combattimento
+mouthguard; il paradenti
+punchbag; il sacco da boxe
+fencing; la scherma
+judo; il judo
+karate; il karatè
+kickboxing; il kickboxing
+tai chi; il tai chi
+wrestling; il wrestling
+taekwondo; il taekwondo
+athletics; l’atletica
+runner; il corridore
+race; la gara
+marathon; la maratona
+sprint; lo sprint
+lane; la corsia
+start line; la linea di partenza
+finish line; la linea di arrivo
+heat; la batteria
+final; la finale
+triple jump; il salto triplo
+heptathlon; l’eptathlon m
+decathlon; il decathlon
+starter’s gun; il colpo di partenza
+to do athletics; fare atletica
+to run; correre
+to race; gareggiare
+to jump; saltare
+to throw; tirare
+athlete; l’atleta m / l’atleta f
+discus; il disco
+high jump; il salto in alto
+hurdles; gli ostacoli
+javelin; il giavellotto
+long jump; il salto in lungo
+pole vault; il salto con l’asta
+relay; la staffetta
+running track; la pista da corsa
+shot put; il lancio del peso
+spikes; le scarpette chiodate
+starting blocks; i blocchi di partenza
+stopwatch; il cronometro
+golf; il golf
+golfer; il giocatore di golf / la giocatrice di golf
+caddie; il portabastoni
+golf course; il campo da golf
+fairway; il fairway
+green; il green
+bunker; il bunker
+hole; la buca
+clubhouse; il clubhouse
+hole-in-one; la buca in uno
+birdie; il birdie
+bogey; il bogey
+handicap; l’handicap m
+over/under par; sopra / sotto il par
+to play golf; giocare a golf
+to tee off; lanciare la palla dal tee
+golf bag; la borsa da golf
+golf ball; la pallina da golf
+golf buggy; la golf car
+golf club; il bastone da golf
+putter; il putter
+tee; il tee
+American football; il football americano
+archery; il tiro con l’arco
+baseball; il baseball
+bowls; le bocce
+climbing; l’arrampicata f
+cricket; il cricket
+fishing; la pesca
+gymnastics; la ginnastica artistica
+handball; la pallamano
+hockey; l’hockey m
+horse racing; l’ippica f
+ice hockey; l’hockey sul ghiaccio m
+motorcycle racing; il motociclismo
+motor racing; le gare automobilistiche
+netball; il netball
+shooting; il tiro al bersaglio
+showjumping; il concorso ippico
+skateboarding; lo skateboard
+snooker; lo snooker
+table tennis; il ping pong
+track cycling; il ciclismo su pista
+volleyball; la pallavolo
+water polo; la pallanuoto
+weightlifting; il sollevamento pesi
+health; la salute
+first-aid kit; il kit di pronto soccorso
+bandage; la benda
+syringe; la siringa
+tablet; la pastiglia
+plaster; il cerotto
+first aider; il soccorritore / la soccorritrice
+pain; il dolore
+illness; la malattia
+mental health; la sanità mentale
+treatment; la terapia
+recovery; la guarigione
+health insurance; l’assicurazione sanitaria f
+healthy; sano
+to be unwell; stare male
+to recover; guarire
+to look after; occuparsi di
+to treat; curare
+doctor; il dottore / la dottoressa
+first-aid kit; il kit di pronto soccorso
+hospital; l’ospedale m
+medicine; la medicina
+nurse; l’infermiere m / l’infermiera f
+paramedic; il paramedico
+patient; il paziente / la paziente
+pharmacist; il farmacista / la farmacista
+pharmacy; la farmacia
+the body; il corpo
+throat; la gola
+armpit; l’ascella f
+genitals; i genitali
+breast; il seno
+eyelash; la ciglia
+eyebrow; il sopracciglio
+eyelid; la palpebra
+earlobe; il lobo dell’orecchio
+nostrils; le narici
+lips; le labbra
+tongue; la lingua
+skin; la pelle
+(body) hair; i peli
+height; l’altezza f
+weight; il peso
+BMI; l’indice di massa corporea m
+hair; i capelli
+forehead; la fronte
+eye; l’occhio m
+wrist; il polso
+knuckle; la nocca
+sense of hearing; l’udito m
+sense of sight; la vista
+sense of smell; l’olfatto m
+sense of taste; il gusto
+sense of touch; il tatto
+balance; l’equilibrio m
+to see; vedere
+ear; l’orecchio m
+cheek; la guancia
+nose; il naso
+fingernail; l’unghia f
+palm; il palmo
+to smell; odorare
+to hear; ascoltare
+to touch; toccare
+to taste; assaggiare
+to stand; stare in piedi
+to walk; camminare
+to lose one’s balance; perdere l’equilibrio
+mouth; la bocca
+jaw; la mascella
+chin; il mento
+thumb; il pollice
+finger; il dito
+big toe; l’alluce m
+toenail; l’unghia del piede f
+head; la testa
+face; il viso
+neck; il collo
+arm; il braccio
+shoulder; la spalla
+elbow; il gomito
+toe; il dito del piede
+sole; la pianta
+chest; il torace
+hand; la mano
+abdomen; l’addome m
+thigh; la coscia
+back; la schiena
+hip; l’anca f
+heel; il tallone
+ankle; la caviglia
+leg; la gamba
+knee; il ginocchio
+shin; la tibia
+foot; il piede
+buttocks; le natiche
+calf; il polpaccio
+the skeleton; lo scheletro
+organ; l’organo m
+brain; il cervello
+heart; il cuore
+lung; il polmone
+liver; il fegato
+stomach; lo stomaco
+kidney; il rene
+intestines; l’intestino m
+digestive system; l’apparato digerente m
+respiratory system; l’apparato respiratorio m
+bladder; la vescica
+skull; il cranio
+collarbone; la clavicola
+vertebrae; le vertebre
+humerus; l’omero m
+breastbone; lo sterno
+blood; il sangue
+joint; l’articolazione f
+bone; l’osso m
+muscle; il muscolo
+tendon; il tendine
+ligament; il legamento
+ribs; le costole
+spine; la spina dorsale
+ulna; l’ulna f
+radius; il radio
+pelvis; il bacino
+tissue; il tessuto
+cell; la cellula
+artery; l’arteria f
+vein; la vena
+oxygen; l’ossigeno m
+femur; il femore
+kneecap; la rotula
+fibula; il perone
+tibia; la tibia
+appointment; l’appuntamento m
+clinic; la clinica
+examination; l’analisi f
+test; l’esame m
+antibiotics; gli antibiotici
+the pill; la pillola
+sleeping pill; il sonnifero
+prescription; la ricetta
+home visit; la visita a domicilio
+vaccination; la vaccinazione
+medication; il medicinale
+to make an appointment; prendere un appuntamento
+to examine; visitare
+to be on medication; prendere medicine
+blood pressure monitor; il misuratore di pressione sanguigna
+examination room; l’ambulatorio m
+examination table; il lettino
+GP; il medico di base
+practice nurse; l’infermiere m / l’infermiera f
+stethoscope; lo stetoscopio
+syringe; la siringa
+thermometer; il termometro
+waiting room; la sala d’attesa
+dental check-up; il controllo dei denti
+hygienist; l’igienista m / l’igienista f
+molar; il molare
+incisor; l’incisivo m
+canine; il canino
+wisdom teeth; i denti del giudizio
+filling; l’otturazione f
+crown; la corona dentale
+root canal treatment; la cura canalare
+toothache; il mal di denti
+abscess; l’ascesso m
+extraction; l’estrazione f
+to brush one’s teeth; lavarsi i denti
+to floss; usare il filo interdentale
+braces; l’apparecchio m
+dental floss; il filo interdentale
+dental nurse; l’assistente dentale m / l’assistente dentale f
+dentist; il dentista
+dentist’s chair; il lettino da dentista
+dentist’s drill; il trapano da dentista
+dentures; la dentiera
+gums; le gengive
+mouthwash; il collutorio
+teeth; i denti
+toothbrush; lo spazzolino da denti
+toothpaste; il dentifricio
+ophthalmologist; l’oftalmologo m
+reading glasses; gli occhiali da lettura
+bifocals; i bifocali
+hard/soft contact lenses; le lenti a contatto rigide / morbide
+lens; la lente
+conjunctivitis; la congiuntivite
+stye; l’orzaiolo m
+blurred vision; la vista sfocata
+cataract; la cataratta
+short-sighted; miope
+long-sighted; presbite
+visually impaired; ipovedente
+blind; non vedente
+colour-blind; daltonico
+to wear glasses; portare gli occhiali
+to wear contacts; portare le lenti a contatto
+contact lenses; le lenti a contatto
+contact lens case; il contenitore per le lenti a contatto
+eye chart; la tabella di misurazione della vista
+eye drops; il collirio
+eye test; l’esame della vista m
+frames; la montatura
+glasses; gli occhiali
+glasses case; la custodia per gli occhiali
+optician; l’ottico m
+the hospital; l’ospedale
+public hospital; l’ospedale pubblico m
+private hospital; l’ospedale privato m
+physiotherapist; il fisioterapista / la fisioterapista
+radiographer; il radiografo / la radiografa
+surgeon; il chirurgo
+operation; l’operazione f
+scan; l’ecografia f
+intensive care; la terapia intensiva
+defibrillator; il defibrillatore
+diagnosis; la diagnosi
+to undergo surgery; sottoporsi a un intervento chirurgico
+to be admitted; essere ricoverato in ospedale
+to be discharged; essere dimesso dall’ospedale
+A&E; il pronto soccorso
+ambulance; l’ambulanza f
+crutches; le stampelle
+drip; la flebo
+hospital bed; il letto d’ospedale
+hospital trolley; il carrello ospedaliero
+monitor; il monitor
+operating theatre; la sala operatoria
+oxygen mask; la maschera d’ossigeno
+plaster cast; l’ingessatura f
+stitches; i punti
+ward; il reparto
+wheelchair; la sedia a rotelle
+X-ray; la radiografia
+Zimmer frame; il deambulatore
+injury; le lesioni
+pulse; il polso
+concussion; la commozione cerebrale
+accident; l’incidente m
+fall; la caduta
+dislocation; la lussazione
+sprain; la slogatura
+injuries; blister
+la vescica; bruise il livido
+burn; la bruciatura
+scar; la cicatrice
+whiplash; il colpo di frusta
+swelling; il gonfiore
+first aid; il pronto soccorso
+recovery position; la posizione di sicurezza
+CPR; la rianimazione
+cut; il taglio
+fracture; la frattura
+graze; l’escoriazione f
+to be unconscious; essere svenuto
+to injure oneself; farsi male
+to fall; cadere
+to break one’s arm; rompersi il braccio
+to twist one’s ankle; slogarsi la caviglia
+to take his/her pulse; sentire il polso
+splinter; la scheggia
+sting; la puntura
+sunburn; la scottatura
+first aid; antiseptic l’antisettico m
+bandage; la benda
+dressing; la garza
+ice pack; la borsa del ghiaccio
+neck brace; il collare
+ointment; la pomata
+plaster; il cerotto
+sling; la fascia
+tweezers; le pinzette
+illness; le malattie
+heart attack; l’attacco cardiaco m
+stroke; l’ictus m
+infection; l’infezione f
+ear infection; l’otite f
+fever; la febbre
+virus; il virus
+chicken pox; la varicella
+rash; l’eruzione cutanea f
+stomach bug; il virus intestinale
+food poisoning; l’intossicazione alimentare f
+vomiting; il vomito
+nausea; la nausea
+diarrhoea; la diarrea
+constipation; la stitichezza
+diabetes; il diabete
+epilepsy; l’epilessia f
+asthma; l’asma f
+dizziness; le vertigini
+inhaler; l’inalatore m
+insulin; l’insulina f
+period pain; i dolori mestruali
+to have high/low blood pressure; avere la pressione alta / bassa
+to cough; tossire
+to sneeze; starnutire
+to vomit; vomitare
+to faint; svenire
+pregnancy; la gravidanza
+pregnant woman; la donna incinta
+newborn; il neonato
+foetus; il feto
+uterus; l’utero m
+cervix; la cervice
+pre-natal class; il corso preparto
+labour; il travaglio
+delivery; il parto
+Caesarean section; il parto cesareo
+epidural; l’anestesia epidurale f
+miscarriage; l’aborto spontaneo m
+stillborn; nato morto
+due date; la data del parto
+morning sickness; la nausea mattutina
+to fall pregnant; rimanere incinta
+to be overdue; essere oltre il termine
+to be in labour; avere le doglie
+to give birth; partorire
+to miscarry; abortire
+to breast-feed; allattare
+baby blanket; la coperta per bambini
+babygro®; la tutina
+incubator; l’incubatrice f
+labour suite; la sala parto
+midwife; l’ostetrica f
+nappy; il pannolino
+pregnancy test; il test di gravidanza
+sonographer; l’ecografista m / l’ecografista f
+ultrasound; l’ecografia f
+alternative therapies; terapie alternative
+therapist; il terapista
+masseur; il massaggiatore
+masseuse; la massaggiatrice
+chiropractor; il chiropratico / la chiropratica
+essential oil; l’olio essenziale m
+therapies; acupuncture l’agopuntura f
+chiropractic; la chiropratica
+hypnotherapy; l’ipnoterapia f
+massage; il massaggio
+acupuncturist; l’agopunturista m
+reflexologist; il riflessologo / la riflessologa
+remedy; il rimedio
+reiki; il reiki
+herbal medicine; la fitoterapia
+meditation; la meditazione
+osteopathy; l’osteopatia f
+reflexology; la riflessologia
+mindfulness; la consapevolezza
+to relax; rilassarsi
+to massage; massaggiare
+to meditate; meditare
+homeopathy; l’omeopatia f
+thalassotherapy; la talassoterapia
+traditional Chinese medicine; la medicina tradizionale cinese
+vet; il veterinario
+pet; l’animale domestico m
+flea; la pulce
+tick; la zecca
+rabies vaccination; la vaccinazione antirabbica
+microchip; il microchip
+pet passport; il passaporto per animali domestici
+quarantine; la quarantena
+to go to the vet; andare dal veterinario
+to spay/neuter; sterilizzare
+to put to sleep; sopprimere
+E-collar; il collare elisabettiano
+flea collar; il collare antipulci
+pet carrier; il trasportino per animali domestici
+planet earth; il pianeta terra
+parrot; il pappagallo
+beak; il becco
+tail; la coda
+claw; l’artiglio m
+animal; l’animale m
+bird; l’uccello m
+fish; il pesce
+species; la specie
+nature reserve; la riserva naturale
+scenery; il paesaggio
+zoo; lo zoo
+fur; la pelliccia
+wool; la lana
+paw; la zampa
+hoof; lo zoccolo
+snout; il muso
+mane; la criniera
+tail; la coda
+claw; l’artiglio m
+horn; il corno
+feather; la piuma
+wing; l’ala f
+beak; il becco
+cold-blooded; a sangue freddo
+warm-blooded; a sangue caldo
+to bark; abbaiare
+to purr; fare le fusa
+to growl; ringhiare
+to roar; ruggire
+to chirp; cinguettare
+to buzz; ronzare
+owner; il proprietario / la proprietaria
+farmer; l’agricoltore m
+farm; l’azienda agricola f
+barn; il granaio
+meadow; il prato
+hay; il fieno
+straw; la paglia
+lamb; l’agnello m
+calf; il vitello
+foal; il puledro
+kitten; il gattino
+puppy; il cucciolo
+guide dog; il cane guida
+to have a pet; avere un animale domestico
+to go to the vet; andare dal veterinario
+to walk the dog; portare a spasso il cane
+to farm; allevare
+budgerigar; il pappagallino ondulato
+canary; il canarino
+cat; il gatto
+dog; il cane
+bull; il toro
+chicken; il pollo
+cow; la mucca
+donkey; l’asino m
+ferret; il furetto
+goldfish; il pesciolino rosso
+guinea pig; il porcellino d’India
+hamster; il criceto
+duck; l’anatra f
+goat; la capra
+goose; l’oca f
+horse; il cavallo
+parrot; il pappagallo
+pony; il pony
+rabbit; il coniglio
+rat; il ratto
+pig; il maiale
+sheep; la pecora
+sheepdog; il cane da pastore
+turkey; il tacchino
+aquarium; l’acquario m
+cage; la gabbia
+catflap; la gattaiola
+collar; il collare
+dog basket; la cuccia
+hutch; la gabbia
+kennel; la cuccia
+lead; il guinzaglio
+litter tray; la lettiera
+muzzle; la museruola
+pet food; il cibo per animali domestici
+stable; la stalla
+alligator; l’alligatore m
+crocodile; il coccodrillo
+frog; la rana
+gecko; il geco
+iguana; l’iguana f
+lizard; la lucertola
+newt; il tritone
+salamander; la salamandra
+snake; il serpente
+toad; il rospo
+tortoise; la tartaruga
+turtle; la tartaruga acquatica
+mammals; mammiferi
+badger; il tasso
+bat; il pipistrello
+boar; il cinghiale
+deer; il cervo
+fox; la volpe
+hare; la lepre
+hedgehog; il riccio
+mole; la talpa
+mouse; il topo
+otter; la lontra
+squirrel; lo scoiattolo
+wolf; il lupo
+bear; l’orso m
+camel; il cammello
+chimpanzee; lo scimpanzé
+elephant; l’elefante m
+giraffe; la giraffa
+gorilla; il gorilla
+hippopotamus; l’ippopotamo m
+kangaroo; il canguro
+lion; il leone
+monkey; la scimmia
+rhinoceros; il rinoceronte
+tiger; la tigre
+birds; uccelli
+blackbird; il merlo
+crane; la gru
+crow; il corvo
+dove; la colomba
+eagle; l’aquila f
+finch; il fringuello
+flamingo; il fenicottero
+gull; il gabbiano
+hawk; il falco
+heron; l’airone m
+kingfisher; il martin pescatore
+lark; l’allodola f
+ostrich; lo struzzo
+owl; il gufo
+peacock; il pavone
+pelican; il pellicano
+penguin; il pinguino
+pigeon; il piccione
+puffin; la fratercula
+robin; il pettirosso
+sparrow; il passero
+stork; la cicogna
+swan; il cigno
+thrush; il tordo
+swarm; lo sciame
+colony; la colonia
+cobweb; la ragnatela
+insect bite; la puntura d’insetto
+to buzz; ronzare
+to sting; pungere
+ant; la formica
+bee; l’ape f
+beetle; il coleottero
+butterfly; la farfalla
+caterpillar; il bruco
+centipede; il millepiedi
+cockroach; lo scarafaggio
+cricket; il grillo
+dragonfly; la libellula
+earthworm; il lombrico
+fly; la mosca
+grasshopper; la cavalletta
+ladybird; la coccinella
+mayfly; l’efemera f
+mosquito; la zanzara
+moth; la falena
+slug; la lumaca
+snail; la chiocciola
+spider; il ragno
+wasp; la vespa
+woodlouse; l’onisco m
+marine creatures; animali marini
+coral; il corallo
+crab; il granchio
+dolphin; il delfino
+eel; l’anguilla f
+jellyfish; la medusa
+killer whale; l’orca marina f
+lobster; l’aragosta f
+seal; la foca
+sea urchin; il riccio
+shark; lo squalo
+starfish; la stella marina
+whale; la balena
+stalk; il gambo
+leaf; la foglia
+petal; il petalo
+pollen; il polline
+bud; il bocciolo
+wood; il legno
+branch; il ramo
+trunk; il tronco
+bark; la corteccia
+root; la radice
+buttercup; il ranuncolo
+carnation; il garofano
+chrysanthemum; il crisantemo
+daffodil; il narciso
+daisy; la margherita
+chestnut; il castagno
+cypress; il cipresso
+fir; l’abete m
+fungus; il fungo
+grapevine; la vite
+seed; il seme
+hyacinth; il giacinto
+lily; il giglio
+orchid; l’orchidea f
+pansy; la viola
+poppy; il papavero
+ivy; l’edera f
+lavender; la lavanda
+lilac; il lillà
+moss; il muschio
+oak; la quercia
+bulb; il bulbo
+primrose; la primula
+rose; la rosa
+sunflower; il girasole
+tulip; il tulipano
+violet; la violetta
+olive; l’ulivo m
+pine; il pino
+plane; il platano
+poplar; il pioppo
+willow; il salice
+landscape; il paesaggio
+earth; la terra
+soil; il terreno
+mud; il fango
+water; l’acqua f
+landcave; la grotta
+desert; il deserto
+farmland; il terreno agricolo
+forest; la foresta
+glacier; il ghiacciaio
+grassland; la prateria
+estuary; l’estuario m
+air; l’aria f
+atmosphere; l’atmosfera f
+sunrise; l’alba f
+sunset; il tramonto
+hill; la collina
+lake; il lago
+marsh; la palude
+mountain; la montagna
+pond; lo stagno
+river; il fiume
+rural; rurale
+urban; urbano
+polar; polare
+alpine; alpino
+tropical; tropicale
+rocks; le rocce fpl
+scrub; la boscaglia
+stream; il ruscello
+valley; la vallata
+volcano; il vulcano
+waterfall; la cascata
+cliff; la scogliera
+coast; la costa
+aurora; l’aurora boreale f
+clouds; le nuvole
+coral reef; la barriera corallina
+island; l’isola f
+moon; la luna
+rainbow; l’arcobaleno m
+peninsula; la penisola
+rockpool; il ristagno d’acqua tra le rocce
+stars; le stelle
+sun; il sole
+costume; il costume
+feather; la piuma
+mask; la maschera
+occasion; l’occasione f
+birthday; il compleanno
+birthday party; la festa di compleanno
+public holiday; la festa nazionale
+religious holiday; la festività religiosa
+celebration; la celebrazione
+wedding anniversary; l’anniversario di matrimonio m
+surprise party; la festa a sorpresa
+good/bad news; le buone / cattive notizie
+to celebrate; celebrare
+to throw a party; fare una festa
+to toast; brindare a
+bouquet of flowers; il mazzo di fiori
+box of chocolates; la scatola di cioccolatini
+bunting; i festoni
+cake; la torta
+champagne; lo spumante
+confetti; i coriandoli
+decorations; le decorazioni
+fireworks; i fuochi d’artificio
+gift; il regalo
+greetings card; il bigliettino d’auguri
+party; la festa
+streamers; le stelle filanti
+birth; la nascita
+baptism; il battesimo
+graduation la laurea; finding a job trovare un lavoro
+engagement; il fidanzamento ufficiale
+marriage; il matrimonio
+wedding; le nozze
+wedding anniversary; l’anniversario di matrimonio m
+relocation; il trasferimento
+retirement; andare in pensione
+funeral; il funerale
+Mother’s Day; la Festa della Mamma
+Father’s Day; la Festa del Papà
+Halloween; il Halloween
+April Fool’s Day; il giorno del pesce d’aprile
+May Day; il Primo Maggio
+Valentine’s Day; il giorno di San Valentino
+to have a child; avere un bambino
+to pass your driving test; superare l’esame di guida
+All Saints’ Day; il giorno di Ognissanti
+Diwali; il Diwali
+Easter; la Pasqua
+Eid al-Fitr; l’Eid al-Fitr m
+Hanukkah; l’Hanukkah f
+Holi; l’Holi m
+Mardi Gras; il martedì grasso
+Passover; la Pasqua ebraica
+Ramadan; il Ramadan
+Christmas Eve; la vigilia di Natale
+Christmas Day; il giorno di Natale
+Christmas card; il biglietto di Natale
+New Year’s Eve; la vigilia di Capodanno
+New Year’s Day; il Capodanno
+New Year’s card; il biglietto di auguri per Capodanno
+bauble; la pallina natalizia
+Befana; la Befana
+Christmas dinner; il cenone di Natale
+Christmas lights; le luci di Natale
+Christmas tree; l’albero di Natale m
+Epiphany; l’Epifania f
+Father Christmas/ Santa Claus; Babbo Natale
+mistletoe; il vischio
+Nativity scene; il presepio
+tinsel; l’orpello m
+wreath; la ghirlanda
+Yule log; il tronchetto di Natale
+carnival; il carnevale
+carnival doughnuts; le castagnole
+carnival float; il carro di Carnevale
+costume; il costume
+face paint; la pittura facciale
+funfair; il luna park
+headdress; il copricapo
+mask; la maschera
+parade; la sfilata
+street performer; l’artista di strada m
