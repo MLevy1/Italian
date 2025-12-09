@@ -47,10 +47,9 @@
       <!-- Difficulty Buttons (shown after answer) -->
       <div id="difficultyButtons" class="d-none gap-3 justify-content-center mb-4">
         <button class="btn btn-danger btn-lg px-4" data-quality="0">1</button>
-        <button class="btn btn-danger btn-lg px-4" data-quality="1">2</button>
-        <button class="btn btn-warning btn-lg px-4" data-quality="3">3</button>
-        <button class="btn btn-success btn-lg px-4" data-quality="4">4</button>
-        <button class="btn btn-primary btn-lg px-4" data-quality="5">5</button>
+        <button class="btn btn-warning btn-lg px-4" data-quality="3">2</button>
+        <button class="btn btn-success btn-lg px-4" data-quality="4">3</button>
+        <button class="btn btn-primary btn-lg px-4" data-quality="5">4</button>
       </div>
 
       <!-- Feedback -->
@@ -78,6 +77,12 @@
         <button id="nextCard" class="btn btn-primary btn-sm">Next Card</button>
         <button id="showAnswer" class="btn btn-secondary btn-sm">Show Answer</button>
         <button id="resetProgress" class="btn btn-danger btn-sm">Reset All Progress</button>
+      </div>
+<!-- Export/Import -->
+      <div class="mt-3">
+        <button id="export" class="btn btn-outline-info btn-sm">Export Cards</button>
+        <button id="import" class="btn btn-outline-info btn-sm ms-2">Import Cards</button>
+        <input type="file" id="importFile" accept=".json" style="display: none;">
       </div>
     </div>
   </div>
@@ -3292,15 +3297,14 @@
   }
 
   function checkAnswer() {
-    if (!currentCard) return;
-    const userAnswer = answerInput.value.trim();
-    const checker = currentCard.a.trim();
-    const isCorrect = userAnswer.toLowerCase() === checker.toLowerCase();
+if (!currentCard) return;
+    const userAnswer = answerInput.value.trim().toLowerCase();
+    const isCorrect = currentCard.a.some(ans => ans.toLowerCase().trim() === userAnswer);
 
     if (isCorrect) {
-      feedbackEl.innerHTML = `<span class="text-success">Correct! "${currentCard.a}"</span>`;
+      feedbackEl.innerHTML = `<span class="text-success">Correct!</span>`;
     } else {
-      feedbackEl.innerHTML = `<span class="text-danger">Wrong. Correct answer: <strong>${currentCard.a}</strong></span>`;
+      feedbackEl.innerHTML = `<span class="text-danger">Wrong. Correct answer(s): <strong>${currentCard.a.join(' or ')}</strong></span>`;
     }
 
     answerInput.classList.add('d-none');
@@ -3308,11 +3312,12 @@
     difficultyButtons.classList.remove('d-none');
   }
 
-  // Difficulty button handler
+// Difficulty button handler
   difficultyButtons.addEventListener('click', (e) => {
     if (!e.target.dataset.quality) return;
     const quality = parseInt(e.target.dataset.quality);
-    const wasCorrect = answerInput.value.trim().toLowerCase() === currentCard.a.toLowerCase();
+    const userAnswer = answerInput.value.trim().toLowerCase();
+    const wasCorrect = currentCard.a.some(ans => ans.toLowerCase() === userAnswer);
 
     scheduleCard(currentCard, wasCorrect ? quality : 0);
     saveProgress();
@@ -3321,9 +3326,8 @@
 
   document.getElementById('showAnswer').addEventListener('click', () => {
     if (currentCard) {
-      answerInput.value = currentCard.a;
-      feedbackEl.innerHTML = `<span class="text-info">Answer: <strong>${currentCard.a}</strong></span>`;
-      checkAnswer();
+      feedbackEl.innerHTML = `<span class="text-info">Answer(s): <strong>${currentCard.a.join(' or ')}</strong></span>`;
+      checkAnswer(); // Still show difficulty buttons
     }
   });
 
@@ -3333,6 +3337,53 @@
       location.reload();
     }
   });
+
+// Export
+  document.getElementById('export').addEventListener('click', () => {
+    const data = JSON.stringify(cards, null, 2);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'flashcards.json';
+    a.click();
+    URL.revokeObjectURL(url);
+  });
+
+// Import
+  const importFile = document.getElementById('importFile');
+  document.getElementById('import').addEventListener('click', () => {
+    importFile.click();
+  });
+
+  importFile.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const imported = JSON.parse(ev.target.result);
+        if (!Array.isArray(imported)) throw new Error('Not an array');
+        // Basic validation
+        imported.forEach(card => {
+          if (!card.q || !Array.isArray(card.a)) throw new Error('Invalid card format');
+          card.a = card.a; // Ensure array
+          card.easiness = card.easiness || 2.5;
+          card.interval = card.interval || 0;
+          card.repetitions = card.repetitions || 0;
+          card.nextReview = card.nextReview || 0;
+        });
+        cards = imported;
+        saveProgress();
+        location.reload();
+      } catch (err) {
+        alert('Invalid JSON file: ' + err.message);
+      }
+    };
+    reader.readAsText(file);
+  });
+
+
 
   submitBtn.addEventListener('click', checkAnswer);
   answerInput.addEventListener('keypress', e => {
