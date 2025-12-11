@@ -1,7 +1,7 @@
 [
   {
     "q": "blue",
-    "a": "/\\b(azzurr[oa]|blu)\\b/i",
+    "a": ["azzurro", "azzurra", "blu"],
     "easiness": 2.5,
     "interval": 0,
     "repetitions": 0,
