@@ -9,7 +9,7 @@
   <style>
     body { min-height: 100vh; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
     .card { max-width: 650px; margin: 2rem auto; box-shadow: 0 15px 35px rgba(0,0,0,0.3); }
-    .flashcard { min-height: 150px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: bold; }
+    .flashcard { min-height: 125px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: bold; }
     .stats { font-size: 1.1rem; }
     .easiness { font-size: 2.5rem; font-weight: bold; }
     .progress-bar { height: 10px; }
@@ -29,7 +29,7 @@
     <div class="card-body text-center p-1">
 
       <!-- Question -->
-      <div class="flashcard bg-light text-dark mb-4 rounded-3" id="question">
+      <div class="flashcard bg-light text-dark mb-1 rounded-3" id="question">
         Click "Next Card" to begin!
       </div>
 
@@ -91,12 +91,12 @@
 <script>
   // === YOUR FLASHCARDS (add as many as you want!) ===
   const baseCards = [
-    { q: "blue", a: "azzurro" }, 
+    { q: "blue", a: ["azzurro", "blu"] }, 
     { q: "red", a: "rosso" }, 
     { q: "yellow", a: "giallo" }, 
     { q: "green (color)", a: "verde" }, 
-    { q: "white", a: "bianco" }, 
-    { q: "black", a: "nero" }, 
+    { q: "white", a: ["bianco", "bianca"] }, 
+    { q: "black", a: ["nero", "nera"] }, 
     { q: "Hello / Hi", a: "ciao" }, 
     { q: "Pleased to meet you.", a: "piacere" }, 
     { q: "Good morning / afternoon.", a: "buongiorno" }, 
