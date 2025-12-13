@@ -3217,13 +3217,14 @@
   ];
 
   // Load or initialize card data with SR values
-  let cards = JSON.parse(localStorage.getItem('sr_flashcards')) || baseCards.map(card => ({
-    ...card,
-    easiness: 2.5,       // SM2 easiness factor
-    interval: 0,         // days until next review
-    repetitions: 0,
-    nextReview: 0        // Unix timestamp (days since epoch)
-  }));
+    let cards = JSON.parse(localStorage.getItem('sr_flashcards')) || baseCards.map(card => ({
+        ...card,
+        a: Array.isArray(card.a) ? card.a : [card.a],  // Coerce to array if needed
+        easiness: 2.5,
+        interval: 0,
+        repetitions: 0,
+        nextReview: 0
+    }));
 
   function saveProgress() {
     localStorage.setItem('sr_flashcards', JSON.stringify(cards));
