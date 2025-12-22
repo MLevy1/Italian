@@ -174,6 +174,13 @@ async function renderContent() {
                 }).join('')}
             </section>
         `).join('')}
+
+        <!-- NEW: Download Results Button -->
+        <div class="text-center mt-5">
+            <button id="download-results-btn" class="btn btn-lg btn-outline-info">
+                📥 Download My Results as JSON
+            </button>
+        </div>
     `;
     }
     contentDiv.innerHTML = html;
@@ -192,6 +199,12 @@ async function renderContent() {
             resetSingleAnswer(qid);
         };
     });
+
+// NEW: Attach download button handler (only in exercises view)
+    const downloadBtn = document.getElementById('download-results-btn');
+    if (downloadBtn) {
+        downloadBtn.onclick = downloadResults;
+    }
 
     // Update navigation links visibility
     const backLink = document.getElementById('backLink');
@@ -334,6 +347,81 @@ function resetSingleAnswer(questionId) {
     input.classList.remove('is-valid', 'is-invalid');
     feedback.innerHTML = '';
 }
+
+async function downloadResults() {
+    const unit = await loadUnitData(currentUnit);
+    if (!unit) {
+        alert("Cannot generate results: unit data not loaded.");
+        return;
+    }
+
+    const results = {
+        unit: currentUnit,
+        unitTitle: unit.text.title,
+        completedAt: new Date().toISOString(),
+        exercises: []
+    };
+
+    // Go through all exercise sections
+    for (let exIndex = 0; exIndex < unit.exercises.length; exIndex++) {
+        const exercise = unit.exercises[exIndex];
+        const exerciseResult = {
+            title: exercise.title,
+            instruction: exercise.instruction,
+            examples: exercise.examples,
+            items: []
+        };
+
+        for (let itemIndex = 0; itemIndex < exercise.items.length; itemIndex++) {
+            const questionId = `question-${currentUnit}-${exIndex}-${itemIndex}`;
+            const container = document.getElementById(questionId);
+            if (!container) continue;
+
+            const input = container.querySelector('.answer-input');
+            const feedback = container.querySelector('.feedback');
+
+            const userAnswer = input?.value?.trim() || "";
+            const correctRaw = exercise.items[itemIndex].answer;
+            const correctAnswers = Array.isArray(correctRaw) ? correctRaw : [correctRaw];
+
+            // Determine if correct (using same normalization as checkSingleAnswer)
+            const normalize = (text) => {
+                return text
+                    .replace(/[\u2018\u2019]/g, "'")
+                    .replace(/[\u201C\u201D]/g, '"')
+                    .replace(/[-–—]/g, '-')
+                    .toLowerCase()
+                    .trim();
+            };
+
+            const isCorrect = correctAnswers
+                .map(ans => normalize(ans))
+                .includes(normalize(userAnswer));
+
+            exerciseResult.items.push({
+                questionNumber: itemIndex + 1,
+                question: exercise.items[itemIndex].question,
+                userAnswer: userAnswer,
+                correctAnswers: correctAnswers,
+                correct: isCorrect
+            });
+        }
+
+        results.exercises.push(exerciseResult);
+    }
+
+    // Create and download JSON file
+    const dataStr = JSON.stringify(results, null, 2);
+    const dataBlob = new Blob([dataStr], { type: 'application/json' });
+
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(dataBlob);
+    link.download = `italian-unit-${currentUnit}-results-${new Date().toISOString().slice(0,10)}.json`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
+
 
 function navigate(direction) {
     console.log(`Navigating ${direction}`);
